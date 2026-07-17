@@ -122,12 +122,14 @@ module NotesLogic
 
   # Serialize a paper_index array to the client search index JSON string.
   #
-  # Emits a JSON array of objects with exactly the searchable subset of fields:
-  #   [{ "title", "authors", "tags", "url", "conference_label" }]
+  # Emits a JSON array of objects with the fields the client search needs:
+  #   [{ "title", "authors", "tags", "url", "conference_label", "category",
+  #      "track" }]
   #
-  # `track` is display-only and is intentionally NOT included — client search
-  # never matches on track (Requirement 14.2). The result is always valid JSON
-  # parseable by JSON.parse, and every field survives the round-trip intact
+  # Text search still matches only title/authors/tags; `conference_label`,
+  # `category`, and `track` are carried so the client can offer scope filters
+  # (search within a conference / category / track). The result is always valid
+  # JSON parseable by JSON.parse, and every field survives the round-trip intact
   # (Property 10). `authors`/`tags` are normalized to arrays; missing string
   # fields degrade to "".
   # (Requirements 5.1, 14.2)
@@ -138,7 +140,9 @@ module NotesLogic
         "authors" => search_list(fetch_field(paper, "authors")),
         "tags" => search_list(fetch_field(paper, "tags")),
         "url" => search_string(fetch_field(paper, "url")),
-        "conference_label" => search_string(fetch_field(paper, "conference_label"))
+        "conference_label" => search_string(fetch_field(paper, "conference_label")),
+        "category" => search_string(fetch_field(paper, "category")),
+        "track" => search_string(fetch_field(paper, "track"))
       }
     end
     JSON.generate(entries)

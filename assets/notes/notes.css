@@ -153,19 +153,29 @@ pre code {
   text-decoration: none;
 }
 
-/* Search box (lives in the top bar, centered and grows to fill) */
-.notes-topbar__search {
+/* Search area: wrapper centers it, box anchors the dropdown panel. */
+.notes-topbar__searchwrap {
   flex: 1 1 auto;
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 8px;
   min-width: 0;
 }
 
-.notes-topbar__search-input {
+.notes-topbar__searchbox {
+  position: relative;
   width: 100%;
-  max-width: 460px;
+  max-width: 560px;
+}
+
+.notes-topbar__search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.notes-topbar__search-input {
+  flex: 1 1 auto;
+  min-width: 0;
   height: 38px;
   padding: 0 14px;
   font-size: 0.95rem;
@@ -217,6 +227,83 @@ pre code {
   font-size: 0.9rem;
   font-weight: 600;
   white-space: nowrap;
+}
+
+/* Live search dropdown panel (anchored under the search box) */
+.notes-search-panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 200;
+  max-height: 72vh;
+  overflow-y: auto;
+  padding: 10px;
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius);
+  box-shadow: var(--notes-shadow-hover);
+}
+
+.notes-search-panel[hidden] {
+  display: none;
+}
+
+.notes-search-panel__scope,
+.notes-search-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+}
+
+.notes-search-panel__scope {
+  padding: 4px 4px 10px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--notes-border);
+}
+
+.notes-search-filters {
+  margin-bottom: 20px;
+}
+
+.notes-scope {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--notes-text-muted);
+}
+
+.notes-scope__select {
+  font-family: inherit;
+  font-size: 0.85rem;
+  padding: 5px 10px;
+  color: var(--notes-text);
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-sm);
+  cursor: pointer;
+}
+
+.notes-search-panel__results .notes-list {
+  gap: 8px;
+}
+
+.notes-search-panel__hint {
+  padding: 10px 8px;
+  color: var(--notes-text-muted);
+  font-size: 0.9rem;
+}
+
+.notes-search-panel__more {
+  display: block;
+  margin-top: 8px;
+  padding: 8px;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .notes-topbar__github:hover {
@@ -768,13 +855,12 @@ a.notes-tag:hover {
   }
 
   /* Search drops to its own full-width row below the title + GitHub link. */
-  .notes-topbar__search {
+  .notes-topbar__searchwrap {
     order: 3;
     flex: 1 1 100%;
-    justify-content: stretch;
   }
 
-  .notes-topbar__search-input {
+  .notes-topbar__searchbox {
     max-width: none;
   }
 

@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-[{% for paper in site.data.paper_index %}{% unless forloop.first %},{% endunless %}{"title":{{ paper.title | jsonify }},"authors":{{ paper.authors | jsonify }},"tags":{{ paper.tags | jsonify }},"url":{{ paper.url | jsonify }},"conference_label":{{ paper.conference_label | jsonify }}}{% endfor %}]
+[{% for paper in site.data.paper_index %}{% unless forloop.first %},{% endunless %}{"title":{{ paper.title | jsonify }},"authors":{{ paper.authors | jsonify }},"tags":{{ paper.tags | jsonify }},"url":{{ paper.url | jsonify }},"conference_label":{{ paper.conference_label | jsonify }},"category":{{ paper.category | jsonify }},"track":{{ paper.track | jsonify }}}{% endfor %}]

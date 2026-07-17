@@ -12,21 +12,44 @@
 <header class="notes-topbar" role="banner">
   <a class="notes-topbar__title" href="/notes/">Paper Notes</a>
 
-  <form class="notes-topbar__search" action="/notes/search/" method="get" role="search">
-    <label class="notes-visually-hidden" for="notes-search-input">Search papers</label>
-    <input
-      class="notes-topbar__search-input"
-      type="search"
-      id="notes-search-input"
-      name="q"
-      placeholder="Search papers…"
-      autocomplete="off"
-      aria-label="Search papers"
-    />
-    <button class="notes-topbar__search-button" type="submit" aria-label="Submit search">
-      Search
-    </button>
-  </form>
+  <div class="notes-topbar__searchwrap">
+    <div class="notes-topbar__searchbox">
+      <form class="notes-topbar__search" action="/notes/search/" method="get" role="search">
+        <label class="notes-visually-hidden" for="notes-search-input">Search papers</label>
+        <input
+          class="notes-topbar__search-input"
+          type="search"
+          id="notes-search-input"
+          name="q"
+          placeholder="Search papers…"
+          autocomplete="off"
+          role="combobox"
+          aria-expanded="false"
+          aria-controls="notes-search-panel"
+          aria-label="Search papers"
+        />
+        <button class="notes-topbar__search-button" type="submit" aria-label="Submit search">
+          Search
+        </button>
+      </form>
+
+      <div class="notes-search-panel" id="notes-search-panel" hidden>
+        <div class="notes-search-panel__scope">
+          <label class="notes-scope">会议
+            <select class="notes-scope__select" id="notes-search-scope-conference" aria-label="按会议筛选">
+              <option value="">全部</option>
+            </select>
+          </label>
+          <label class="notes-scope">Track
+            <select class="notes-scope__select" id="notes-search-scope-track" aria-label="按 track 筛选">
+              <option value="">全部</option>
+            </select>
+          </label>
+        </div>
+        <div class="notes-search-panel__results" id="notes-search-panel-results"></div>
+      </div>
+    </div>
+  </div>
 
   <a
     class="notes-topbar__github"

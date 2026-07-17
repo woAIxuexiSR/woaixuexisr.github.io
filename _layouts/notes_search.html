@@ -22,6 +22,19 @@ layout: notes_base
     <h1 class="notes-page-heading__title" id="notes-search-heading">Search</h1>
   </header>
 
+  <div class="notes-search-filters">
+    <label class="notes-scope">会议
+      <select class="notes-scope__select" id="notes-search-results-conference" aria-label="按会议筛选">
+        <option value="">全部</option>
+      </select>
+    </label>
+    <label class="notes-scope">Track
+      <select class="notes-scope__select" id="notes-search-results-track" aria-label="按 track 筛选">
+        <option value="">全部</option>
+      </select>
+    </label>
+  </div>
+
   <div class="notes-search-results" id="notes-search-results">
     <div class="notes-empty">No papers found.</div>
   </div>
