@@ -19,5 +19,5 @@ tags:
   - Open Surface
 links:
   paper: "https://doi.org/10.1145/3687769"
-  project: "http://geometrylearning.com/DreamUDF/"
+  project: "https://geometrylearning.com/DreamUDF/"
 ---
