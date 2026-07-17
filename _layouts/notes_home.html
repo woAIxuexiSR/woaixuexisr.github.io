@@ -1,0 +1,42 @@
+---
+layout: notes_base
+---
+{%- comment -%}
+  notes_home.html — the Home_Page layout for the Paper Notes Database
+  (Requirement 6). Extends the self-contained notes_base skeleton.
+
+  Iterates site.data.conferences — the build-time list of
+  {label, slug, count} entries emitted by _plugins/notes_generator.rb, which
+  includes EVERY conference folder on disk (even folders that hold zero valid
+  papers, count == 0) (Requirement 6.1). For each entry it renders one card in
+  a `.notes-cards` grid showing the Conference_Label and the paper count
+  (Requirement 6.2); the whole card links to that conference's Conference_Page
+  at /notes/<slug>/ (Requirement 6.3).
+
+  WHEN there are no conference folders at all, an empty-state message is shown
+  in place of the cards. The cards grid and the empty-state are mutually
+  exclusive — exactly one branch of the conditional renders, never both
+  (Requirements 6.4, 6.5).
+{%- endcomment -%}
+{%- assign conferences = site.data.conferences -%}
+<div class="notes-container">
+  <div class="notes-page-heading">
+    <h1 class="notes-page-heading__title">{% if page.title %}{{ page.title }}{% else %}Paper Notes{% endif %}</h1>
+    <p class="notes-page-heading__subtitle">AI-generated summary notes of SIGGRAPH and SIGGRAPH Asia papers.</p>
+  </div>
+
+  {%- if conferences and conferences.size > 0 -%}
+  <div class="notes-cards">
+    {%- for conference in conferences -%}
+    <a class="notes-card" href="/notes/{{ conference.slug }}/">
+      <span class="notes-card__label">{{ conference.label }}</span>
+      <span class="notes-card__count">
+        {%- if conference.count == 1 -%}1 paper{%- else -%}{{ conference.count }} papers{%- endif -%}
+      </span>
+    </a>
+    {%- endfor -%}
+  </div>
+  {%- else -%}
+  <div class="notes-empty">No conferences yet. Add a note file under a conference folder to get started.</div>
+  {%- endif -%}
+</div>

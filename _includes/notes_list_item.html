@@ -1,0 +1,39 @@
+{%- comment -%}
+notes_list_item.html — renders one listing List_Item for a paper.
+
+Mirrors the pure NotesRender.render_list_item helper (_plugins/notes_render.rb).
+The whole item is a single activatable link to the paper's detail page. It shows
+the title, authors, the Track value as a display-only badge (never a link), the
+Conference_Label, and each Tag as a display-only badge. It never includes the
+Markdown body text (no abstract/summary snippet).
+
+Usage: {% include notes_list_item.html paper=some_paper %}
+Requirements: 10.1, 10.2, 10.3, 10.4, 2.5, 7.2, 8.2, 9.2
+{%- endcomment -%}
+{%- assign p = include.paper -%}
+{%- if p.slug and p.slug != "" -%}
+  {%- assign item_href = p.slug | notes_slug | prepend: "/notes/paper/" | append: "/" -%}
+{%- else -%}
+  {%- assign item_href = p.url -%}
+{%- endif -%}
+<a class="notes-list-item" href="{{ item_href }}">
+  <h3 class="notes-list-item__title">{{ p.title | escape }}</h3>
+  {%- if p.authors and p.authors != empty %}
+  <p class="notes-list-item__authors">{{ p.authors | join: ", " | escape }}</p>
+  {%- endif %}
+  <div class="notes-list-item__meta">
+    {%- if p.track and p.track != "" %}
+    <span class="notes-badge notes-track">{{ p.track | escape }}</span>
+    {%- endif %}
+    {%- if p.conference_label and p.conference_label != "" %}
+    <span class="notes-list-item__conference">{{ p.conference_label | escape }}</span>
+    {%- endif %}
+    {%- if p.tags and p.tags != empty %}
+    <span class="notes-tags">
+      {%- for tag in p.tags %}
+      <span class="notes-badge notes-tag">{{ tag | escape }}</span>
+      {%- endfor %}
+    </span>
+    {%- endif %}
+  </div>
+</a>

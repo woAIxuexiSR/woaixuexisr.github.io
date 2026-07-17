@@ -1,0 +1,39 @@
+{%- comment -%}
+  notes_topbar.html — the persistent Top_Bar shown on every page of the Paper
+  Notes Database (Requirement 12.1).
+
+  Layout: section title on the LEFT linking to the Home_Page /notes/
+  (Requirement 12.2); a global Search_Box in the CENTER whose form submits the
+  query to the search results page /notes/search/ so it works from every page
+  (Requirements 12.3, 14.1); and a GitHub link on the RIGHT to the project
+  repository (Requirement 12.4). Class names live under the `notes-` namespace
+  so notes.css can target them without colliding with chirpy styles.
+{%- endcomment -%}
+<header class="notes-topbar" role="banner">
+  <a class="notes-topbar__title" href="/notes/">Paper Notes</a>
+
+  <form class="notes-topbar__search" action="/notes/search/" method="get" role="search">
+    <label class="notes-visually-hidden" for="notes-search-input">Search papers</label>
+    <input
+      class="notes-topbar__search-input"
+      type="search"
+      id="notes-search-input"
+      name="q"
+      placeholder="Search papers…"
+      autocomplete="off"
+      aria-label="Search papers"
+    />
+    <button class="notes-topbar__search-button" type="submit" aria-label="Submit search">
+      Search
+    </button>
+  </form>
+
+  <a
+    class="notes-topbar__github"
+    href="https://github.com/woAIxuexiSR"
+    rel="noopener"
+    aria-label="Project GitHub repository"
+  >
+    GitHub
+  </a>
+</header>

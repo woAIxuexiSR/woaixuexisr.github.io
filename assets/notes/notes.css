@@ -1,0 +1,719 @@
+/*
+ * assets/notes/notes.css
+ * Self-contained baseline styles for the standalone Paper Notes section (/notes/).
+ * This file deliberately does NOT import or depend on any chirpy theme styles.
+ * All classes are namespaced under `notes-`.
+ *
+ * NOTE: This is the BASELINE. The single 768px responsive breakpoint is added
+ * separately (task 8.1); do not add media queries here.
+ */
+
+/* ------------------------------------------------------------------ *
+ * Design tokens
+ * ------------------------------------------------------------------ */
+:root {
+  --notes-bg: #ffffff;
+  --notes-surface: #ffffff;
+  --notes-surface-alt: #f6f7f9;
+  --notes-border: #e2e5ea;
+  --notes-text: #1f2328;
+  --notes-text-muted: #57606a;
+  --notes-text-subtle: #7a828c;
+  --notes-accent: #2f6feb;
+  --notes-accent-hover: #1f5ad6;
+  --notes-badge-bg: #eef1f5;
+  --notes-badge-text: #3a424c;
+  --notes-track-bg: #e7f0ff;
+  --notes-track-text: #1f5ad6;
+  --notes-tag-bg: #f0f2f5;
+  --notes-tag-text: #444c55;
+  --notes-shadow: 0 1px 3px rgba(27, 31, 35, 0.06), 0 1px 2px rgba(27, 31, 35, 0.08);
+  --notes-shadow-hover: 0 4px 12px rgba(27, 31, 35, 0.12);
+  --notes-radius: 10px;
+  --notes-radius-sm: 6px;
+  --notes-radius-pill: 999px;
+  --notes-topbar-height: 60px;
+  --notes-content-max: 1120px;
+  --notes-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Yahei",
+    Roboto, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", sans-serif;
+  --notes-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    "Liberation Mono", monospace;
+}
+
+/* ------------------------------------------------------------------ *
+ * Reset & base typography
+ * ------------------------------------------------------------------ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--notes-bg);
+  color: var(--notes-text);
+  font-family: var(--notes-font);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--notes-accent-hover);
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--notes-text);
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+}
+
+code {
+  font-family: var(--notes-font-mono);
+  font-size: 0.9em;
+  background: var(--notes-surface-alt);
+  padding: 0.1em 0.35em;
+  border-radius: var(--notes-radius-sm);
+}
+
+pre {
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-sm);
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* ------------------------------------------------------------------ *
+ * Layout container
+ * ------------------------------------------------------------------ */
+.notes-container {
+  width: 100%;
+  max-width: var(--notes-content-max);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.notes-main {
+  padding-top: 32px;
+  padding-bottom: 64px;
+}
+
+/* ------------------------------------------------------------------ *
+ * Top bar: left title, centered search, right GitHub link
+ * ------------------------------------------------------------------ */
+.notes-topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  height: var(--notes-topbar-height);
+  padding: 0 24px;
+  background: var(--notes-surface);
+  border-bottom: 1px solid var(--notes-border);
+  box-shadow: var(--notes-shadow);
+}
+
+.notes-topbar__title {
+  flex: 0 0 auto;
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--notes-text);
+  white-space: nowrap;
+}
+
+.notes-topbar__title:hover {
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+/* Search box (lives in the top bar, centered and grows to fill) */
+.notes-topbar__search {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+.notes-topbar__search-input {
+  width: 100%;
+  max-width: 460px;
+  height: 38px;
+  padding: 0 14px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: var(--notes-text);
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-pill);
+  outline: none;
+  transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+}
+
+.notes-topbar__search-input:focus {
+  background: var(--notes-surface);
+  border-color: var(--notes-accent);
+  box-shadow: 0 0 0 3px rgba(47, 111, 235, 0.15);
+}
+
+.notes-topbar__search-input::placeholder {
+  color: var(--notes-text-subtle);
+}
+
+.notes-topbar__search-button {
+  flex: 0 0 auto;
+  height: 38px;
+  padding: 0 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: #ffffff;
+  background: var(--notes-accent);
+  border: 1px solid var(--notes-accent);
+  border-radius: var(--notes-radius-pill);
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.notes-topbar__search-button:hover {
+  background: var(--notes-accent-hover);
+  border-color: var(--notes-accent-hover);
+}
+
+.notes-topbar__github {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--notes-text-muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.notes-topbar__github:hover {
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+/* Accessible visually-hidden helper (e.g. the search label) */
+.notes-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ------------------------------------------------------------------ *
+ * Page heading (listing pages & section titles)
+ * ------------------------------------------------------------------ */
+.notes-page-heading {
+  margin: 0 0 24px;
+}
+
+.notes-page-heading__title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.notes-page-heading__subtitle {
+  margin: 6px 0 0;
+  color: var(--notes-text-muted);
+  font-size: 0.95rem;
+}
+
+/* ------------------------------------------------------------------ *
+ * Home page: conference cards grid
+ * ------------------------------------------------------------------ */
+.notes-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.notes-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 14px;
+  min-height: 120px;
+  padding: 20px 22px;
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius);
+  box-shadow: var(--notes-shadow);
+  color: var(--notes-text);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+
+.notes-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--notes-shadow-hover);
+  border-color: var(--notes-accent);
+  text-decoration: none;
+  color: var(--notes-text);
+}
+
+.notes-card__label {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.notes-card__count {
+  font-size: 0.9rem;
+  color: var(--notes-text-muted);
+}
+
+/* ------------------------------------------------------------------ *
+ * Listing: list items
+ * ------------------------------------------------------------------ */
+.notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.notes-list-item {
+  display: block;
+  padding: 18px 20px;
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius);
+  box-shadow: var(--notes-shadow);
+  color: var(--notes-text);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+
+.notes-list-item:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--notes-shadow-hover);
+  border-color: var(--notes-accent);
+  text-decoration: none;
+  color: var(--notes-text);
+}
+
+.notes-list-item__title {
+  margin: 0 0 6px;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.notes-list-item__authors {
+  margin: 0 0 8px;
+  color: var(--notes-text-muted);
+  font-size: 0.92rem;
+}
+
+.notes-list-item__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.notes-list-item__conference {
+  color: var(--notes-text-subtle);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+/* ------------------------------------------------------------------ *
+ * Badges: track (display-only), category, tag
+ * ------------------------------------------------------------------ */
+.notes-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.6;
+  border-radius: var(--notes-radius-pill);
+  background: var(--notes-badge-bg);
+  color: var(--notes-badge-text);
+  white-space: nowrap;
+}
+
+/* Track badge is display-only (never a link) */
+.notes-track {
+  background: var(--notes-track-bg);
+  color: var(--notes-track-text);
+}
+
+/* Category badge (links to a Category_Page) */
+.notes-category {
+  background: var(--notes-badge-bg);
+  color: var(--notes-badge-text);
+}
+
+a.notes-category:hover {
+  background: var(--notes-accent);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Tag badge (links to a Tag_Page) */
+.notes-tag {
+  background: var(--notes-tag-bg);
+  color: var(--notes-tag-text);
+  font-weight: 500;
+}
+
+a.notes-tag:hover {
+  background: var(--notes-accent);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.notes-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* ------------------------------------------------------------------ *
+ * Paper detail page: layout, header, body, sidebar
+ * ------------------------------------------------------------------ */
+.notes-detail {
+  display: flex;
+  align-items: flex-start;
+  gap: 28px;
+}
+
+/* Collapsible left sidebar (nearby papers) */
+.notes-sidebar {
+  flex: 0 0 260px;
+  width: 260px;
+  align-self: stretch;
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius);
+  padding: 16px;
+  overflow: hidden;
+  transition: width 0.2s ease, padding 0.2s ease, opacity 0.2s ease;
+}
+
+/* Closed state driven by sidebar.js (explicit toggle only) */
+.notes-sidebar.is-collapsed {
+  flex-basis: 0;
+  width: 0;
+  padding: 0;
+  border-width: 0;
+  opacity: 0;
+}
+
+.notes-sidebar__heading {
+  margin: 0 0 12px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--notes-text-subtle);
+}
+
+.notes-sidebar__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.notes-sidebar__link {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--notes-text-muted);
+  line-height: 1.4;
+}
+
+.notes-sidebar__link.is-current {
+  color: var(--notes-text);
+  font-weight: 700;
+}
+
+.notes-sidebar__link:hover {
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+/* Sidebar toggle control */
+.notes-sidebar-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-sm);
+  background: var(--notes-surface);
+  color: var(--notes-text-muted);
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.notes-sidebar-toggle:hover {
+  border-color: var(--notes-accent);
+  color: var(--notes-accent);
+}
+
+/* Detail main content column */
+.notes-article {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* Detail header + badges */
+.notes-detail-header {
+  padding-bottom: 20px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--notes-border);
+}
+
+.notes-detail-header__toprow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.notes-detail-header__title {
+  margin: 0 0 12px;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+.notes-detail-header__authors {
+  margin: 0 0 6px;
+  color: var(--notes-text-muted);
+  font-size: 1rem;
+}
+
+.notes-detail-header__institution {
+  margin: 0 0 12px;
+  color: var(--notes-text-subtle);
+  font-size: 0.92rem;
+  font-style: italic;
+}
+
+.notes-detail-header__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.notes-detail-header__conference {
+  color: var(--notes-text-subtle);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Link controls (paper / project / video / code) */
+.notes-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.notes-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border-radius: var(--notes-radius-pill);
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  color: var(--notes-text);
+}
+
+.notes-link:hover {
+  background: var(--notes-accent);
+  border-color: var(--notes-accent);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Rendered Markdown body */
+.notes-body {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--notes-text);
+}
+
+/* Mermaid diagrams: strip the code-block chrome and center the rendered SVG. */
+.notes-body .mermaid {
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 1.5rem 0;
+  text-align: center;
+  overflow-x: auto;
+  line-height: normal;
+}
+
+.notes-body > *:first-child {
+  margin-top: 0;
+}
+
+.notes-body h2 {
+  margin-top: 2rem;
+  font-size: 1.4rem;
+}
+
+.notes-body h3 {
+  margin-top: 1.6rem;
+  font-size: 1.15rem;
+}
+
+.notes-body blockquote {
+  margin: 1rem 0;
+  padding: 0.4rem 1rem;
+  border-left: 3px solid var(--notes-border);
+  color: var(--notes-text-muted);
+}
+
+.notes-body table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.notes-body th,
+.notes-body td {
+  border: 1px solid var(--notes-border);
+  padding: 6px 10px;
+  text-align: left;
+}
+
+/* ------------------------------------------------------------------ *
+ * Empty state (shared by listing surfaces and empty detail body)
+ * ------------------------------------------------------------------ */
+.notes-empty {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--notes-text-muted);
+  background: var(--notes-surface-alt);
+  border: 1px dashed var(--notes-border);
+  border-radius: var(--notes-radius);
+  font-size: 0.98rem;
+}
+
+/* ------------------------------------------------------------------ *
+ * Search results view
+ * ------------------------------------------------------------------ */
+.notes-search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* ------------------------------------------------------------------ *
+ * Responsive layout — SINGLE breakpoint (Requirement 15)
+ *
+ * Exactly one breakpoint at 768px. At/below 768px the listing content
+ * (conference cards, list items) collapses to a single column and the
+ * two-column detail layout stacks so the article uses the full width.
+ * The Top_Bar, Search_Box, and sidebar toggle stay visible and usable.
+ * Above 768px the baseline rules above already use the available width
+ * with no horizontal body scroll.
+ * ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  /* Never let any element force horizontal page-body scrolling. */
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .notes-container {
+    padding: 0 16px;
+  }
+
+  /* Top bar: allow wrapping so title, search, and GitHub link stay
+     visible and operable on narrow viewports. */
+  .notes-topbar {
+    height: auto;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 10px 16px;
+  }
+
+  /* Search drops to its own full-width row below the title + GitHub link. */
+  .notes-topbar__search {
+    order: 3;
+    flex: 1 1 100%;
+    justify-content: stretch;
+  }
+
+  .notes-topbar__search-input {
+    max-width: none;
+  }
+
+  /* Listing content → single column. */
+  .notes-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .notes-list {
+    gap: 12px;
+  }
+
+  /* Detail two-column layout stacks: sidebar on top, article full width. */
+  .notes-detail {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .notes-sidebar {
+    flex-basis: auto;
+    width: 100%;
+  }
+
+  .notes-article {
+    width: 100%;
+  }
+
+  .notes-detail-header__title {
+    font-size: 1.5rem;
+  }
+}

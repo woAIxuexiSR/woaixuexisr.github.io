@@ -1,0 +1,53 @@
+---
+layout: notes_base
+---
+{%- comment -%}
+  notes_listing.html — shared listing layout for the Paper Notes Database.
+
+  Used by every Conference_Page, Category_Page, and Tag_Page (Requirements 7.1,
+  8.1, 9.1). The generator (notes_generator.rb → add_listing_page) assigns each
+  of these pages `layout: notes_listing` and populates `page.data` with:
+    * page.title        — the page/document title
+    * page.heading      — the human-readable heading (conference label /
+                          category name / tag name)
+    * page.listing_type — "conference", "category", or "tag"
+    * page.papers       — the pre-filtered array of Paper_Index entries for this
+                          listing (may be empty)
+
+  This single layout renders all three listing types identically (Requirements
+  7.1, 8.1, 9.1): a page heading plus either the List_Item entries or a
+  mutually-exclusive empty-state message.
+
+  Empty-state mutual exclusivity (Requirements 7.2/7.3/7.4, 8.2/8.3/8.4,
+  9.2/9.3/9.4; design Property 11): the if/else below guarantees the
+  `.notes-list` entries and the `.notes-empty` message are never both rendered —
+  exactly one branch runs depending on whether page.papers is empty.
+{%- endcomment -%}
+
+{%- assign papers = page.papers -%}
+{%- assign paper_count = papers | size -%}
+{%- assign heading = page.heading | default: page.title -%}
+
+<div class="notes-container">
+  <header class="notes-page-heading">
+    <h1 class="notes-page-heading__title">{{ heading | escape }}</h1>
+    {%- if paper_count == 1 -%}{%- assign count_text = "1 paper" -%}{%- else -%}{%- capture count_text -%}{{ paper_count }} papers{%- endcapture -%}{%- endif -%}
+    <p class="notes-page-heading__subtitle">
+      {%- if page.listing_type and page.listing_type != "" -%}
+      {{ page.listing_type | capitalize | escape }} &middot; {{ count_text }}
+      {%- else -%}
+      {{ count_text }}
+      {%- endif -%}
+    </p>
+  </header>
+
+  {%- if paper_count > 0 -%}
+  <div class="notes-list">
+    {%- for paper in papers -%}
+    {% include notes_list_item.html paper=paper %}
+    {%- endfor -%}
+  </div>
+  {%- else -%}
+  <div class="notes-empty">No papers to show here yet.</div>
+  {%- endif -%}
+</div>

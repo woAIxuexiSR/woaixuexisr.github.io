@@ -1,0 +1,17 @@
+---
+layout: notes_search
+permalink: /notes/search/
+title: Search
+---
+{%- comment -%}
+  notes/search.html — the Search_Results_View page (Requirement 14.4).
+
+  `layout: notes_search` MUST be set explicitly here: the `_config.yml` scoped
+  default for `path: notes` assigns `layout: notes_detail`, so without this
+  front-matter override the search page would incorrectly use the detail layout.
+
+  `permalink: /notes/search/` matches the Top_Bar search form action so the
+  Search_Box (present on every page) submits its `q` query here (Requirements
+  12.3, 14.1). All rendering is handled by the notes_search layout plus
+  assets/notes/search.js; this page intentionally has no body of its own.
+{%- endcomment -%}

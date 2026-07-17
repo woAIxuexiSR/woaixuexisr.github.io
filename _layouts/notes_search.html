@@ -1,0 +1,28 @@
+---
+layout: notes_base
+---
+{%- comment -%}
+  notes_search.html — the Search_Results_View layout for the Paper Notes
+  Database (Requirement 14.4).
+
+  This layout hosts the container that assets/notes/search.js populates at run
+  time: it reads the `q` query parameter, fetches /notes/search-index.json, and
+  renders the matching papers as List_Item entries into `.notes-search-results`
+  (Requirements 14.2, 14.3, 14.4). When there are no matches (or the query is
+  empty) the JS renders a mutually-exclusive empty-state message in place of the
+  entries (Requirement 14.5); on a fetch/parse failure it renders a non-blocking
+  "search is temporarily unavailable" message (design Error Handling).
+
+  The heading text is updated by the JS to reflect the submitted query; a static
+  fallback is provided for the no-JS / initial-render case.
+{%- endcomment -%}
+
+<div class="notes-container">
+  <header class="notes-page-heading">
+    <h1 class="notes-page-heading__title" id="notes-search-heading">Search</h1>
+  </header>
+
+  <div class="notes-search-results" id="notes-search-results">
+    <div class="notes-empty">No papers found.</div>
+  </div>
+</div>

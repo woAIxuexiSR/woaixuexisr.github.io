@@ -1,0 +1,193 @@
+---
+layout: notes_base
+---
+{%- comment -%}
+  notes_detail.html — the Paper_Detail_Page layout for the Paper Notes Database.
+
+  Renders (Requirement 11, 13):
+    * A collapsible Left_Sidebar of nearby papers (same conference + year),
+      drawn from site.data.paper_index filtered on the current paper's
+      conference_label. The current paper is marked `is-current`. Population /
+      toggle behaviour is finalised in task 7.2; this layout renders the
+      container, the toggle control, and the nearby list.
+    * The metadata header (Requirement 11.3): the Track value as a display-only
+      badge (NOT a link, Requirement 2.5), the title, the authors, the
+      conference_label, the Category as a link to its Category_Page
+      (Requirement 11.4), and each Tag as a link to its Tag_Page
+      (Requirement 11.5). This Liquid mirrors the pure NotesRender.detail_header_html
+      helper (property-tested in task 5.4).
+    * Link controls for each present links entry (Requirement 11.6, 11.7), each
+      opening the resource in a new tab.
+    * The kramdown-rendered Markdown body inside `.notes-body`
+      (Requirement 11.1), OR an empty-state message in place of the body when
+      the body is empty (Requirement 11.8).
+    * MathJax v3 (tex-mml-chtml, mirrored from papers/distributed-guiding) so
+      LaTeX `$...$` (inline) and `$$...$$` (block) render client-side
+      (Requirement 11.2). See the math-handling note at the bottom of this file.
+{%- endcomment -%}
+
+{%- assign nearby = site.data.paper_index | where: "conference_label", page.conference_label -%}
+{%- assign body_text = content | strip_html | strip -%}
+
+<div class="notes-container">
+  <div class="notes-detail">
+    <aside
+      class="notes-sidebar"
+      id="notes-sidebar"
+      data-current-slug="{{ page.slug }}"
+      data-conference-label="{{ page.conference_label }}"
+    >
+      <h2 class="notes-sidebar__heading">{{ page.conference_label }}</h2>
+      <ul class="notes-sidebar__list">
+        {%- for paper in nearby -%}
+          <li>
+            <a
+              class="notes-sidebar__link{% if paper.slug == page.slug %} is-current{% endif %}"
+              href="{{ paper.url }}"
+            >{{ paper.title }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </aside>
+
+    <article class="notes-article">
+      <button
+        class="notes-sidebar-toggle"
+        type="button"
+        aria-controls="notes-sidebar"
+        aria-expanded="true"
+        aria-label="Toggle nearby papers sidebar"
+      >☰</button>
+
+      <header class="notes-detail-header">
+        {%- if page.track and page.track != "" -%}
+        <div class="notes-detail-header__toprow">
+          <span class="notes-badge notes-track">{{ page.track }}</span>
+        </div>
+        {%- endif -%}
+
+        <h1 class="notes-detail-header__title">{{ page.title }}</h1>
+
+        {%- if page.authors and page.authors.size > 0 -%}
+        <p class="notes-detail-header__authors">{{ page.authors | join: ", " }}</p>
+        {%- endif -%}
+
+        {%- assign institution_str = page.institution | join: "; " -%}
+        {%- if institution_str and institution_str != "" -%}
+        <p class="notes-detail-header__institution">{{ institution_str }}</p>
+        {%- endif -%}
+
+        <div class="notes-detail-header__meta">
+          {%- if page.conference_label and page.conference_label != "" -%}
+          <span class="notes-detail-header__conference">{{ page.conference_label }}</span>
+          {%- endif -%}
+
+          {%- if page.category and page.category != "" -%}
+          {%- assign category_slug = page.category | notes_slug -%}
+          <a class="notes-badge notes-category" href="/notes/category/{{ category_slug }}/">{{ page.category }}</a>
+          {%- endif -%}
+
+          {%- if page.tags and page.tags.size > 0 -%}
+          <span class="notes-tags">
+            {%- for tag in page.tags -%}
+            {%- assign tag_slug = tag | notes_slug -%}
+            <a class="notes-badge notes-tag" href="/notes/tags/{{ tag_slug }}/">{{ tag }}</a>
+            {%- endfor -%}
+          </span>
+          {%- endif -%}
+        </div>
+
+        {%- assign links = page.links -%}
+        {%- if links -%}
+        {%- capture link_controls -%}
+          {%- if links.paper and links.paper != "" -%}<a class="notes-link" href="{{ links.paper }}" target="_blank" rel="noopener noreferrer">Paper</a>{%- endif -%}
+          {%- if links.project and links.project != "" -%}<a class="notes-link" href="{{ links.project }}" target="_blank" rel="noopener noreferrer">Project</a>{%- endif -%}
+          {%- if links.video and links.video != "" -%}<a class="notes-link" href="{{ links.video }}" target="_blank" rel="noopener noreferrer">Video</a>{%- endif -%}
+          {%- if links.code and links.code != "" -%}<a class="notes-link" href="{{ links.code }}" target="_blank" rel="noopener noreferrer">Code</a>{%- endif -%}
+        {%- endcapture -%}
+        {%- assign link_controls = link_controls | strip -%}
+        {%- if link_controls != "" -%}
+        <div class="notes-links">{{ link_controls }}</div>
+        {%- endif -%}
+        {%- endif -%}
+      </header>
+
+      {%- if body_text == "" -%}
+      <div class="notes-empty">This note has no summary yet.</div>
+      {%- else -%}
+      <div class="notes-body">
+        {{ content }}
+      </div>
+      {%- endif -%}
+    </article>
+  </div>
+</div>
+
+{%- comment -%}
+  Math handling (Requirement 11.2). Decision: do NOT change the global kramdown
+  config; configure MathJax to accept every delimiter form that reaches the HTML.
+
+  Rationale: kramdown options in Jekyll are GLOBAL — `math_engine` cannot be
+  scoped to just the `notes` collection via front-matter defaults — so setting
+  `math_engine: nil` would also change the chirpy blog's math output, violating
+  the "keep the notes section fully separate from chirpy" requirement (Req 1).
+
+  What actually reaches the HTML (verified against the sample notes):
+    * Single-dollar inline math `$...$` is NOT recognised by kramdown, so it
+      passes through literally (e.g. `$k$`, `$1\%$`) and MathJax typesets it.
+    * Block `$$...$$` is rewritten by kramdown's mathjax engine into `\[...\]`
+      (and `\(...\)` for the inline `$$` form) — still valid LaTeX delimiters.
+  MathJax below is configured for BOTH `$...$`/`$$...$$` and `\(...\)`/`\[...\]`,
+  so every form renders. The small script-tag recovery is a defensive fallback
+  for kramdown builds that instead emit `<script type="math/tex">` blocks.
+{%- endcomment -%}
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+  };
+  // Recover any kramdown `math/tex` script blocks into plain delimiters so
+  // MathJax v3 (which does not read those tags) can typeset them.
+  (function () {
+    var nodes = document.querySelectorAll('script[type^="math/tex"]');
+    for (var i = 0; i < nodes.length; i++) {
+      var node = nodes[i];
+      var display = node.type.indexOf('mode=display') !== -1;
+      var tex = node.textContent;
+      var span = document.createElement('span');
+      span.textContent = display ? ('$$' + tex + '$$') : ('$' + tex + '$');
+      node.parentNode.replaceChild(span, node);
+    }
+  })();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
+
+{%- comment -%}
+  Mermaid support (Requirement 11.1). kramdown renders a ```mermaid fenced block
+  as <pre><code class="language-mermaid">…diagram…</code></pre>. Mermaid does not
+  read that structure, so we convert each such block into a <pre class="mermaid">
+  carrying the raw diagram source (textContent decodes the escaped entities such
+  as --&gt; back to -->), then run mermaid on them. Loaded only on the detail
+  page; the module is dormant when there is no mermaid block.
+{%- endcomment -%}
+<script type="module">
+  const blocks = document.querySelectorAll("pre > code.language-mermaid");
+  blocks.forEach((code) => {
+    const container = document.createElement("pre");
+    container.className = "mermaid";
+    container.textContent = code.textContent;
+    code.parentElement.replaceWith(container);
+  });
+  if (document.querySelector(".mermaid")) {
+    const { default: mermaid } = await import(
+      "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs"
+    );
+    mermaid.initialize({ startOnLoad: false });
+    await mermaid.run({ querySelector: ".mermaid" });
+  }
+</script>

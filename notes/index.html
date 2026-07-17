@@ -1,0 +1,11 @@
+---
+# notes/index.html — the Home_Page entry point at /notes/ (Requirement 6, 1.2).
+#
+# The `notes` scoped default in _config.yml (`path: notes` -> layout
+# notes_detail) would otherwise apply to this page, so we explicitly set
+# `layout: notes_home` here; a front-matter layout always wins over a scoped
+# default, keeping this page a Home_Page rather than a collection detail page.
+layout: notes_home
+title: Paper Notes
+permalink: /notes/
+---

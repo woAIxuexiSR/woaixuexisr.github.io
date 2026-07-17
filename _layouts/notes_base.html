@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+  notes_base.html — self-contained skeleton layout for the standalone Paper
+  Notes Database section rooted at /notes/.
+
+  This layout deliberately does NOT set `layout:` to any chirpy layout
+  (default/page/post) and links only the section's own /assets/notes/ assets, so
+  no chirpy theme component (header, sidebar, CSS, JS) can leak into the notes
+  section (Requirement 1.1, 1.3, 1.4; Design "Keeping chirpy out" #1 and #3).
+
+  All other notes layouts (notes_home, notes_listing, notes_detail,
+  notes_search) set `layout: notes_base` so they inherit this skeleton.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} · Paper Notes{% else %}Paper Notes{% endif %}</title>
+    <link rel="stylesheet" href="/assets/notes/notes.css" />
+  </head>
+  <body class="notes-page">
+    {% include notes_topbar.html %}
+
+    <main class="notes-main" id="notes-main">
+      {{ content }}
+    </main>
+
+    <script src="/assets/notes/search.js" defer></script>
+    <script src="/assets/notes/sidebar.js" defer></script>
+  </body>
+</html>

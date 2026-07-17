@@ -30,3 +30,14 @@ assets/js/dist
 *~
 .DS_Store
 Thumbs.db
+
+# Kiro
+.kiro
+
+# Test code — kept local only, never deployed.
+# (These are also excluded from the Jekyll build via `exclude:` in _config.yml.)
+/spec/
+/test/
+/.rspec
+/vitest.config.js
+/package.json

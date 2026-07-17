@@ -181,6 +181,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  notes:
+    output: true
+    permalink: /notes/paper/:slug/
 
 defaults:
   - scope:
@@ -203,6 +206,16 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  # Paper notes database — standalone `/notes/` section, kept separate from chirpy.
+  - scope:
+      path: ""
+      type: notes # see `site.collections`
+    values:
+      layout: notes_detail
+  - scope:
+      path: notes
+    values:
+      layout: notes_detail
 
 sass:
   style: compressed
@@ -226,6 +239,17 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  # Test harness — keep RSpec/property-test files out of the Jekyll build.
+  - spec
+  - .rspec
+  - vendor
+  # Node (Vitest + fast-check) harness — keep JS test tooling out of the build.
+  - node_modules
+  - test
+  - vitest.config.js
+  - package-lock.json
+  # Maintainer authoring guide — not a note, keep it out of the notes collection.
+  - _notes/README.md
 
 jekyll-archives:
   enabled: [categories, tags]
