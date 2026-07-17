@@ -26,7 +26,23 @@ layout: notes_base
       (Requirement 11.2). See the math-handling note at the bottom of this file.
 {%- endcomment -%}
 
-{%- assign nearby = site.data.paper_index | where: "conference_label", page.conference_label -%}
+{%- comment -%}
+  Nearby-papers window: the Left_Sidebar lists papers from the same conference
+  for quick jumping. A whole conference can hold hundreds of papers, so instead
+  of listing them all we show a window centred on the current paper — the
+  `window` entries before and after it (Requirement 13.1/13.2, "nearby").
+{%- endcomment -%}
+{%- assign nearby_all = site.data.paper_index | where: "conference_label", page.conference_label -%}
+{%- assign nearby_total = nearby_all | size -%}
+{%- assign window = 10 -%}
+{%- assign cur_index = 0 -%}
+{%- for paper in nearby_all -%}
+  {%- if paper.slug == page.slug -%}{%- assign cur_index = forloop.index0 -%}{%- endif -%}
+{%- endfor -%}
+{%- assign win_start = cur_index | minus: window -%}
+{%- if win_start < 0 -%}{%- assign win_start = 0 -%}{%- endif -%}
+{%- assign win_len = window | times: 2 | plus: 1 -%}
+{%- assign nearby = nearby_all | slice: win_start, win_len -%}
 {%- assign body_text = content | strip_html | strip -%}
 
 <div class="notes-container">
@@ -37,7 +53,8 @@ layout: notes_base
       data-current-slug="{{ page.slug }}"
       data-conference-label="{{ page.conference_label }}"
     >
-      <h2 class="notes-sidebar__heading">{{ page.conference_label }}</h2>
+      <h2 class="notes-sidebar__heading">附近论文</h2>
+      <a class="notes-sidebar__all" href="/notes/{{ page.conference_label | notes_slug }}/">{{ page.conference_label }} · 全部 {{ nearby_total }} 篇</a>
       <ul class="notes-sidebar__list">
         {%- for paper in nearby -%}
           <li>

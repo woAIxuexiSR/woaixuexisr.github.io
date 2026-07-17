@@ -593,7 +593,9 @@ a.notes-tag:hover {
 .notes-sidebar {
   flex: 0 0 260px;
   width: 260px;
-  align-self: stretch;
+  align-self: flex-start;
+  position: sticky;
+  top: calc(var(--notes-topbar-height) + 16px);
   background: var(--notes-surface-alt);
   border: 1px solid var(--notes-border);
   border-radius: var(--notes-radius);
@@ -612,12 +614,25 @@ a.notes-tag:hover {
 }
 
 .notes-sidebar__heading {
-  margin: 0 0 12px;
+  margin: 0 0 8px;
   font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--notes-text-subtle);
+}
+
+.notes-sidebar__all {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--notes-text-muted);
+}
+
+.notes-sidebar__all:hover {
+  color: var(--notes-accent);
+  text-decoration: none;
 }
 
 .notes-sidebar__list {
@@ -627,6 +642,8 @@ a.notes-tag:hover {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  max-height: calc(100vh - 200px);
+  overflow-y: auto;
 }
 
 .notes-sidebar__link {
