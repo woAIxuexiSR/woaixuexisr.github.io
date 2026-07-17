@@ -5,48 +5,73 @@ layout: notes_base
   notes_listing.html — shared listing layout for the Paper Notes Database.
 
   Used by every Conference_Page, Category_Page, and Tag_Page (Requirements 7.1,
-  8.1, 9.1). The generator (notes_generator.rb → add_listing_page) assigns each
+  8.1, 9.1). The generator (notes_generator.rb -> add_listing_page) assigns each
   of these pages `layout: notes_listing` and populates `page.data` with:
     * page.title        — the page/document title
-    * page.heading      — the human-readable heading (conference label /
-                          category name / tag name)
+    * page.heading      — the human-readable heading
     * page.listing_type — "conference", "category", or "tag"
-    * page.papers       — the pre-filtered array of Paper_Index entries for this
-                          listing (may be empty)
+    * page.papers       — the pre-filtered array of Paper_Index entries
 
-  This single layout renders all three listing types identically (Requirements
-  7.1, 8.1, 9.1): a page heading plus either the List_Item entries or a
-  mutually-exclusive empty-state message.
+  Layout:
+    1. A heading + a statistics summary (total, Conference/Journal split, and —
+       for conference pages — a per-category breakdown).
+    2. A preview of the first N List_Items with a "Show more" control that
+       progressively reveals the rest client-side (assets/notes/listing.js).
+       All papers are present in the DOM (Requirements 7.1/8.1/9.1); the extra
+       ones are just visually collapsed until expanded.
 
-  Empty-state mutual exclusivity (Requirements 7.2/7.3/7.4, 8.2/8.3/8.4,
-  9.2/9.3/9.4; design Property 11): the if/else below guarantees the
-  `.notes-list` entries and the `.notes-empty` message are never both rendered —
-  exactly one branch runs depending on whether page.papers is empty.
+  Empty-state mutual exclusivity (Requirements 7.3/7.4, 8.3/8.4, 9.3/9.4;
+  Property 11): the if/else guarantees the list and the `.notes-empty` message
+  are never both rendered.
 {%- endcomment -%}
 
 {%- assign papers = page.papers -%}
 {%- assign paper_count = papers | size -%}
 {%- assign heading = page.heading | default: page.title -%}
+{%- assign preview_limit = 10 -%}
 
 <div class="notes-container">
   <header class="notes-page-heading">
     <h1 class="notes-page-heading__title">{{ heading | escape }}</h1>
-    {%- if paper_count == 1 -%}{%- assign count_text = "1 paper" -%}{%- else -%}{%- capture count_text -%}{{ paper_count }} papers{%- endcapture -%}{%- endif -%}
-    <p class="notes-page-heading__subtitle">
-      {%- if page.listing_type and page.listing_type != "" -%}
-      {{ page.listing_type | capitalize | escape }} &middot; {{ count_text }}
-      {%- else -%}
-      {{ count_text }}
-      {%- endif -%}
-    </p>
   </header>
 
   {%- if paper_count > 0 -%}
-  <div class="notes-list">
+
+  {%- assign conf_count = papers | where: "track", "Conference" | size -%}
+  {%- assign jour_count = papers | where: "track", "Journal" | size -%}
+  <section class="notes-stats" aria-label="Statistics">
+    <div class="notes-stats__tracks">
+      <span class="notes-stat notes-stat--total"><b>{{ paper_count }}</b> papers</span>
+      <span class="notes-stat notes-stat--conference"><b>{{ conf_count }}</b> Conference</span>
+      <span class="notes-stat notes-stat--journal"><b>{{ jour_count }}</b> Journal</span>
+    </div>
+
+    {%- if page.listing_type == "conference" -%}
+    {%- assign categories = "Rendering,Geometry & Modeling,Reconstruction,Animation & Simulation,Image & Video,Neural & Generative,HCI & XR" | split: "," -%}
+    <div class="notes-stats__cats">
+      {%- for c in categories -%}
+      {%- assign n = papers | where: "category", c | size -%}
+      {%- if n > 0 -%}
+      <a class="notes-stat-chip" href="/notes/category/{{ c | notes_slug }}/">{{ c }} <b>{{ n }}</b></a>
+      {%- endif -%}
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+  </section>
+
+  <div class="notes-list" data-preview-limit="{{ preview_limit }}">
     {%- for paper in papers -%}
-    {% include notes_list_item.html paper=paper %}
+    <div class="notes-list-row{% if forloop.index0 >= preview_limit %} is-extra{% endif %}">
+      {% include notes_list_item.html paper=paper %}
+    </div>
     {%- endfor -%}
   </div>
+
+  {%- if paper_count > preview_limit -%}
+  {%- assign remaining = paper_count | minus: preview_limit -%}
+  <button type="button" class="notes-showmore">Show more ({{ remaining }} more)</button>
+  {%- endif -%}
+
   {%- else -%}
   <div class="notes-empty">No papers to show here yet.</div>
   {%- endif -%}

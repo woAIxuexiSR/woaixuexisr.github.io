@@ -299,12 +299,101 @@ pre code {
 }
 
 /* ------------------------------------------------------------------ *
+ * Listing: statistics summary
+ * ------------------------------------------------------------------ */
+.notes-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 24px;
+  padding: 16px 18px;
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius);
+}
+
+.notes-stats__tracks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.notes-stat {
+  color: var(--notes-text-muted);
+  font-size: 0.95rem;
+}
+
+.notes-stat b {
+  color: var(--notes-text);
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin-right: 3px;
+}
+
+.notes-stats__cats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--notes-border);
+}
+
+.notes-stat-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  font-size: 0.85rem;
+  color: var(--notes-badge-text);
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-pill);
+}
+
+.notes-stat-chip b {
+  color: var(--notes-accent);
+  font-weight: 800;
+}
+
+.notes-stat-chip:hover {
+  border-color: var(--notes-accent);
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+/* ------------------------------------------------------------------ *
  * Listing: list items
  * ------------------------------------------------------------------ */
 .notes-list {
   display: flex;
   flex-direction: column;
   gap: 14px;
+}
+
+/* Rows beyond the preview limit stay hidden until "Show more" reveals them. */
+.notes-list-row.is-extra {
+  display: none;
+}
+
+.notes-showmore {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 9px 20px;
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--notes-accent);
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-pill);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+
+.notes-showmore:hover {
+  border-color: var(--notes-accent);
+  background: var(--notes-accent);
+  color: #ffffff;
 }
 
 .notes-list-item {
