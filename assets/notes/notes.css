@@ -405,16 +405,41 @@ pre code {
   gap: 20px;
 }
 
-.notes-stat {
-  color: var(--notes-text-muted);
+/* Track row: clickable filter toggles (全部 / Conference / Journal). */
+.notes-stat-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 12px;
+  font-family: inherit;
   font-size: 0.95rem;
+  color: var(--notes-text-muted);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--notes-radius-pill);
+  cursor: pointer;
+  transition: background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
 }
 
-.notes-stat b {
+.notes-stat-toggle b {
   color: var(--notes-text);
   font-size: 1.15rem;
   font-weight: 800;
-  margin-right: 3px;
+}
+
+.notes-stat-toggle:hover {
+  border-color: var(--notes-border);
+  color: var(--notes-text);
+}
+
+.notes-stat-toggle.is-active {
+  background: var(--notes-accent);
+  border-color: var(--notes-accent);
+  color: #ffffff;
+}
+
+.notes-stat-toggle.is-active b {
+  color: #ffffff;
 }
 
 .notes-stats__cats {
@@ -430,11 +455,14 @@ pre code {
   align-items: center;
   gap: 6px;
   padding: 4px 12px;
+  font-family: inherit;
   font-size: 0.85rem;
   color: var(--notes-badge-text);
   background: var(--notes-surface);
   border: 1px solid var(--notes-border);
   border-radius: var(--notes-radius-pill);
+  cursor: pointer;
+  transition: background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
 }
 
 .notes-stat-chip b {
@@ -445,7 +473,16 @@ pre code {
 .notes-stat-chip:hover {
   border-color: var(--notes-accent);
   color: var(--notes-accent);
-  text-decoration: none;
+}
+
+.notes-stat-chip.is-active {
+  background: var(--notes-accent);
+  border-color: var(--notes-accent);
+  color: #ffffff;
+}
+
+.notes-stat-chip.is-active b {
+  color: #ffffff;
 }
 
 /* ------------------------------------------------------------------ *

@@ -1,9 +1,18 @@
 /*
- * listing.js — progressive "Show more" for the Paper Notes listing pages
- * (conference / category / tag). The layout renders every paper up-front but
- * marks the ones beyond the preview limit with `.is-extra` (hidden via CSS).
- * Each click on `.notes-showmore` reveals the next batch; the button updates
- * its remaining count and removes itself once everything is shown.
+ * listing.js — in-page filtering + progressive "Show more" for the Paper Notes
+ * listing pages (conference / category / tag).
+ *
+ * The stat controls double as filters:
+ *   - the track row: 全部 (clear) / Conference / Journal
+ *   - conference pages also render category chips
+ * Clicking a chip filters the already-rendered rows in place (by their
+ * data-category / data-track), so e.g. "Rendering" on the SIGGRAPH 2025 page
+ * shows only that conference's Rendering papers — no navigation, no separate
+ * cross-conference page.
+ *
+ * When no filter is active the list shows a preview (data-preview-limit) with a
+ * "Show more" button that reveals more in batches. When a filter is active all
+ * matching rows are shown and the button is hidden.
  *
  * Pure DOM glue, guarded so it is inert in a non-browser/test context.
  */
@@ -13,27 +22,106 @@
 
   var BATCH = 10;
 
-  function wire(button) {
-    var list = button.parentElement.querySelector(".notes-list");
+  function initListing(root) {
+    var list = root.querySelector(".notes-list");
     if (!list) return;
 
-    button.addEventListener("click", function () {
-      var hidden = list.querySelectorAll(".notes-list-row.is-extra");
-      for (var i = 0; i < hidden.length && i < BATCH; i++) {
-        hidden[i].classList.remove("is-extra");
-      }
-      var remaining = list.querySelectorAll(".notes-list-row.is-extra").length;
-      if (remaining === 0) {
-        button.remove();
-      } else {
-        button.textContent = "Show more (" + remaining + " more)";
-      }
+    var rows = Array.prototype.slice.call(list.querySelectorAll(".notes-list-row"));
+    // The server marks rows beyond the preview with `.is-extra` (hidden via CSS)
+    // for the no-JS case. Once JS runs it fully controls visibility with inline
+    // styles, so drop that class — otherwise the CSS rule would keep matching
+    // "extra" rows hidden even when a filter wants to show them.
+    rows.forEach(function (row) {
+      row.classList.remove("is-extra");
     });
+    var button = root.querySelector(".notes-showmore");
+    var emptyMsg = root.querySelector(".notes-list-empty");
+    var chips = Array.prototype.slice.call(root.querySelectorAll("[data-filter]"));
+    var preview = parseInt(list.getAttribute("data-preview-limit"), 10) || 10;
+
+    var state = { category: null, track: null, revealed: preview };
+
+    function filtering() {
+      return state.category !== null || state.track !== null;
+    }
+
+    function matches(row) {
+      if (state.category && row.getAttribute("data-category") !== state.category) return false;
+      if (state.track && row.getAttribute("data-track") !== state.track) return false;
+      return true;
+    }
+
+    function apply() {
+      var matchingTotal = 0;
+      var shown = 0;
+
+      rows.forEach(function (row) {
+        if (!matches(row)) {
+          row.style.display = "none";
+          return;
+        }
+        matchingTotal++;
+        if (filtering()) {
+          row.style.display = ""; // show all matches when filtering
+          shown++;
+        } else if (shown < state.revealed) {
+          row.style.display = "";
+          shown++;
+        } else {
+          row.style.display = "none";
+        }
+      });
+
+      if (button) {
+        if (!filtering() && state.revealed < matchingTotal) {
+          button.style.display = "";
+          button.textContent = "Show more (" + (matchingTotal - state.revealed) + " more)";
+        } else {
+          button.style.display = "none";
+        }
+      }
+
+      if (emptyMsg) emptyMsg.hidden = matchingTotal !== 0;
+
+      chips.forEach(function (chip) {
+        var dim = chip.getAttribute("data-filter");
+        var value = chip.getAttribute("data-value");
+        var active =
+          (dim === "all" && state.track === null) ||
+          (dim === "category" && state.category === value) ||
+          (dim === "track" && state.track === value);
+        chip.classList.toggle("is-active", active);
+      });
+    }
+
+    chips.forEach(function (chip) {
+      chip.addEventListener("click", function () {
+        var dim = chip.getAttribute("data-filter");
+        var value = chip.getAttribute("data-value");
+        if (dim === "all") {
+          state.track = null; // "全部" clears only the track dimension
+        } else if (dim === "category") {
+          state.category = state.category === value ? null : value;
+        } else if (dim === "track") {
+          state.track = state.track === value ? null : value;
+        }
+        state.revealed = preview; // reset pagination when the filter changes
+        apply();
+      });
+    });
+
+    if (button) {
+      button.addEventListener("click", function () {
+        state.revealed += BATCH;
+        apply();
+      });
+    }
+
+    apply();
   }
 
   function init() {
-    var buttons = document.querySelectorAll(".notes-showmore");
-    for (var i = 0; i < buttons.length; i++) wire(buttons[i]);
+    initListing(document);
   }
 
   if (document.readyState === "loading") {

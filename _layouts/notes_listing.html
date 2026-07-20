@@ -39,11 +39,18 @@ layout: notes_base
 
   {%- assign conf_count = papers | where: "track", "Conference" | size -%}
   {%- assign jour_count = papers | where: "track", "Journal" | size -%}
-  <section class="notes-stats" aria-label="Statistics">
+  {%- comment -%}
+    The stat controls double as in-page filters (listing.js): the track row
+    (全部 / Conference / Journal) filters by track, and — on conference pages —
+    the category chips filter the list to one category within THIS conference.
+    Filtering happens in place, so "Rendering" on the SIGGRAPH 2025 page shows
+    only SIGGRAPH 2025's Rendering papers.
+  {%- endcomment -%}
+  <section class="notes-stats" aria-label="Statistics and filters">
     <div class="notes-stats__tracks">
-      <span class="notes-stat notes-stat--total"><b>{{ paper_count }}</b> papers</span>
-      <span class="notes-stat notes-stat--conference"><b>{{ conf_count }}</b> Conference</span>
-      <span class="notes-stat notes-stat--journal"><b>{{ jour_count }}</b> Journal</span>
+      <button type="button" class="notes-stat-toggle is-active" data-filter="all">全部 <b>{{ paper_count }}</b></button>
+      <button type="button" class="notes-stat-toggle" data-filter="track" data-value="Conference">Conference <b>{{ conf_count }}</b></button>
+      <button type="button" class="notes-stat-toggle" data-filter="track" data-value="Journal">Journal <b>{{ jour_count }}</b></button>
     </div>
 
     {%- if page.listing_type == "conference" -%}
@@ -52,7 +59,7 @@ layout: notes_base
       {%- for c in categories -%}
       {%- assign n = papers | where: "category", c | size -%}
       {%- if n > 0 -%}
-      <a class="notes-stat-chip" href="/notes/category/{{ c | notes_slug }}/">{{ c }} <b>{{ n }}</b></a>
+      <button type="button" class="notes-stat-chip" data-filter="category" data-value="{{ c | escape }}">{{ c }} <b>{{ n }}</b></button>
       {%- endif -%}
       {%- endfor -%}
     </div>
@@ -61,11 +68,13 @@ layout: notes_base
 
   <div class="notes-list" data-preview-limit="{{ preview_limit }}">
     {%- for paper in papers -%}
-    <div class="notes-list-row{% if forloop.index0 >= preview_limit %} is-extra{% endif %}">
+    <div class="notes-list-row{% if forloop.index0 >= preview_limit %} is-extra{% endif %}" data-category="{{ paper.category | escape }}" data-track="{{ paper.track | escape }}">
       {% include notes_list_item.html paper=paper %}
     </div>
     {%- endfor -%}
   </div>
+
+  <p class="notes-list-empty" hidden>该筛选下没有论文。</p>
 
   {%- if paper_count > preview_limit -%}
   {%- assign remaining = paper_count | minus: preview_limit -%}
