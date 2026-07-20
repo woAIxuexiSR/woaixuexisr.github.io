@@ -52,7 +52,7 @@ flowchart LR
 
 **Critic（奖励代理）训练。** 冻结已训练好的 Actor 参数后，在同一环境中学习一个函数来预测：给定当前动作参考，Actor 能获得的期望折扣累积奖励
 
-$$v(m) = \mathbb{E}\left[\sum_{t=0}^{\infty} \gamma^t r_t \;\middle|\; m_0 = m, \pi\right],$$
+$$v(m) = \mathbb{E}\left[\sum_{t=0}^{\infty} \gamma^t r_t \;\middle\vert \; m_0 = m, \pi\right],$$
 
 其中期望在状态-动作轨迹与未来动作参考上取，$$\gamma \in [0,1]$$ 是折扣因子。它与 RL 中的值函数 $$v_{RL}(s,m)$$ 密切相关，区别在于 critic 不访问角色当前状态 $$s$$，因此可理解为对状态分布求平均后的值函数，从而在运动学动作与期望奖励之间建立起可微的桥梁。训练采用 PPO 中的做法，用截断的广义优势估计（GAE，即截断 TD($$\lambda$$)）计算值函数目标
 
@@ -66,7 +66,7 @@ $$\mathcal{L}_{MDM} = \lVert M_0 - p_\phi(M_d, d, c) \rVert_2^2,$$
 
 其中 $$c$$ 为文本提示等条件。给定预训练 MDM 与 critic，作者用冻结参数的 critic 评估生成动作的期望表现，并把它作为附加损失微调扩散模型
 
-$$\mathcal{L}_{RobotMDM} = \mathcal{L}_{MDM} - \beta \sum_{t=0}^{|M|} v_\theta(m_t).$$
+$$\mathcal{L}_{RobotMDM} = \mathcal{L}_{MDM} - \beta \sum_{t=0}^{\vert M\vert } v_\theta(m_t).$$
 
 保留标准 MDM 损失以保证生成动作贴合数据分布与文本条件，同时用 critic 值之和的负项引导动作朝更可行、更容易被策略准确跟踪的方向调整。关键在于：critic 提供了下游不可微跟踪任务的可微、高效替代，且推理时相比 PhysDiff 不增加任何额外计算开销（无需运行时仿真投影）。
 

@@ -58,17 +58,17 @@ flowchart LR
 
 关键设计一：SynMvHair 合成多视图数据集。从原始 3D 头发资源中筛除粗糙、模糊数据后，得到 2,396 个 3D 发型（含 1,544 非辫发、852 辫发）与 82,682 张纹理贴图，每个发型有 5-188 张 UV 纹理。所有模型经艺术家归一化并对齐到同一模板身体，再在上半球随机相机位渲染出标定准确的多视图图像，用于训练 3D 感知的扩散先验。相比以往仅数百个非辫发模型的数据集，在规模与风格（尤其辫发）上都有显著扩展。
 
-关键设计二：两个面向头发的扩散先验。HairSynthesizer 采用与 Zero-1-to-3 相同架构，在对齐图像 $$I_a$$ 与相对相机位姿 $$(R,T)$$ 条件下从噪声生成新视图 $$I_n = S(N|(I_a, R, T))$$；HairEnhancer 则以模糊头发图为条件，生成带丝状纹理的细节增强图 $$I_{enhance} = E(N|I_{blur})$$，用于弥补纹理细节。
+关键设计二：两个面向头发的扩散先验。HairSynthesizer 采用与 Zero-1-to-3 相同架构，在对齐图像 $$I_a$$ 与相对相机位姿 $$(R,T)$$ 条件下从噪声生成新视图 $$I_n = S(N\vert (I_a, R, T))$$；HairEnhancer 则以模糊头发图为条件，生成带丝状纹理的细节增强图 $$I_{enhance} = E(N\vert I_{blur})$$，用于弥补纹理细节。
 
 关键设计三：粗糙高斯优化。沿用 DreamGaussian，在包含模板身体上半身的包围盒内初始化 $$\Theta_0$$，通过 SDS 损失与参考损失联合优化：
 
 $$\nabla_{\Theta} \mathcal{L}_{SDS} = \mathbb{E}_{t,p,\epsilon}\left[(\epsilon_S(I^{(R,T)}_{\Theta_0}; t, I_a, (R,T)) - \epsilon)\frac{\partial I^{(R,T)}_{\Theta_0}}{\partial \Theta_0}\right]$$
 
-参考损失约束参考视角的 RGB 与掩膜一致：$$\mathcal{L}_{ref} = ||I_a - I'_a||_1 + ||M_a - M'_a||_1$$。
+参考损失约束参考视角的 RGB 与掩膜一致：$$\mathcal{L}_{ref} = \vert \vert I_a - I'_a\vert \vert _1 + \vert \vert M_a - M'_a\vert \vert _1$$。
 
-关键设计四：两级高斯细化。视图级细化受扩散图像编辑启发，每步把 $$\Theta_0$$ 渲染图与噪声按系数混合后经 HairSynthesizer 去噪得到 $$I_{refine} = S((\gamma \cdot I_{\Theta_0} + (1-\gamma)\cdot N)|(I_a, R, T))$$，并以 L1 加感知损失优化；$$\gamma$$ 在优化中逐步增大，兼顾纹理质量与视图一致性。像素级细化再借 HairEnhancer 进一步优化：
+关键设计四：两级高斯细化。视图级细化受扩散图像编辑启发，每步把 $$\Theta_0$$ 渲染图与噪声按系数混合后经 HairSynthesizer 去噪得到 $$I_{refine} = S((\gamma \cdot I_{\Theta_0} + (1-\gamma)\cdot N)\vert (I_a, R, T))$$，并以 L1 加感知损失优化；$$\gamma$$ 在优化中逐步增大，兼顾纹理质量与视图一致性。像素级细化再借 HairEnhancer 进一步优化：
 
-$$\mathcal{L}_{enhance} = ||I_{\Theta_1} - E(N|I_{\Theta_1})||_1 + \beta \cdot ||\phi(I_{\Theta_1}) - \phi(E(N|I_{\Theta_1}))||_1$$
+$$\mathcal{L}_{enhance} = \vert \vert I_{\Theta_1} - E(N\vert I_{\Theta_1})\vert \vert _1 + \beta \cdot \vert \vert \phi(I_{\Theta_1}) - \phi(E(N\vert I_{\Theta_1}))\vert \vert _1$$
 
 其中 $$\phi(\cdot)$$ 为 VGG 特征提取。最终 $$\Theta_2$$ 获得丝状细节纹理，并与统一模板身体对齐。
 

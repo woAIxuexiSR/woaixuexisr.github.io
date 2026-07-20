@@ -72,7 +72,7 @@ $$\bar{m}_{t,l} = \text{LayerNorm}(m) + \text{LayerNorm}(\text{PE}(t,l)).$$
 
 路由网络学习逐层、逐时间步的软分割图。训练时用一个损失鼓励背景像素（不属于主体的部分）走先验分支，而前景像素不设显式目标：
 
-$$L_{\text{router}} = \|(1 - M) \odot (1 - R)\|_2^2, \quad R = \frac{1}{|\mathcal{L}|}\sum_{l \in \mathcal{L}} R^l_0,$$
+$$L_{\text{router}} = \|(1 - M) \odot (1 - R)\|_2^2, \quad R = \frac{1}{\vert \mathcal{L}\vert }\sum_{l \in \mathcal{L}} R^l_0,$$
 
 其中 $$M$$ 是主体前景掩码，$$R^l_0$$ 是第 $$l$$ 层先验分支的路由权重。实践中排除了 U-Net 首尾若干层（它们编码低级特征，与"主体 vs 上下文"关系不大）。
 

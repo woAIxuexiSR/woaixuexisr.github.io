@@ -66,7 +66,7 @@ $$
 $$
 
 $$
-D_{KL}(Q(z|X)\,\|\,P(z)) = \frac{1}{2}\sum_{j=1}^{J}\left(\mu_j^2 + \sigma_j^2 - \log(\sigma_j^2) - 1\right)
+D_{KL}(Q(z\vert X)\,\|\,P(z)) = \frac{1}{2}\sum_{j=1}^{J}\left(\mu_j^2 + \sigma_j^2 - \log(\sigma_j^2) - 1\right)
 $$
 
 $$
@@ -80,7 +80,7 @@ KL 项把隐空间压缩得更紧凑，有利于后续 GAIL 判别。
 策略 $$\pi$$ 采用 GAIL 风格，MVAE 在此阶段冻结。判别器不使用显式 3D 轨迹，而是学习隐式状态转移 $$D(z, z')$$，并加入梯度惩罚以稳定训练：
 
 $$
-\min_{D} -\mathbb{E}_{d_M(z,z')}[\log D(z,z')] - \mathbb{E}_{d_\pi(z,z')}[\log(1-D(z,z'))] + w_{gp}\,\mathbb{E}_{d_M(z,z')}\left[\|\nabla_\varphi D(\varphi)|_{\varphi=(z,z')}\|_2^2\right]
+\min_{D} -\mathbb{E}_{d_M(z,z')}[\log D(z,z')] - \mathbb{E}_{d_\pi(z,z')}[\log(1-D(z,z'))] + w_{gp}\,\mathbb{E}_{d_M(z,z')}\left[\|\nabla_\varphi D(\varphi)\vert _{\varphi=(z,z')}\|_2^2\right]
 $$
 
 每条鱼共享同一策略（Multi-Instance Single Policy），输入自身状态、邻居状态和目标 $$g_t$$，输出高斯分布的动作，因此可适配任意数量的鱼。

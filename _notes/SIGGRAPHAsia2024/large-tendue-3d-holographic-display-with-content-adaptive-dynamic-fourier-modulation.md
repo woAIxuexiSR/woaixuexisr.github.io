@@ -80,7 +80,7 @@ $$\text{FoV}_x\cdot \text{FoV}_y\cdot w^2 \approx \lambda^2 N_x N_y = G_{SLM}$$
 
 目标是最小化重建光场与目标光场振幅的差异：
 
-$$\min_{\{\phi^{(t)},P^{(t)}\}} \left\| s\sqrt{\tfrac{1}{T}\sum_{t=1}^{T}\sum_{j=1}^{J}\big|\text{H2LF}\,f^{(j)}(\phi^{(t)},P^{(t)},z)\big|^2} - lf_{target}\right\|$$
+$$\min_{\{\phi^{(t)},P^{(t)}\}} \left\| s\sqrt{\tfrac{1}{T}\sum_{t=1}^{T}\sum_{j=1}^{J}\big\vert \text{H2LF}\,f^{(j)}(\phi^{(t)},P^{(t)},z)\big\vert ^2} - lf_{target}\right\|$$
 
 由于时间复用、多源、显式 HDO 建模三重叠加，用短时傅里叶变换（STFT）重建整幅稠密光场的显存开销会爆炸。为此作者提出随机化版本：每次迭代只随机抽取一个视图 $$p$$，在傅里叶平面施加二值瞳孔掩模 $$M^{(p)}$$ 只重建该视图后做一步梯度下降：
 

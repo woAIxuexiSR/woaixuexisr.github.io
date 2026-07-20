@@ -86,11 +86,11 @@ $$
 借鉴 IWIRES，提取局部平面特征环，对连续边的三重积（约束局部平面性）与夹角（约束轮廓形状）进行局部与全局两个层级的惩罚：
 
 $$
-\mathcal{L}_{tri}=\frac{1}{n}\sum_{i=0}^{n-1}\big|e_i\cdot(e_{i+1}\times e_{i+2})-\tilde{e}_i\cdot(\tilde{e}_{i+1}\times\tilde{e}_{i+2})\big|
+\mathcal{L}_{tri}=\frac{1}{n}\sum_{i=0}^{n-1}\big\vert e_i\cdot(e_{i+1}\times e_{i+2})-\tilde{e}_i\cdot(\tilde{e}_{i+1}\times\tilde{e}_{i+2})\big\vert 
 $$
 
 $$
-\mathcal{L}_{ang}=\frac{1}{n}\sum_{i=0}^{n-1}\big|e_i\cdot e_{i+1}-\tilde{e}_i\cdot\tilde{e}_{i+1}\big|
+\mathcal{L}_{ang}=\frac{1}{n}\sum_{i=0}^{n-1}\big\vert e_i\cdot e_{i+1}-\tilde{e}_i\cdot\tilde{e}_{i+1}\big\vert 
 $$
 
 全局版本以步长 $$k=\lfloor n/6\rfloor$$ 定义 $$\mathcal{L}'_{tri},\mathcal{L}'_{ang}$$ 避免局部误差累积，总几何损失 $$L_{geo}=\mathcal{L}_{tri}+\mathcal{L}'_{tri}+\mathcal{L}_{ang}+\mathcal{L}'_{ang}$$。总优化目标为：

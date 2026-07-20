@@ -59,7 +59,7 @@ $$ \nabla_x \log P_\sigma(x) \approx \left( \frac{\sum_{y\in X} \mathcal{N}(x;y,
 
 而 Langevin 更新为 $$ x^{(t+1)} \leftarrow x^{(t)} + \alpha_t \nabla_x \log P_{\sigma_t}(x^{(t)}) + \sqrt{2\alpha_t\beta_t}\,\epsilon_t $$ 。若令 $$ \beta_t=0,\ \alpha_t=\sigma_t^2,\ \sigma_t=h $$，该式恰好退化为高斯核的 mean-shift 迭代。两者本质都是在密度函数上做迭代爬山；差别在于 Langevin 引入随机噪声，有助于跳出局部并捕获不同强度的对称模式。
 
-**关键设计 2：有界的反射变换空间（Hough 表示）。** 用 Hesse 法向式表示超平面：法向量 $$ n $$ 与到原点的最短距离 $$ l $$，平面为 $$ \{x\,|\,x^\top n = l\} $$。为避免多出一个自由度，把对称嵌入到 $$ \mathbb{R}^d $$：
+**关键设计 2：有界的反射变换空间（Hough 表示）。** 用 Hesse 法向式表示超平面：法向量 $$ n $$ 与到原点的最短距离 $$ l $$，平面为 $$ \{x\,\vert \,x^\top n = l\} $$。为避免多出一个自由度，把对称嵌入到 $$ \mathbb{R}^d $$：
 
 $$ T(p,q) = n(p,q)\cdot(\mathrm{sign}(l(p,q))\cdot k + l(p,q)) $$
 
@@ -67,7 +67,7 @@ $$ T(p,q) = n(p,q)\cdot(\mathrm{sign}(l(p,q))\cdot k + l(p,q)) $$
 
 **关键设计 3：反射对称的黎曼测地距离。** 变换空间含 $$ SO(n) $$ 旋转，欧氏距离无法反映平面间的真实差异（$$ l=0 $$ 时 $$ n $$ 与 $$ -n $$ 表示同一平面却相距很远）。论文定义测地距离，取"穿过原点"与"不过原点"两条路径的较小者：
 
-$$ d(x,y) = \min \left\{ \min_z \|x-z\|+\|y+z\|,\quad \min_r \int_0^1 \mathrm{valid}(r(t))|r'(t)|\,dt \right\} $$
+$$ d(x,y) = \min \left\{ \min_z \|x-z\|+\|y+z\|,\quad \min_r \int_0^1 \mathrm{valid}(r(t))\vert r'(t)\vert \,dt \right\} $$
 
 其中 $$ \|z\|=k $$。基于该前度量（premetric），按 Chen & Lipman 的 flow matching 公式计算概率密度流的梯度场 $$ g_\sigma(x) $$ 替代分数函数，用 JAX 自动微分求 $$ \nabla_x d(x,y) $$。
 

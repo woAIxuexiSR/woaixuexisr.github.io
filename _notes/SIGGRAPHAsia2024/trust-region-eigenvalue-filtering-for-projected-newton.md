@@ -36,7 +36,7 @@ links:
 超弹性仿真中，体积保持项的高度非凸性会让常用的投影牛顿（Projected Newton）优化器在**高泊松比（接近 0.5）和大初始体积变化**下变得不稳定、收敛缓慢。投影牛顿依赖特征值滤波来强制 Hessian 正定以保证收敛，主流做法有两类：
 
 - **特征值 clamp**（Teran et al. 2005）：把每个单元 Hessian 的负特征值截断到零或一个小正数 $$\epsilon$$，再重组全局 Hessian，能保证全局正定。
-- **特征值取绝对值**（Chen et al. 2024）：把负特征值投影为其绝对值 $$\lambda_k^+ = |\lambda_k|$$。在近不可压场景能带来数量级加速，但在近凸场景又会沿负曲率方向过度阻尼、拖慢收敛。
+- **特征值取绝对值**（Chen et al. 2024）：把负特征值投影为其绝对值 $$\lambda_k^+ = \vert \lambda_k\vert $$。在近不可压场景能带来数量级加速，但在近凸场景又会沿负曲率方向过度阻尼、拖慢收敛。
 
 问题在于：**没有单一策略在所有场景都最优**，如何选择投影策略一直是开放问题。本文正是要给出一个不需要事先选定、能在优化中自动适配的方案。
 
@@ -46,11 +46,11 @@ links:
 
 作者的核心洞见是：把逐单元的特征值滤波纳入**广义信赖域**（generalized trust region）视角。考虑上下界对称的广义信赖域子问题，取 $$b=0$$、$$A=H$$，约束写成绝对值形式：
 
-$$\min_{u}\; f(x) + g^\top u + u^\top H u \quad \text{s.t.}\ |u^\top H u| \le \Delta.$$
+$$\min_{u}\; f(x) + g^\top u + u^\top H u \quad \text{s.t.}\ \vert u^\top H u\vert  \le \Delta.$$
 
-利用有限元 Hessian 可按单元求和的性质，引入引理 $$|x^\top A x| \le x^\top |A_e| x$$（其中 $$|A_e|=\sum_i P_i^\top |A_i| P_i$$ 为逐单元取绝对值），把约束收紧为 $$u^\top |H_e| u \le \Delta$$。当约束取等号并用拉格朗日乘子求解时，得到步长（把标量折进线搜索后）：
+利用有限元 Hessian 可按单元求和的性质，引入引理 $$\vert x^\top A x\vert  \le x^\top \vert A_e\vert  x$$（其中 $$\vert A_e\vert =\sum_i P_i^\top \vert A_i\vert  P_i$$ 为逐单元取绝对值），把约束收紧为 $$u^\top \vert H_e\vert  u \le \Delta$$。当约束取等号并用拉格朗日乘子求解时，得到步长（把标量折进线搜索后）：
 
-$$u = -\big((1-w)H + w\,|H_e|\big)^{-1} g,\qquad w = \frac{\lambda}{1+\lambda}\in[0,1].$$
+$$u = -\big((1-w)H + w\,\vert H_e\vert \big)^{-1} g,\qquad w = \frac{\lambda}{1+\lambda}\in[0,1].$$
 
 于是不同的权重 $$w$$ 恰好对应不同的已有策略——这就是三者的统一。
 
@@ -70,8 +70,8 @@ flowchart TD
 论文证明三个特殊权重分别退化为经典方法：
 
 - $$w=0$$（即 $$\lambda=0$$）：原始（未投影）牛顿步 $$u=-H^{-1}g$$。
-- $$w=0.5$$（即 $$\lambda=1$$）：借助引理 $$u^\top H u + u^\top|H_e|u = 2\,u^\top H_e^+ u$$，退化为 clamp 步 $$u=-(H_e^+)^{-1}g$$。
-- $$w=1$$（即 $$\lambda\to\infty$$）：退化为取绝对值步 $$u=-|H_e|^{-1}g$$，等价于用一阶模型加 Hessian 度量约束。
+- $$w=0.5$$（即 $$\lambda=1$$）：借助引理 $$u^\top H u + u^\top\vert H_e\vert u = 2\,u^\top H_e^+ u$$，退化为 clamp 步 $$u=-(H_e^+)^{-1}g$$。
+- $$w=1$$（即 $$\lambda\to\infty$$）：退化为取绝对值步 $$u=-\vert H_e\vert ^{-1}g$$，等价于用一阶模型加 Hessian 度量约束。
 
 ### 关键设计二：基于信赖域比率的自适应选择
 
@@ -81,7 +81,7 @@ $$\rho = \frac{f(x) - f(x+u)}{\tilde f(x) - \tilde f(x+u)}.$$
 
 $$\rho$$ 接近 1 说明二次近似准确（可用大信赖域），远离 1（趋零或为负）说明近似差（需小信赖域）。据此离散地选权重：
 
-$$w = \begin{cases} 0.5, & |\rho-1|\le\epsilon \\ 1, & |\rho-1|>\epsilon \end{cases}$$
+$$w = \begin{cases} 0.5, & \vert \rho-1\vert \le\epsilon \\ 1, & \vert \rho-1\vert >\epsilon \end{cases}$$
 
 其中 $$\epsilon$$ 取 0.01 到 0.1 之间的小常数。作者选离散 $$w$$ 而非精确解信赖域子问题，是为了避免每次牛顿迭代都做昂贵的迭代求解，保持与原始牛顿同样的单迭代成本。
 
@@ -89,7 +89,7 @@ $$w = \begin{cases} 0.5, & |\rho-1|\le\epsilon \\ 1, & |\rho-1|>\epsilon \end{ca
 
 最终逐单元投影只需：
 
-$$\Lambda^+ = \begin{cases} \max(\Lambda, 0), & |\rho-1|\le\epsilon \\ |\Lambda|, & |\rho-1|>\epsilon \end{cases}$$
+$$\Lambda^+ = \begin{cases} \max(\Lambda, 0), & \vert \rho-1\vert \le\epsilon \\ \vert \Lambda\vert , & \vert \rho-1\vert >\epsilon \end{cases}$$
 
 在已有投影牛顿框架里，只需加一行计算信赖域比率 $$\rho$$、把原本固定的特征值投影替换为上式的三目选择即可。实现上第一次牛顿迭代总是从取绝对值策略起步，之后用 $$x_k$$ 与 $$x_{k-1}$$ 算出的 $$\rho_k$$ 决定第 $$k$$ 次迭代的策略。它在形式上仍是（正则化的）投影牛顿，正则参数模拟了信赖域子问题里的拉格朗日乘子。
 

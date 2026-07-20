@@ -85,14 +85,14 @@ $$
 \Gamma_{s\to r,q}=\int_s^r F^T_{s\to\tau,q}\left(\gamma-\frac{1}{\rho^f}\nabla\lambda\right)(x_q(\tau),\tau)\,d\tau
 $$
 
-$$\lambda=p-\tfrac{1}{2}\rho^f|u|^2$$ 为 Lagrangian 压力。这一项可携带在粒子上逐步累积，从而把粘性、拖曳、重力等力"沿流图轨迹"纳入原本纯几何的映射过程。
+$$\lambda=p-\tfrac{1}{2}\rho^f\vert u\vert ^2$$ 为 Lagrangian 压力。这一项可携带在粒子上逐步累积，从而把粘性、拖曳、重力等力"沿流图轨迹"纳入原本纯几何的映射过程。
 
 ### 关键设计二：映射速度到平流速度的转换（LMCP 思想）
 
 流图方法作用于长程映射速度 $$u^M_{s\to r}$$，而泥沙粒子速度 $$v_p$$ 是短程逐步更新的，二者无法直接交互；且长程压力积分难以利用短程的体积分数信息强制不可压。为此借鉴 Li et al. [2024] 的 Long-Range Mapping Classical Projection（LMCP），把长程映射速度转换为经典单步平流速度 $$u^A_{s'\to r}$$：
 
 $$
-u^A_{s'\to r,q}=u^M_{s\to r,q}+T^T_{r\to s}\Gamma_{s\to s',q}+\frac{1}{2}(\nabla|u_{s'}|^2)(x_q(r))\Delta t
+u^A_{s'\to r,q}=u^M_{s\to r,q}+T^T_{r\to s}\Gamma_{s\to s',q}+\frac{1}{2}(\nabla\vert u_{s'}\vert ^2)(x_q(r))\Delta t
 $$
 
 由于 $$u^A_{s'\to r}$$ 是短程量，可与泥沙粒子交互，并通过对其投影来施加带体积分数的不可压约束。

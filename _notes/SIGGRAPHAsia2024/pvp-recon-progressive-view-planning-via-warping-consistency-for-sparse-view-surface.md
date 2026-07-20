@@ -94,9 +94,9 @@ $$\tilde{\gamma}(\boldsymbol{x}, \psi) = m(\psi) \odot \gamma(\boldsymbol{x}), \
 
 常用的 Eikonal 损失只约束一阶梯度，在稀疏视角下正则不足；而直接把二阶 Hessian 矩阵范数压到零也不合理，因为 SDF 的二阶梯度并非处处为零。作者指出：在表面附近，SDF 梯度沿其法向的方向导数才应为零（相邻等值面平行）。据此提出方向性 Hessian 损失：
 
-$$\mathcal{L}_{dir} = \exp(-\delta \cdot |f_g(\boldsymbol{x})|) \cdot \frac{|\nabla f_g(\boldsymbol{x})| - |\nabla f_g(\boldsymbol{x} + \epsilon \cdot \frac{\nabla f_g(\boldsymbol{x})}{\|\nabla f_g(\boldsymbol{x})\|})|}{\epsilon}$$
+$$\mathcal{L}_{dir} = \exp(-\delta \cdot \vert f_g(\boldsymbol{x})\vert ) \cdot \frac{\vert \nabla f_g(\boldsymbol{x})\vert  - \vert \nabla f_g(\boldsymbol{x} + \epsilon \cdot \frac{\nabla f_g(\boldsymbol{x})}{\|\nabla f_g(\boldsymbol{x})\|})\vert }{\epsilon}$$
 
-步长 $$\epsilon$$ 取哈希编码的最小网格尺寸，$$\exp(-\delta \cdot |f_g(\boldsymbol{x})|)$$ 是 RBF 权重，让损失聚焦表面附近区域。它作为平滑先验约束 SDF 梯度的不一致性，缓解稀疏视角下的病态优化。
+步长 $$\epsilon$$ 取哈希编码的最小网格尺寸，$$\exp(-\delta \cdot \vert f_g(\boldsymbol{x})\vert )$$ 是 RBF 权重，让损失聚焦表面附近区域。它作为平滑先验约束 SDF 梯度的不一致性，缓解稀疏视角下的病态优化。
 
 ### 总损失
 

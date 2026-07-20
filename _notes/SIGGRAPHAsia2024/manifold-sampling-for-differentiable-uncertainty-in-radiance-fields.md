@@ -52,13 +52,13 @@ flowchart LR
 **均匀先验的随机辐射场。** 用变分推断框架，将参数分布 $$p(\boldsymbol{\theta})$$ 近似为在紧致超体 $$V$$ 上的均匀分布：
 
 $$
-p(\boldsymbol{\theta})=\begin{cases}\frac{1}{|V|} & \boldsymbol{\theta}\in V,\\ 0 & \text{else.}\end{cases}
+p(\boldsymbol{\theta})=\begin{cases}\frac{1}{\vert V\vert } & \boldsymbol{\theta}\in V,\\ 0 & \text{else.}\end{cases}
 $$
 
 选择均匀先验而非高斯先验，是因为高斯先验假设均值附近概率更高；而在单视角等情形下，高斯基元沿深度方向的分布不应对称集中于某个深度，遮挡区域的颜色也应等概率取任意值。训练目标同时鼓励所有实现都拟合训练数据、并让体积尽量大：
 
 $$
-\mathcal{L}=\sum_{i=1}^{N_\mathcal{T}}\int_{\boldsymbol{\theta}^*\in V}\big\lVert C_{\boldsymbol{\theta}^*}(\mathbf{r}_i,\boldsymbol{\xi}_i)-C_i\big\rVert\, d\boldsymbol{\theta}^*-\lambda|V|.
+\mathcal{L}=\sum_{i=1}^{N_\mathcal{T}}\int_{\boldsymbol{\theta}^*\in V}\big\lVert C_{\boldsymbol{\theta}^*}(\mathbf{r}_i,\boldsymbol{\xi}_i)-C_i\big\rVert\, d\boldsymbol{\theta}^*-\lambda\vert V\vert .
 $$
 
 **流形采样（核心贡献）。** 用线性模型生成参数样本，一般形式为 $$G(\mathbf{z})=\bar{\boldsymbol{\theta}}+B\mathbf{z}$$，其协方差为 $$\Sigma=BB^{T}$$。完整的 $$B$$ 规模随参数数量平方增长，不可行；对角化（假设完全独立）表达力太弱，块对角需要针对表示做独立性假设。作者观察到不确定性体的自由度远少于参数量，因此把 $$V$$ 建模为 $$d_\theta$$ 维空间中的 $$k$$ 维线性流形（$$k\ll d_\theta$$）：

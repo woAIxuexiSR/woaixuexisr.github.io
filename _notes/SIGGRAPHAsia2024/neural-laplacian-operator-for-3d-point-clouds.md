@@ -60,7 +60,7 @@ $$\Delta_{gt} f = M_{gt}^{-1} L_{gt} f$$
 
 $$\mathcal{L}_{laplacian} = \sum_{f \in \mathcal{F}} w_f \left\| M^{-1} L f - M_{gt}^{-1} L_{gt} f \right\|_2^2$$
 
-其中平衡权重 $$w_f = \dfrac{1}{mean(|M_{gt}^{-1} L_{gt} f|) + \epsilon}$$，$$\epsilon=0.1$$。另加一项质量矩阵对角损失 $$\mathcal{L}_{mass}$$ 加速收敛，总损失 $$\mathcal{L} = \mathcal{L}_{laplacian} + \lambda \mathcal{L}_{mass}$$，$$\lambda=0.1$$。
+其中平衡权重 $$w_f = \dfrac{1}{mean(\vert M_{gt}^{-1} L_{gt} f\vert ) + \epsilon}$$，$$\epsilon=0.1$$。另加一项质量矩阵对角损失 $$\mathcal{L}_{mass}$$ 加速收敛，总损失 $$\mathcal{L} = \mathcal{L}_{laplacian} + \lambda \mathcal{L}_{mass}$$，$$\lambda=0.1$$。
 
 关键设计二：探针函数的构造。理论上点云上任意函数都可展开为真值 Laplacian 特征向量的线性组合，但求全部特征向量代价太高。作者用两组探针函数：谱探针取真值 Laplacian 前 64 个非常数低频特征向量（并按特征值缩放 $$f_i = \dfrac{f_i}{\lambda_i + \epsilon_1}$$ 防止被大特征值主导）；空间探针用随机频率的三角函数补充高频行为：
 

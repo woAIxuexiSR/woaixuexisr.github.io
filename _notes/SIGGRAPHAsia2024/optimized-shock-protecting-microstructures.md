@@ -57,13 +57,13 @@ $$\min_{\tilde{u},G} W(\tilde{u},G)\quad \text{s.t.}\ G_{11}=\epsilon$$
 
 其中 $$W=W_e+W_c$$ 为 Neo-Hookean 弹性能与接触势垒能之和。有效应力由体积平均给出：
 
-$$\bar{\sigma}(\epsilon)=\frac{1}{|V|}\int_\Omega \sigma(\nabla_x\tilde{u}+G)\,dx$$
+$$\bar{\sigma}(\epsilon)=\frac{1}{\vert V\vert }\int_\Omega \sigma(\nabla_x\tilde{u}+G)\,dx$$
 
 接触采用适配周期边界的 IPC：只需考虑一个单元与其左、下相邻单元，用 $$2\times 2$$ tile 做碰撞检测与势垒计算，因周期性无需考虑右、上侧。
 
 **关键设计三：优化目标与增量策略。** 给定目标应力 $$\sigma_f$$，在压缩应变区间 $$[0.1,\epsilon]$$ 上最小化有效应力对目标的偏差：
 
-$$J(q):=\sum_i \left(\frac{\bar{\sigma}_i(1,1)}{\sigma^*}-1\right)^2 + w\left(|G^{01}_i|-0.05\right)_+^2$$
+$$J(q):=\sum_i \left(\frac{\bar{\sigma}_i(1,1)}{\sigma^*}-1\right)^2 + w\left(\vert G^{01}_i\vert -0.05\right)_+^2$$
 
 第二项惩罚压缩下的剪切，避免相邻单元反向剪切互锁。求解用增量加载法：先在 [10%,30%] 达标，再逐步提高最大应变并以上一步结果热启动，避免直接大压缩时接触力过大导致的收敛崩溃。形状导数用伴随法，只需额外解一个线性方程。由于对称形状 + 非对称变形导致解不唯一，作者不直接对瞬态仿真优化；并在优化成功后用更贵的 $$2\times 2$$ tile 复核，剔除单胞与 tile 曲线不一致的形状再重优化。
 

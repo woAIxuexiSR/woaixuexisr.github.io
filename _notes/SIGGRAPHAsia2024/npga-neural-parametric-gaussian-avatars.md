@@ -64,7 +64,7 @@ $$
 **Laplacian 正则 + ADC 调整。** 增强的动态表达力需要正则化以避免过拟合训练表情。基于规范高斯中心的 $$k$$NN 图施加 Laplacian 平滑项，同时约束到每高斯特征 $$f$$ 与属性偏移 $$\delta^G_a$$：
 
 $$
-R_{lap}(x) = \left\| \frac{1}{|\mathcal{N}_i|} \Big( \sum_{j\in\mathcal{N}_i} x_j \Big) - x_i \right\|_2^2
+R_{lap}(x) = \left\| \frac{1}{\vert \mathcal{N}_i\vert } \Big( \sum_{j\in\mathcal{N}_i} x_j \Big) - x_i \right\|_2^2
 $$
 
 此外用小偏移正则、尺度正则，并对自适应密度控制（ADC）改用广义平均聚合视空间梯度：

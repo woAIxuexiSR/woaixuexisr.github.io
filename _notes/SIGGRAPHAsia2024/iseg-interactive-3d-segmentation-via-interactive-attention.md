@@ -69,7 +69,7 @@ $$
 同时把彩色渲染图送入 SAM 编码器 $$E_{2D}$$ 得到参考特征图 $$I^{\theta}_{e}$$，在多个随机视角 $$\Theta$$ 上最小化二者差异：
 
 $$
-\mathcal{L}_{enc} = \frac{1}{|\Theta|} \sum_{\theta \in \Theta} \| I^{\theta}_{f} - I^{\theta}_{e} \|^2
+\mathcal{L}_{enc} = \frac{1}{\vert \Theta\vert } \sum_{\theta \in \Theta} \| I^{\theta}_{f} - I^{\theta}_{e} \|^2
 $$
 
 MFF 独立于用户输入进行优化，得到一个**条件无关**的特征场，刻画网格固有的语义属性；它把多视角、彼此不一致的 2D 嵌入融合成 3D 表面上一致的特征场。
@@ -101,7 +101,7 @@ $$
 监督同样迁移到 2D：把概率图可微渲染成概率图像 $$I^{\theta'}_{p}$$，把 3D 点击投影为 2D 提示交给 SAM 得到掩码 $$I^{\theta'}_{m}$$，用二元交叉熵训练：
 
 $$
-\mathcal{L}_{dec} = \frac{1}{|\Theta'|} \sum_{\theta' \in \Theta'} \mathrm{CE}(I^{\theta'}_{p}, I^{\theta'}_{m})
+\mathcal{L}_{dec} = \frac{1}{\vert \Theta'\vert } \sum_{\theta' \in \Theta'} \mathrm{CE}(I^{\theta'}_{p}, I^{\theta'}_{m})
 $$
 
 训练数据仅用**约 3% 顶点**（最远点采样选取），每个视角再采样一个可见顶点作为第二个正/负点击，要求其相应扩大或缩小区域。尽管 2D 监督信号高度不一致，iSeg 仍能从噪声中恢复出连贯的 3D 分割函数，并对被遮挡区域也保持一致分割。

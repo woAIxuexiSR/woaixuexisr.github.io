@@ -72,7 +72,7 @@ $$u^{b}_{\mathrm{pc},\varepsilon}(x)\equiv\sum_{m=1}^{M} A_m\,P_\varepsilon(x,\m
 
 几何场取偶极子和形式，并转换为占用与衰减系数：
 
-$$F(x)\equiv \tfrac{1}{2}-u^{f}_{\mathrm{pc},\varepsilon}(x),\quad v(x)\equiv\Psi(s\cdot F(x)),\quad \sigma(x,\omega)\equiv\frac{|\omega\cdot\nabla v(x)|}{v(x)}$$
+$$F(x)\equiv \tfrac{1}{2}-u^{f}_{\mathrm{pc},\varepsilon}(x),\quad v(x)\equiv\Psi(s\cdot F(x)),\quad \sigma(x,\omega)\equiv\frac{\vert \omega\cdot\nabla v(x)\vert }{v(x)}$$
 
 几何属性 $$f_m$$ 全部初始化为 1(即退化为正则化缠绕数),优化中允许非单位值：既能自动削弱离群点影响(降低其 $$f$$),又能在不移动点位置的前提下修正几何(填补空洞、抑制噪声)。保持点位置不变是加速的关键前提。辐射场则先插值外观属性 $$\ell_k(x)=u^{\ell_k}_{\mathrm{pc},\varepsilon}(x)$$，再经浅层 MLP 结合位置、方向与隐式法向输出颜色：
 

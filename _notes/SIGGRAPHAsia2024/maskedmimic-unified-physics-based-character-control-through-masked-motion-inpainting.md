@@ -52,7 +52,7 @@ flowchart LR
 - **阶段一（全约束控制器 $$\pi_{FC}$$）**：在大型动捕库上用强化学习训练一个 Transformer 结构的全身追踪器，输入完整目标姿态序列 $$g^{full}_t$$、角色当前状态与地形/物体高度图，输出 PD 控制的关节驱动动作。目标是最大化折扣累计回报：
 
 $$
-J = \mathbb{E}_{p(\tau|\pi)}\left[\sum_{t=0}^{T}\gamma^t r_t\right]
+J = \mathbb{E}_{p(\tau\vert \pi)}\left[\sum_{t=0}^{T}\gamma^t r_t\right]
 $$
 
   追踪奖励综合了全局关节位置、全局关节旋转、根部高度、关节线速度/角速度以及能量惩罚：

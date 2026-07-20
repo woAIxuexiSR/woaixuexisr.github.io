@@ -79,7 +79,7 @@ flowchart LR
 
 端到端训练，包含重建损失、速度损失与 KL 散度：
 
-$$L_{total} = L_{rec}|^{i+3}_{i+1} + w_{vel} L_{vel}|^{i+3}_{i+1} + w_{kl} L_{kl}$$
+$$L_{total} = L_{rec}\vert ^{i+3}_{i+1} + w_{vel} L_{vel}\vert ^{i+3}_{i+1} + w_{kl} L_{kl}$$
 
 其中重建损失同时约束局部与全局（前向运动学 $$FK$$）坐标及根节点：
 

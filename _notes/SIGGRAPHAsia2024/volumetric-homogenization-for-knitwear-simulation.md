@@ -71,7 +71,7 @@ flowchart TD
 
 $$E_e = \gamma^s_e V_e \lVert \mathbf{F}_e - \mathbf{R}(\mathbf{F}_e) \rVert^2_F + \gamma^v_e V_e \lVert \mathbf{F}_e - \mathbf{V}(\mathbf{F}_e) \rVert^2_F$$
 
-其中 $$\mathbf{R}$$ 是最近的旋转（SO(3)，保长度），$$\mathbf{V}$$ 是最近的保体积变换（SL(3)，$$|\mathbf{V}|=1$$）：
+其中 $$\mathbf{R}$$ 是最近的旋转（SO(3)，保长度），$$\mathbf{V}$$ 是最近的保体积变换（SL(3)，$$\vert \mathbf{V}\vert =1$$）：
 
 $$\mathbf{R} = \arg\min_{\mathbf{A}\in SO(3)} \lVert \mathbf{F}-\mathbf{A}\rVert^2_F, \quad \mathbf{V} = \arg\min_{\mathbf{A}\in SL(3)} \lVert \mathbf{F}-\mathbf{A}\rVert^2_F$$
 

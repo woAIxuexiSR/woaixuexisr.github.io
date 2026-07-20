@@ -79,7 +79,7 @@ $$\mathbf{Y}_n = \sum_{s=0}^{S-1} \mathbf{R}_s\,\mathbf{X}_{n-\Delta_s}\,e^{j\nu
 
 单次反射、无偏振扰乱、加性高斯噪声时，匹配滤波就是最优估计器，也是 RMCW 激光雷达常规做法：
 
-$$\Delta^{*} = \arg\max_{\Delta}\left| \sum_{\Delta=-\infty}^{\infty} \overline{\mathbf{X}_{n-\Delta}}\,\mathbf{Y}_n \right|^2$$
+$$\Delta^{*} = \arg\max_{\Delta}\left\vert  \sum_{\Delta=-\infty}^{\infty} \overline{\mathbf{X}_{n-\Delta}}\,\mathbf{Y}_n \right\vert ^2$$
 
 但匹配滤波在复杂场景失效：偏振扰乱、多普勒频移、多重反射让没有任何单一延迟能解释收到序列，而且它完全给不出速度与偏振信息。作者转而在高斯噪声模型下直接最小化收发符号的均方误差：
 
@@ -95,7 +95,7 @@ $$\mathcal{L}_{data} = \sum_{n=0}^{N-1}\left\| \mathbf{Y}_n - \sum_{\Delta,\nu} 
 
 $$\mathcal{L}_{sparse} = \sum_{\Delta,\nu} \|\mathbf{R}_{\Delta,\nu}\|_F$$
 
-$$\mathcal{L}_{TV} = \sum_{i,j,\Delta,\nu} \sqrt{\left|(\mathbf{D}_v\|\mathbf{R}_{\Delta,\nu}\|_F)_{i,j}\right|^2 + \left|(\mathbf{D}_h\|\mathbf{R}_{\Delta,\nu}\|_F)_{i,j}\right|^2}$$
+$$\mathcal{L}_{TV} = \sum_{i,j,\Delta,\nu} \sqrt{\left\vert (\mathbf{D}_v\|\mathbf{R}_{\Delta,\nu}\|_F)_{i,j}\right\vert ^2 + \left\vert (\mathbf{D}_h\|\mathbf{R}_{\Delta,\nu}\|_F)_{i,j}\right\vert ^2}$$
 
 总目标为 $$\arg\min_{\mathbf{R}_{\Delta,\nu}} \mathcal{L}_{data} + \lambda_{sparse}\mathcal{L}_{sparse} + \lambda_{TV}\mathcal{L}_{TV}$$，用 PyTorch + Adam 优化。解出所有 Jones 矩阵后，取 Frobenius 范数最大（且延迟大于内部反射的最小延迟 $$\Delta_{min}$$）的那个：
 

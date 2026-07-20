@@ -43,9 +43,9 @@ links:
 
 ## 方法
 
-整体框架把问题写成一个控制器优化：求解随时间变化的驱动信号 $$\boldsymbol{d}(t)$$，使任务目标 $$J(\boldsymbol{x}(t))$$ 最小，同时约束每一时刻的顶点位置 $$\boldsymbol{x}|_t$$ 是系统总能量的极小值：
+整体框架把问题写成一个控制器优化：求解随时间变化的驱动信号 $$\boldsymbol{d}(t)$$，使任务目标 $$J(\boldsymbol{x}(t))$$ 最小，同时约束每一时刻的顶点位置 $$\boldsymbol{x}\vert _t$$ 是系统总能量的极小值：
 
-$$\min_{\boldsymbol{d}(t)} J(\boldsymbol{x}(t)), \quad \text{s.t.}\ \boldsymbol{x}|_t = \arg\min_{\boldsymbol{x}} E(\boldsymbol{x}, \boldsymbol{d}|_t).$$
+$$\min_{\boldsymbol{d}(t)} J(\boldsymbol{x}(t)), \quad \text{s.t.}\ \boldsymbol{x}\vert _t = \arg\min_{\boldsymbol{x}} E(\boldsymbol{x}, \boldsymbol{d}\vert _t).$$
 
 其中总能量分为被动项与主动（驱动）项：
 
@@ -80,13 +80,13 @@ $$\boldsymbol{a}_i(t) = \sum_{j}^{k} \boldsymbol{A}_{ij}\sin\!\left(2\pi\left(\f
 
 关键设计二：塑性式驱动能量 + 旋转过滤。驱动能量鼓励仿真形状 $$\boldsymbol{x}$$ 去贴合目标形状 $$\boldsymbol{d}$$，并对每个元素引入局部最佳拟合旋转 $$\boldsymbol{\Omega}_e \in SO(3)$$：
 
-$$E_a(\boldsymbol{x}, \boldsymbol{d}) = \sum_{e}^{|\mathcal{T}|} \min_{\boldsymbol{\Omega}_e} \gamma_e V_e \left\| \boldsymbol{F}_e(\boldsymbol{x}) - \boldsymbol{\Omega}_e \boldsymbol{Y}_e(\boldsymbol{d}) \right\|_F^2.$$
+$$E_a(\boldsymbol{x}, \boldsymbol{d}) = \sum_{e}^{\vert \mathcal{T}\vert } \min_{\boldsymbol{\Omega}_e} \gamma_e V_e \left\| \boldsymbol{F}_e(\boldsymbol{x}) - \boldsymbol{\Omega}_e \boldsymbol{Y}_e(\boldsymbol{d}) \right\|_F^2.$$
 
 这个旋转过滤保证驱动信号与形状朝向无关，并且守恒角动量——角色无法凭空产生外部力矩，从而避免了基于力的驱动（如 Liang et al.）导致的超自然旋转运动。
 
 关键设计三：聚类实现网格无关性。直接评估驱动能量需要对每个四面体计算最佳拟合旋转，代价随网格规模增长。本文让多个元素共享同一旋转矩阵 $$\boldsymbol{\Omega}_{c(e)}$$，并证明最优聚类旋转可由协方差矩阵的极分解得到：
 
-$$\boldsymbol{\Omega}_c = \mathrm{polar}\!\left(\sum_{e}^{|\mathcal{T}(c)|} \gamma_e V_e \boldsymbol{F}_e \boldsymbol{Y}_e^T\right).$$
+$$\boldsymbol{\Omega}_c = \mathrm{polar}\!\left(\sum_{e}^{\vert \mathcal{T}(c)\vert } \gamma_e V_e \boldsymbol{F}_e \boldsymbol{Y}_e^T\right).$$
 
 进一步注意到该求和是关于降维量 $$\boldsymbol{z}$$ 与 $$\bar{\boldsymbol{a}}$$ 的双线性形式，通过预计算张量 $$\mathcal{H}$$ 就能在运行时仅以聚类数、降维位置维度和驱动维度的复杂度评估：
 

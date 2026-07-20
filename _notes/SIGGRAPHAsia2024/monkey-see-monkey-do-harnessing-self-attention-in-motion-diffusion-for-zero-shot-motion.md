@@ -59,11 +59,11 @@ flowchart LR
 
 关键设计二：混合注意力块（mixed-attention）。回顾自注意力，Q/K/V 由输入隐藏张量 $$IH$$ 线性投影得到，注意力输出为
 
-$$A_n = \mathrm{softmax}\!\left(\frac{q_n \cdot K^{T}}{\sqrt{|IH_n|}}\right),\quad \hat{h}_n = A_n \cdot V$$
+$$A_n = \mathrm{softmax}\!\left(\frac{q_n \cdot K^{T}}{\sqrt{\vert IH_n\vert }}\right),\quad \hat{h}_n = A_n \cdot V$$
 
 MoMo 在输出动作的自注意力块中，注入来自 leader 的 Query 以及来自 follower 的 Key、Value：
 
-$$OH^{out} = IH^{out} + \mathrm{softmax}\!\left(\frac{Q^{ldr}\cdot K^{flw\,T}}{\sqrt{|IH_n|}}\right) V^{flw}$$
+$$OH^{out} = IH^{out} + \mathrm{softmax}\!\left(\frac{Q^{ldr}\cdot K^{flw\,T}}{\sqrt{\vert IH_n\vert }}\right) V^{flw}$$
 
 即用 leader 的 Q 去检索 follower 中语义最相关的 K，再据此加权聚合 follower 的 V。于是输出动作既继承 leader 的轮廓，又保留 follower 的 motifs。实践中该式在扩散步 90→10（共 100 步）、第 2 到 12 层（共 12 层）间应用。
 

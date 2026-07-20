@@ -42,7 +42,7 @@ links:
 
 记无向输入点为 $$\mathcal{P}=\{x_j\}_{j=1}^{N_{\mathcal{P}}}$$，目标是求解一致定向的法向 $$\mu_j$$（严格来说是带面积权重的定向面元，但主要关心方向）。缠绕数公式的离散形式为
 
-$$F(y;\mu)=\sum_{j=1}^{N_{\mathcal{P}}}\big((\nabla\Phi)(y-x_j)\big)\cdot\mu_j,\qquad \nabla\Phi(y)=-\frac{y}{4\pi|y|^3}.$$
+$$F(y;\mu)=\sum_{j=1}^{N_{\mathcal{P}}}\big((\nabla\Phi)(y-x_j)\big)\cdot\mu_j,\qquad \nabla\Phi(y)=-\frac{y}{4\pi\vert y\vert ^3}.$$
 
 **WNNC 核心观察**：若 $$\mu_j$$ 是一致朝外的正确法向，则 $$F(y;\mu)$$ 就是该形状的指示函数，其在输入点处的负梯度应与 $$\mu_i$$ 同向：
 
@@ -85,7 +85,7 @@ $$w=w_2\frac{n-i}{n-1}+w_1\frac{i-1}{n-1},$$
 
 三个核心算子 $$A$$、$$A^T$$、$$G$$ 的朴素计算复杂度为 $$O(N_{\mathcal{P}}^2)$$。由于核函数随距离快速衰减，远场中一群邻近源点可用一个"代表点"近似（Barnes–Hut treecode 思想）。用八叉树划分空间，每个节点按属性模长加权得到代表点位置
 
-$$x_{B,\nu}=\sum_{x_i\in\mathcal{P}_B}\frac{|\nu_i|}{\sum_{x_j\in\mathcal{P}_B}|\nu_j|}x_i,\qquad \nu_B=\sum_{x_i\in\mathcal{P}_B}\nu_i,$$
+$$x_{B,\nu}=\sum_{x_i\in\mathcal{P}_B}\frac{\vert \nu_i\vert }{\sum_{x_j\in\mathcal{P}_B}\vert \nu_j\vert }x_i,\qquad \nu_B=\sum_{x_i\in\mathcal{P}_B}\nu_i,$$
 
 远场用代表点、近场用原始点，通过树遍历完成求和，复杂度降为 $$O(N\log N)$$。作者自研 CUDA 核并集成进 PyTorch（$$A^T$$ 恰为 $$A$$ 的反向传播算子，因此支持可微编程）。
 
@@ -118,7 +118,7 @@ $$x_{B,\nu}=\sum_{x_i\in\mathcal{P}_B}\frac{|\nu_i|}{\sum_{x_j\in\mathcal{P}_B}|
 
 - 依赖 PGR 能量 $$E$$ 解决内/外歧义，WNNC 单独无法翻转错误定向；收敛严格依赖零初始化。
 - 迭代次数固定为 40（高亏格需 300），不采用早停以免停在大 $$w$$ 造成过度平滑；对极稀疏、极薄层几何（如降采样到 5 千点的垃圾桶模型）仍会失败。
-- 不使用估计的局部面积，实验表明固定面积会使可行域非线性、反而带来定向误差；求解出的 $$|\mu_i|$$ 并不收敛到真实局部面积（本文也不需要面积收敛）。
+- 不使用估计的局部面积，实验表明固定面积会使可行域非线性、反而带来定向误差；求解出的 $$\vert \mu_i\vert $$ 并不收敛到真实局部面积（本文也不需要面积收敛）。
 
 ## 延伸思考
 

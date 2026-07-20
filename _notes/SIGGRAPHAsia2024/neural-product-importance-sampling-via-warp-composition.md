@@ -69,7 +69,7 @@ flowchart LR
 **训练：前向 KL + 熵正则。** 用从目标 $$p^{*}_X$$ 抽取的样本最小化前向 KL 散度（等价于最大似然）：
 
 $$
-\mathcal{L}_{\mathrm{KL}}(\boldsymbol{\theta}) = -\mathbb{E}_{x \sim p^{*}_X}\big[\log |J_f(z; \boldsymbol{\theta})|^{-1}\big] + \text{const}
+\mathcal{L}_{\mathrm{KL}}(\boldsymbol{\theta}) = -\mathbb{E}_{x \sim p^{*}_X}\big[\log \vert J_f(z; \boldsymbol{\theta})\vert ^{-1}\big] + \text{const}
 $$
 
 为抑制 KL 过度激进拟合高密度区导致的萤火虫噪点，加入熵正则项：

@@ -54,13 +54,13 @@ $$
 通过规范变换定义脉冲场 $$\boldsymbol{m}=\boldsymbol{u}+\frac{1}{\rho}\nabla\alpha$$，其中规范变量 $$\alpha$$ 选取为使 $$\boldsymbol{m}$$ 初始等于 $$\boldsymbol{u}$$、且满足纯几何演化 $$\frac{D\boldsymbol{m}}{Dt}=-(\nabla\boldsymbol{u})^{T}\boldsymbol{m}$$。本文推导出
 
 $$
-\alpha(\boldsymbol{x},t)=\Big(\mathcal{L}_0^{t}\big(p-\tfrac{1}{2}\rho|\boldsymbol{u}|^2+\rho G\big)\Big)(\boldsymbol{x},t),
+\alpha(\boldsymbol{x},t)=\Big(\mathcal{L}_0^{t}\big(p-\tfrac{1}{2}\rho\vert \boldsymbol{u}\vert ^2+\rho G\big)\Big)(\boldsymbol{x},t),
 $$
 
 其中 $$\mathcal{L}_a^b$$ 是沿材料点轨迹的路径积分算子，$$G$$ 为重力势（$$\boldsymbol{g}=-\nabla G$$）。由此得到界面上 $$\alpha$$ 的历史依赖跳变：
 
 $$
-[\alpha]=\mathcal{L}_0^{t}(\sigma\kappa)+(\rho_A-\rho_L)\cdot\Big(\mathcal{L}_0^{t}G-\tfrac{1}{2}\mathcal{L}_0^{t}|\boldsymbol{u}|^2\Big)\ \text{on}\ \partial\Omega .
+[\alpha]=\mathcal{L}_0^{t}(\sigma\kappa)+(\rho_A-\rho_L)\cdot\Big(\mathcal{L}_0^{t}G-\tfrac{1}{2}\mathcal{L}_0^{t}\vert \boldsymbol{u}\vert ^2\Big)\ \text{on}\ \partial\Omega .
 $$
 
 整体求解沿"脉冲更新 → 投影为无散度速度"的流程进行，投影同样归结为求解泊松方程，并周期性地将脉冲重置为速度（脉冲重初始化）以避免数值失稳。
@@ -85,13 +85,13 @@ flowchart TD
 直接对 $$[\alpha]$$ 做路径积分并不可行——数值误差会使 $$\boldsymbol{\psi}$$ 偏离界面，而曲率随偏离迅速变化，导致表面张力累积项精度很低。为此本文将 $$\alpha$$ 分成两部分：
 
 $$
-\alpha^{n}=\mathcal{L}_{t_{n-1}}^{t_n}p+\Big(\mathcal{L}_0^{t_{n-1}}p-\tfrac{1}{2}\rho\,\mathcal{L}_0^{t_n}|\boldsymbol{u}|^2+\rho\,\mathcal{L}_0^{t_n}G\Big).
+\alpha^{n}=\mathcal{L}_{t_{n-1}}^{t_n}p+\Big(\mathcal{L}_0^{t_{n-1}}p-\tfrac{1}{2}\rho\,\mathcal{L}_0^{t_n}\vert \boldsymbol{u}\vert ^2+\rho\,\mathcal{L}_0^{t_n}G\Big).
 $$
 
 第一项 $$\mathcal{L}_{t_{n-1}}^{t_n}p$$ 离散为 $$p^{n}\Delta t$$，恰对应传统速度求解器在第 $$n$$ 步投影出的量；第二项（历史部分）通过维护压强缓冲并用路径积分方案（配合后向行进反向流图）从历史信息中获得。于是先计算中间速度
 
 $$
-\boldsymbol{u}^{*}=\boldsymbol{m}^{n}-\frac{1}{\rho}\nabla\Big(\mathcal{L}_0^{t_{n-1}}p-\tfrac{1}{2}\rho\,\mathcal{L}_0^{t_n}|\boldsymbol{u}|^2+\rho\,\mathcal{L}_0^{t_n}G\Big),
+\boldsymbol{u}^{*}=\boldsymbol{m}^{n}-\frac{1}{\rho}\nabla\Big(\mathcal{L}_0^{t_{n-1}}p-\tfrac{1}{2}\rho\,\mathcal{L}_0^{t_n}\vert \boldsymbol{u}\vert ^2+\rho\,\mathcal{L}_0^{t_n}G\Big),
 $$
 
 再对 $$\boldsymbol{u}^{*}$$ 做一次标准速度投影得到 $$\boldsymbol{u}^{n}$$。这一步的巧妙之处在于把历史依赖跳变转化回仅依赖当前几何的跳变项 $$\sigma\kappa$$，投影泊松方程在液气界面附近沿用 GFM 的离散思想（用界面位置比例 $$\theta$$ 定义有效密度 $$\hat{\rho}=\theta\rho_L+(1-\theta)\rho_A$$）。此外，在距界面小于 $$\epsilon$$ 的窄带面上改用对 $$\boldsymbol{u}^{n-1}$$ 的输运来求 $$\boldsymbol{u}^{*}$$，以避免界面附近大速度梯度引发失稳、以及压强插值跨越间断带来的无效结果。

@@ -72,7 +72,7 @@ flowchart LR
 
 对相空间高斯做逆 WDF 变换，得到广义射线的波函数：
 
-$$\psi_{\beta,\rho}(\vec{r};\vec{r}_0,\vec{k}_0) \triangleq \left(\frac{1}{\pi\beta^2}\right)^{3/4} e^{\,i\vec{k}_0\cdot(\vec{r}-\vec{r}_0)}\,e^{-\frac{1}{2\beta^2}(1-i\rho)|\vec{r}-\vec{r}_0|^2}$$
+$$\psi_{\beta,\rho}(\vec{r};\vec{r}_0,\vec{k}_0) \triangleq \left(\frac{1}{\pi\beta^2}\right)^{3/4} e^{\,i\vec{k}_0\cdot(\vec{r}-\vec{r}_0)}\,e^{-\frac{1}{2\beta^2}(1-i\rho)\vert \vec{r}-\vec{r}_0\vert ^2}$$
 
 其中 $$\beta$$ 是初始空间方差、$$\rho\ge 0$$ 与传播距离相关（$$\rho=0$$ 时即探测器处的相干态，是波动光学允许的最紧凑构造）。广义射线本质是一束高斯光束：它有明确定义的波函数（可 Wigner 表示），在自由空间、缓变折射率介质、光滑界面反/折射下与经典射线动力学完全一致，是"经典射线在波动光学下的类比"。
 

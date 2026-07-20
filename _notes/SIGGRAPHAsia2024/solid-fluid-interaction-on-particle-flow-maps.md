@@ -63,7 +63,7 @@ $$\frac{D\boldsymbol{u}}{Dt} = -\nabla p + \boldsymbol{f}_{s\to f}, \qquad \frac
 
 在有外力时，$$\boldsymbol{q}$$ 不再只包含压强项，需重新推导。经推导得到流图端点处速度的三项分解：
 
-$$\boldsymbol{u}_c = \underbrace{\mathbf{T}^{T}_{[a,c]}\boldsymbol{m}_a}_{\text{冲量映射}} - \underbrace{\mathbf{T}^{T}_{[a,c]}\int_a^c \mathbf{F}^{T}_{[\tau,a]}\left(\nabla p_\tau - \nabla\tfrac{1}{2}|\boldsymbol{u}_\tau|^2\right)d\tau}_{\text{投影}} + \underbrace{\mathbf{T}^{T}_{[a,c]}\int_a^c \mathbf{F}^{T}_{[\tau,a]}\boldsymbol{f}_\tau\, d\tau}_{\text{耦合力积分}}.$$
+$$\boldsymbol{u}_c = \underbrace{\mathbf{T}^{T}_{[a,c]}\boldsymbol{m}_a}_{\text{冲量映射}} - \underbrace{\mathbf{T}^{T}_{[a,c]}\int_a^c \mathbf{F}^{T}_{[\tau,a]}\left(\nabla p_\tau - \nabla\tfrac{1}{2}\vert \boldsymbol{u}_\tau\vert ^2\right)d\tau}_{\text{投影}} + \underbrace{\mathbf{T}^{T}_{[a,c]}\int_a^c \mathbf{F}^{T}_{[\tau,a]}\boldsymbol{f}_\tau\, d\tau}_{\text{耦合力积分}}.$$
 
 无耦合的纯冲量流图系统只需前两项；第三项（耦合力积分）是评估固体到流体耦合效应的关键，可理解为沿整条轨迹对耦合力做流图积分。
 
@@ -82,15 +82,15 @@ flowchart TD
 
 耦合本质发生在**速度域**，因此需将流图平流得到的冲量转换为速度。作者定义两个粒子缓冲：压强修正缓冲 $$\boldsymbol{\Lambda}$$ 与耦合力缓冲 $$\boldsymbol{\Upsilon}$$：
 
-$$\boldsymbol{\Lambda}_c = \int_a^c \mathbf{F}^{T}_{[\tau,a]}\nabla\left(p_\tau - \tfrac{1}{2}|\boldsymbol{u}_\tau|^2\right)d\tau, \qquad \boldsymbol{\Upsilon}_c = \int_a^c \mathbf{F}^{T}_{[\tau,a]}\boldsymbol{f}_\tau\, d\tau.$$
+$$\boldsymbol{\Lambda}_c = \int_a^c \mathbf{F}^{T}_{[\tau,a]}\nabla\left(p_\tau - \tfrac{1}{2}\vert \boldsymbol{u}_\tau\vert ^2\right)d\tau, \qquad \boldsymbol{\Upsilon}_c = \int_a^c \mathbf{F}^{T}_{[\tau,a]}\boldsymbol{f}_\tau\, d\tau.$$
 
 网格法难以从域内任意点起算路径积分，而粒子天然能沿轨迹累积，因此选用粒子流图框架，把 $$\mathbf{F}$$、$$\mathbf{T}$$、初始冲量 $$\boldsymbol{m}_a$$ 及两个缓冲都携带在流体粒子上。单步（从 $$b=c-\Delta t$$ 到 $$c$$）更新方程组为：
 
 $$\boldsymbol{m}_c = \mathbf{T}^{T}_{[a,c]}\boldsymbol{m}_a,$$
 
-$$\boldsymbol{u}^{*}_c = \boldsymbol{m}_c - \mathbf{T}^{T}_{[a,c]}(\boldsymbol{\Lambda}_b - \boldsymbol{\Upsilon}_b) + \nabla\tfrac{1}{2}|\boldsymbol{u}_b|^2\Delta t + \boldsymbol{f}_c\Delta t,$$
+$$\boldsymbol{u}^{*}_c = \boldsymbol{m}_c - \mathbf{T}^{T}_{[a,c]}(\boldsymbol{\Lambda}_b - \boldsymbol{\Upsilon}_b) + \nabla\tfrac{1}{2}\vert \boldsymbol{u}_b\vert ^2\Delta t + \boldsymbol{f}_c\Delta t,$$
 
-$$\boldsymbol{\Lambda}_c = \boldsymbol{\Lambda}_b + \mathbf{F}^{T}_{[c,a]}\Delta t\left(\nabla p_c - \nabla\tfrac{1}{2}|\boldsymbol{u}_c|^2\right), \qquad \boldsymbol{\Upsilon}_c = \boldsymbol{\Upsilon}_b + \mathbf{F}^{T}_{[c,a]}\Delta t\,\boldsymbol{f}_c.$$
+$$\boldsymbol{\Lambda}_c = \boldsymbol{\Lambda}_b + \mathbf{F}^{T}_{[c,a]}\Delta t\left(\nabla p_c - \nabla\tfrac{1}{2}\vert \boldsymbol{u}_c\vert ^2\right), \qquad \boldsymbol{\Upsilon}_c = \boldsymbol{\Upsilon}_b + \mathbf{F}^{T}_{[c,a]}\Delta t\,\boldsymbol{f}_c.$$
 
 转换后固体与流体都用速度这一"短程"物理量描述，耦合即可退化为传统速度域方法（P2G 或力扩散 + Poisson 投影）。重力、黏性等外力也能以相同方式累积进 $$\boldsymbol{\Upsilon}$$；非均匀密度场景下 $$\boldsymbol{\Lambda}$$ 中的压强项替换为 $$\tfrac{1}{\rho}\nabla p_c$$。
 

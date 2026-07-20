@@ -31,7 +31,7 @@ links:
 
 基于光树（层次化光簇）的重要性采样是主流方案：通过按每个节点的重要性随机遍历树来选择光源。关键在于节点重要性要尽量接近该光簇的光照积分，并满足无偏采样约束：
 
-$$ I > 0 \quad \text{if} \quad \int_{S^2} L(\mathbf{x}, \mathbf{o}) f(\mathbf{i}, \mathbf{o}) |\mathbf{o}\cdot\mathbf{n}|\, d\mathbf{o} > 0 $$
+$$ I > 0 \quad \text{if} \quad \int_{S^2} L(\mathbf{x}, \mathbf{o}) f(\mathbf{i}, \mathbf{o}) \vert \mathbf{o}\cdot\mathbf{n}\vert \, d\mathbf{o} > 0 $$
 
 以往方法只能用粗糙近似（上界、忽略 BRDF、用各向同性瓣近似各向异性反射），导致在靠近根节点处误差很大，只能在遍历时自适应地拆分光簇、每次查询生成多个样本，增加了计算量与实现复杂度。已有的高质量 SG 光照近似虽精确，却会因近似误差产生零或负的重要性，违反无偏约束，因而不能直接用于层次采样。本文要解决的正是在满足约束前提下，如何用 SG 给出足够精确的节点重要性。
 

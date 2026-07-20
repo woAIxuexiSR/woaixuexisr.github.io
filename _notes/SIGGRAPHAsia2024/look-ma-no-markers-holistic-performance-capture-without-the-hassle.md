@@ -69,7 +69,7 @@ $$
 **关键设计 2：仅用合成数据 + 稠密概率关键点。** 用 SOMA 采样身份、位姿、服装、头发、贴图与 HDRI 环境，经 Cycles 渲染生成 SynthBody / SynthFace / SynthHand 三个数据集（各约 10 万张），带无噪声的丰富真值标注。网络采用 HRNet 主干 + 三个 MLP 头（关键点、位姿、体型），全身用 1428 个关键点、每只手 141 个、脸 744 个（含每眼 16 个虹膜边界点、牙齿 12 个、舌头 9 个）。每个关键点建模为圆形高斯 $$L_i=\{\boldsymbol{\mu}_i,\sigma_i\}$$，训练用带权高斯负对数似然损失：
 
 $$
-\mathcal{L}_{\text{ldmk}}=\sum_{i=1}^{|L|}\lambda_i\left(\log(\sigma_i^2)+\frac{\|\boldsymbol{\mu}_i-\boldsymbol{\mu}_i'\|^2}{2\sigma_i^2}\right)
+\mathcal{L}_{\text{ldmk}}=\sum_{i=1}^{\vert L\vert }\lambda_i\left(\log(\sigma_i^2)+\frac{\|\boldsymbol{\mu}_i-\boldsymbol{\mu}_i'\|^2}{2\sigma_i^2}\right)
 $$
 
 位姿用 6D 旋转表示并加关节平移/旋转重建损失，总损失为关键点、位姿、关节、体型各项的加权和。身体网络还回归位姿与前 10 个体型主成分作初始化；脸网络只保留关键点头。
@@ -83,13 +83,13 @@ $$
 数据项为按预测不确定性加权的重投影误差：
 
 $$
-E_{\text{ldmks}}=\sum_{i,j,k}^{F,C,|L|}\frac{\|x_{ijk}-\boldsymbol{\mu}_{ijk}\|^2}{2\sigma_{ijk}^2}
+E_{\text{ldmks}}=\sum_{i,j,k}^{F,C,\vert L\vert }\frac{\|x_{ijk}-\boldsymbol{\mu}_{ijk}\|^2}{2\sigma_{ijk}^2}
 $$
 
 不确定性加权让多视角下遮挡较少的视角占主导、单视角下遮挡区域更多依赖先验。位姿先验 $$E_{\text{pose}}$$ 使用基于 Real-NVP 的 Normalizing Flow 神经先验，通过变量替换公式建模位姿密度：
 
 $$
-p_q(q)=p_z\big(T^{-1}(q)\big)\left|\det J_{T^{-1}}(q)\right|
+p_q(q)=p_z\big(T^{-1}(q)\big)\left\vert \det J_{T^{-1}}(q)\right\vert 
 $$
 
 ## 实验结果

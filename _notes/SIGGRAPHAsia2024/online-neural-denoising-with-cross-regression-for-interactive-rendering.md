@@ -105,7 +105,7 @@ $$
 网络参数随机初始化、无任何预训练，每帧仅做一步反向传播。损失由空间项和时间项组成：
 
 $$
-\mathcal{L}=\frac{1}{|\mathcal{I}|}\sum_{c\in\mathcal{I}}\frac{1}{2}(\mathcal{L}^s_c+\mathcal{L}^t_c)
+\mathcal{L}=\frac{1}{\vert \mathcal{I}\vert }\sum_{c\in\mathcal{I}}\frac{1}{2}(\mathcal{L}^s_c+\mathcal{L}^t_c)
 $$
 
 空间损失用"一张 buffer 的去噪输出去逼近另一张 buffer 的引导估计"，因两者互相关低，可衡量差异而不过拟合噪声：

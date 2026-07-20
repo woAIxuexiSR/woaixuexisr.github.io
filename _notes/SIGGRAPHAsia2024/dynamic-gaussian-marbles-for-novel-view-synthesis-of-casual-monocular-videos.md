@@ -68,14 +68,14 @@ flowchart TD
 **3. 跟踪损失（利用现成点跟踪）**
 用 CoTracker 在 $$[j-w, j+w]$$（实践中 $$w=12$$）估计一组 2D 点轨迹 $$P$$，随机取源帧 $$i$$，对每个跟踪点找 2D 上最近的 $$K=32$$ 个高斯，惩罚它们与该点距离的变化：
 
-$$L_{\text{track}}=\sum_{p\in P}\sum_{g\in \mathcal{N}(p_i)}\alpha'_i\left| D_i\lVert\mu'_i-p_i\rVert_2 - D_j\lVert\mu'_j-p_j\rVert_2\right|$$
+$$L_{\text{track}}=\sum_{p\in P}\sum_{g\in \mathcal{N}(p_i)}\alpha'_i\left\vert  D_i\lVert\mu'_i-p_i\rVert_2 - D_j\lVert\mu'_j-p_j\rVert_2\right\vert $$
 
 其中 $$\mu'_i, D_i$$ 是高斯投影后的位置与深度，$$\alpha'_i$$ 是它对像素 $$p_i$$ 的不透明度贡献。
 
 **4. 几何正则（等距 + 3D 对齐）**
 局部等距损失约束局部邻域近似刚性运动，实例等距损失让同一语义实例整体近似刚性移动：
 
-$$L_{\text{iso-local}}=\sum_{g_a\in\mathcal{G}}\sum_{g_b\in\mathcal{N}(g_a)}\left|\lVert\mu^a_i-\mu^b_i\rVert-\lVert\mu^a_j-\mu^b_j\rVert\right|$$
+$$L_{\text{iso-local}}=\sum_{g_a\in\mathcal{G}}\sum_{g_b\in\mathcal{N}(g_a)}\left\vert \lVert\mu^a_i-\mu^b_i\rVert-\lVert\mu^a_j-\mu^b_j\rVert\right\vert $$
 
 合并两组弹珠时还需在 3D 空间对齐（否则训练视角清晰、新视角却"云雾状"）。由于两组可能观察到场景不同部分，不能直接算 Chamfer；作者把每组按"来自单帧"拆成子集、随机洗牌后各取前 25% 组成 $$\mathcal{G}_1$$ 与 $$\mathcal{G}_2$$，再算双向 Chamfer 距离：
 

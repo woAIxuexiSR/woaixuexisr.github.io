@@ -82,7 +82,7 @@ $$\begin{pmatrix} a \\ b \\ c \\ w \end{pmatrix} = A^{-1} \begin{pmatrix} d^{(1)
 
 $$\max_k\{d^{(k)}(t_j;T_i)\} \le \delta + 2R_i \quad \text{且} \quad \min_k\{d^{(k)}(t_j;T_i)\} \ge \delta - 2R_i$$
 
-直观理解为：把 $$T_i$$ 向外扩张 $$|\delta|$$ 得到包络体，若其包住或碰到 $$t_j$$ 则该对有贡献。
+直观理解为：把 $$T_i$$ 向外扩张 $$\vert \delta\vert $$ 得到包络体，若其包住或碰到 $$t_j$$ 则该对有贡献。
 
 ### 关键设计三：四面体内半平面切割
 
@@ -100,7 +100,7 @@ $$\mathrm{sign}(\det(A')) \times \mathrm{sign}(\det(A))$$
 
 $$\nabla D_1 \cdot \nabla D_2 \ge \alpha$$
 
-时视为 $$\alpha$$-相似，可合并（合并场为 $$D_{12} = S \odot \min(|D_1|, |D_2|)$$，$$S$$ 记录顶点内外符号）。
+时视为 $$\alpha$$-相似，可合并（合并场为 $$D_{12} = S \odot \min(\vert D_1\vert , \vert D_2\vert )$$，$$S$$ 记录顶点内外符号）。
 
 跨四面体合并需保证一致性（避免缝隙与离群），据此构建贡献图 $$G_1$$、关系图 $$G_2$$ 与带权相容图 $$G_3$$。两三角形合并代价定义为
 

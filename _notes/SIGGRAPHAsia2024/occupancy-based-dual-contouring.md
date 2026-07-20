@@ -65,9 +65,9 @@ $$p_{c,i} = \arg\min_{p} \sum_{e \in E^S_{c,i}} \left[ n(p_e) \cdot (p - p_e) \r
 
 ## 实验结果
 
-在 SALAD 与 3DShape2VecSet 两个生成模型的无条件生成占据函数上评测（分辨率 $$128^3$$），指标含拟合误差 $$|\phi-0.5|$$、自交比例 SI、流形比例 Man. 与耗时。
+在 SALAD 与 3DShape2VecSet 两个生成模型的无条件生成占据函数上评测（分辨率 $$128^3$$），指标含拟合误差 $$\vert \phi-0.5\vert $$、自交比例 SI、流形比例 Man. 与耗时。
 
-| 方法 | SALAD $$|\phi-0.5|\downarrow$$ | SALAD SI(%)↓ | SALAD Man.(%)↑ | S2VS $$|\phi-0.5|\downarrow$$ | S2VS SI(%)↓ | S2VS Man.(%)↑ |
+| 方法 | SALAD $$\vert \phi-0.5\vert \downarrow$$ | SALAD SI(%)↓ | SALAD Man.(%)↑ | S2VS $$\vert \phi-0.5\vert \downarrow$$ | S2VS SI(%)↓ | S2VS Man.(%)↑ |
 |---|---|---|---|---|---|---|
 | MC | 0.324 | 0.00 | 100. | 2.330 | 0.00 | 100. |
 | IC | 0.329 | 0.00 | 21.8 | 2.292 | 0.00 | 53.2 |

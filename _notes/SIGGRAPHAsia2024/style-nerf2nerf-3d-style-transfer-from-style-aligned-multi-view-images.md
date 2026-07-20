@@ -55,7 +55,7 @@ $$\text{Attn}(Q_i, K_{1\ldots n}, V_{1\ldots n}),\quad K_{1\ldots n}=[K_1,K_2,\l
 
 **关键设计三：切片 Wasserstein 距离损失微调 NeRF。** 直接用 RGB 像素损失微调容易因几何/颜色歧义而过拟合、发糊，因此改用基于 VGG-19 特征统计的 SWD 损失来刻画感知相似度。将第 $$l$$ 层特征投影到随机单位方向后，一维 Wasserstein 距离可用排序后的 $$L_2$$ 差闭式计算：
 
-$$\mathcal{L}_{SW1D}(p_V^l,\hat{p}_V^l)=\frac{1}{|p_V^l|}\lVert \text{sort}(p_V^l)-\text{sort}(\hat{p}_V^l)\rVert_2$$
+$$\mathcal{L}_{SW1D}(p_V^l,\hat{p}_V^l)=\frac{1}{\vert p_V^l\vert }\lVert \text{sort}(p_V^l)-\text{sort}(\hat{p}_V^l)\rVert_2$$
 
 $$\mathcal{L}_{style}=\sum_{l=1}^{L}\mathcal{L}_{SWD}(p_l,\hat{p}_l),\quad \mathcal{L}_{SWD}=\sum_{l=1}^{L}\mathbb{E}_V[\mathcal{L}_{SW1D}(p_V^l,\hat{p}_V^l)]$$
 

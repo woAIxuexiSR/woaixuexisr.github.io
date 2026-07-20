@@ -79,7 +79,7 @@ $$
 关键设计三：PSF 计算与混合精度训练。调制后的波场用角谱法传播到传感器：
 
 $$
-U_{Sensor}=\mathcal{F}^{-1}\big(\mathcal{F}(U_{DOE+})\,H\big),\qquad PSF=|U_{Sensor}|^2
+U_{Sensor}=\mathcal{F}^{-1}\big(\mathcal{F}(U_{DOE+})\,H\big),\qquad PSF=\vert U_{Sensor}\vert ^2
 $$
 
 为满足奈奎斯特采样，波场以 DOE 特征尺寸的整数倍（通常 2 倍）采样并做零填充覆盖离轴波。同时提出混合精度策略：光学仿真中的相位计算用双精度，PSF 转单精度供网络训练，反传时再转回双精度继续在光学部分回传，兼顾精度与效率。模型基于开源可微光线追踪器 DeepLens 与 PyTorch 实现。

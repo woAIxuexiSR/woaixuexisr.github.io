@@ -50,7 +50,7 @@ flowchart LR
 
 **相对坐标系（可变形的核心）**：GC 的轴是一条连续可微曲线 $$C(t)=(x(t),y(t),z(t)),\ t\in[0,1]$$。每个曲线点 $$p=C(t)$$ 上建立局部标架：x 轴取切向量 $$x(t)=C'(t)$$，y、z 轴由给定函数 $$y(t),z(t)$$ 定义。椭圆形截面定义为
 
-$$Profile(t)=\{q\ |\ F^t_x(q)=0\ \text{且}\ F^t_y(q)^2+F^t_z(q)^2\le 1\}$$
+$$Profile(t)=\{q\ \vert \ F^t_x(q)=0\ \text{且}\ F^t_y(q)^2+F^t_z(q)^2\le 1\}$$
 
 其中 $$F^t$$ 把世界坐标转换到 $$p$$ 的局部标架，椭圆长短半径由 $$r_y(t)=1/\|y(t)\|$$、$$r_z(t)=1/\|z(t)\|$$ 隐式给出。点的相对坐标 $$(t,a,b)$$ 满足世界坐标 $$q=(F^t)^{-1}([0,a,b])$$，它对 GC 的"形状"不变——当 GC 变形时，定义在相对坐标上的隐式场会随之自然变形，从而形状相对于 GC 保持一致。世界坐标到相对坐标的映射存在多解，作者取曲线上最近点确定 $$t$$ 以消歧。
 
@@ -64,11 +64,11 @@ $$F(\bar{p};z)=h(t,a,b,g(f(t)))$$
 
 $$\min_{\forall z_i,\Theta}\ L_{data}+\lambda L_{reg}$$
 
-其中 $$L_{data}=\frac{1}{N_G}\sum_i \mathbb{E}_{\bar{p}\sim G_i}|F(\bar{p};z_i)-sdf_i(\bar{p})|$$，$$L_{reg}=\frac{1}{N_G}\sum_i\|z_i\|_2^2$$，$$\lambda=0.0001$$。变形时无需改动特征，只需求解满足约束的新 GC（估计刚性变换、化为带长度约束的 Hermite 曲线插值，尽量保持曲线长度与椭圆半径以做到尽量刚性）。部分混合则沿曲线插值两形状特征：$$h(t,a,b,\text{blend}(g(f_A(t)),g(f_B(t)),t))$$，blend 可取截断线性等用户自定义函数。多个 GC 相交处取符号距离最小值以并集。
+其中 $$L_{data}=\frac{1}{N_G}\sum_i \mathbb{E}_{\bar{p}\sim G_i}\vert F(\bar{p};z_i)-sdf_i(\bar{p})\vert $$，$$L_{reg}=\frac{1}{N_G}\sum_i\|z_i\|_2^2$$，$$\lambda=0.0001$$。变形时无需改动特征，只需求解满足约束的新 GC（估计刚性变换、化为带长度约束的 Hermite 曲线插值，尽量保持曲线长度与椭圆半径以做到尽量刚性）。部分混合则沿曲线插值两形状特征：$$h(t,a,b,\text{blend}(g(f_A(t)),g(f_B(t)),t))$$，blend 可取截断线性等用户自定义函数。多个 GC 相交处取符号距离最小值以并集。
 
 ## 实验结果
 
-在 50 个来自 PSB 与 Objaverse 的形状上训练 auto-decoder，评估表示能力与变形质量。变形对比以体积相对变化误差 $$\epsilon_V=|V(\tilde{S})-V(S)|/V(S)$$ 衡量，NGC 在保体积上大幅领先经典 ARAP、SR-ARAP 与神经方法 NFGP（数值 $$\times100\%$$）：
+在 50 个来自 PSB 与 Objaverse 的形状上训练 auto-decoder，评估表示能力与变形质量。变形对比以体积相对变化误差 $$\epsilon_V=\vert V(\tilde{S})-V(S)\vert /V(S)$$ 衡量，NGC 在保体积上大幅领先经典 ARAP、SR-ARAP 与神经方法 NFGP（数值 $$\times100\%$$）：
 
 | 方法 | Dolphin | CAD | Spoon | Bar1 | Bar2 |
 |------|---------|-----|-------|------|------|

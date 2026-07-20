@@ -1,0 +1,21 @@
+---
+title: "Moment Bounds are Differentiable: Efficiently Approximating Measures in Inverse Rendering"
+authors:
+  - Markus Worchel
+  - Marc Alexa
+category: Rendering
+track: Journal
+source: none
+institution: Technische Universität Berlin
+tags:
+  - Differentiable Rendering
+  - Inverse Rendering
+  - Moment Bounds
+  - Measure Approximation
+  - Monte Carlo
+  - Computer Graphics
+links:
+  paper: https://doi.org/10.1145/3730899
+  code: https://github.com/mworchel/differentiable-moment-bounds
+  project: https://mworchel.github.io/
+---

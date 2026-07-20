@@ -63,7 +63,7 @@ $$p_t^i := \mathrm{ReLU}[\sigma_b - (c_t^i - b_t)\cdot n_t^b]\, n_t^b$$
 
 考虑到粗网格形状对褶皱细节表现有显著影响，Decoder E（一个 MLP）用三角形三个顶点的位移特征在局部坐标 $$H_f$$ 下解码位移，然后对相邻三角形取平均得到顶点位移：
 
-$$d = \frac{1}{|f|}\sum_f H_f[\tilde{d}_{f_c}]$$
+$$d = \frac{1}{\vert f\vert }\sum_f H_f[\tilde{d}_{f_c}]$$
 
 最终校正网格为 $$\hat{C} = C + D$$。
 
