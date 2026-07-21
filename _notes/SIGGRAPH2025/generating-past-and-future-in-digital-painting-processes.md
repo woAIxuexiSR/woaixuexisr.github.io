@@ -21,9 +21,6 @@ links:
   paper: https://doi.org/10.1145/3731160
   project: https://lllyasviel.github.io/paints_alter_web/
 ---
-
-# Generating Past and Future in Digital Painting Processes
-
 ## 一句话总结
 
 提出 PaintsAlter 框架：给定用户上传的一张画布图像，用重新利用（repurpose）的视频扩散模型生成这张画"之前（past）"与"之后（future）"的绘画过程帧，把绘画过程建模成一个"集合到集合（set-to-set）"的映射问题，支持一对一、多对多以及非连续帧的任意查询。

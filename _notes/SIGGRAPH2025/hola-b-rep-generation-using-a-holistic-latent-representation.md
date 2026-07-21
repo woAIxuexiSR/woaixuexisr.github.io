@@ -23,9 +23,6 @@ links:
   paper: https://doi.org/10.1145/3730842
   arxiv: https://arxiv.org/abs/2504.14257
 ---
-
-# HoLa: B-Rep Generation using a Holistic Latent Representation
-
 ## 一句话总结
 
 HoLa 把 B-Rep 中曲面、曲线、顶点的几何与离散拓扑连接全部融合进一个只定义在曲面上的"整体隐空间"，靠一个神经相交模块从曲面对反推出交线几何与连接关系，从而首次用单一扩散模型支持点云、图像、草图、文本等多种条件的 B-Rep 生成，并把无条件生成的有效率从约 50% 提升到 82%。

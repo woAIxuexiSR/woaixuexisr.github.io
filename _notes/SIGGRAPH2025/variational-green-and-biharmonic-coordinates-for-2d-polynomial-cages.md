@@ -23,9 +23,6 @@ links:
   paper: "https://doi.org/10.1145/3731421"
   project: "https://eliemichel.github.io/Variational2dPolyCoords"
 ---
-
-# Variational Green and Biharmonic Coordinates for 2D Polynomial Cages
-
 ## 一句话总结
 
 本文给出了针对"输入静止笼子本身就是多项式曲线"这一最一般情形的 Green（调和）与双调和坐标的闭式表达，并额外推出坐标的一阶、二阶导数，使得基于笼子的快速解码能力首次能与变分求解器结合，支撑丰富的弹性形变。

@@ -20,9 +20,6 @@ links:
   paper: https://doi.org/10.1145/3730853
   project: https://claycode.io
 ---
-
-# Claycode: Stylable and Deformable 2D Scannable Codes
-
 ## 一句话总结
 
 Claycode 把要编码的比特串映射到一棵**拓扑树**，再以"颜色区域层层嵌套"的方式绘制进任意目标多边形内，从而得到一种既能高度风格化、又能承受剧烈形变的二维可扫描码——在传统 QR 码普遍失效的弯折、遮挡等场景下依然可读。

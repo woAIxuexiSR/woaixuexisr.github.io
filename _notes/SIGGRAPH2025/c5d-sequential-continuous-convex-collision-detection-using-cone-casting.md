@@ -22,9 +22,6 @@ links:
   paper: https://doi.org/10.1145/3731151
   code: https://github.com/Rabbit-Hu/c5d
 ---
-
-# C5D: Sequential Continuous Convex Collision Detection Using Cone Casting
-
 ## 一句话总结
 
 本文提出一种面向**凸形状 + 仿射运动**的连续碰撞检测（CCD）算法 C5D，用"锥投射（cone casting）"把两个仿射运动物体的求交问题化归为守恒推进（conservative advancement）迭代，在单线程上即可比图元级基线 ACCD 快约 10 倍，特别适合缺乏高端 GPU 的资源受限场景（如机器人策略训练中成千上万个实例并行仿真）。

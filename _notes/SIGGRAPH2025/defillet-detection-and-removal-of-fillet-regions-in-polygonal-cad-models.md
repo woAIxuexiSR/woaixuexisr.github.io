@@ -24,9 +24,6 @@ links:
   paper: https://doi.org/10.1145/3731166
   code: https://github.com/xiaowuga/DeFillet
 ---
-
-# DeFillet：多边形 CAD 模型中圆角区域的检测与去除
-
 ## 一句话总结
 
 利用表面采样点的 Voronoi 图——其顶点会沿"滚球中心轨迹"高密度聚集这一观察——先精准识别多边形 CAD 模型上的圆角（fillet）区域，再把尖锐特征的重建建模为一个二次优化问题，从而把圆角化的网格模型还原回原始的带尖锐边的形态。

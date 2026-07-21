@@ -22,9 +22,6 @@ links:
   paper: https://doi.org/10.1145/3730935
   project: https://arxiv.org/abs/2506.01288
 ---
-
-# WishGI: Lightweight Static Global Illumination Baking via Spherical Harmonics Fitting
-
 ## 一句话总结
 
 面向低端平台的静态全局光照方案：用球谐拟合把有效方向的光照信息烘焙进"顶点—探针"关联，配合在局部空间做的逆向探针分布，用主流工业方法约 5% 的显存实现可用画质并对前向渲染友好。

@@ -27,9 +27,6 @@ links:
   project: "https://zhiminfan.work/"
   code: "https://github.com/mollnn"
 ---
-
-# Bernstein Bounds for Caustics
-
 ## 一句话总结
 
 通过把镜面焦散路径的位置与辐照度表达成有理函数，并借助 Bernstein 多项式基获得保守而紧致的上下界，从而以"有界的方差"随机采样三角形元组，把复杂焦散渲染的效率提升约一个数量级。

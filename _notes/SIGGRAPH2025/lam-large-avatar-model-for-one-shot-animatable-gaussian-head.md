@@ -24,9 +24,6 @@ links:
   paper: "https://doi.org/10.1145/3721238.3730706"
   project: "https://aigc3d.github.io/projects/LAM/"
 ---
-
-# LAM: Large Avatar Model for One-shot Animatable Gaussian Head
-
 ## 一句话总结
 
 LAM 用一个以 FLAME 规范点云为查询、与多尺度图像特征做交叉注意力的 Transformer，从单张图像一次前向就重建出可动画、可渲染的高斯头像，且动画与渲染全程不依赖任何额外神经网络，能在包括手机在内的多种平台实时运行。

@@ -26,9 +26,6 @@ links:
   project: "https://mariasoroka.github.io/papers/EdgeSampling.html"
   code: "https://github.com/mariasoroka/QuadricBasedSilhouetteSampling"
 ---
-
-# Quadric-Based Silhouette Sampling for Differentiable Rendering
-
 ## 一句话总结
 
 用对偶空间的包围盒加一族对偶二次曲面来紧致地描述网格片的"轮廓可能出现的平面集合"，从而设计出更精确的节点拒绝测试，让经典的边采样（edge sampling）在单向路径追踪里重新变得可与面积采样、路径空间方法竞争。

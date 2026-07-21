@@ -21,9 +21,6 @@ links:
   paper: https://doi.org/10.1145/3731167
   project: https://zhongleilz.github.io/Sketch2Anim/
 ---
-
-# Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation
-
 ## 一句话总结
 
 把分镜草图（2D 关键姿态 + 关节轨迹 + 动作词）自动翻译成高质量 3D 动画，核心是用 3D 条件训练、2D 条件推理的"神经映射器"跨越 2D–3D 域差，再用"轨迹 ControlNet + 关键姿态适配器"同时注入多种控制信号。

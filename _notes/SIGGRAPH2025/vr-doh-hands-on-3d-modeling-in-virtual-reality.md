@@ -22,9 +22,6 @@ links:
   paper: https://doi.org/10.1145/3731154
   code: https://github.com/Simulation-Intelligence/VR-Doh
 ---
-
-# VR-Doh: Hands-on 3D Modeling in Virtual Reality
-
 ## 一句话总结
 
 VR-Doh 是一个开源的 VR 徒手 3D 建模系统，用定制化的物质点法（MPM）实时模拟手部引起的大变形，并结合增强版 3D 高斯泼溅渲染，让用户像捏黏土一样直接用双手创作和编辑可仿真的弹塑性物体。

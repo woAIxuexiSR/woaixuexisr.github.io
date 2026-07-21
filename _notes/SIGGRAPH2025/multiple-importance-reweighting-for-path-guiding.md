@@ -24,9 +24,6 @@ links:
   project: "https://zhiminfan.work/mi_reweight.html"
   code: "https://github.com/mollnn/multiple-importance-reweight"
 ---
-
-# Multiple Importance Reweighting for Path Guiding
-
 ## 一句话总结
 
 把路径引导中"多轮迭代产生的样本如何合并"这件事，从图像空间的加权求和，升级为在路径空间逐条路径计算权重的重加权过程；借鉴自适应多重重要性采样（AMIS）的思想，用多轮引导分布的混合来算每个样本的权重，从而在几乎不引入偏差的前提下显著降噪。

@@ -22,9 +22,6 @@ links:
   paper: https://doi.org/10.1145/3731179
   code: https://github.com/BehroozZare/Parth
 ---
-
-# Adaptive Algebraic Reuse of Reordering in Cholesky Factorizations with Dynamic Sparsity Patterns
-
 ## 一句话总结
 
 提出 Parth：一个能在稀疏模式动态变化（接触模拟、局部重网格）时，自适应"局部复用"填充缩减排序（fill-reducing ordering）的模块，只需三行代码即可接入 MKL、CHOLMOD、Apple Accelerate 等主流稀疏 Cholesky 求解器，实现最高 255× 的排序加速与最高 5.89× 的整体求解加速，且不损失数值质量。

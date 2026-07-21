@@ -21,9 +21,6 @@ links:
   paper: "https://doi.org/10.1145/3731208"
   project: "https://viterbi-web.usc.edu/~jbarbic/fcurves/"
 ---
-
-# ANIME-Rod: Adjustable Nonlinear Isotropic Materials for Elastic Rods
-
 ## 一句话总结
 
 从任意 3D 各向同性非线性体材料出发，通过"截面趋于零"的极限过程解析推导出一个用中心线宏观量（纵向拉伸、径向缩放、两个弯曲曲率、扭转）表达的弹性杆能量，使得"任意超弹性材料的杆"（Stable Neo-Hookean 杆、StVK 杆等）都能被统一模拟，并可让艺术家独立调节拉伸/弯曲/扭转的线性与非线性行为。

@@ -22,9 +22,6 @@ tags:
 links:
   paper: https://doi.org/10.1145/3731172
 ---
-
-# MyTimeMachine: Personalized Facial Age Transformation
-
 ## 一句话总结
 
 利用一个人 10~50 张跨越 20~40 年的个人照片，把全局衰老先验与个性化衰老特征通过一个轻量 Adapter 网络融合，实现既符合本人真实衰老规律、又能外推到未见年龄的人脸变老/返老，并可扩展到时序一致的视频换龄。

@@ -19,9 +19,6 @@ links:
   paper: https://doi.org/10.1145/3731155
   code: https://github.com/Simulation-Intelligence/CK-MPM
 ---
-
-# CK-MPM: A Compact-Kernel Material Point Method
-
 ## 一句话总结
 
 提出一个半径仅为 2、且 $C^2$ 连续的紧支撑核函数，配合"交错双网格"框架，让每个粒子只关联所在单元的网格节点，从而在稳定性、精度与效率之间取得独特平衡：相比二次 B 样条核，关联节点数减半、数值耗散更低，还能提速。

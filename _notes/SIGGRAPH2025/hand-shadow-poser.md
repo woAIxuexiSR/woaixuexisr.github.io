@@ -22,9 +22,6 @@ links:
   paper: "https://doi.org/10.1145/3730836"
   code: "https://github.com/hxwork/HandShadowPoser"
 ---
-
-# Hand-Shadow Poser
-
 ## 一句话总结
 
 给定一张目标剪影（二值 mask），本文用一个三阶段流水线反解出左右双手的 3D 姿态（MANO 参数），让两只手投出的阴影尽可能贴合输入形状，并且只依赖通用公开手部数据训练，无需专门的手影数据集。

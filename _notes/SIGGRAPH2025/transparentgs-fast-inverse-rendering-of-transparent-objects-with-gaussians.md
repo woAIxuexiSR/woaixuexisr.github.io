@@ -26,9 +26,6 @@ links:
   paper: https://doi.org/10.1145/3730892
   project: https://arxiv.org/abs/2504.18768
 ---
-
-# TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians
-
 ## 一句话总结
 
 TransparentGS 用带材质属性的"透明高斯基元 + 延迟折射"表示透明物体，用"高斯光场探针（GaussProbe）+ 深度迭代查询（IterQuery）"统一编码环境光与近场间接光，首次在 1 小时内完成透明物体的逆向渲染并支持实时新视角合成与二次光线效果。

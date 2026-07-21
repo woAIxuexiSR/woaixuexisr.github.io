@@ -22,9 +22,6 @@ links:
   project: "https://staff.ustc.edu.cn/~fuxm/projects/FSCQ/FSCQ.html"
   code: "https://github.com/AnderLiang/Field-Smoothness-Controlled-Quadrangulation"
 ---
-
-# Field Smoothness-Controlled Partition for Quadrangulation
-
 > 说明：本篇全文 PDF（约 261M）托管在作者主页但当前无法下载，正文依据作者项目页（摘要、动机、方法段落）与公开信息整理，实验部分仅给出项目页描述的定性结论，不含具体数值表格。
 
 ## 一句话总结

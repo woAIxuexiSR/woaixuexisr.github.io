@@ -25,9 +25,6 @@ links:
   paper: https://doi.org/10.1145/3731165
   project: https://dsaurus.github.io/isa4d/
 ---
-
-# Interspatial Attention for Efficient 4D Human Video Generation
-
 ## 一句话总结
 
 提出一种「空间间注意力」（Interspatial Attention, ISA）机制作为扩散 Transformer 的可扩展基本模块，通过 3D SMPL 模板与 2D 视频特征之间的对称交叉注意力和相对位置编码，实现高质量、可控（相机、姿态、多人物、背景）且保持身份一致的 4D 数字人视频生成。

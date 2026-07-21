@@ -20,9 +20,6 @@ links:
   project: https://xinyu-yi.github.io/GlobalPose/
   code: https://xinyu-yi.github.io/GlobalPose/
 ---
-
-# Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics
-
 ## 一句话总结
 
 只用 6 个 IMU，就通过"重力先验 + 3D 接触物理优化"把稀疏惯性动捕从被绑死在平地上的 2D 平移、且全局朝向长期漂移的困境中解放出来，实现了不受地面约束的真正 3D 全局运动重建，同时顺带估计出 3D 接触、接触力、关节力矩和交互代理面。

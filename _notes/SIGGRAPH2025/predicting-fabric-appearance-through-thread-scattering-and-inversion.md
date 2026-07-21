@@ -23,9 +23,6 @@ links:
   paper: "https://doi.org/10.1145/3731178"
   project: "https://graphics.cs.yale.edu/publications/predicting-fabric-appearance-through-thread-scattering-and-inversion"
 ---
-
-# Predicting Fabric Appearance Through Thread Scattering and Inversion
-
 ## 一句话总结
 
 从真实物理线（thread/yarn）出发，用"多纤维散射模拟 → 紧凑可微线散射模型 → 低成本多视角拍摄反演 → 织造几何仿真 → 两尺度渲染"的端到端流水线，预测出这些线织成布之后的外观，服务于时尚设计的"所见即可造"。

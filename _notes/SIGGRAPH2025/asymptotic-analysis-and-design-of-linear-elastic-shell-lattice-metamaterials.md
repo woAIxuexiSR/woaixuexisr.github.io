@@ -19,9 +19,6 @@ links:
   paper: https://doi.org/10.1145/3730888
   code: https://github.com/lavenklau/minisurf
 ---
-
-# Asymptotic analysis and design of linear elastic shell lattice metamaterials
-
 ## 一句话总结
 
 本文基于 Ciarlet 壳理论对壳晶格超材料做渐近分析，提出"渐近方向刚度"（ADS）这一新度量来刻画中面几何如何决定有效刚度，并首次严格证明了 TPMS（三周期极小曲面）为何具有极高体积模量，同时给出一套三角网格离散与形状优化框架来直接设计高刚度中面。

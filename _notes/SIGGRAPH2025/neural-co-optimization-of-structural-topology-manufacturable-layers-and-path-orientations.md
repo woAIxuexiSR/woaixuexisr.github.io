@@ -26,9 +26,6 @@ tags:
 links:
   paper: "https://doi.org/10.1145/3730922"
 ---
-
-# Neural Co-Optimization of Structural Topology, Manufacturable Layers, and Path Orientations for Fiber-Reinforced Composites
-
 ## 一句话总结
 
 用三个隐式神经场分别表示材料密度、打印层序与纤维取向，把"结构拓扑—可制造层—路径取向"三件本来分步做的事塞进一个可微优化里同时求解，并直接把多轴 3D 打印的制造约束写成损失函数，最终让纤维增强复合件在保证可打印的前提下，失效载荷比"先设计后制造"的分步方案最高提升 33.1%。

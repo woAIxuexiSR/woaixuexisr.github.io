@@ -21,9 +21,6 @@ links:
   project: https://mslab.es/projects/Painless/
   code: https://gitlab.com/mslab-urjc/mandos/-/tree/SIGG25
 ---
-
-# Painless Differentiable Rotation Dynamics
-
 ## 一句话总结
 
 用李代数（Lie algebra）的旋转导数来做刚体的前向与可微分仿真，配合把时间步更新写成"状态 + 步长（step）"而非"状态 + 速度"的关键选择，让涉及旋转的梯度和 Hessian 变得极其简洁、条件数更好、运行更快，相比流行的旋转向量（rotation vector）参数化最高可提速约 4.8×。
