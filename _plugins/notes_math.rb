@@ -35,12 +35,17 @@ module NotesMath
   end
 
   def protect(text, spans)
-    # 1) Display math: $$...$$ occupying its own line(s).
-    text = text.gsub(/^([ \t]*)\$\$(.+?)\$\$([ \t]*)$/m) do
+    # 1) Display math: a $$...$$ that occupies its own line(s). The content must
+    #    not itself contain `$$` — otherwise an inline `$$x$$` that merely starts
+    #    a line could be joined with a later line-ending `$$`, swallowing the
+    #    text in between. `^`/`$` are line anchors in Ruby; `[\s\S]` lets a
+    #    display block span multiple lines while `(?!\$\$)` stops it at the first
+    #    closing `$$`.
+    text = text.gsub(/^([ \t]*)\$\$((?:(?!\$\$)[\s\S])+?)\$\$([ \t]*)$/) do
       "#{Regexp.last_match(1)}#{store(spans, Regexp.last_match(2), :display)}#{Regexp.last_match(3)}"
     end
-    # 2) Inline $$...$$ remaining within a line.
-    text = text.gsub(/\$\$(.+?)\$\$/m) do
+    # 2) Inline $$...$$ remaining within a line (content again free of `$$`).
+    text = text.gsub(/\$\$((?:(?!\$\$)[\s\S])+?)\$\$/) do
       store(spans, Regexp.last_match(1), :inline)
     end
     # 3) Inline single $...$ (no newline, no nested $).

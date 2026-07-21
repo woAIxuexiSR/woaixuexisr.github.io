@@ -162,7 +162,12 @@ layout: notes_base
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      // `\bm` (bold math, from the LaTeX `bm` package) is not built into
+      // MathJax; map it to the built-in `\boldsymbol` so bold symbols render.
+      macros: {
+        bm: ['\\boldsymbol{#1}', 1]
+      }
     },
     options: {
       skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
