@@ -20,6 +20,3 @@ links:
   project: "https://www.wonjongg.me/"
   code: "https://github.com/wonjongg/instant-mesh-intersection-repair"
 ---
-
-# Instant Self-Intersection Repair for 3D Meshes
-

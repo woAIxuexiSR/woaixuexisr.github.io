@@ -22,5 +22,3 @@ links:
   paper: "https://doi.org/10.1145/3730821"
   project: "https://perso.liris.cnrs.fr/david.coeurjolly/publication/one-two-seq-25/"
 ---
-
-# Sobol' Sequences with Guaranteed-Quality 2D Projections

@@ -20,5 +20,3 @@ links:
   project: "https://homepages.loria.fr/ECorman/"
   code: "https://github.com/etcorman/RectangularSurfaceParameterization"
 ---
-
-# Rectangular Surface Parameterization

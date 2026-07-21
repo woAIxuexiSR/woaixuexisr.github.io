@@ -20,5 +20,3 @@ links:
   paper: "https://doi.org/10.1145/3730847"
   project: "https://cs.uwaterloo.ca/~thachisu/"
 ---
-
-# Segment-based Light Transport Simulation
