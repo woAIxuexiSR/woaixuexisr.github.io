@@ -659,6 +659,51 @@ a.notes-tag:hover {
   color: var(--notes-text-subtle);
 }
 
+/* Context-mode toggle: 会议+大类 / 搜索结果 */
+.notes-sidebar__modes {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 12px;
+  padding: 3px;
+  background: var(--notes-surface);
+  border: 1px solid var(--notes-border);
+  border-radius: var(--notes-radius-pill);
+}
+
+.notes-sidebar__mode {
+  flex: 1 1 50%;
+  padding: 5px 8px;
+  font-family: inherit;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--notes-text-muted);
+  background: transparent;
+  border: 0;
+  border-radius: var(--notes-radius-pill);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.notes-sidebar__mode.is-active {
+  color: #ffffff;
+  background: var(--notes-accent);
+}
+
+.notes-sidebar__ctx-label {
+  margin-bottom: 10px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--notes-text-subtle);
+  overflow-wrap: anywhere;
+}
+
+.notes-sidebar__ctx-empty {
+  margin: 0;
+  color: var(--notes-text-subtle);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
 .notes-sidebar__all {
   display: block;
   margin-bottom: 12px;

@@ -22,6 +22,15 @@
 
   var BATCH = 10;
 
+  // Save the ordered (currently-filtered) list as the paper's sidebar context.
+  function saveContext(label, items) {
+    try {
+      window.sessionStorage.setItem("notesNearbyCtx", JSON.stringify({ label: label, items: items }));
+    } catch (e) {
+      /* best-effort */
+    }
+  }
+
   function initListing(root) {
     var list = root.querySelector(".notes-list");
     if (!list) return;
@@ -116,6 +125,28 @@
         apply();
       });
     }
+
+    // Clicking a paper carries the current (filtered) list as its sidebar context.
+    var headingEl = root.querySelector(".notes-page-heading__title");
+    list.addEventListener("click", function (e) {
+      var link = e.target.closest ? e.target.closest(".notes-list-item") : null;
+      if (!link) return;
+      var items = [];
+      rows.forEach(function (row) {
+        if (!matches(row)) return;
+        var a = row.querySelector(".notes-list-item");
+        if (!a) return;
+        var titleEl = row.querySelector(".notes-list-item__title");
+        items.push({
+          title: (titleEl ? titleEl.textContent : a.textContent).trim(),
+          url: a.getAttribute("href")
+        });
+      });
+      var parts = [headingEl ? headingEl.textContent.trim() : "列表"];
+      if (state.category) parts.push(state.category);
+      if (state.track) parts.push(state.track);
+      saveContext(parts.join(" · "), items);
+    });
 
     apply();
   }

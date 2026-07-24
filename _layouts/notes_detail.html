@@ -32,7 +32,15 @@ layout: notes_base
   of listing them all we show a window centred on the current paper — the
   `window` entries before and after it (Requirement 13.1/13.2, "nearby").
 {%- endcomment -%}
-{%- assign nearby_all = site.data.paper_index | where: "conference_label", page.conference_label -%}
+{%- comment -%}
+  Left_Sidebar of nearby papers with two context modes (Requirement 13):
+    * 会议+大类  — papers in the SAME conference AND SAME category as the current
+      one, windowed around it. Server-rendered so it works without JS.
+    * 搜索结果   — the result list the reader came from (search dropdown, search
+      page, or an in-page listing filter), stored in sessionStorage and filled
+      by sidebar.js. Auto-selected when such a context contains this paper.
+{%- endcomment -%}
+{%- assign nearby_all = site.data.paper_index | where: "conference_label", page.conference_label | where: "category", page.category -%}
 {%- assign nearby_total = nearby_all | size -%}
 {%- assign window = 10 -%}
 {%- assign cur_index = 0 -%}
@@ -51,20 +59,34 @@ layout: notes_base
       class="notes-sidebar"
       id="notes-sidebar"
       data-current-slug="{{ page.slug }}"
+      data-current-url="{{ page.url }}"
       data-conference-label="{{ page.conference_label }}"
+      data-category="{{ page.category }}"
     >
-      <h2 class="notes-sidebar__heading">附近论文</h2>
-      <a class="notes-sidebar__all" href="/notes/{{ page.conference_label | notes_slug }}/">{{ page.conference_label }} · 全部 {{ nearby_total }} 篇</a>
-      <ul class="notes-sidebar__list">
-        {%- for paper in nearby -%}
-          <li>
-            <a
-              class="notes-sidebar__link{% if paper.slug == page.slug %} is-current{% endif %}"
-              href="{{ paper.url }}"
-            >{{ paper.title }}</a>
-          </li>
-        {%- endfor -%}
-      </ul>
+      <div class="notes-sidebar__modes" role="tablist">
+        <button type="button" class="notes-sidebar__mode is-active" data-mode="conf">会议+大类</button>
+        <button type="button" class="notes-sidebar__mode" data-mode="search">搜索结果</button>
+      </div>
+
+      <div class="notes-sidebar__panel" data-panel="conf">
+        <a class="notes-sidebar__all" href="/notes/{{ page.conference_label | notes_slug }}/">{{ page.conference_label }} · {{ page.category }} · 共 {{ nearby_total }} 篇</a>
+        <ul class="notes-sidebar__list">
+          {%- for paper in nearby -%}
+            <li>
+              <a
+                class="notes-sidebar__link{% if paper.slug == page.slug %} is-current{% endif %}"
+                href="{{ paper.url }}"
+              >{{ paper.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+
+      <div class="notes-sidebar__panel" data-panel="search" hidden>
+        <div class="notes-sidebar__ctx-label" id="notes-sidebar-ctx-label"></div>
+        <ul class="notes-sidebar__list" id="notes-sidebar-search-list"></ul>
+        <p class="notes-sidebar__ctx-empty" id="notes-sidebar-ctx-empty">从搜索结果或列表筛选点进论文后，这里会显示那一批结果。</p>
+      </div>
     </aside>
 
     <article class="notes-article">

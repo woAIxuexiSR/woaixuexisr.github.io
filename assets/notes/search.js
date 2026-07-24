@@ -191,6 +191,19 @@
     container.innerHTML = '<div class="notes-empty">' + escapeHtml(message) + "</div>";
   }
 
+  // Save the ordered result set the reader is navigating from, so the paper's
+  // Left_Sidebar can offer a "搜索结果" context (read by sidebar.js).
+  function saveContext(label, papers) {
+    try {
+      var items = papers.map(function (p) {
+        return { title: p.title, url: p.url };
+      });
+      window.sessionStorage.setItem("notesNearbyCtx", JSON.stringify({ label: label, items: items }));
+    } catch (e) {
+      /* sessionStorage may be unavailable; context is best-effort */
+    }
+  }
+
   function resultsUrl(query, scope) {
     var url = "/notes/search/?q=" + encodeURIComponent(query);
     if (scope.conference) url += "&conference=" + encodeURIComponent(scope.conference);
@@ -214,6 +227,8 @@
     var form = input.form;
     var LIMIT = 8;
     var populated = false;
+    var lastMatches = [];
+    var lastQuery = "";
 
     function ensureIndex() {
       return loadIndex(doc).then(function (papers) {
@@ -263,7 +278,9 @@
       ensureIndex()
         .then(function (papers) {
           var scope = readScope(selects);
-          render(applyScope(filterPapers(query, papers), scope), query, scope);
+          lastMatches = applyScope(filterPapers(query, papers), scope);
+          lastQuery = query;
+          render(lastMatches, query, scope);
           open();
         })
         .catch(function () {
@@ -281,6 +298,15 @@
     Object.keys(selects).forEach(function (key) {
       if (selects[key]) selects[key].addEventListener("change", update);
     });
+
+    // Clicking a dropdown result carries that result set as the paper's context.
+    if (results) {
+      results.addEventListener("click", function (e) {
+        var link = e.target.closest ? e.target.closest(".notes-list-item") : null;
+        if (!link) return;
+        saveContext('搜索 “' + lastQuery + '”', lastMatches);
+      });
+    }
 
     // Submit (Enter / button) -> full results page carrying q + scope.
     if (form) {
@@ -340,11 +366,21 @@
     };
     reflectQuery(doc, query);
 
+    var lastMatches = [];
+
     function render(papers) {
       var matches = applyScope(filterPapers(query, papers), scope);
+      lastMatches = matches;
       if (matches.length === 0) renderEmptyState(container, "No papers found.");
       else renderResults(container, matches);
     }
+
+    // Clicking a result carries the current result set as the paper's context.
+    container.addEventListener("click", function (e) {
+      var link = e.target.closest ? e.target.closest(".notes-list-item") : null;
+      if (!link) return;
+      saveContext('搜索 “' + query + '”', lastMatches);
+    });
 
     function syncUrl() {
       try {

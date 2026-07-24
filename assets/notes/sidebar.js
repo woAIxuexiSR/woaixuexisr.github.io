@@ -98,6 +98,123 @@
     });
   }
 
+  var CONTEXT_KEY = "notesNearbyCtx";
+
+  function escapeHtml(value) {
+    return String(value == null ? "" : value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  // Read the search/filter context the reader arrived from (sessionStorage).
+  function readContext() {
+    try {
+      var raw = window.sessionStorage.getItem(CONTEXT_KEY);
+      if (!raw) return null;
+      var ctx = JSON.parse(raw);
+      if (!ctx || !Array.isArray(ctx.items)) return null;
+      return ctx;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  // Fill the "搜索结果" panel from the stored context, highlighting the current
+  // paper. Returns true iff the context contains the current paper.
+  function renderSearchPanel(doc, sidebar, ctx) {
+    var list = doc.getElementById("notes-sidebar-search-list");
+    var labelEl = doc.getElementById("notes-sidebar-ctx-label");
+    var emptyEl = doc.getElementById("notes-sidebar-ctx-empty");
+    if (!list) return false;
+
+    if (!ctx || ctx.items.length === 0) {
+      list.innerHTML = "";
+      if (labelEl) labelEl.textContent = "";
+      if (emptyEl) emptyEl.hidden = false;
+      return false;
+    }
+
+    var currentUrl = sidebar.getAttribute("data-current-url");
+    var containsCurrent = false;
+    var html = "";
+    for (var i = 0; i < ctx.items.length; i++) {
+      var item = ctx.items[i];
+      var isCurrent = item.url === currentUrl;
+      if (isCurrent) containsCurrent = true;
+      html +=
+        '<li><a class="notes-sidebar__link' +
+        (isCurrent ? " is-current" : "") +
+        '" href="' + escapeHtml(item.url) + '">' + escapeHtml(item.title) + "</a></li>";
+    }
+    list.innerHTML = html;
+    if (labelEl) labelEl.textContent = ctx.label || "搜索结果";
+    if (emptyEl) emptyEl.hidden = true;
+    return containsCurrent;
+  }
+
+  // Scroll the current paper to the vertical centre of its list — but only the
+  // list's own scroll box, never the page.
+  function centerCurrent(panel) {
+    if (!panel) return;
+    var list = panel.querySelector(".notes-sidebar__list");
+    var current = panel.querySelector(".notes-sidebar__link.is-current");
+    if (!list || !current) return;
+    var listRect = list.getBoundingClientRect();
+    var curRect = current.getBoundingClientRect();
+    list.scrollTop += (curRect.top - listRect.top) - list.clientHeight / 2 + current.offsetHeight / 2;
+  }
+
+  // Wire the 会议+大类 / 搜索结果 mode buttons and pick the initial mode.
+  function initContext(doc, sidebar) {
+    var modeButtons = sidebar.querySelectorAll(".notes-sidebar__mode");
+    if (!modeButtons.length) return;
+
+    var panels = sidebar.querySelectorAll(".notes-sidebar__panel");
+    var ctx = readContext();
+    var containsCurrent = renderSearchPanel(doc, sidebar, ctx);
+
+    function show(mode) {
+      var active = null;
+      for (var i = 0; i < panels.length; i++) {
+        var isActive = panels[i].getAttribute("data-panel") === mode;
+        panels[i].hidden = !isActive;
+        if (isActive) active = panels[i];
+      }
+      for (var j = 0; j < modeButtons.length; j++) {
+        modeButtons[j].classList.toggle("is-active", modeButtons[j].getAttribute("data-mode") === mode);
+      }
+      centerCurrent(active);
+    }
+
+    for (var k = 0; k < modeButtons.length; k++) {
+      modeButtons[k].addEventListener("click", function () {
+        show(this.getAttribute("data-mode"));
+      });
+    }
+
+    // Navigating via the 会议+大类 list clears any stored search context, so the
+    // next paper opens in 会议+大类 (not auto-switched into 搜索结果).
+    var confPanel = sidebar.querySelector('.notes-sidebar__panel[data-panel="conf"]');
+    if (confPanel) {
+      confPanel.addEventListener("click", function (e) {
+        var link = e.target.closest ? e.target.closest(".notes-sidebar__link") : null;
+        if (!link) return;
+        try {
+          window.sessionStorage.removeItem(CONTEXT_KEY);
+        } catch (e2) {
+          /* best-effort */
+        }
+      });
+    }
+
+    // Auto-select the search context when the reader came from a result set
+    // that includes this paper; otherwise default to 会议+大类.
+    show(containsCurrent ? "search" : "conf");
+  }
+
   /**
    * Find the sidebar/toggle in the document and wire them. Safe to call when no
    * sidebar exists (listing/home/search pages) — it simply does nothing.
@@ -113,6 +230,9 @@
       : doc.querySelector("#notes-sidebar");
     var button = doc.querySelector(".notes-sidebar-toggle");
     wireToggle(sidebar, button);
+    if (sidebar) {
+      initContext(doc, sidebar);
+    }
   }
 
   // ---- DOM glue (guarded so it never runs under test / non-browser) ----------
