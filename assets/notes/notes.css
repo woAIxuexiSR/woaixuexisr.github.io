@@ -344,8 +344,20 @@ pre code {
 }
 
 /* ------------------------------------------------------------------ *
- * Home page: conference cards grid
+ * Home page: conference series sections + cards grid
  * ------------------------------------------------------------------ */
+.notes-series {
+  margin-bottom: 36px;
+}
+
+.notes-series__title {
+  margin: 0 0 16px;
+  padding-bottom: 8px;
+  font-size: 1.3rem;
+  font-weight: 800;
+  border-bottom: 2px solid var(--notes-border);
+}
+
 .notes-cards {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
@@ -381,7 +393,13 @@ pre code {
 }
 
 .notes-card__count {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--notes-text);
+}
+
+.notes-card__breakdown {
+  font-size: 0.82rem;
   color: var(--notes-text-muted);
 }
 

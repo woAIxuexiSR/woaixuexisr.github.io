@@ -5,37 +5,66 @@ layout: notes_base
   notes_home.html — the Home_Page layout for the Paper Notes Database
   (Requirement 6). Extends the self-contained notes_base skeleton.
 
-  Iterates site.data.conferences — the build-time list of
-  {label, slug, count} entries emitted by _plugins/notes_generator.rb, which
-  includes EVERY conference folder on disk (even folders that hold zero valid
-  papers, count == 0) (Requirement 6.1). For each entry it renders one card in
-  a `.notes-cards` grid showing the Conference_Label and the paper count
-  (Requirement 6.2); the whole card links to that conference's Conference_Page
-  at /notes/<slug>/ (Requirement 6.3).
+  Conference folders (site.data.conferences: {label, slug, count}, incl. empty
+  ones) are split into two series — SIGGRAPH and SIGGRAPH Asia — each under its
+  own subheading, newest year first. Each card shows the Conference_Label, the
+  total paper count, and a Conference/Journal breakdown computed from
+  site.data.paper_index (Requirement 6.2). The whole card links to that
+  conference's page (Requirement 6.3).
 
-  WHEN there are no conference folders at all, an empty-state message is shown
-  in place of the cards. The cards grid and the empty-state are mutually
-  exclusive — exactly one branch of the conditional renders, never both
-  (Requirements 6.4, 6.5).
+  When there are no conference folders at all, a mutually-exclusive empty-state
+  is shown instead of the sections (Requirements 6.4, 6.5).
 {%- endcomment -%}
-{%- assign conferences = site.data.conferences -%}
+{%- assign confs = site.data.conferences | sort: "label" | reverse -%}
+{%- assign asia_list = site.data.conferences | where_exp: "c", "c.label contains 'Asia'" -%}
+{%- assign asia_n = asia_list | size -%}
+{%- assign total_n = site.data.conferences | size -%}
+{%- assign main_n = total_n | minus: asia_n -%}
+
 <div class="notes-container">
   <div class="notes-page-heading">
     <h1 class="notes-page-heading__title">{% if page.title %}{{ page.title }}{% else %}Paper Notes{% endif %}</h1>
     <p class="notes-page-heading__subtitle">AI-generated summary notes of SIGGRAPH and SIGGRAPH Asia papers.</p>
   </div>
 
-  {%- if conferences and conferences.size > 0 -%}
-  <div class="notes-cards">
-    {%- for conference in conferences -%}
-    <a class="notes-card" href="/notes/{{ conference.slug }}/">
-      <span class="notes-card__label">{{ conference.label }}</span>
-      <span class="notes-card__count">
-        {%- if conference.count == 1 -%}1 paper{%- else -%}{{ conference.count }} papers{%- endif -%}
-      </span>
-    </a>
-    {%- endfor -%}
-  </div>
+  {%- if total_n > 0 -%}
+
+  {%- if main_n > 0 -%}
+  <section class="notes-series">
+    <h2 class="notes-series__title">SIGGRAPH</h2>
+    <div class="notes-cards">
+      {%- for conference in confs -%}{%- unless conference.label contains "Asia" -%}
+      {%- assign cp = site.data.paper_index | where: "conference_label", conference.label -%}
+      {%- assign cc = cp | where: "track", "Conference" | size -%}
+      {%- assign cj = cp | where: "track", "Journal" | size -%}
+      <a class="notes-card" href="/notes/{{ conference.slug }}/">
+        <span class="notes-card__label">{{ conference.label }}</span>
+        <span class="notes-card__count">共 {{ conference.count }} 篇</span>
+        <span class="notes-card__breakdown">Conference {{ cc }} · Journal {{ cj }}</span>
+      </a>
+      {%- endunless -%}{%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  {%- if asia_n > 0 -%}
+  <section class="notes-series">
+    <h2 class="notes-series__title">SIGGRAPH Asia</h2>
+    <div class="notes-cards">
+      {%- for conference in confs -%}{%- if conference.label contains "Asia" -%}
+      {%- assign cp = site.data.paper_index | where: "conference_label", conference.label -%}
+      {%- assign cc = cp | where: "track", "Conference" | size -%}
+      {%- assign cj = cp | where: "track", "Journal" | size -%}
+      <a class="notes-card" href="/notes/{{ conference.slug }}/">
+        <span class="notes-card__label">{{ conference.label }}</span>
+        <span class="notes-card__count">共 {{ conference.count }} 篇</span>
+        <span class="notes-card__breakdown">Conference {{ cc }} · Journal {{ cj }}</span>
+      </a>
+      {%- endif -%}{%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
   {%- else -%}
   <div class="notes-empty">No conferences yet. Add a note file under a conference folder to get started.</div>
   {%- endif -%}
