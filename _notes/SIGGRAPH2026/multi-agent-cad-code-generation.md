@@ -8,7 +8,7 @@ authors:
   - "Fang Deng"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Nanyang Technological University"
 tags:
   - "CAD Generation"

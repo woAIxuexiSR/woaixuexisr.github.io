@@ -7,7 +7,7 @@ authors:
   - Tai-Jiang Mu
   - Shi-Min Hu
 track: "Conference"
-source: none
+source: ACM
 category: "Neural & Generative"
 institution:
   - Tsinghua University

@@ -6,7 +6,7 @@ authors:
   - "Larry Seiler"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Utah"
 tags:
   - "Ray Tracing"

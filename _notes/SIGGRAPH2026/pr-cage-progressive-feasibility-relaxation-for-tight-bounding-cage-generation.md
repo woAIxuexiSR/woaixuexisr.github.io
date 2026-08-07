@@ -12,7 +12,7 @@ authors:
   - "Wenping Wang"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Shandong University"
   - "Hangzhou Dianzi University"

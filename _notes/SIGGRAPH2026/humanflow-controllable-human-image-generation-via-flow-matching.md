@@ -9,7 +9,7 @@ authors:
   - "Chunxia Xiao"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Wuhan University"
 tags:
   - "Flow Matching"

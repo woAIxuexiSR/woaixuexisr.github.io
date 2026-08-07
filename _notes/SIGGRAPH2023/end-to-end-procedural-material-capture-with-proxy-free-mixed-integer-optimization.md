@@ -6,7 +6,7 @@ authors:
   - "Wojciech Matusik"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "MIT"
 tags:
   - "Procedural Material"

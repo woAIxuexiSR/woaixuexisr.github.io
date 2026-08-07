@@ -9,7 +9,7 @@ authors:
   - "Mathieu Desbrun"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "LIGHTSPEED Studios"
   - "Inria"

@@ -7,7 +7,7 @@ authors:
   - "Piotr Didyk"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Università della Svizzera italiana"
   - "Institute of Science and Technology Austria"

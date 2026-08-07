@@ -7,7 +7,7 @@ authors:
   - "Zhonggui Chen"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Xiamen University"
 tags:
   - "SDF"

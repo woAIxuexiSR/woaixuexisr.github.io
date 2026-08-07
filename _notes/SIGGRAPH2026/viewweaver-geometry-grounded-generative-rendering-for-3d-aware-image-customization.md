@@ -10,7 +10,7 @@ authors:
   - "Yuexian Zou"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Peking University"
   - "Tencent"

@@ -8,7 +8,7 @@ authors:
   - "Mingqiang Wei"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - "Point Cloud"

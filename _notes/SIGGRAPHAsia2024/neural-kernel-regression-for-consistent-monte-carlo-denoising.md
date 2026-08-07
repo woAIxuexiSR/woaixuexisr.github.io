@@ -10,7 +10,7 @@ authors:
   - Hujun Bao
   - Tao Liu
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution: "Zhejiang University"
 tags:

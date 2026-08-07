@@ -8,7 +8,7 @@ authors:
   - Bing Xu
   - Tzu-Mao Li
 track: "Conference"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - UC San Diego

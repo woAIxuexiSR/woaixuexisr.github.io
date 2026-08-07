@@ -5,7 +5,7 @@ authors:
   - Keenan Crane
 category: Geometry & Modeling
 track: Journal
-source: none
+source: ACM
 institution: Université de Lorraine (CNRS / LORIA)
 tags:
   - Surface Parameterization

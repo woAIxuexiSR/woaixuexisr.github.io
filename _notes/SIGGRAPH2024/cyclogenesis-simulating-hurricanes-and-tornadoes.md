@@ -9,7 +9,7 @@ authors:
   - "Dominik L. Michels"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "King Abdullah University of Science and Technology"
 tags:
   - "Physically Based Simulation"

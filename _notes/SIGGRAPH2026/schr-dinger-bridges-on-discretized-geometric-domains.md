@@ -6,7 +6,7 @@ authors:
   - "Justin Solomon"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "MIT"
 tags:
   - "Schrodinger Bridge"

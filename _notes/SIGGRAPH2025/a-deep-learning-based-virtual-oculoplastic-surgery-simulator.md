@@ -8,7 +8,7 @@ authors:
   - Junyong Noh
 category: "Neural & Generative"
 track: "Journal"
-source: none
+source: ACM
 institution: "KAIST"
 tags:
   - Deep Learning

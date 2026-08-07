@@ -7,7 +7,7 @@ authors:
   - "Daniel Cohen-Or"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Tel Aviv University"
 tags:
   - "Text-to-Image"

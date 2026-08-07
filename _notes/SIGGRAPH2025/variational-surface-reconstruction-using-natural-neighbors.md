@@ -5,7 +5,7 @@ authors:
   - Tao Ju
 category: Reconstruction
 track: Journal
-source: none
+source: ACM
 institution: Washington University in St. Louis
 tags:
   - Surface Reconstruction

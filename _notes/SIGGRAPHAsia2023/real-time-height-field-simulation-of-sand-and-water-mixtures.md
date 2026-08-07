@@ -9,7 +9,7 @@ authors:
   - "Kui Wu"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Tencent LightSpeed Studios"
   - "Rutgers University"

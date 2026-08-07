@@ -10,7 +10,7 @@ authors:
   - "Ligang Liu"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "University of Science and Technology of China"
 tags:
   - "3D Gaussian Splatting"

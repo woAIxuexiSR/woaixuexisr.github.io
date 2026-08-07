@@ -13,7 +13,7 @@ authors:
   - Xiaogang Jin
 category: Rendering
 track: "Journal"
-source: none
+source: ACM
 tags:
   - Supersampling
   - Mobile Rendering

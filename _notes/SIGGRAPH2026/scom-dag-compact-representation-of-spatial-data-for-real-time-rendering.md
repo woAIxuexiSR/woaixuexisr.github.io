@@ -8,7 +8,7 @@ authors:
   - "Vladimir A. Frolov"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Lomonosov Moscow State University"
   - "Keldysh Institute of Applied Mathematics"

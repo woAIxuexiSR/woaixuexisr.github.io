@@ -9,7 +9,7 @@ authors:
   - "Yuchi Huo"
 category: "Rendering"
 track: "Journal"
-source: none
+source: ACM
 tags:
   - "Frame Extrapolation"
   - "Sparse Shading"

@@ -12,7 +12,7 @@ authors:
   - "Qi Sun"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "New York University"
   - "Intel"

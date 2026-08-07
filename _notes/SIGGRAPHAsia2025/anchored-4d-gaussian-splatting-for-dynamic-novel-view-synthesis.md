@@ -7,7 +7,7 @@ authors:
   - Guoping Wang
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 institution: Peking University
 tags:
   - 4D Gaussian Splatting

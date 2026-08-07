@@ -11,7 +11,7 @@ authors:
   - "Yin Yang"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 tags:
   - "Cloth Simulation"
   - "Projective Dynamics"

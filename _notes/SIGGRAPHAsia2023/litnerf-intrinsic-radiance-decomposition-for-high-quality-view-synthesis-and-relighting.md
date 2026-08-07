@@ -14,7 +14,7 @@ authors:
   - "Abhimitra Meka"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Google"
 tags:
   - "NeRF"

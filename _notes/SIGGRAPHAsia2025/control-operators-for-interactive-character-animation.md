@@ -5,7 +5,7 @@ authors:
   - "Daniel Holden"
 category: "Animation & Simulation"
 track: "Journal"
-source: none
+source: ACM
 tags:
   - "Character Animation"
   - "Interactive Control"

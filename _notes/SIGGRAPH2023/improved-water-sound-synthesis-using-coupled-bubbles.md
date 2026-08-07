@@ -8,7 +8,7 @@ authors:
   - "Doug L. James"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Stanford University"
   - "Adobe"

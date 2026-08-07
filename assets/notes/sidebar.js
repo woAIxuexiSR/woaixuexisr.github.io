@@ -144,10 +144,13 @@
       var item = ctx.items[i];
       var isCurrent = item.url === currentUrl;
       if (isCurrent) containsCurrent = true;
+      var marker = item.source === "ACM"
+        ? '<span class="notes-sidebar__meta" title="meta-only"></span>'
+        : "";
       html +=
         '<li><a class="notes-sidebar__link' +
         (isCurrent ? " is-current" : "") +
-        '" href="' + escapeHtml(item.url) + '">' + escapeHtml(item.title) + "</a></li>";
+        '" href="' + escapeHtml(item.url) + '">' + marker + escapeHtml(item.title) + "</a></li>";
     }
     list.innerHTML = html;
     if (labelEl) labelEl.textContent = ctx.label || "搜索结果";

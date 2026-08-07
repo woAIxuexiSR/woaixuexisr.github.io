@@ -6,7 +6,7 @@ authors:
   - "Guillaume Cordonnier"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Université Côte d'Azur"

@@ -4,7 +4,7 @@ authors:
   - Elias Gueidon
   - Maurizio M. Chiaramonte
 track: "Conference"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - Meta

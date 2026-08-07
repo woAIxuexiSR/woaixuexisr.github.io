@@ -1,0 +1,35 @@
+{%- comment -%}
+  notes_conference_card.html — one conference card for the Home_Page grid.
+
+  Parameters:
+    include.conference — a site.data.conferences entry {label, slug, count}.
+
+  Shows the Conference_Label, total count, a Conference/Journal breakdown, and
+  a small pie chart of note vs meta-only papers. "meta-only" == papers whose
+  `source` is "ACM" (PDF unfetchable, front matter only); everything else
+  (arxiv / author-page) has a written summary. Hovering the pie reveals the
+  two counts (native tooltip via `title`).
+{%- endcomment -%}
+{%- assign cp = site.data.paper_index | where: "conference_label", include.conference.label -%}
+{%- assign cc = cp | where: "track", "Conference" | size -%}
+{%- assign cj = cp | where: "track", "Journal" | size -%}
+{%- assign ctotal = cp | size -%}
+{%- assign cmeta = cp | where: "source", "ACM" | size -%}
+{%- assign cnote = ctotal | minus: cmeta -%}
+{%- assign cpct = 0 -%}
+{%- if ctotal > 0 -%}{%- assign cpct = cnote | times: 100 | divided_by: ctotal -%}{%- endif -%}
+<a class="notes-card" href="/notes/{{ include.conference.slug }}/">
+  <span class="notes-card__label">{{ include.conference.label }}</span>
+  <div class="notes-card__footer">
+    <div class="notes-card__stats">
+      <span class="notes-card__count">共 {{ include.conference.count }} 篇</span>
+      <span class="notes-card__breakdown">Conference {{ cc }} · Journal {{ cj }}</span>
+    </div>
+    <span
+      class="notes-card__pie"
+      style="--pie: {{ cpct }}%"
+      title="Notes {{ cnote }} · {{ cpct }}%"
+      aria-label="Notes {{ cnote }} 篇，占 {{ cpct }}%"
+    ></span>
+  </div>
+</a>

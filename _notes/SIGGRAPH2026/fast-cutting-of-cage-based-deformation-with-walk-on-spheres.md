@@ -8,7 +8,7 @@ authors:
   - "Paul G. Kry"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "McGill University"
   - "University of Victoria"

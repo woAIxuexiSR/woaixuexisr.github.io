@@ -6,7 +6,7 @@ authors:
   - Cong Chen
   - Ligang Liu
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 tags:
   - Watertight Tessellation

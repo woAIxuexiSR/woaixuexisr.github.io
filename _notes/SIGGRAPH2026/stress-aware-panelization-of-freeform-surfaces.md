@@ -6,7 +6,7 @@ authors:
   - "Julian Panetta"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, Davis"
   - "University of Haifa"

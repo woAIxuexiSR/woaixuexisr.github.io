@@ -7,7 +7,7 @@ authors:
   - "Eric Galin"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Université de Lyon"
   - "Université de Lorraine"

@@ -12,7 +12,7 @@ authors:
   - Taku Komura
   - Wenping Wang
 track: "Journal"
-source: none
+source: ACM
 category: HCI & XR
 tags:
   - Vector Drawing

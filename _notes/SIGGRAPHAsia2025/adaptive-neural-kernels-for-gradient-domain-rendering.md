@@ -6,7 +6,7 @@ authors:
   - Adrien Gruson
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 institution: École de technologie supérieure
 tags:
   - Gradient-Domain Rendering

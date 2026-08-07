@@ -12,7 +12,7 @@ authors:
   - "Zan Gojcic"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "NVIDIA"
 tags:
   - "Neural Radiance Fields"

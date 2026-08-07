@@ -8,7 +8,7 @@ authors:
   - "Wei Li"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Shanghai Jiao Tong University"
   - "Tsinghua University"

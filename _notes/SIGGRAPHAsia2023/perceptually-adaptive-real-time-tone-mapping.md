@@ -10,7 +10,7 @@ authors:
   - "Alexandre Chapiro"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Meta"
 tags:
   - "Tone Mapping"

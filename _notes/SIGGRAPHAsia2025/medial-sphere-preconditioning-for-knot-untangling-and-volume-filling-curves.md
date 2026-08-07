@@ -5,7 +5,7 @@ authors:
   - Alec Jacobson
   - Karan Singh
 track: "Conference"
-source: none
+source: ACM
 category: Geometry & Modeling
 institution:
   - University of Toronto

@@ -6,7 +6,7 @@ authors:
   - "Bernd Bickel"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "ISTA"
   - "Meta"

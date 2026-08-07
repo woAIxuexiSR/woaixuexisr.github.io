@@ -10,7 +10,7 @@ authors:
   - Alexandre Chapiro
 category: HCI & XR
 track: "Conference"
-source: none
+source: ACM
 institution: Meta
 tags:
   - HDR

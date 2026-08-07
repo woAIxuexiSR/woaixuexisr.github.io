@@ -3,7 +3,7 @@ title: "Jackknife Transmittance and MIS Weight Estimation"
 authors:
   - Christoph Peters
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 tags:
   - Transmittance Estimation

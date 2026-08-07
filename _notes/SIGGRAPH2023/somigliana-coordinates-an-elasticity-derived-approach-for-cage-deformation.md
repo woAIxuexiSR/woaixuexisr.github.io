@@ -6,7 +6,7 @@ authors:
   - "Mathieu Desbrun"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Pixar"

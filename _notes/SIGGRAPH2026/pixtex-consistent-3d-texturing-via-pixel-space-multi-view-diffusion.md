@@ -12,7 +12,7 @@ authors:
   - "Xiaogang Jin"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "3D Texturing"

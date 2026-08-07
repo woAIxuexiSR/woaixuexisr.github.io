@@ -6,7 +6,7 @@ authors:
   - "Matthias Specht"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Esri"
 tags:
   - "Procedural Modeling"

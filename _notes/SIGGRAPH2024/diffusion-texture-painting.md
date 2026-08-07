@@ -8,7 +8,7 @@ authors:
   - "Maria Shugrina"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "NVIDIA"
 tags:
   - "Diffusion Model"

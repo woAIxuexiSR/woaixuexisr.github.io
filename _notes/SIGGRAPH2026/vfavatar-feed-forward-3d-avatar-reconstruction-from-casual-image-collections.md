@@ -9,7 +9,7 @@ authors:
   - "Jia Jia"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Tsinghua University"
 tags:
   - "3D Avatar"

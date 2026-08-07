@@ -9,7 +9,7 @@ authors:
   - Eitan Grinspun
   - Dominik L. Michels
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - KAUST

@@ -8,7 +8,7 @@ authors:
   - Dominik Michels
   - Sören Pirk
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 tags:
   - Fire Simulation

@@ -7,7 +7,7 @@ authors:
   - "Julian Panetta"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "UC Davis"
   - "University of Haifa"

@@ -9,7 +9,7 @@ authors:
   - "Sylvain Lefebvre"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Delft University of Technology"

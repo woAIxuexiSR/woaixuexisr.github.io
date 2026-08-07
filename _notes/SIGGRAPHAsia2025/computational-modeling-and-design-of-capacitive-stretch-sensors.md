@@ -9,7 +9,7 @@ authors:
   - Daniele Panozzo
 category: HCI & XR
 track: Journal
-source: none
+source: ACM
 institution: New York University
 tags:
   - Capacitive Stretch Sensor

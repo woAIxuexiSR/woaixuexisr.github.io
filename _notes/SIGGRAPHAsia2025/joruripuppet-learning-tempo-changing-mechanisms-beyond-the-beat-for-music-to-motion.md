@@ -6,7 +6,7 @@ authors:
   - Xi Yang
 category: "Animation & Simulation"
 track: "Conference"
-source: none
+source: ACM
 tags:
   - Music To Motion
   - Motion Synthesis

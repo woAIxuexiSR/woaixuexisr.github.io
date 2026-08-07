@@ -5,7 +5,7 @@ authors:
   - Gladimir V. G. Baranoski
 category: Rendering
 track: "Journal"
-source: none
+source: ACM
 institution: University of Waterloo
 tags:
   - Glare Pattern

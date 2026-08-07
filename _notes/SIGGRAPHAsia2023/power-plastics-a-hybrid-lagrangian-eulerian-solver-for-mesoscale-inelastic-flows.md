@@ -8,7 +8,7 @@ authors:
   - "Fernando de Goes"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, Los Angeles"
   - "Pixar Animation Studios"

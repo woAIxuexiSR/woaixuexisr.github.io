@@ -7,7 +7,7 @@ authors:
   - Bernd Bickel
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 institution: ETH Zurich
 tags:
   - Inverse Rendering

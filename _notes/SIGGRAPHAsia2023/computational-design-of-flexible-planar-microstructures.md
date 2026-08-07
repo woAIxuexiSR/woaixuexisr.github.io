@@ -10,7 +10,7 @@ authors:
   - "Julian Panetta"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "UC Davis"
   - "EPFL"

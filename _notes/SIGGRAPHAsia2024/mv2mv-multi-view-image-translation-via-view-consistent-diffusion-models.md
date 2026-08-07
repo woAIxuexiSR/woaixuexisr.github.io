@@ -5,7 +5,7 @@ authors:
   - Runshi Li
   - Ligang Liu
 track: "Journal"
-source: none
+source: ACM
 category: "Neural & Generative"
 institution:
   - University of Science and Technology of China

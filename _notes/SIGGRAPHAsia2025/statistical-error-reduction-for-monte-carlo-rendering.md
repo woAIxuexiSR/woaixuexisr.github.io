@@ -6,7 +6,7 @@ authors:
   - Michael Wimmer
   - David Hahn
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 institution:
   - TU Wien

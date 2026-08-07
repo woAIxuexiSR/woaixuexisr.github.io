@@ -4,7 +4,7 @@ authors:
   - Kirill Brodt
   - Mikhail Bessmeltsev
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - Université de Montréal

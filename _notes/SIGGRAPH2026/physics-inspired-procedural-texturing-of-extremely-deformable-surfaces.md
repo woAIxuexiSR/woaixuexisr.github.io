@@ -7,7 +7,7 @@ authors:
   - "Chris Wojtan"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Institute of Science and Technology Austria"
 tags:
   - "Procedural Texturing"

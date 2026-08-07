@@ -7,7 +7,7 @@ authors:
   - "Alec Jacobson"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Toronto"
   - "MIT"

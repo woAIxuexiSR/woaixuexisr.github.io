@@ -7,7 +7,7 @@ authors:
   - Young Min Kim
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution: Seoul National University
 tags:
   - Boundary Representation

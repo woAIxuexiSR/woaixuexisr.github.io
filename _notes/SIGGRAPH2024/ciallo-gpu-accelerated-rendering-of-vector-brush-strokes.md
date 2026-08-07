@@ -8,7 +8,7 @@ authors:
   - "Zeyu Wang"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "The Hong Kong University of Science and Technology (Guangzhou)"
   - "Adobe Research"

@@ -6,7 +6,7 @@ authors:
   - "Pascal Barla"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Inria"
 tags:
   - "Motion Stylization"

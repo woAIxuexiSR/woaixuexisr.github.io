@@ -10,7 +10,7 @@ authors:
   - "Xiaogang Jin"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "Motion Warping"

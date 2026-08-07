@@ -7,7 +7,7 @@ authors:
   - "Yoonchan Jeong"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Seoul National University"
 tags:
   - "Holographic Display"

@@ -8,7 +8,7 @@ authors:
   - "Adrien Peytavie"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "CNRS"
   - "Institut National des Sciences Appliquées de Lyon"

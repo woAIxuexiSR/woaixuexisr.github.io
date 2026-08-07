@@ -7,7 +7,7 @@ authors:
   - Dominique Bechmann
 category: Geometry & Modeling
 track: Conference
-source: none
+source: ACM
 institution:
   - University of Strasbourg
 tags:

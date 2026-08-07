@@ -13,7 +13,7 @@ authors:
   - Yike Guo
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution: Hong Kong University of Science and Technology
 tags:
   - Diffusion Model

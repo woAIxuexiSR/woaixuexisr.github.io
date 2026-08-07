@@ -9,7 +9,7 @@ authors:
   - "Alla Sheffer"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of British Columbia"
 tags:

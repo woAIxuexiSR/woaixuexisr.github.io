@@ -9,7 +9,7 @@ authors:
   - "Junyong Noh"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "KAIST"
 tags:
   - "Motion Retargeting"

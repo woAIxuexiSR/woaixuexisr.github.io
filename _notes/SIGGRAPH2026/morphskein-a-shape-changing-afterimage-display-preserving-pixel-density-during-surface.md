@@ -6,7 +6,7 @@ authors:
   - "Pourang Irani"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Université de Bordeaux"
   - "University of British Columbia"

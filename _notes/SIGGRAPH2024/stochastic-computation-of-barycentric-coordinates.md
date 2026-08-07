@@ -5,7 +5,7 @@ authors:
   - "Mathieu Desbrun"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Pixar Animation Studios"
 tags:
   - "Barycentric Coordinates"

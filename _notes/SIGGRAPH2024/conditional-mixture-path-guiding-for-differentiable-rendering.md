@@ -9,7 +9,7 @@ authors:
   - "Jie Guo"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Nanjing University"
 tags:
   - "Path Guiding"

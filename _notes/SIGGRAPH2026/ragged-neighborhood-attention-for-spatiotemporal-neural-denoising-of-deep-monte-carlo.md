@@ -8,7 +8,7 @@ authors:
   - "Marios Papas"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Disney Research"
 tags:
   - "Monte Carlo Denoising"

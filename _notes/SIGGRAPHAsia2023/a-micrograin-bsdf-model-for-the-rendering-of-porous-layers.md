@@ -7,7 +7,7 @@ authors:
   - "Pascal Barla"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Université de Poitiers"

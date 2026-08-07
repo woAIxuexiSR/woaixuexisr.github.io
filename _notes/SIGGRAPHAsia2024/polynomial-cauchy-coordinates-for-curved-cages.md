@@ -4,7 +4,7 @@ authors:
   - Zhehui Lin
   - Renjie Chen
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - University of Science and Technology of China

@@ -8,7 +8,7 @@ authors:
   - "Yin Yang"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of Utah"
   - "UCLA"

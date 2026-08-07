@@ -8,7 +8,7 @@ authors:
   - Tenghui Lai
   - Chunxia Xiao
 track: "Journal"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Indoor Lighting Estimation

@@ -6,7 +6,7 @@ authors:
   - Xiaopei Liu
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: ShanghaiTech University
 tags:
   - Fluid Simulation

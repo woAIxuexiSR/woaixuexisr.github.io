@@ -9,7 +9,7 @@ authors:
   - Jianwei Guo
   - Haisen Zhao
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Shandong University

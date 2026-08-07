@@ -7,7 +7,7 @@ authors:
   - Edmond Boyer
   - Jean-Sébastien Franco
 track: "Conference"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - Inria

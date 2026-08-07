@@ -9,7 +9,7 @@ authors:
   - "Ying He"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Chinese Academy of Sciences"
   - "Nanyang Technological University"

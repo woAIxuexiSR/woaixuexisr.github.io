@@ -9,7 +9,7 @@ authors:
   - "Stephen Gould"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Australian National University"
   - "University of Oxford"

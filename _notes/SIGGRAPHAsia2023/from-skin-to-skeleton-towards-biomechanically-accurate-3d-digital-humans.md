@@ -10,7 +10,7 @@ authors:
   - "Michael J. Black"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Max Planck Institute for Intelligent Systems"
   - "Stanford University"

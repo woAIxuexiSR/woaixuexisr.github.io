@@ -8,7 +8,7 @@ authors:
   - Hui Huang
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution: Shenzhen University
 tags:
   - 3D Wireframe Generation

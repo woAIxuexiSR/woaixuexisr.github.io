@@ -7,7 +7,7 @@ authors:
   - "Abe Davis"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Cornell University"
   - "MIT"

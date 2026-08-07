@@ -13,7 +13,7 @@ authors:
   - "Yipeng Qin"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Xiamen University"
   - "Tsinghua University"

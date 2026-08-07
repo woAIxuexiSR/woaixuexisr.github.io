@@ -12,7 +12,7 @@ authors:
   - "Hujun Bao"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang Lab"
   - "University of Hong Kong"

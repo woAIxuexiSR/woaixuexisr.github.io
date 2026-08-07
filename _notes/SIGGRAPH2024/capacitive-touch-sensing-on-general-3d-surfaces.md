@@ -7,7 +7,7 @@ authors:
   - "Paolo Cignoni"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Istituto di Scienza e Tecnologie dell'Informazione \"Alessandro Faedo\""
   - "Saarland University"

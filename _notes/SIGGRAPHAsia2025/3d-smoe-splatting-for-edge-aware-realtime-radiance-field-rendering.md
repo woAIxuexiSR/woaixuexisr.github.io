@@ -7,7 +7,7 @@ authors:
   - Mårten Sjöström
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 tags:
   - Radiance Field
   - 3D Gaussian Splatting

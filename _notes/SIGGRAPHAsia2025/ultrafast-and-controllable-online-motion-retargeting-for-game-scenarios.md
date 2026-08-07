@@ -12,7 +12,7 @@ authors:
   - Xiaogang Jin
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 tags:
   - Motion Retargeting
   - Online Retargeting

@@ -4,7 +4,7 @@ authors:
   - Xiaochun Tong
   - Toshiya Hachisuka
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - University of Waterloo

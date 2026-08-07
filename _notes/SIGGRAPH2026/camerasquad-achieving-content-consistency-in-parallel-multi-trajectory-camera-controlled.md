@@ -12,7 +12,7 @@ authors:
   - "Lin Gao"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Institute of Computing Technology, Chinese Academy of Sciences"
 tags:
   - "Video Generation"

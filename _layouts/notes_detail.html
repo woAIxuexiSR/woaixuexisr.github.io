@@ -40,17 +40,13 @@ layout: notes_base
       page, or an in-page listing filter), stored in sessionStorage and filled
       by sidebar.js. Auto-selected when such a context contains this paper.
 {%- endcomment -%}
-{%- assign nearby_all = site.data.paper_index | where: "conference_label", page.conference_label | where: "category", page.category -%}
-{%- assign nearby_total = nearby_all | size -%}
-{%- assign window = 10 -%}
-{%- assign cur_index = 0 -%}
-{%- for paper in nearby_all -%}
-  {%- if paper.slug == page.slug -%}{%- assign cur_index = forloop.index0 -%}{%- endif -%}
-{%- endfor -%}
-{%- assign win_start = cur_index | minus: window -%}
-{%- if win_start < 0 -%}{%- assign win_start = 0 -%}{%- endif -%}
-{%- assign win_len = window | times: 2 | plus: 1 -%}
-{%- assign nearby = nearby_all | slice: win_start, win_len -%}
+{%- comment -%}
+  The Left_Sidebar "会议+大类" window (page.nearby) and its group size
+  (page.nearby_total) are precomputed in NotesGenerator#attach_nearby — this
+  used to be an O(N) `where | where | slice` here that ran on every detail page.
+{%- endcomment -%}
+{%- assign nearby = page.nearby -%}
+{%- assign nearby_total = page.nearby_total -%}
 {%- assign body_text = content | strip_html | strip -%}
 
 <div class="notes-container">
@@ -76,7 +72,7 @@ layout: notes_base
               <a
                 class="notes-sidebar__link{% if paper.slug == page.slug %} is-current{% endif %}"
                 href="{{ paper.url }}"
-              >{{ paper.title }}</a>
+              >{% if paper.source == "ACM" %}<span class="notes-sidebar__meta" title="meta-only" aria-label="meta-only"></span>{% endif %}{{ paper.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
@@ -125,16 +121,16 @@ layout: notes_base
           {%- assign category_slug = page.category | notes_slug -%}
           <a class="notes-badge notes-category" href="/notes/category/{{ category_slug }}/">{{ page.category }}</a>
           {%- endif -%}
-
-          {%- if page.tags and page.tags.size > 0 -%}
-          <span class="notes-tags">
-            {%- for tag in page.tags -%}
-            {%- assign tag_slug = tag | notes_slug -%}
-            <a class="notes-badge notes-tag" href="/notes/tags/{{ tag_slug }}/">{{ tag }}</a>
-            {%- endfor -%}
-          </span>
-          {%- endif -%}
         </div>
+
+        {%- if page.tags and page.tags.size > 0 -%}
+        <div class="notes-tags">
+          {%- for tag in page.tags -%}
+          {%- assign tag_slug = tag | notes_slug -%}
+          <a class="notes-badge notes-tag" href="/notes/tags/{{ tag_slug }}/">{{ tag }}</a>
+          {%- endfor -%}
+        </div>
+        {%- endif -%}
 
         {%- assign links = page.links -%}
         {%- if links -%}

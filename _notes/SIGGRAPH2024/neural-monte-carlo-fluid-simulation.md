@@ -7,7 +7,7 @@ authors:
   - "Oded Stein"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Southern California"
   - "MIT"

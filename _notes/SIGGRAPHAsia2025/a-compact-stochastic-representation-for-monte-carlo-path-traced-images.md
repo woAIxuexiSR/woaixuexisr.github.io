@@ -8,7 +8,7 @@ authors:
   - Marina Villanueva Barreiro
   - Roc Ramon Currius
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Monte Carlo Rendering

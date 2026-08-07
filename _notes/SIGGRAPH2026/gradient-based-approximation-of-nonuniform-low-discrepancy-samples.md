@@ -7,7 +7,7 @@ authors:
   - "Toshiya Hachisuka"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Brown University"
   - "University of Waterloo"

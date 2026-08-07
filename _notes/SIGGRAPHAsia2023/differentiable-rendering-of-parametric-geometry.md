@@ -5,7 +5,7 @@ authors:
   - "Marc Alexa"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Technische Universität Berlin"
 tags:
   - "Differentiable Rendering"

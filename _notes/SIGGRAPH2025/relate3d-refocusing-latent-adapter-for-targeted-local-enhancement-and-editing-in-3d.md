@@ -11,7 +11,7 @@ authors:
   - Ran Zhang
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution: Tsinghua University
 tags:
   - 3D Generation

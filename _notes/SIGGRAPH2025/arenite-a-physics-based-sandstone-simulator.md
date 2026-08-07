@@ -9,7 +9,7 @@ authors:
   - Bedrich Benes
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: Purdue University
 tags:
   - Physics-based Simulation

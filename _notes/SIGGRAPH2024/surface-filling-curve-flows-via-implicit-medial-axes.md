@@ -8,7 +8,7 @@ authors:
   - "Alec Jacobson"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of Toronto"
   - "The University of Tokyo"

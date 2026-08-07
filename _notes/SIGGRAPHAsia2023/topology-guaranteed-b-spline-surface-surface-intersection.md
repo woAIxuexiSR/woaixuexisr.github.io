@@ -6,7 +6,7 @@ authors:
   - "Dong-Ming Yan"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Chinese Academy of Sciences"
 tags:
   - "B-Spline"

@@ -10,7 +10,7 @@ authors:
   - "Rynson W. H. Lau"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang University"
   - "City University of Hong Kong"

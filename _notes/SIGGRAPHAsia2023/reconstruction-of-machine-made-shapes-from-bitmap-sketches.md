@@ -7,7 +7,7 @@ authors:
   - "Mikhail Bessmeltsev"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Université de Montréal"
   - "McGill University"

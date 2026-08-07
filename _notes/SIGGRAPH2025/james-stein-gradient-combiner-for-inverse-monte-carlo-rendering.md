@@ -5,7 +5,7 @@ authors:
   - "Bochang Moon"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Gwangju Institute of Science and Technology"
 tags:

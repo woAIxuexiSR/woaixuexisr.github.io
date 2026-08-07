@@ -8,7 +8,7 @@ authors:
   - "Enhua Wu"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Institute of Software, Chinese Academy of Sciences"
 tags:
   - "GPU"

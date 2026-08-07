@@ -8,7 +8,7 @@ authors:
   - "Mark Pauly"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "EPFL"
   - "UC Davis"

@@ -4,7 +4,7 @@ authors:
   - Chanu Yang
   - Bochang Moon
 track: "Journal"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Monte Carlo Rendering

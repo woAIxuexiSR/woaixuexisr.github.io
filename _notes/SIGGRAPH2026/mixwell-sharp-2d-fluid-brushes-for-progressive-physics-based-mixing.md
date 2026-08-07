@@ -5,7 +5,7 @@ authors:
   - "Ethan James"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Stanford University"
   - "Ambient Micro"

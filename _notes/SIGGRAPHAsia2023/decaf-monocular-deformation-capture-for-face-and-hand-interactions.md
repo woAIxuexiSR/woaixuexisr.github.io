@@ -7,7 +7,7 @@ authors:
   - "Christian Theobalt"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Max Planck Institute for Informatics"
 tags:
   - "Deformation Capture"

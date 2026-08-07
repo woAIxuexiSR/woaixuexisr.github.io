@@ -4,7 +4,7 @@ authors:
   - "Paul Merrell"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Brigham Young University"
 tags:
   - "Procedural Modeling"

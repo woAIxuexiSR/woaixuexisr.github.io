@@ -7,7 +7,7 @@ authors:
   - "Chi-Wing Fu"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "The Chinese University of Hong Kong"
 tags:
   - "LEGO"

@@ -9,7 +9,7 @@ authors:
   - "Xiao-Ming Fu"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Science and Technology of China"
 tags:
   - "Developable Surface"

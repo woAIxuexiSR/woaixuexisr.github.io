@@ -15,7 +15,7 @@ authors:
   - Takeo Igarashi
 category: "Reconstruction"
 track: "Journal"
-source: none
+source: ACM
 institution:
   - The University of Tokyo
 tags:

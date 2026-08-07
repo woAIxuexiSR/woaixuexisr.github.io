@@ -10,7 +10,7 @@ authors:
   - "Lin Lu"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Shandong University"
   - "Peking University"

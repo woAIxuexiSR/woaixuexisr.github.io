@@ -6,7 +6,7 @@ authors:
   - "Guillaume Cordonnier"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Purdue University"

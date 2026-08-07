@@ -5,7 +5,7 @@ authors:
   - "Tao Ju"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Washington University in St. Louis"
 tags:
   - "Topological Simplification"

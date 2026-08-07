@@ -7,7 +7,7 @@ authors:
   - "Ren Ng"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of California, Berkeley"
 tags:
   - "Color Science"

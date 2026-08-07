@@ -8,7 +8,7 @@ authors:
   - Thabo Beeler
 category: Neural & Generative
 track: Journal
-source: none
+source: ACM
 institution: Google
 tags:
   - Hair Modeling

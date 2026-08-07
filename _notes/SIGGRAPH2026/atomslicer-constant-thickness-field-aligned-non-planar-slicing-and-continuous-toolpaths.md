@@ -8,7 +8,7 @@ authors:
   - "Xavier Chermain"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Université de Lorraine"
 tags:
   - "Computational Fabrication"

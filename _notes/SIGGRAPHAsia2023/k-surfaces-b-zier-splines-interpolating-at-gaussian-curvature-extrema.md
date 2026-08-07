@@ -6,7 +6,7 @@ authors:
   - "Marc Alexa"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "TU Berlin"
 tags:
   - "Bézier Spline"

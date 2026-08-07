@@ -13,7 +13,7 @@ authors:
   - "Wangping Ye"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Beijing University of Posts and Telecommunications"
 tags:
   - "Path Tracing"

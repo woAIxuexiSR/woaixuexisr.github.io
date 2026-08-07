@@ -5,7 +5,7 @@ authors:
   - Ying Cao
 category: Neural & Generative
 track: Journal
-source: none
+source: ACM
 institution: ShanghaiTech University
 tags:
   - Graphic Design

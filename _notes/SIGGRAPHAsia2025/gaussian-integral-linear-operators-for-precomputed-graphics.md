@@ -7,7 +7,7 @@ authors:
   - Tzu-Mao Li
   - Toshiya Hachisuka
 track: "Journal"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Precomputed Graphics

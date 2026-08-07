@@ -6,7 +6,7 @@ authors:
   - Xindong Lin
   - Dinesh K. Pai
 track: "Conference"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - University of British Columbia

@@ -10,7 +10,7 @@ authors:
   - "Matt Jen-Yuan Chiang"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Meta Reality Labs"
   - "University of California, Santa Barbara"

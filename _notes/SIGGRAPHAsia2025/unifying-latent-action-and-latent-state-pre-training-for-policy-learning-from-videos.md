@@ -12,7 +12,7 @@ authors:
   - Yi Yang
   - Yufeng Yue
 track: "Conference"
-source: none
+source: ACM
 category: Neural & Generative
 institution:
   - Beijing Institute of Technology

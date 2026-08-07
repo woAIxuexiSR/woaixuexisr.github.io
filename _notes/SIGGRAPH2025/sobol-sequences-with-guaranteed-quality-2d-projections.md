@@ -7,7 +7,7 @@ authors:
   - Victor Ostromoukhov
 category: Rendering
 track: Journal
-source: none
+source: ACM
 institution: Université Claude Bernard Lyon 1
 tags:
   - Sobol Sequences

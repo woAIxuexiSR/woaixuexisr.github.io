@@ -8,7 +8,7 @@ authors:
   - "Yonghao Yue"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Aoyama Gakuin University"
 tags:
   - "Non-Newtonian Fluid"

@@ -6,7 +6,7 @@ authors:
   - "Dehui Lu"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "NetEase"
 tags:
   - "Occlusion Culling"

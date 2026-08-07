@@ -10,7 +10,7 @@ authors:
   - "Dahua Lin"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Nanyang Technological University"
   - "The Chinese University of Hong Kong"

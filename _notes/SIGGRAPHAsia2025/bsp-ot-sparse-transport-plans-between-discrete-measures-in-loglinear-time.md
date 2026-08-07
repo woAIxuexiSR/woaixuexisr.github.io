@@ -6,7 +6,7 @@ authors:
   - Vincent Nivoliers
   - David Coeurjolly
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 tags:
   - Optimal Transport

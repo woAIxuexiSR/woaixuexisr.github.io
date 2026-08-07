@@ -11,7 +11,7 @@ authors:
   - Rui Wang
   - Hujun Bao
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 institution:
   - Zhejiang University

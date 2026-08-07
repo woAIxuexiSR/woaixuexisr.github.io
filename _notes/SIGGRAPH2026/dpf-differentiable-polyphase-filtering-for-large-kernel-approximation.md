@@ -8,7 +8,7 @@ authors:
   - "Yuchi Huo"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang University"
   - "Xiamen University"

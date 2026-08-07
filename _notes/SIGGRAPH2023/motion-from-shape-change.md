@@ -9,7 +9,7 @@ authors:
   - "Peter Schröder"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "California Institute of Technology"
   - "TU Berlin"

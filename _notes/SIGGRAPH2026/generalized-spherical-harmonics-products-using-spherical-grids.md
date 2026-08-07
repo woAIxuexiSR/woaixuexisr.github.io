@@ -8,7 +8,7 @@ authors:
   - "Kun Xu"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Tsinghua University"
   - "Mohamed bin Zayed University of Artificial Intelligence"

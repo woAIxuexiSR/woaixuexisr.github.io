@@ -6,7 +6,7 @@ authors:
   - "Renjie Chen"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Science and Technology of China"
   - "Shanghai Institute of Technology"

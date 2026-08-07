@@ -9,7 +9,7 @@ authors:
   - "Sylvain Lefebvre"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Institute of Science and Technology Austria"

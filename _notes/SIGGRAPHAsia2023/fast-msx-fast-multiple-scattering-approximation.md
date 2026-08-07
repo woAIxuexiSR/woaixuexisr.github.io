@@ -11,7 +11,7 @@ authors:
   - Ligang Liu
 category: Rendering
 track: Conference
-source: none
+source: ACM
 institution:
   - Huawei Technologies
   - University of Science and Technology of China

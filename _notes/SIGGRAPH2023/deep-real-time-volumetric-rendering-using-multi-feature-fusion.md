@@ -9,7 +9,7 @@ authors:
   - "Xiaogang Jin"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang University"
   - "University of California, Santa Barbara"

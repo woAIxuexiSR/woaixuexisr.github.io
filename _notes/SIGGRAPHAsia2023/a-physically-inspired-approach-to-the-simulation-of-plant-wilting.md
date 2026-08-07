@@ -10,7 +10,7 @@ authors:
   - Dominik L. Michels
 category: Animation & Simulation
 track: Conference
-source: none
+source: ACM
 institution:
   - KAUST
   - Sapienza University of Rome

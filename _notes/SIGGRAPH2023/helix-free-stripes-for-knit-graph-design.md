@@ -7,7 +7,7 @@ authors:
   - "Edward Chien"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Boston University"
   - "MIT"

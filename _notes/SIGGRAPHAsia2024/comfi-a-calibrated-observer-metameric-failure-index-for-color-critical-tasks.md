@@ -6,7 +6,7 @@ authors:
   - Junwoo Jang
   - Sally Hattori
 track: "Conference"
-source: none
+source: ACM
 category: "HCI & XR"
 institution: "Dolby Laboratories"
 tags:

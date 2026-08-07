@@ -10,7 +10,7 @@ authors:
   - "Lin Gao"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Chinese Academy of Sciences"
   - "Cardiff University"

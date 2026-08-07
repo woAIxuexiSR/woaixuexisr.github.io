@@ -4,7 +4,7 @@ authors:
   - Mianlun Zheng
   - Jernej Barbic
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - University of Southern California

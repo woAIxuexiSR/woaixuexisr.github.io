@@ -6,7 +6,7 @@ authors:
   - Xuan Wang
   - Zhiyong Wu
 track: "Conference"
-source: none
+source: ACM
 category: Animation & Simulation
 tags:
   - Conversational Behavior Generation

@@ -5,7 +5,7 @@ authors:
   - "David Bommes"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Bern"
 tags:
   - "Frame Field"

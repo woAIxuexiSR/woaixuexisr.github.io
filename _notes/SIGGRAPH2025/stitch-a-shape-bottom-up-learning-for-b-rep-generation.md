@@ -7,7 +7,7 @@ authors:
   - Dongming Yan
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution: Chinese Academy of Sciences
 tags:
   - B-Rep Generation

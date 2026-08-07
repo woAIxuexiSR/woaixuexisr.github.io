@@ -11,7 +11,7 @@ authors:
   - "Yin Yang"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Peking University"
   - "University of Utah"

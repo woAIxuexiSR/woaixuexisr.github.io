@@ -9,7 +9,7 @@ authors:
   - Lin Gao
 category: Reconstruction
 track: "Conference"
-source: none
+source: ACM
 institution: Chinese Academy of Sciences
 tags:
   - 3D Human Reconstruction

@@ -7,7 +7,7 @@ authors:
   - "Ricardo Marroquim"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Delft University of Technology"
 tags:
   - "3D Gaussian Splatting"

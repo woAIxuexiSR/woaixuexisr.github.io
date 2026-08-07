@@ -5,7 +5,7 @@ authors:
   - "Sungkil Lee"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Sungkyunkwan University"
 tags:
   - "Multi-View Warping"

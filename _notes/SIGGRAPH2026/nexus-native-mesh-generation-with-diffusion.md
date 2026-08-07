@@ -11,7 +11,7 @@ authors:
   - "Yan-Pei Cao"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "VAST"
   - "Chinese Academy of Sciences"

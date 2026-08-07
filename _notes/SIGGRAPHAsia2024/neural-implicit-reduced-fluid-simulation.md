@@ -7,7 +7,7 @@ authors:
   - Paul G. Kry
 category: Animation & Simulation
 track: Conference
-source: none
+source: ACM
 institution:
   - McGill University
   - Université de Montréal

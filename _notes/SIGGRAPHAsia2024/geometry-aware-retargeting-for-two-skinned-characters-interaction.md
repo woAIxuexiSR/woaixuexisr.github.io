@@ -7,7 +7,7 @@ authors:
   - Chaelin Kim
   - Junyong Noh
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution: KAIST
 tags:

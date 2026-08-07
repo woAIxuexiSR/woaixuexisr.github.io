@@ -6,7 +6,7 @@ authors:
   - Gilbert Louis Bernstein
   - James McCann
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Carnegie Mellon University

@@ -8,7 +8,7 @@ authors:
   - Marie-Paule Cani
 category: HCI & XR
 track: "Conference"
-source: none
+source: ACM
 tags:
   - VR Sculpting
   - 3D Modeling

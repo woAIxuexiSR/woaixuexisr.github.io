@@ -139,7 +139,8 @@
         var titleEl = row.querySelector(".notes-list-item__title");
         items.push({
           title: (titleEl ? titleEl.textContent : a.textContent).trim(),
-          url: a.getAttribute("href")
+          url: a.getAttribute("href"),
+          source: row.querySelector(".notes-meta-only") ? "ACM" : ""
         });
       });
       var parts = [headingEl ? headingEl.textContent.trim() : "列表"];

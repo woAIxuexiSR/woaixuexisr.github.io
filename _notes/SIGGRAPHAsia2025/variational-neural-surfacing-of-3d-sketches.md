@@ -6,7 +6,7 @@ authors:
   - Mikhail Bessmeltsev
 category: Geometry & Modeling
 track: "Conference"
-source: none
+source: ACM
 tags:
   - 3D Sketches
   - Surface Reconstruction

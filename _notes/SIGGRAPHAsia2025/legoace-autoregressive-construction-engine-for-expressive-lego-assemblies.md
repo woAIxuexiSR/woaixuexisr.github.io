@@ -15,7 +15,7 @@ authors:
   - Xiaogang Jin
 category: Neural & Generative
 track: "Conference"
-source: none
+source: ACM
 tags:
   - LEGO Assembly
   - Autoregressive Model

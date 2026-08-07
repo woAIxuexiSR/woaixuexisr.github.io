@@ -8,7 +8,7 @@ authors:
   - Xiaoguang Han
 category: Reconstruction
 track: Journal
-source: none
+source: ACM
 institution: SSE, CUHK-Shenzhen
 tags:
   - 3D Eyebrow Modeling

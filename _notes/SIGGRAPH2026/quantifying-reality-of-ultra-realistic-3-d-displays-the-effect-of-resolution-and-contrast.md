@@ -7,7 +7,7 @@ authors:
   - "Rafał K. Mantiuk"
 category: "HCI & XR"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Cambridge"
   - "Bangor University"

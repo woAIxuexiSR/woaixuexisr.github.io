@@ -6,7 +6,7 @@ authors:
   - "Jean-Marc Thiery"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Adobe"
 tags:
   - "Eigenvalue Problem"

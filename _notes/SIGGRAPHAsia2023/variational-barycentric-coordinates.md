@@ -7,7 +7,7 @@ authors:
   - "Justin Solomon"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Massachusetts Institute of Technology"
 tags:
   - "Barycentric Coordinates"

@@ -7,7 +7,7 @@ authors:
   - Jie Song
 category: Reconstruction
 track: "Conference"
-source: none
+source: ACM
 institution: ETH Zurich
 tags:
   - Avatar Reconstruction

@@ -8,7 +8,7 @@ authors:
   - Shiying Xiong
   - Bo Zhu
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - Georgia Institute of Technology

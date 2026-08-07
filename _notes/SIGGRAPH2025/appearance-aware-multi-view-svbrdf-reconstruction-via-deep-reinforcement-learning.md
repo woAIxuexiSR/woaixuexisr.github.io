@@ -11,7 +11,7 @@ authors:
   - "Yanwen Guo"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Nanjing University"
 tags:
   - "SVBRDF"

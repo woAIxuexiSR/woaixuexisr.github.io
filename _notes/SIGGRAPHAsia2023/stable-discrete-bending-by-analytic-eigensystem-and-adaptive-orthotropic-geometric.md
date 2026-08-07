@@ -6,7 +6,7 @@ authors:
   - "Huamin Wang"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Style3D"
   - "University of Utah"

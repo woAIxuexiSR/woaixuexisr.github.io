@@ -11,7 +11,7 @@ authors:
   - "Huamin Wang"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang University"
   - "Style3D"

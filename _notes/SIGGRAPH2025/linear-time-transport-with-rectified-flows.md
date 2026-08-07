@@ -7,7 +7,7 @@ authors:
   - Nicolas Bonneel
 category: Geometry & Modeling
 track: Journal
-source: none
+source: ACM
 institution: CNRS
 tags:
   - Optimal Transport

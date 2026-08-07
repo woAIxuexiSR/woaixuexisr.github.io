@@ -9,7 +9,7 @@ authors:
   - Markus Steinberger
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 institution: Graz University of Technology
 tags:
   - Distributed Rendering

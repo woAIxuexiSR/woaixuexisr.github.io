@@ -9,7 +9,7 @@ authors:
   - Tamy Boubekeur
 category: Rendering
 track: "Journal"
-source: none
+source: ACM
 institution:
   - Adobe Research
   - Aalto University

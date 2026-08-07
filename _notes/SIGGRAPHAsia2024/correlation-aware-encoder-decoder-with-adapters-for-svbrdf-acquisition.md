@@ -7,7 +7,7 @@ authors:
   - Jian Yang
   - Beibei Wang
 track: "Conference"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - Nanjing University

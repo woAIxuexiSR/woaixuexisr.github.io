@@ -13,7 +13,7 @@ authors:
   - Richard Szeliski
   - Kartik Venkataraman
 track: "Conference"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - Intrinsic

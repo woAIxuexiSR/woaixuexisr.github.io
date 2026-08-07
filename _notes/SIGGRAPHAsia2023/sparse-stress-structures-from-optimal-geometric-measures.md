@@ -5,7 +5,7 @@ authors:
   - "Albert Chern"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "UC San Diego"
 tags:
   - "Topology Optimization"

@@ -7,7 +7,7 @@ authors:
   - Doug L. James
   - Bernd Bickel
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - ETH Zürich

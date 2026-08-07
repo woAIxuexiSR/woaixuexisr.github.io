@@ -9,7 +9,7 @@ authors:
   - "Ligang Liu"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Science and Technology of China"
 tags:
   - "NURBS"

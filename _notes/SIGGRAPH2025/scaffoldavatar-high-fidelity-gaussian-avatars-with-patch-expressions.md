@@ -10,7 +10,7 @@ authors:
   - "Derek Bradley"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Technical University of Munich"
   - "Disney Research"

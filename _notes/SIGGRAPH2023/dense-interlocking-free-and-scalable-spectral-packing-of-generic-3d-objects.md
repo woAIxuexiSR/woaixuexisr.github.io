@@ -7,7 +7,7 @@ authors:
   - "Wojciech Matusik"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "MIT"
 tags:
   - "3D Packing"

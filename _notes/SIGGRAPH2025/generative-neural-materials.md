@@ -9,7 +9,7 @@ authors:
   - "Ravi Ramamoorthi"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of California San Diego"
   - "Adobe"

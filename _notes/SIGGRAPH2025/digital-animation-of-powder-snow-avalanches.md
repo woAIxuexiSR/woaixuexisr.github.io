@@ -6,7 +6,7 @@ authors:
   - Afonso Paiva
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: University of São Paulo
 tags:
   - Physics-Based Simulation

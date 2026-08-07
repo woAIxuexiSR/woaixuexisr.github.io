@@ -8,7 +8,7 @@ authors:
   - "Bedrich Benes"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Purdue University"
   - "Christian-Albrechts-Universität zu Kiel"

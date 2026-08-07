@@ -7,7 +7,7 @@ authors:
   - Hanyou Zheng
   - Chi-Wing Fu
 track: "Journal"
-source: none
+source: ACM
 category: Neural & Generative
 institution:
   - The Chinese University of Hong Kong

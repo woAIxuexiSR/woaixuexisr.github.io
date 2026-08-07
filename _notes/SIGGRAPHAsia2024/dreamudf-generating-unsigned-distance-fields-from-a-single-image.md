@@ -9,7 +9,7 @@ authors:
   - Bo Yang
   - Lin Gao
 track: "Journal"
-source: none
+source: ACM
 category: "Neural & Generative"
 tags:
   - Unsigned Distance Field

@@ -6,7 +6,7 @@ authors:
   - Fujun Luan
   - Kun Xu
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - Tsinghua University

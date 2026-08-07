@@ -6,7 +6,7 @@ authors:
   - "Ning Zou"
 category: "HCI & XR"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "Haptics"

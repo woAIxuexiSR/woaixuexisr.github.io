@@ -11,7 +11,7 @@ authors:
   - "Lingqi Yan"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Nanjing University"
   - "Shandong University"

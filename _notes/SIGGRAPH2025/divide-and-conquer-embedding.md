@@ -7,7 +7,7 @@ authors:
   - Xiao-Ming Fu
 category: "Geometry & Modeling"
 track: "Conference"
-source: none
+source: ACM
 institution:
   - University of Science and Technology of China
 tags:

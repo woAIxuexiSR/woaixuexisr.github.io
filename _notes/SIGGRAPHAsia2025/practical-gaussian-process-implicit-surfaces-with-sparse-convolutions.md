@@ -7,7 +7,7 @@ authors:
   - "Wojciech Jarosz"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Dartmouth College"
   - "NVIDIA"

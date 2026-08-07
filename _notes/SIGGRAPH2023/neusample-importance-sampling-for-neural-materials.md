@@ -10,7 +10,7 @@ authors:
   - "Ravi Ramamoorthi"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, San Diego"
   - "Adobe Research"

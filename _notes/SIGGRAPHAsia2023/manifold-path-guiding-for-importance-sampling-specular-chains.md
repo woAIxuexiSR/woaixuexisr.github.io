@@ -9,7 +9,7 @@ authors:
   - "Ling-Qi Yan"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Nanjing University"
 tags:
   - "Path Guiding"

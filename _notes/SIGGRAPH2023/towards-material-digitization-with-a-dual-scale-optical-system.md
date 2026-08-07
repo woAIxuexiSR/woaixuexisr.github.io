@@ -9,7 +9,7 @@ authors:
   - "Jorge Lopez-Moreno"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "SEDDI"
 tags:
   - "Material Digitization"

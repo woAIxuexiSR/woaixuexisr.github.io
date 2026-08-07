@@ -6,7 +6,7 @@ authors:
   - "Timothy R. Langlois"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "University of Toronto"
 tags:
   - "Fluid Control"

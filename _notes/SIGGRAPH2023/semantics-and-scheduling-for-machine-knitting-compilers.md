@@ -9,7 +9,7 @@ authors:
   - "James McCann"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Carnegie Mellon University"
   - "Massachusetts Institute of Technology"

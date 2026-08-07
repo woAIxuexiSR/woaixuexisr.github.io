@@ -3,7 +3,7 @@ title: "Alignable Lamella Gridshells"
 authors:
   - Davide Pellis
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Italian National Research Council (CNR)

@@ -10,7 +10,7 @@ authors:
   - "Seungyong Lee"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "POSTECH"
 tags:
   - "StyleGAN"

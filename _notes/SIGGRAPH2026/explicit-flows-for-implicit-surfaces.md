@@ -6,7 +6,7 @@ authors:
   - "Raphaëlle Chaine"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "CNRS"
   - "Université Claude Bernard Lyon 1"

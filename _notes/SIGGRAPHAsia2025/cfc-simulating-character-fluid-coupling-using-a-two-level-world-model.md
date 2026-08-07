@@ -12,7 +12,7 @@ authors:
   - Lingjie Liu
   - Taku Komura
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 tags:
   - Character Animation

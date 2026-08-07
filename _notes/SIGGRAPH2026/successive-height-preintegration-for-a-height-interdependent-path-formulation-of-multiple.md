@@ -8,7 +8,7 @@ authors:
   - "Hiroyuki Kubo"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Chiba University"
   - "Kyoto University"

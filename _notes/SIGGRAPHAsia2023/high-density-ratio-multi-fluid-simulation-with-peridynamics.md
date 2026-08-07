@@ -5,7 +5,7 @@ authors:
   - "Bo Ren"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Nankai University"
 tags:
   - "Fluid Simulation"

@@ -7,7 +7,7 @@ authors:
   - "Keenan Crane"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "École Normale Supérieure Paris-Saclay"
   - "University of Bonn"

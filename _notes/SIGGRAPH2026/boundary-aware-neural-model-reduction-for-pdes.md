@@ -6,7 +6,7 @@ authors:
   - "Yifan Peng"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "The University of Hong Kong"
 tags:
   - "Model Reduction"

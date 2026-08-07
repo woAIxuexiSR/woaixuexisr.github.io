@@ -9,7 +9,7 @@ authors:
   - "Jiawan Zhang"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Tianjin University"
 tags:
   - "SVBRDF"

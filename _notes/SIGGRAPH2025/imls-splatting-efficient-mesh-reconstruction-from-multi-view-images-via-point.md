@@ -10,7 +10,7 @@ authors:
   - Zexiang Xu
   - Hao Su
 track: "Journal"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - University of Science and Technology of China

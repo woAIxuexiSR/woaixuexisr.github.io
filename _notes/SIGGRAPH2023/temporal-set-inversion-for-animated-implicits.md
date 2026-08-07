@@ -5,7 +5,7 @@ authors:
   - "Paul G. Kry"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "McGill University"
 tags:
   - "Implicit Surface"

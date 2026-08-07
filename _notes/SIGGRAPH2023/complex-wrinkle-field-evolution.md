@@ -7,7 +7,7 @@ authors:
   - "Etienne Vouga"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of Texas at Austin"
   - "Adobe Research"

@@ -10,7 +10,7 @@ authors:
   - "Lingqi Yan"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Intel"
   - "University of California, Santa Barbara"

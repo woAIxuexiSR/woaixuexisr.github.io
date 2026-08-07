@@ -6,7 +6,7 @@ authors:
   - Lifan Wu
   - Kun Xu
 track: "Journal"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Gradient-Domain Rendering

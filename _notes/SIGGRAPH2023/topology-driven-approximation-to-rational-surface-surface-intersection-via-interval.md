@@ -7,7 +7,7 @@ authors:
   - "Ming Li"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Chinese Academy of Sciences"
   - "Zhejiang University"

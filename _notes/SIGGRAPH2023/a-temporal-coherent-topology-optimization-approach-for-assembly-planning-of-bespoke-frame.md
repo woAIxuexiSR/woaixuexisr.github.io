@@ -8,7 +8,7 @@ authors:
   - "Stelian Coros"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "ETH Zurich"
 tags:
   - "Topology Optimization"

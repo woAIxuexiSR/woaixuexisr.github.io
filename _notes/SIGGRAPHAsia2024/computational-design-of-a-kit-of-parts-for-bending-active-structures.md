@@ -6,7 +6,7 @@ authors:
   - Seiichi Suzuki
   - Mark Pauly
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - EPFL

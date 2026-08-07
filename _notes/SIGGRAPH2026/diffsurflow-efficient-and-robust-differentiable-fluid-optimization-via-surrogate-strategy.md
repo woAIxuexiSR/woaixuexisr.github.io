@@ -8,7 +8,7 @@ authors:
   - "Xubo Yang"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Shanghai Jiao Tong University"
 tags:
   - "Differentiable Simulation"

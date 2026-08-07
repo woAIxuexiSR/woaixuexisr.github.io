@@ -8,7 +8,7 @@ authors:
   - Denis Zorin
 category: Geometry & Modeling
 track: Journal
-source: none
+source: ACM
 institution: New York University
 tags:
   - Surface Parametrization

@@ -6,7 +6,7 @@ authors:
   - "Yonghao Yue"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Aoyama Gakuin University"
   - "The University of Tokyo"

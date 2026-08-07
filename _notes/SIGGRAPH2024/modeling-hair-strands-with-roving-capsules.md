@@ -5,7 +5,7 @@ authors:
   - "David Hart"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "NVIDIA"
 tags:
   - "Hair Rendering"

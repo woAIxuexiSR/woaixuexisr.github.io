@@ -7,7 +7,7 @@ authors:
   - Andrea Weidlich
 category: Rendering
 track: Journal
-source: none
+source: ACM
 institution: NVIDIA
 tags:
   - Cloth Rendering

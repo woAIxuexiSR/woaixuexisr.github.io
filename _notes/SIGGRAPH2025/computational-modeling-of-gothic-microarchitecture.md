@@ -7,7 +7,7 @@ authors:
   - "Olga Sorkine-Hornung"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "ETH Zurich"
   - "University of Basel"

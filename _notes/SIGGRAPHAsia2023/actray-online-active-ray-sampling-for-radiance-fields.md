@@ -9,7 +9,7 @@ authors:
   - "Xinggong Zhang"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Peking University"
 tags:
   - "NeRF"

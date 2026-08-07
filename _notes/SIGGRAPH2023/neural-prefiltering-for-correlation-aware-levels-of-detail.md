@@ -8,7 +8,7 @@ authors:
   - "Philipp Slusallek"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Saarland University"
   - "Intel"

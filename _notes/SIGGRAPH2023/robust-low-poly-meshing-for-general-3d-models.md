@@ -8,7 +8,7 @@ authors:
   - "Xifeng Gao"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "The University of Texas at Austin"
   - "Tencent America"

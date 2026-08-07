@@ -9,7 +9,7 @@ authors:
   - Shuhang Luan
   - Zhangjin Huang
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 institution:
   - University of Science and Technology of China

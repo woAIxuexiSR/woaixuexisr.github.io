@@ -8,7 +8,7 @@ authors:
   - Ming-Ming Cheng
   - Bo Ren
 track: "Conference"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - Nankai University

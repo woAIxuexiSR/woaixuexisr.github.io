@@ -8,7 +8,7 @@ authors:
   - "Albert Chern"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of California San Diego"
 tags:
   - "Fluid Simulation"

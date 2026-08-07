@@ -12,7 +12,7 @@ authors:
   - "James Gain"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Université de Lyon"

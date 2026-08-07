@@ -8,7 +8,7 @@ authors:
   - "Baoquan Chen"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Peking University"
 tags:
   - "Level Set"

@@ -11,7 +11,7 @@ authors:
   - "Sai Bi"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Adobe Research"
   - "UC San Diego"

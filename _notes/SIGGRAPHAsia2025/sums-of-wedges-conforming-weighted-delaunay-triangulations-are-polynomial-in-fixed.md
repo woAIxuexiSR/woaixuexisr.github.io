@@ -6,7 +6,7 @@ authors:
   - Thorsten Seidelmann
   - Marc Alexa
 track: "Journal"
-source: none
+source: ACM
 category: Geometry & Modeling
 tags:
   - Weighted Delaunay Triangulation

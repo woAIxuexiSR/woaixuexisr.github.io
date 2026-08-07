@@ -9,7 +9,7 @@ authors:
   - "Bedrich Benes"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Purdue University"
   - "Kiel University"

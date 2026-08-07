@@ -8,7 +8,7 @@ authors:
   - Daniel Cohen-Or
 category: Neural & Generative
 track: Conference
-source: none
+source: ACM
 institution:
   - Tel Aviv University
   - Snap

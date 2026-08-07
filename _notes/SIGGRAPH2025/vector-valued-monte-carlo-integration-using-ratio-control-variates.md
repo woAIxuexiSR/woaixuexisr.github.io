@@ -7,7 +7,7 @@ authors:
   - "Tzu-Mao Li"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, San Diego"
   - "Google"

@@ -8,7 +8,7 @@ authors:
   - "Abe Davis"
 category: "Image & Video"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Cornell University"
 tags:
   - "Video Alignment"

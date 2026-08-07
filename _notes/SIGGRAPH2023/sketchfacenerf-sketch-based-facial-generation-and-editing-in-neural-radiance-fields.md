@@ -10,7 +10,7 @@ authors:
   - "Hongbo Fu"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Chinese Academy of Sciences"
   - "Cardiff University"

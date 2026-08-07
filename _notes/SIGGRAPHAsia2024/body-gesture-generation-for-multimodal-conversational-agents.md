@@ -6,7 +6,7 @@ authors:
   - Yoonhee Kim
   - Jehee Lee
 track: "Conference"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - Seoul National University

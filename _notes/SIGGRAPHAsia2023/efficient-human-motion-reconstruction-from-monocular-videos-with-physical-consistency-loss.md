@@ -9,7 +9,7 @@ authors:
   - "Jianwei Zhang"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "University of Hamburg"
 tags:
   - "Human Motion Reconstruction"

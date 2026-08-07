@@ -7,7 +7,7 @@ authors:
   - Eugene d'Eon
   - Steve Marschner
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - Cornell University

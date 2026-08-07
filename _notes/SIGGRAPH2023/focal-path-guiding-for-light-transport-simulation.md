@@ -6,7 +6,7 @@ authors:
   - "Philipp Slusallek"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Saarland University"
 tags:
   - "Path Guiding"

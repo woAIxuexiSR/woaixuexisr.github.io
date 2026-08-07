@@ -8,7 +8,7 @@ authors:
   - "Zhenliang Zhang"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Beijing Institute of Technology"
 tags:
   - "Virtual Reality"

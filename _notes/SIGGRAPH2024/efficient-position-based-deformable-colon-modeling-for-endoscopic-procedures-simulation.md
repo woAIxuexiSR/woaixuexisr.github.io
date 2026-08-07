@@ -8,7 +8,7 @@ authors:
   - "Anderson Maciel"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Universidade Federal do Rio Grande do Sul"
 tags:
   - "PBD"

@@ -5,7 +5,7 @@ authors:
   - Mingjun Zhou
   - Chi-Wing Fu
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - The Chinese University of Hong Kong

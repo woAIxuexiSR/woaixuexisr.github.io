@@ -8,7 +8,7 @@ authors:
   - Andrew Feng
 category: Rendering
 track: Conference
-source: none
+source: ACM
 institution: University of Southern California
 tags:
   - 3D Gaussian Splatting

@@ -6,7 +6,7 @@ authors:
   - "Keenan Crane"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Carnegie Mellon University"
 tags:
   - "Winding Number"

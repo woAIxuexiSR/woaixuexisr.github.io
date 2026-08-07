@@ -7,7 +7,7 @@ authors:
   - "Bochang Moon"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "GIST"
 tags:
   - "Monte Carlo Denoising"

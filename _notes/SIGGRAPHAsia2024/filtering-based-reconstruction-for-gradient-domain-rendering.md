@@ -6,7 +6,7 @@ authors:
   - Ling-Qi Yan
   - Kun Xu
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 institution:
   - Tsinghua University

@@ -7,7 +7,7 @@ authors:
   - "Cem Yuksel"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "University of Utah"
 tags:
   - "Hair Rendering"

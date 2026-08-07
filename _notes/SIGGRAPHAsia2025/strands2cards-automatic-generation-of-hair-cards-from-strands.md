@@ -6,7 +6,7 @@ authors:
   - Nobuyuki Umetani
   - Hao Li
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - University of Tokyo

@@ -10,7 +10,7 @@ authors:
   - "Li Yi"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Huawei"
 tags:
   - "Indoor Scene Modeling"

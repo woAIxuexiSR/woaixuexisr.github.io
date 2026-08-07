@@ -9,7 +9,7 @@ authors:
   - "Seung Wook Lee"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Electronics and Telecommunications Research Institute"
 tags:
   - "Texture Optimization"

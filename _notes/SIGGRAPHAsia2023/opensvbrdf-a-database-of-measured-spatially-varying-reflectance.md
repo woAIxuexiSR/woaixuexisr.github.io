@@ -8,7 +8,7 @@ authors:
   - "Hongzhi Wu"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "SVBRDF"

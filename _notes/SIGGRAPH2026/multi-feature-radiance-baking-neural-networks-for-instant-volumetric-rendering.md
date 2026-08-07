@@ -8,7 +8,7 @@ authors:
   - "Sheng Li"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Peking University"
   - "Xiaomi"

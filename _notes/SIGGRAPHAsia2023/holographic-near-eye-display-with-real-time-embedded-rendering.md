@@ -7,7 +7,7 @@ authors:
   - "Patrick Gioia"
 category: "HCI & XR"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "IRT b<>com"
 tags:
   - "Holographic Display"

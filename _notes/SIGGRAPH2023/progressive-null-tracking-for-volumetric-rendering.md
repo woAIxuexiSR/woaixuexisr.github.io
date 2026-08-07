@@ -8,7 +8,7 @@ authors:
   - "Wojciech Jarosz"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Dartmouth College"
   - "Walt Disney Animation Studios"

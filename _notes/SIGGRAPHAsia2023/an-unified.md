@@ -6,7 +6,7 @@ authors:
   - "Yue Ma"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "City University of Hong Kong"
 tags:
   - "Subdivision Surface"

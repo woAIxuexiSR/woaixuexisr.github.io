@@ -10,7 +10,7 @@ authors:
   - "Huamin Wang"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Style3D"
   - "Peking University"

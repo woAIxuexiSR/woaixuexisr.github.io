@@ -167,17 +167,25 @@
       html += '<p class="notes-list-item__authors">' + escapeHtml(authors.join(", ")) + "</p>";
     }
     html += '<div class="notes-list-item__meta">';
+    if (paper.source === "ACM") {
+      html +=
+        '<span class="notes-badge notes-meta-only" title="meta-only：ACM PDF 未能获取，暂无正文笔记">meta-only</span>';
+    }
     if (paper.conference_label) {
       html += '<span class="notes-list-item__conference">' + escapeHtml(paper.conference_label) + "</span>";
     }
+    if (paper.category) {
+      html += '<span class="notes-badge notes-category">' + escapeHtml(paper.category) + "</span>";
+    }
+    html += "</div>";
     if (tags.length > 0) {
-      html += '<span class="notes-tags">';
+      html += '<div class="notes-tags">';
       for (var i = 0; i < tags.length; i++) {
         html += '<span class="notes-badge notes-tag">' + escapeHtml(tags[i]) + "</span>";
       }
-      html += "</span>";
+      html += "</div>";
     }
-    html += "</div></a>";
+    html += "</a>";
     return html;
   }
 
@@ -196,7 +204,7 @@
   function saveContext(label, papers) {
     try {
       var items = papers.map(function (p) {
-        return { title: p.title, url: p.url };
+        return { title: p.title, url: p.url, source: p.source };
       });
       window.sessionStorage.setItem("notesNearbyCtx", JSON.stringify({ label: label, items: items }));
     } catch (e) {

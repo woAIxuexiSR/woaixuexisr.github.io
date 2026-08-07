@@ -5,7 +5,7 @@ authors:
   - "Elmar Eisemann"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Delft University of Technology"
 tags:
   - "Spectral Rendering"

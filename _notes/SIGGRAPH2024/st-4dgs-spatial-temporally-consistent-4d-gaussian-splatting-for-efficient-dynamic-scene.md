@@ -8,7 +8,7 @@ authors:
   - "Hua Huang"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Beijing Normal University"
 tags:
   - "4D Gaussian Splatting"

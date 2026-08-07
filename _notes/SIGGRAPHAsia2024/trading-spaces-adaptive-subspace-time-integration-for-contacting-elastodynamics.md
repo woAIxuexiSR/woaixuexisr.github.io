@@ -6,7 +6,7 @@ authors:
   - David I. W. Levin
   - Danny M. Kaufman
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - University of Toronto

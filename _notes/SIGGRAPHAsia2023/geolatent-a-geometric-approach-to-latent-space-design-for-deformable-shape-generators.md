@@ -8,7 +8,7 @@ authors:
   - "Qixing Huang"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "The University of Texas at Austin"
 tags:
   - "Deformable Shape"

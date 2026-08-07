@@ -7,7 +7,7 @@ authors:
   - Lifan Wu
   - Shuang Zhao
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - NVIDIA

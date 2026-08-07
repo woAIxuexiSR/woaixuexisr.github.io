@@ -7,7 +7,7 @@ authors:
   - "Thrasyvoulos N. Pappas"
 category: "Image & Video"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Northwestern University"
 tags:
   - "Film Grain"

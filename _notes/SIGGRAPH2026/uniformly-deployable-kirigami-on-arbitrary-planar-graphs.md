@@ -6,7 +6,7 @@ authors:
   - "Olga Sorkine-Hornung"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "ETH Zurich"
 tags:
   - "Kirigami"

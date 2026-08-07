@@ -5,7 +5,7 @@ authors:
   - "Tobias Günther"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
 tags:
   - "Monte Carlo"

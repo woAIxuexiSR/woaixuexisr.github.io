@@ -10,7 +10,7 @@ authors:
   - "Hui Huang"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Shenzhen University"
 tags:
   - "Texture Mapping"

@@ -11,7 +11,7 @@ authors:
   - "Weiwei Xu"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "Neural Radiance Fields"

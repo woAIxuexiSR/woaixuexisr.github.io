@@ -7,7 +7,7 @@ authors:
   - "Rasmus Tamstorf"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "MIT"
   - "Disney Research"

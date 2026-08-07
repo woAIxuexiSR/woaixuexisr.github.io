@@ -6,7 +6,7 @@ authors:
   - Mark Pauly
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: EPFL
 tags:
   - Geometric Locomotion

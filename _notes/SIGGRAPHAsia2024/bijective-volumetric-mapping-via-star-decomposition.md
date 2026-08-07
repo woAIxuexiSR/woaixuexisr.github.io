@@ -5,7 +5,7 @@ authors:
   - Hendrik Brückler
   - Marcel Campen
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Osnabrück University

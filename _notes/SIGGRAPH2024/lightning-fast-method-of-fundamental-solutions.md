@@ -6,7 +6,7 @@ authors:
   - "Mathieu Desbrun"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Georgia Institute of Technology"

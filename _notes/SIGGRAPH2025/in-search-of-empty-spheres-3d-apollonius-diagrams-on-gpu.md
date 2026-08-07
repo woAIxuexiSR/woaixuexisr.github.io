@@ -7,7 +7,7 @@ authors:
   - Maxime Maria
   - Stéphane Mérillou
 track: "Journal"
-source: none
+source: ACM
 category: Geometry & Modeling
 institution:
   - Université de Limoges

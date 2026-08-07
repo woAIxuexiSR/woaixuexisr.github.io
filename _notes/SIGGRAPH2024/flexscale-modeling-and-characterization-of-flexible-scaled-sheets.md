@@ -8,7 +8,7 @@ authors:
   - "Bernhard Thomaszewski"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "ETH Zurich"
 tags:
   - "Computational Fabrication"

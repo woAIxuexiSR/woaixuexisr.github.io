@@ -8,7 +8,7 @@ authors:
   - "Peng Song"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Singapore University of Technology and Design"
   - "Nanyang Technological University"

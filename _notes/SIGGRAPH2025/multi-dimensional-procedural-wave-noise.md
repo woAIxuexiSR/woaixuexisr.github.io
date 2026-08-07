@@ -9,7 +9,7 @@ authors:
   - "Jean-Michel Dischler"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "CNRS"
   - "Institut Polytechnique de Paris"

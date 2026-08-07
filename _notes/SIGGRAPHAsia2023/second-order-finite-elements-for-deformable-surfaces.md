@@ -8,7 +8,7 @@ authors:
   - "Tao Du"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Tsinghua University"
   - "Dartmouth College"

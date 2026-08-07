@@ -8,7 +8,7 @@ authors:
   - Wenwei Han
   - Zhaoqi Wang
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - University of Houston

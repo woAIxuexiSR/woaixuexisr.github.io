@@ -10,7 +10,7 @@ authors:
   - "Xifeng Gao"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Zhejiang University"
   - "Tencent"

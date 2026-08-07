@@ -9,7 +9,7 @@ authors:
   - "Wenping Wang"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Texas A&M University"
   - "University of Hong Kong"

@@ -12,7 +12,7 @@ authors:
   - Qing Guo
   - Ping Li
 track: "Journal"
-source: none
+source: ACM
 category: Image & Video
 tags:
   - Image Inpainting

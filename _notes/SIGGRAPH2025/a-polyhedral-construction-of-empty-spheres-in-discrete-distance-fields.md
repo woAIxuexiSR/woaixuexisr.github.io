@@ -4,7 +4,7 @@ authors:
   - Maximilian Kohlbrenner
   - Marc Alexa
 track: "Conference"
-source: none
+source: ACM
 category: Geometry & Modeling
 institution:
   - Technische Universität Berlin

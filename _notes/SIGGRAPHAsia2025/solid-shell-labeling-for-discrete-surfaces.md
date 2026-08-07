@@ -10,7 +10,7 @@ authors:
   - Hsueh-Ti Derek Liu
 category: Geometry & Modeling
 track: "Conference"
-source: none
+source: ACM
 institution: New York University
 tags:
   - Mesh Processing

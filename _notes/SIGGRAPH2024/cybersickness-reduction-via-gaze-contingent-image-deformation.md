@@ -8,7 +8,7 @@ authors:
   - "Piotr Didyk"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Technische Universität Braunschweig"
   - "Università della Svizzera italiana"

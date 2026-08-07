@@ -8,7 +8,7 @@ authors:
   - "Jun-Yan Zhu"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Carnegie Mellon University"
   - "Snap Inc."

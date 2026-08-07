@@ -10,7 +10,7 @@ authors:
   - Hui Huang
 category: "Reconstruction"
 track: "Conference"
-source: none
+source: ACM
 institution:
   - Shenzhen University
   - University of Texas at Dallas

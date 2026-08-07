@@ -9,7 +9,7 @@ authors:
   - "Joseph Teran"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, Los Angeles"
   - "Epic Games"

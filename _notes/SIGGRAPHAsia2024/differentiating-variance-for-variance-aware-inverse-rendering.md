@@ -7,7 +7,7 @@ authors:
   - Jiří Vorba
   - Shuang Zhao
 track: "Conference"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - University of California, Irvine

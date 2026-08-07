@@ -12,7 +12,7 @@ authors:
   - "Yong He"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "MIT CSAIL"
   - "NVIDIA"

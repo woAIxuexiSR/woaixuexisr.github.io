@@ -8,7 +8,7 @@ authors:
   - "Marc Alexa"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Technische Universität Berlin"
 tags:
   - "Differentiable Voxelization"

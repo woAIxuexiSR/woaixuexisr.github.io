@@ -6,7 +6,7 @@ authors:
   - "Kei Iwasaki"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Hokkaido University"
   - "Saitama University"

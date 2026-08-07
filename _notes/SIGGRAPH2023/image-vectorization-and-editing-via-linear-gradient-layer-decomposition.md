@@ -8,7 +8,7 @@ authors:
   - "Kun Xu"
 category: "Image & Video"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Tsinghua University"
   - "George Mason University"

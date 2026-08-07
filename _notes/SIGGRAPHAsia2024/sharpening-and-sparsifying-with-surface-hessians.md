@@ -5,7 +5,7 @@ authors:
   - Alec Jacobson
   - Oded Stein
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - University of Southern California

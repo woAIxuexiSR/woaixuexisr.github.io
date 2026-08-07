@@ -7,7 +7,7 @@ authors:
   - "Bo Ren"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Nankai University"
 tags:
   - "Subsurface Scattering"

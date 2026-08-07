@@ -8,7 +8,7 @@ authors:
   - "Christopher Batty"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of Waterloo"
   - "University of Toronto"

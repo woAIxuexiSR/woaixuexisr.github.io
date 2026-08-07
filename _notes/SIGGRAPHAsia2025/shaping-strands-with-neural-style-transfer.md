@@ -7,7 +7,7 @@ authors:
   - Jingwei Tang
   - Vinicius C. Azevedo
 track: "Journal"
-source: none
+source: ACM
 category: "Neural & Generative"
 tags:
   - Neural Style Transfer

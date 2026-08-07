@@ -7,7 +7,7 @@ authors:
   - Yuzhen Kang
   - Jiawan Zhang
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - Tianjin University

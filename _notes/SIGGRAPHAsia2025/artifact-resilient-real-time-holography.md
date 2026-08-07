@@ -5,7 +5,7 @@ authors:
   - Felix Heide
 category: HCI & XR
 track: "Journal"
-source: none
+source: ACM
 institution: Princeton University
 tags:
   - Computer Generated Holography

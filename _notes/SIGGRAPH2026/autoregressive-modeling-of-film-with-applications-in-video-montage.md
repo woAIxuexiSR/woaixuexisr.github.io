@@ -10,7 +10,7 @@ authors:
   - "Gregory Shakhnarovich"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Toyota Technological Institute at Chicago"
   - "Adobe"

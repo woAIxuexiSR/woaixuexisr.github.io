@@ -10,7 +10,7 @@ authors:
   - "Minchen Li"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Utah"
   - "University of California, Los Angeles"

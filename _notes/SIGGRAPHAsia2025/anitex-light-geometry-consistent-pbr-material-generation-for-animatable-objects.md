@@ -13,7 +13,7 @@ authors:
   - Yuchi Huo
 category: Neural & Generative
 track: "Conference"
-source: none
+source: ACM
 institution: Zhejiang University
 tags:
   - PBR Material

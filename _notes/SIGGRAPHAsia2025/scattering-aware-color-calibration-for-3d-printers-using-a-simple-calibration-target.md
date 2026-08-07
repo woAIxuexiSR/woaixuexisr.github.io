@@ -6,7 +6,7 @@ authors:
   - Alexander Wilkie
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Charles University"
 tags:
   - "Color Calibration"

@@ -7,7 +7,7 @@ authors:
   - "Alec Jacobson"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Toronto"
   - "George Mason University"

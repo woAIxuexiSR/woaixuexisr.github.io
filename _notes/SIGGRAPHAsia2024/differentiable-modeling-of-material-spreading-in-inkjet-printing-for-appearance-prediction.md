@@ -5,7 +5,7 @@ authors:
   - Fabio Pellacini
   - Vahid Babaei
 track: "Conference"
-source: none
+source: ACM
 category: "Rendering"
 institution:
   - Max Planck Institute for Informatics

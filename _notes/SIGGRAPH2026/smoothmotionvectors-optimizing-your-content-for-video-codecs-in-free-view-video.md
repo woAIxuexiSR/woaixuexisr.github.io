@@ -7,7 +7,7 @@ authors:
   - "Tunç Ozan Aydın"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Disney Research Studios"
   - "ETH Zurich"

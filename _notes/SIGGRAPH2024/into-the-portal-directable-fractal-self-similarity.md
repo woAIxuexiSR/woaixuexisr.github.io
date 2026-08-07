@@ -5,7 +5,7 @@ authors:
   - "Theodore Kim"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Yale University"
 tags:
   - "Fractal"

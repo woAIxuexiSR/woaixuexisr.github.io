@@ -6,7 +6,7 @@ authors:
   - "Nils Thuerey"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Technical University of Munich"
   - "RWTH Aachen University"

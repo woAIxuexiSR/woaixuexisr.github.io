@@ -8,7 +8,7 @@ authors:
   - Weiwei Xu
   - Rynson W. H. Lau
 track: "Journal"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - Zhejiang University

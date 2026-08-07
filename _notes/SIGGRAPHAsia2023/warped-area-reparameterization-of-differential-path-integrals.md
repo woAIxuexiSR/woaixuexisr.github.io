@@ -7,7 +7,7 @@ authors:
   - "Shuang Zhao"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, Irvine"
   - "Massachusetts Institute of Technology"

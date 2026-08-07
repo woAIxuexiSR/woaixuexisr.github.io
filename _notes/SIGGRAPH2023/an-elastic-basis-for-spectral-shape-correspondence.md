@@ -8,7 +8,7 @@ authors:
   - "Mirela Ben-Chen"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of Bonn"
   - "Ben-Gurion University"

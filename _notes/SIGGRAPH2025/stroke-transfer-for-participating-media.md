@@ -9,7 +9,7 @@ authors:
   - Haruna Shimotahira
   - Yonghao Yue
 track: "Conference"
-source: none
+source: ACM
 category: Rendering
 institution:
   - Aoyama Gakuin University

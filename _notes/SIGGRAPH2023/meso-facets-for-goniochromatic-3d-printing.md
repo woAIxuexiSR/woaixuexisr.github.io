@@ -5,7 +5,7 @@ authors:
   - "Alan Brunton"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Fraunhofer IGD"
 tags:
   - "Digital Fabrication"

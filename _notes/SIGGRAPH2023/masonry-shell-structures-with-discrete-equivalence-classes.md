@@ -9,7 +9,7 @@ authors:
   - "Ying He"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Singapore University of Technology and Design"
   - "Cardiff University"

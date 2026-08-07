@@ -5,7 +5,7 @@ authors:
   - "Kai Hormann"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Università della Svizzera italiana"
 tags:
   - "Point Cloud"

@@ -10,7 +10,7 @@ authors:
   - Ivan Korotaev
   - Vladimir Frolov
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 tags:
   - Shape Representation

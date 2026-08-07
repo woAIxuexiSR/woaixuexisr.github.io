@@ -13,7 +13,7 @@ authors:
   - "Benjamin Piaud"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Université de Toulouse"
 tags:
   - "Infrared Rendering"

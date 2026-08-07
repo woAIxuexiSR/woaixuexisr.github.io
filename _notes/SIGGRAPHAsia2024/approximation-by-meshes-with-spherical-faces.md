@@ -7,7 +7,7 @@ authors:
   - Helmut Pottmann
   - Christian Müller
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - TU Wien

@@ -10,7 +10,7 @@ authors:
   - "Yiqiang Chen"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Chinese Academy of Sciences"
   - "Cardiff University"

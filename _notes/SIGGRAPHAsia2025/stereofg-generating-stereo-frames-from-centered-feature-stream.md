@@ -11,7 +11,7 @@ authors:
   - "Rui Wang"
 category: "Rendering"
 track: "Conference"
-source: none
+source: ACM
 tags:
   - "Stereo Rendering"
   - "Frame Generation"

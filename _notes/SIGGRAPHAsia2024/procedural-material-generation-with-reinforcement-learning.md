@@ -9,7 +9,7 @@ authors:
   - Valentin Deschaintre
   - Wojciech Matusik
 track: "Journal"
-source: none
+source: ACM
 category: "Neural & Generative"
 institution:
   - MIT

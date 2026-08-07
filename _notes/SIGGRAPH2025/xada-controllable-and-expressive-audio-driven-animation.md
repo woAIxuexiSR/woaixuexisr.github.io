@@ -8,7 +8,7 @@ authors:
   - "Iain A. Matthews"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Epic Games"
 tags:
   - "Audio-Driven Animation"

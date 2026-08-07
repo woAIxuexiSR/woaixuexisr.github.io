@@ -12,7 +12,7 @@ authors:
   - "Thomas Leimkühler"
 category: "Image & Video"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Max Planck Institute for Informatics"
 tags:
   - "Implicit Neural Representation"

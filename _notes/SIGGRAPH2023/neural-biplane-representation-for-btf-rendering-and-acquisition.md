@@ -8,7 +8,7 @@ authors:
   - "Ling-Qi Yan"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Nanjing University of Science and Technology"
   - "Adobe Research"

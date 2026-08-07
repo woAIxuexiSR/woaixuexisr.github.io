@@ -6,7 +6,7 @@ authors:
   - "Feng Lu"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Beihang University"
 tags:
   - "Inverse Rendering"

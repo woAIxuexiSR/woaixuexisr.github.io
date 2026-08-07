@@ -10,7 +10,7 @@ authors:
   - "Amal Dev Parakkat"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Institut Polytechnique de Paris"
   - "Université Grenoble Alpes"

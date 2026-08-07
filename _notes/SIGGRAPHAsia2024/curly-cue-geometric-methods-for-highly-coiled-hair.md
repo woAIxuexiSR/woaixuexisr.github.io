@@ -6,7 +6,7 @@ authors:
   - A. M. Darke
   - Theodore Kim
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Yale University

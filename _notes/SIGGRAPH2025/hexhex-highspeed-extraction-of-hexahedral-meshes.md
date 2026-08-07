@@ -5,7 +5,7 @@ authors:
   - Martin Heistermann
   - David Bommes
 track: "Journal"
-source: none
+source: ACM
 category: Geometry & Modeling
 institution:
   - University of Bern

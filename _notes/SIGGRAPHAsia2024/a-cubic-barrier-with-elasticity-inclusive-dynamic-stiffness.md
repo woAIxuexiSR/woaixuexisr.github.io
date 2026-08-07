@@ -3,7 +3,7 @@ title: "A Cubic Barrier with Elasticity-Inclusive Dynamic Stiffness"
 authors:
   - Ryoichi Ando
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 institution:
   - ZOZO

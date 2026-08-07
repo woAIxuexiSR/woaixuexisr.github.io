@@ -8,7 +8,7 @@ authors:
   - Ziyang Ma
   - Enhua Wu
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 tags:
   - Fluid Simulation

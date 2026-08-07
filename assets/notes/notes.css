@@ -343,6 +343,41 @@ pre code {
   font-size: 0.95rem;
 }
 
+/* Home page disclaimer callout (AI notes / source of summaries) */
+.notes-notice {
+  margin: 8px 0 0;
+  padding: 14px 18px;
+  background: var(--notes-surface-alt);
+  border: 1px solid var(--notes-border);
+  border-left: 3px solid var(--notes-accent);
+  border-radius: var(--notes-radius);
+  color: var(--notes-text-muted);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.notes-notice p {
+  margin: 0;
+}
+
+.notes-notice p + p {
+  margin-top: 8px;
+}
+
+.notes-notice strong {
+  color: var(--notes-text);
+  font-weight: 600;
+}
+
+.notes-notice a {
+  color: var(--notes-accent);
+  text-decoration: none;
+}
+
+.notes-notice a:hover {
+  text-decoration: underline;
+}
+
 /* ------------------------------------------------------------------ *
  * Home page: conference series sections + cards grid
  * ------------------------------------------------------------------ */
@@ -401,6 +436,35 @@ pre code {
 .notes-card__breakdown {
   font-size: 0.82rem;
   color: var(--notes-text-muted);
+}
+
+.notes-card__footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.notes-card__stats {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Note (accent) vs meta-only (muted) pie; note share = --pie percent. */
+.notes-card__pie {
+  flex: 0 0 auto;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: conic-gradient(
+    var(--notes-accent) 0 var(--pie, 0%),
+    var(--notes-border) var(--pie, 0%) 100%
+  );
+  cursor: help;
+  align-self: flex-end;
+  /* Nudge toward the card's bottom-right corner: 1st value = right, 2nd = down. */
+  transform: translate(10px, 10px);
 }
 
 /* ------------------------------------------------------------------ *
@@ -582,6 +646,11 @@ pre code {
   font-weight: 600;
 }
 
+/* Tags sit on their own row under the conference/category meta line. */
+.notes-list-item .notes-tags {
+  margin-top: 8px;
+}
+
 /* ------------------------------------------------------------------ *
  * Badges: track (display-only), category, tag
  * ------------------------------------------------------------------ */
@@ -602,6 +671,16 @@ pre code {
 .notes-track {
   background: var(--notes-track-bg);
   color: var(--notes-track-text);
+}
+
+/* Meta-only badge (display-only): paper has front matter but no written note.
+   Amber tint so it stands out clearly from the blue track / gray tag badges. */
+.notes-meta-only {
+  background: #fff3e0;
+  color: #b25e00;
+  border: 1px solid #ffd8a8;
+  font-weight: 600;
+  cursor: help;
 }
 
 /* Category badge (links to a Category_Page) */
@@ -763,6 +842,17 @@ a.notes-tag:hover {
   text-decoration: none;
 }
 
+/* Small amber dot marking a meta-only paper in the sidebar list. */
+.notes-sidebar__meta {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: #f08c00;
+  vertical-align: middle;
+}
+
 /* Sidebar toggle control */
 .notes-sidebar-toggle {
   display: inline-flex;
@@ -836,6 +926,11 @@ a.notes-tag:hover {
   color: var(--notes-text-subtle);
   font-size: 0.9rem;
   font-weight: 600;
+}
+
+/* Tags get their own row under the conference/category meta line */
+.notes-detail-header .notes-tags {
+  margin-top: 8px;
 }
 
 /* Link controls (paper / project / video / code) */

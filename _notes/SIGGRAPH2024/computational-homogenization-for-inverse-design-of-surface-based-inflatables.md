@@ -9,7 +9,7 @@ authors:
   - "Mark Pauly"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "École Polytechnique Fédérale de Lausanne"
   - "University of California, Davis"

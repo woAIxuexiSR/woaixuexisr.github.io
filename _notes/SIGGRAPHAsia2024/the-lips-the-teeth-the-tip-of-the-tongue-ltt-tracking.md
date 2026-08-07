@@ -9,7 +9,7 @@ authors:
   - Jason M. Saragih
   - Javier Romero
 track: "Conference"
-source: none
+source: ACM
 category: Reconstruction
 institution:
   - Meta

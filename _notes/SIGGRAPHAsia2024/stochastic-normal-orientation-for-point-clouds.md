@@ -7,7 +7,7 @@ authors:
   - Ligang Liu
   - Xiao-Ming Fu
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - University of Science and Technology of China

@@ -11,7 +11,7 @@ authors:
   - "Jingyi Yu"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "ShanghaiTech University"
 tags:
   - "3D Gaussian Splatting"

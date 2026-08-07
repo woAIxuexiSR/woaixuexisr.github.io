@@ -8,7 +8,7 @@ authors:
   - "Rafal Mantiuk"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Max Planck Institute for Informatics"
 tags:
   - "Monte Carlo Denoising"

@@ -6,7 +6,7 @@ authors:
   - Jing Ren
   - Olga Sorkine-Hornung
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - ETH Zurich

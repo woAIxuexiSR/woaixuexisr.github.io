@@ -6,7 +6,7 @@ authors:
   - "Pedro V. Sander"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "The Hong Kong University of Science and Technology"
 tags:

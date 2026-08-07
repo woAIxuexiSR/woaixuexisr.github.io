@@ -9,7 +9,7 @@ authors:
   - "Yanwen Guo"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Nanjing University"
   - "Chinese Academy of Sciences"

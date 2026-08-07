@@ -5,7 +5,7 @@ authors:
   - "Silvia Sellán"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Columbia University"
 tags:
   - "SPH"

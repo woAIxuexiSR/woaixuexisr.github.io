@@ -5,7 +5,7 @@ authors:
   - Torsten Sattler
   - Andreas Geiger
 track: "Journal"
-source: none
+source: ACM
 category: "Reconstruction"
 institution:
   - University of Tübingen

@@ -12,7 +12,7 @@ authors:
   - "Rafal K. Mantiuk"
 category: "HCI & XR"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Max Planck Institute for Informatics"
   - "University of Cambridge"

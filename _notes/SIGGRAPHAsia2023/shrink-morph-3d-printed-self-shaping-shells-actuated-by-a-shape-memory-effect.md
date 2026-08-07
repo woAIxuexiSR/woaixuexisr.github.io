@@ -8,7 +8,7 @@ authors:
   - "Sylvain Lefebvre"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Inria"
 tags:
   - "3D Printing"

@@ -7,7 +7,7 @@ authors:
   - "Kening Zhu"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "City University of Hong Kong"
 tags:
   - "Virtual Reality"

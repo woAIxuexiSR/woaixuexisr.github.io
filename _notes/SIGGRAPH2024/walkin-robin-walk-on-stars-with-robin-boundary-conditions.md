@@ -7,7 +7,7 @@ authors:
   - "Ioannis Gkioulekas"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Carnegie Mellon University"
 tags:
   - "Walk On Stars"

@@ -5,7 +5,7 @@ authors:
   - Tomohiro Tachi
   - Mina Konaković Luković
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Massachusetts Institute of Technology

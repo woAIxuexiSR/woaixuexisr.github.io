@@ -6,7 +6,7 @@ authors:
   - Danny M. Kaufman
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: University of Southern California
 tags:
   - Elastodynamics

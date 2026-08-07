@@ -8,7 +8,7 @@ authors:
   - "Steve Marschner"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Cornell University"
   - "University of Michigan"

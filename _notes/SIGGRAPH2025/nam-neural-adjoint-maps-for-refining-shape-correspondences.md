@@ -6,7 +6,7 @@ authors:
   - Simone Melzi
 category: Geometry & Modeling
 track: Journal
-source: none
+source: ACM
 institution: University of Milano-Bicocca
 tags:
   - Shape Correspondence

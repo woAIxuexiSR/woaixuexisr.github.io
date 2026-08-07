@@ -14,7 +14,7 @@ authors:
   - "Jingdong Wang"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Baidu"
   - "Nanyang Technological University"

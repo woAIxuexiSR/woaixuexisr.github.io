@@ -6,7 +6,7 @@ authors:
   - "Chris Wojtan"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "ISTA"
 tags:
   - "Rigid Body"

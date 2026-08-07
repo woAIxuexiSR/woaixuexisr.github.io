@@ -9,7 +9,7 @@ authors:
   - "Jiawan Zhang"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Tianjin University"
 tags:
   - "SVBRDF"

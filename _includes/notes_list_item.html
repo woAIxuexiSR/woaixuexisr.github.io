@@ -25,15 +25,21 @@ Requirements: 10.1, 10.2, 10.3, 10.4, 2.5, 7.2, 8.2, 9.2
     {%- if p.track and p.track != "" %}
     <span class="notes-badge notes-track">{{ p.track | escape }}</span>
     {%- endif %}
+    {%- if p.source == "ACM" %}
+    <span class="notes-badge notes-meta-only" title="meta-only：ACM PDF 未能获取，暂无正文笔记">meta-only</span>
+    {%- endif %}
     {%- if p.conference_label and p.conference_label != "" %}
     <span class="notes-list-item__conference">{{ p.conference_label | escape }}</span>
     {%- endif %}
-    {%- if p.tags and p.tags != empty %}
-    <span class="notes-tags">
-      {%- for tag in p.tags %}
-      <span class="notes-badge notes-tag">{{ tag | escape }}</span>
-      {%- endfor %}
-    </span>
+    {%- if p.category and p.category != "" %}
+    <span class="notes-badge notes-category">{{ p.category | escape }}</span>
     {%- endif %}
   </div>
+  {%- if p.tags and p.tags != empty %}
+  <div class="notes-tags">
+    {%- for tag in p.tags %}
+    <span class="notes-badge notes-tag">{{ tag | escape }}</span>
+    {%- endfor %}
+  </div>
+  {%- endif %}
 </a>

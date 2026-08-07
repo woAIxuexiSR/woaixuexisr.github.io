@@ -9,7 +9,7 @@ authors:
   - "Peter Schröder"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Technische Universität Berlin"
 tags:
   - "Rigid Body Dynamics"

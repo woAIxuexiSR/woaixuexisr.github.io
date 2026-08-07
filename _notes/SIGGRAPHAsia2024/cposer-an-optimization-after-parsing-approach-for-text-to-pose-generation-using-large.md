@@ -9,7 +9,7 @@ authors:
   - Tianjia Shao
   - Kun Zhou
 track: "Journal"
-source: none
+source: ACM
 category: "Animation & Simulation"
 tags:
   - Text-to-Pose

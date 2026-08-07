@@ -8,7 +8,7 @@ authors:
   - "Xiangxu Meng"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Shandong University"
 tags:
   - "Text-To-3D"

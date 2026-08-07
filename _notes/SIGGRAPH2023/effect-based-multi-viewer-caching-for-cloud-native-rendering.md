@@ -12,7 +12,7 @@ authors:
   - "Markus Steinberger"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Graz University of Technology"
 tags:
   - "Real-Time Rendering"

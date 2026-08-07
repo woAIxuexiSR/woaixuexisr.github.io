@@ -6,7 +6,7 @@ authors:
   - Ling-Qi Yan
   - Lin Gao
 track: "Journal"
-source: none
+source: ACM
 category: "Reconstruction"
 tags:
   - Neural Reconstruction

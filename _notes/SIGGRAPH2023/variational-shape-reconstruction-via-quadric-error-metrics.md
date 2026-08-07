@@ -9,7 +9,7 @@ authors:
   - "Pierre Alliez"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Adobe"

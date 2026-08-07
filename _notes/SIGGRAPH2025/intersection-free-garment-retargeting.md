@@ -9,7 +9,7 @@ authors:
   - Victor Zordan
 category: Animation & Simulation
 track: "Conference"
-source: none
+source: ACM
 institution:
   - New York University
   - Roblox

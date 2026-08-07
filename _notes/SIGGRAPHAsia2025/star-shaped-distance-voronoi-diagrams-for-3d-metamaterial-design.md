@@ -6,7 +6,7 @@ authors:
   - Bernhard Thomaszewski
 category: Geometry & Modeling
 track: Conference
-source: none
+source: ACM
 institution: ETH Zurich
 tags:
   - Voronoi Diagram

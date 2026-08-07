@@ -9,7 +9,7 @@ authors:
   - "Daniel Sýkora"
 category: "Image & Video"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Czech Technical University in Prague"
   - "Adobe"

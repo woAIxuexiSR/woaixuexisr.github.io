@@ -8,7 +8,7 @@ authors:
   - "Bo Dai"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Shanghai Artificial Intelligence Laboratory"
   - "The Chinese University of Hong Kong"

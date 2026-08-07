@@ -7,7 +7,7 @@ authors:
   - "Pascal Barla"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Université de Bordeaux"

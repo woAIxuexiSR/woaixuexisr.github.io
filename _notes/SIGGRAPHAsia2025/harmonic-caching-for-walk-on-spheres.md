@@ -6,7 +6,7 @@ authors:
   - Rohan Sawhney
   - Wojciech Jarosz
 track: "Journal"
-source: none
+source: ACM
 category: "Rendering"
 tags:
   - Walk On Spheres

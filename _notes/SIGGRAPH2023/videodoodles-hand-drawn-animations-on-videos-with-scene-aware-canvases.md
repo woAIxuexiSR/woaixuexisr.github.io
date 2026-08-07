@@ -9,7 +9,7 @@ authors:
   - "Adrien Bousseau"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Adobe"

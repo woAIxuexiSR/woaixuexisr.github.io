@@ -9,7 +9,7 @@ authors:
   - "Charlie C. L. Wang"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Manchester"
 tags:
   - "Topology Optimization"

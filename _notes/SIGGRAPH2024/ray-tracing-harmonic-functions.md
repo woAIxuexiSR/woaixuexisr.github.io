@@ -7,7 +7,7 @@ authors:
   - "Keenan Crane"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Carnegie Mellon University"
   - "TU Dortmund University"

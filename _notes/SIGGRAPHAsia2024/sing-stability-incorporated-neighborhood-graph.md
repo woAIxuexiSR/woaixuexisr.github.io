@@ -8,7 +8,7 @@ authors:
   - Steve Oudot
   - Pooran Memari
 track: "Conference"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - TU Wien

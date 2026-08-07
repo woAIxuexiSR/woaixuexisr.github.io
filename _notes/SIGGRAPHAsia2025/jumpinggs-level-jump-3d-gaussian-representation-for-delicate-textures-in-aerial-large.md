@@ -9,7 +9,7 @@ authors:
   - Chunxia Xiao
 category: Rendering
 track: "Journal"
-source: none
+source: ACM
 tags:
   - 3D Gaussian Splatting
   - Level Of Detail

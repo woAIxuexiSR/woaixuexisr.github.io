@@ -8,7 +8,7 @@ authors:
   - "Pierre Alliez"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Inria"
   - "Université de Reims Champagne-Ardenne"

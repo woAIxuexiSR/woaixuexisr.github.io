@@ -7,7 +7,7 @@ authors:
   - Inseung Hwang
   - Min H. Kim
 track: "Journal"
-source: none
+source: ACM
 category: Rendering
 tags:
   - Polarized Light

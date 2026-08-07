@@ -9,7 +9,7 @@ authors:
   - "Frédo Durand"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "MIT"
   - "NVIDIA"

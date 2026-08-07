@@ -9,7 +9,7 @@ authors:
   - Tsuyoshi Nomura
   - Bo Zhu
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - Georgia Institute of Technology

@@ -9,7 +9,7 @@ authors:
   - "Danny M. Kaufman"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Adobe"
   - "Stanford University"

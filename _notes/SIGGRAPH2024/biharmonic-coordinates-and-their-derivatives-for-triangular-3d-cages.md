@@ -6,7 +6,7 @@ authors:
   - "Jiong Chen"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Adobe"
   - "Inria"

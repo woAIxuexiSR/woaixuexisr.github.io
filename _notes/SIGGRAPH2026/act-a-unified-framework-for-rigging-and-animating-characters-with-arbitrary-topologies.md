@@ -14,7 +14,7 @@ authors:
   - "Jingyi Yu"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "ShanghaiTech University"
 tags:
   - "Character Rigging"

@@ -11,7 +11,7 @@ authors:
   - "Felix Heide"
 category: "Reconstruction"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Princeton University"
   - "ETH Zurich"

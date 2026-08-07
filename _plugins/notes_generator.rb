@@ -57,7 +57,14 @@ module Jekyll
 
       # Phase B — resolve duplicate slugs (keep first-seen) using the pure
       # NotesLogic.dedupe_by_slug helper, then collect the surviving entries.
-      valid_papers = resolve_unique(candidates)
+      kept = resolve_unique(candidates)
+      valid_papers = kept.map { |candidate| candidate[:entry] }
+
+      # Phase B2 — precompute each note's Left_Sidebar "会议+大类" window ONCE in
+      # Ruby and stash it on the doc. This replaces an O(N) Liquid filter that
+      # ran on every one of the ~1900 detail pages (an O(N^2) hot spot that
+      # dominated build time); the layout now just iterates the ready list.
+      attach_nearby(kept)
 
       folders = conference_folders(site)
 
@@ -149,7 +156,33 @@ module Jekyll
         )
       end
 
-      resolved[:kept].map { |candidate| candidate[:entry] }
+      resolved[:kept]
+    end
+
+    # Window radius for the Left_Sidebar "会议+大类" list: the current paper plus
+    # up to WINDOW papers before and after it within its (conference, category).
+    NEARBY_WINDOW = 10
+
+    # Precompute doc.data["nearby"] (the windowed entry list) and
+    # doc.data["nearby_total"] (the group size) for every kept note, grouping by
+    # [conference_label, category] in document order — matching the previous
+    # `where | where | slice` Liquid, but computed once instead of per page.
+    def attach_nearby(kept)
+      groups = Hash.new { |hash, key| hash[key] = [] }
+      kept.each do |candidate|
+        entry = candidate[:entry]
+        groups[[entry["conference_label"], entry["category"]]] << candidate
+      end
+
+      groups.each_value do |members|
+        total = members.size
+        entries = members.map { |candidate| candidate[:entry] }
+        members.each_with_index do |candidate, index|
+          win_start = [index - NEARBY_WINDOW, 0].max
+          candidate[:doc].data["nearby"] = entries[win_start, (NEARBY_WINDOW * 2) + 1] || []
+          candidate[:doc].data["nearby_total"] = total
+        end
+      end
     end
 
     # Build one Paper_Index entry from a valid document.
@@ -162,6 +195,10 @@ module Jekyll
         "track" => doc.data["track"],
         "tags" => Array(doc.data["tags"]),
         "links" => doc.data["links"] || {},
+        # Summary provenance: "arxiv" / "author-page" have a written note;
+        # "ACM" means meta-only (PDF unfetchable, front matter only). Home /
+        # listing pages chart note (non-ACM) vs meta-only (ACM) from this.
+        "source" => doc.data["source"],
         "conference" => conference,
         "year" => year,
         "conference_label" => label,

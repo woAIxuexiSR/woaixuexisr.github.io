@@ -6,7 +6,7 @@ authors:
   - Toshiya Hachisuka
 category: Rendering
 track: Journal
-source: none
+source: ACM
 institution: University of Waterloo
 tags:
   - Light Transport Simulation

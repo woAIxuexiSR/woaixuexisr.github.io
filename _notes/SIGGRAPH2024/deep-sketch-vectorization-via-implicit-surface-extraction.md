@@ -9,7 +9,7 @@ authors:
   - "Yotam I. Gingold"
 category: "Image & Video"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "George Mason University"
   - "Adobe Research"

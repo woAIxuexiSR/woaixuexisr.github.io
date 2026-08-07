@@ -14,7 +14,7 @@ authors:
   - "Taku Komura"
 category: "Neural & Generative"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "The University of Hong Kong"
   - "ShanghaiTech University"

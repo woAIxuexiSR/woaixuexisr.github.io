@@ -10,7 +10,7 @@ authors:
   - Bo Zhu
 category: Animation & Simulation
 track: Journal
-source: none
+source: ACM
 institution: Georgia Institute of Technology
 tags:
   - Fluid Simulation

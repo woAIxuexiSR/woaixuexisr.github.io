@@ -8,7 +8,7 @@ authors:
   - "Weiwei Xu"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Zhejiang University"
 tags:
   - "Motion Synthesis"

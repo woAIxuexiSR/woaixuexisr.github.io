@@ -11,7 +11,7 @@ authors:
   - Lingyun Sun
 category: HCI & XR
 track: Journal
-source: none
+source: ACM
 institution: Zhejiang University
 tags:
   - AI Design Tools

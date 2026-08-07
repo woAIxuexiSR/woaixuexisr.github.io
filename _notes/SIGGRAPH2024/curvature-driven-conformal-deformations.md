@@ -4,7 +4,7 @@ authors:
   - "Etienne Corman"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "CNRS"
   - "Université de Lorraine"

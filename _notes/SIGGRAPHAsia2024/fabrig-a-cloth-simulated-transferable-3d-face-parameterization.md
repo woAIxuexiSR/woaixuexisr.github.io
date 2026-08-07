@@ -5,7 +5,7 @@ authors:
   - Chris Joslin
 category: Animation & Simulation
 track: Conference
-source: none
+source: ACM
 institution:
   - Carleton University
 tags:

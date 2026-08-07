@@ -6,7 +6,7 @@ authors:
   - "Chris Wojtan"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Institute of Science and Technology Austria"
 tags:
   - "Topology Optimization"

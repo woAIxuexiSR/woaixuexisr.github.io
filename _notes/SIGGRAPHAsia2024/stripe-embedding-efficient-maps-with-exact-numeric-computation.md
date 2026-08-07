@@ -3,7 +3,7 @@ title: "Stripe Embedding: Efficient Maps with Exact Numeric Computation"
 authors:
   - Marco Livesu
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 institution:
   - CNR-IMATI

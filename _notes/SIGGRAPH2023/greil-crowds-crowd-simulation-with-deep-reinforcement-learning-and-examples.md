@@ -8,7 +8,7 @@ authors:
   - "Nuria Pelechano"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "CYENS Centre of Excellence"
   - "Inria"

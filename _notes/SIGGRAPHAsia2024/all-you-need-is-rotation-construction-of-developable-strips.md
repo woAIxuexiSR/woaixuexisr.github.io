@@ -4,7 +4,7 @@ authors:
   - Takashi Maekawa
   - Felix Scholz
 track: "Journal"
-source: none
+source: ACM
 category: "Geometry & Modeling"
 tags:
   - Developable Surface

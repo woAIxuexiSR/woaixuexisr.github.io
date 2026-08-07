@@ -5,7 +5,7 @@ authors:
   - "Jean-Marc Thiery"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Adobe Research"
 tags:
   - "Cage-Based Deformation"

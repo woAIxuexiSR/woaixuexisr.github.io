@@ -6,7 +6,7 @@ authors:
   - "John D. Owens"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of California, Davis"
 tags:
   - "GPU"

@@ -11,7 +11,7 @@ authors:
   - Xiaogang Jin
 category: "Neural & Generative"
 track: "Journal"
-source: none
+source: ACM
 institution:
   - Zhejiang University
 tags:

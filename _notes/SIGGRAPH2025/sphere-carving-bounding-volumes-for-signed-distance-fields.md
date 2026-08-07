@@ -9,7 +9,7 @@ authors:
   - Axel Paris
 category: Rendering
 track: Journal
-source: none
+source: ACM
 institution: Adobe Research
 tags:
   - Signed Distance Fields

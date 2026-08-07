@@ -9,7 +9,7 @@ authors:
   - Dieter Schmalstieg
 category: Rendering
 track: "Conference"
-source: none
+source: ACM
 institution: University of Stuttgart
 tags:
   - Potentially Visible Set

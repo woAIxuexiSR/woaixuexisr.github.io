@@ -8,7 +8,7 @@ authors:
   - "Henning Lübbe"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "Fraunhofer IGD"
   - "VITA Zahnfabrik"

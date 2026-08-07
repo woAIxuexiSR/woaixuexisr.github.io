@@ -34,14 +34,7 @@ layout: notes_base
     <h2 class="notes-series__title">SIGGRAPH</h2>
     <div class="notes-cards">
       {%- for conference in confs -%}{%- unless conference.label contains "Asia" -%}
-      {%- assign cp = site.data.paper_index | where: "conference_label", conference.label -%}
-      {%- assign cc = cp | where: "track", "Conference" | size -%}
-      {%- assign cj = cp | where: "track", "Journal" | size -%}
-      <a class="notes-card" href="/notes/{{ conference.slug }}/">
-        <span class="notes-card__label">{{ conference.label }}</span>
-        <span class="notes-card__count">共 {{ conference.count }} 篇</span>
-        <span class="notes-card__breakdown">Conference {{ cc }} · Journal {{ cj }}</span>
-      </a>
+      {%- include notes_conference_card.html conference=conference -%}
       {%- endunless -%}{%- endfor -%}
     </div>
   </section>
@@ -52,14 +45,7 @@ layout: notes_base
     <h2 class="notes-series__title">SIGGRAPH Asia</h2>
     <div class="notes-cards">
       {%- for conference in confs -%}{%- if conference.label contains "Asia" -%}
-      {%- assign cp = site.data.paper_index | where: "conference_label", conference.label -%}
-      {%- assign cc = cp | where: "track", "Conference" | size -%}
-      {%- assign cj = cp | where: "track", "Journal" | size -%}
-      <a class="notes-card" href="/notes/{{ conference.slug }}/">
-        <span class="notes-card__label">{{ conference.label }}</span>
-        <span class="notes-card__count">共 {{ conference.count }} 篇</span>
-        <span class="notes-card__breakdown">Conference {{ cc }} · Journal {{ cj }}</span>
-      </a>
+      {%- include notes_conference_card.html conference=conference -%}
       {%- endif -%}{%- endfor -%}
     </div>
   </section>
@@ -68,4 +54,9 @@ layout: notes_base
   {%- else -%}
   <div class="notes-empty">No conferences yet. Add a note file under a conference folder to get started.</div>
   {%- endif -%}
+
+  <div class="notes-notice">
+    <p>本站笔记由 AI 依据论文内容总结。SIGGRAPH / SIGGRAPH Asia 论文虽已通过 ACM Open Access，但 ACM 站点的 Cloudflare 防护导致我们无法直接抓取其 PDF，因此这些总结主要基于 <strong>arXiv</strong> 或<strong>作者主页</strong>上的版本，内容可能与最终发表版略有出入。</p>
+    <p>如果你有稳定获取 ACM PDF 的方法，欢迎<a href="mailto:susurui@pku.edu.cn">邮件联系我</a>。</p>
+  </div>
 </div>

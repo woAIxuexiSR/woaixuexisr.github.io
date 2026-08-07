@@ -6,7 +6,7 @@ authors:
   - "Mikhail Bessmeltsev"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "University of Montreal"
 tags:
   - "Sketch Processing"

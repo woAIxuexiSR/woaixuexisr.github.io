@@ -10,7 +10,7 @@ authors:
   - Huamin Wang
 category: Animation & Simulation
 track: "Conference"
-source: none
+source: ACM
 tags:
   - Cloth Simulation
   - Outfit Assembly

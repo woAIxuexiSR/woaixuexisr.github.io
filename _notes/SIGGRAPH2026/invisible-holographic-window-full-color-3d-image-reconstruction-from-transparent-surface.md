@@ -10,7 +10,7 @@ authors:
   - "Masahiro Yamaguchi"
 category: "HCI & XR"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Japan Broadcasting Corporation"
   - "Kanagawa Institute of Technology"

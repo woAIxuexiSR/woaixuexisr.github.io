@@ -8,7 +8,7 @@ authors:
   - "Seungyong Lee"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "POSTECH"
 tags:
   - "Non-Rigid ICP"

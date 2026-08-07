@@ -9,7 +9,7 @@ authors:
   - Alexandre Chapiro
   - Alan Bovik
 track: "Conference"
-source: none
+source: ACM
 category: "Image & Video"
 institution:
   - The University of Texas at Austin

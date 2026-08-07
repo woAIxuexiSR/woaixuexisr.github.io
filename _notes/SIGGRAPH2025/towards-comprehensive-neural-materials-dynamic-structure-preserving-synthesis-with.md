@@ -10,7 +10,7 @@ authors:
   - "Ling-Qi Yan"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution:
   - "University of California, Santa Barbara"
   - "Shandong University"

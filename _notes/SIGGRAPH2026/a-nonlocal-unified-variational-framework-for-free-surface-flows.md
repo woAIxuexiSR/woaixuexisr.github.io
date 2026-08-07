@@ -8,7 +8,7 @@ authors:
   - "Xiaowei He"
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Chinese Academy of Sciences"
 tags:
   - "Fluid Simulation"

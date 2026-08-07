@@ -10,7 +10,7 @@ authors:
   - "Yanwen Guo"
 category: "Rendering"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Nanjing University"
 tags:
   - "Super-Resolution"

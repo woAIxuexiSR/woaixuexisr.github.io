@@ -6,7 +6,7 @@ authors:
   - Ladislav Kavan
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 tags:
   - Blendshape Compression
   - Matrix Factorization

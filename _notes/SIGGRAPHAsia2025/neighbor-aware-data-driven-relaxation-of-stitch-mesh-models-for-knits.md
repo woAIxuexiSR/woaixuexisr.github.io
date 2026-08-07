@@ -9,7 +9,7 @@ authors:
   - Cem Yuksel
 category: "Animation & Simulation"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "University of Utah"
 tags:
   - Knit Simulation

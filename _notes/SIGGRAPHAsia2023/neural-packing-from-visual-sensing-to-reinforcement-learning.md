@@ -8,7 +8,7 @@ authors:
   - "Ruizhen Hu"
 category: "Neural & Generative"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Shenzhen University"
   - "University of Guelph"

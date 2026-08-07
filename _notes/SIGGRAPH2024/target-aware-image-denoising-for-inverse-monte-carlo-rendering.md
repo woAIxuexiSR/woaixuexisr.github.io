@@ -7,7 +7,7 @@ authors:
   - "Bochang Moon"
 category: "Rendering"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "Gwangju Institute of Science and Technology"
   - "Korea Advanced Institute of Science and Technology"

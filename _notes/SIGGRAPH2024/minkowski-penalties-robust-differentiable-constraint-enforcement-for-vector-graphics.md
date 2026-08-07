@@ -7,7 +7,7 @@ authors:
   - "Keenan Crane"
 category: "Geometry & Modeling"
 track: "Conference"
-source: "none"
+source: "ACM"
 institution: "Carnegie Mellon University"
 tags:
   - "Geometric Constraint"

@@ -5,7 +5,7 @@ authors:
   - "Mathieu Desbrun"
 category: "Animation & Simulation"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "Inria"
 tags:
   - "Fluid Simulation"

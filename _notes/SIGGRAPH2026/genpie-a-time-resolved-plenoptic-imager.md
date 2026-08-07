@@ -12,7 +12,7 @@ authors:
   - "Jingyi Yu"
 category: "Reconstruction"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution:
   - "ShanghaiTech University"
   - "Chinese University of Hong Kong, Shenzhen"

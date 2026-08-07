@@ -9,7 +9,7 @@ authors:
   - "Mark Pauly"
 category: "Geometry & Modeling"
 track: "Journal"
-source: "none"
+source: "ACM"
 institution: "EPFL"
 tags:
   - "Deployable Structure"
