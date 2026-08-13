@@ -1,27 +1,27 @@
 ---
 title: "Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light"
 authors:
-  - Tzofi Klinghoffer
-  - Siddharth Somasundaram
-  - Xiaoyu Xiang
-  - Yuchen Fan
-  - Christian Richardt
-  - Akshat Dave
-  - Ramesh Raskar
-  - Rakesh Ranjan
+  - "Tzofi Klinghoffer"
+  - "Siddharth Somasundaram"
+  - "Xiaoyu Xiang"
+  - "Yuchen Fan"
+  - "Christian Richardt"
+  - "Akshat Dave"
+  - "Ramesh Raskar"
+  - "Rakesh Ranjan"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-category: Reconstruction
+source: "arxiv"
 institution:
-  - MIT
-  - Meta
+  - "MIT"
+  - "Meta"
 tags:
-  - Single-Photon LiDAR
-  - Two-Bounce Light
-  - 3D Reconstruction
-  - Occlusion Handling
-  - Depth Estimation
-  - Transient Imaging
+  - "Single-Photon LiDAR"
+  - "Two-Bounce Light"
+  - "3D Reconstruction"
+  - "Occlusion Handling"
+  - "Depth Estimation"
+  - "Transient Imaging"
 links:
   paper: "https://doi.org/10.1145/3757377.3763945"
   project: "https://shoot-bounce-3d.github.io"

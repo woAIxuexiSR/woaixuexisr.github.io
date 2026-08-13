@@ -1,22 +1,21 @@
 ---
 title: "Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models"
 authors:
-  - Armando Fortes
-  - Tianyi Wei
-  - Shangchen Zhou
-  - Xingang Pan
+  - "Armando Fortes"
+  - "Tianyi Wei"
+  - "Shangchen Zhou"
+  - "Xingang Pan"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - Nanyang Technological University
+source: "arxiv"
+institution: "Nanyang Technological University"
 tags:
-  - Diffusion Model
-  - Bokeh Control
-  - Depth Of Field
-  - Controllable Generation
-  - Attention Mechanism
-  - Image Editing
+  - "Diffusion Model"
+  - "Bokeh Control"
+  - "Depth Of Field"
+  - "Controllable Generation"
+  - "Attention Mechanism"
+  - "Image Editing"
 links:
   paper: "https://doi.org/10.1145/3757377.3763906"
   code: "https://github.com/atfortes/BokehDiffusion"

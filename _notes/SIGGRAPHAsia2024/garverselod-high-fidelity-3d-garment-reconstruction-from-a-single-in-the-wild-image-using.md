@@ -1,29 +1,29 @@
 ---
 title: "GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details"
 authors:
-  - Zhongjin Luo
-  - Haolin Liu
-  - Chenghong Li
-  - Wanghao Du
-  - Zirong Jin
-  - Wanhu Sun
-  - Yinyu Nie
-  - Weikai Chen
-  - Xiaoguang Han
-track: "Journal"
-source: arxiv
+  - "Zhongjin Luo"
+  - "Haolin Liu"
+  - "Chenghong Li"
+  - "Wanghao Du"
+  - "Zirong Jin"
+  - "Wanhu Sun"
+  - "Yinyu Nie"
+  - "Weikai Chen"
+  - "Xiaoguang Han"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - CUHKSZ
-  - Huawei Noah's Ark Lab
-  - Tencent Games
+  - "CUHKSZ"
+  - "Huawei Noah's Ark Lab"
+  - "Tencent Games"
 tags:
-  - 3D Garment Reconstruction
-  - Single View Reconstruction
-  - Levels of Details
-  - Parametric Model
-  - Implicit Function
-  - 3D Dataset
+  - "3D Garment Reconstruction"
+  - "Single View Reconstruction"
+  - "Levels of Details"
+  - "Parametric Model"
+  - "Implicit Function"
+  - "3D Dataset"
 links:
   paper: "https://doi.org/10.1145/3687921"
   project: "https://garverselod.github.io"

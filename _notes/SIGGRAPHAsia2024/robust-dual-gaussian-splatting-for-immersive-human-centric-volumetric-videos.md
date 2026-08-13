@@ -1,25 +1,25 @@
 ---
 title: "Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos"
 authors:
-  - Yuheng Jiang
-  - Zhehao Shen
-  - Yu Hong
-  - Chengcheng Guo
-  - Yize Wu
-  - Yingliang Zhang
-  - Jingyi Yu
-  - Lan Xu
+  - "Yuheng Jiang"
+  - "Zhehao Shen"
+  - "Yu Hong"
+  - "Chengcheng Guo"
+  - "Yize Wu"
+  - "Yingliang Zhang"
+  - "Jingyi Yu"
+  - "Lan Xu"
+category: "Reconstruction"
 track: "Journal"
-source: arxiv
-category: Reconstruction
-institution: ShanghaiTech University
+source: "arxiv"
+institution: "ShanghaiTech University"
 tags:
-  - Volumetric Video
-  - 3D Gaussian Splatting
-  - Human Performance Capture
-  - 4D Reconstruction
-  - Compression
-  - VR
+  - "Volumetric Video"
+  - "3D Gaussian Splatting"
+  - "Human Performance Capture"
+  - "4D Reconstruction"
+  - "Compression"
+  - "VR"
 links:
   paper: "https://doi.org/10.1145/3687926"
   project: "https://nowheretrix.github.io/DualGS/"

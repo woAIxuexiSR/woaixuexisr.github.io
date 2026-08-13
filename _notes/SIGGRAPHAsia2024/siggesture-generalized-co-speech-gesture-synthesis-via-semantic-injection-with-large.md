@@ -1,11 +1,22 @@
 ---
 title: "SIGGesture: Generalized Co-Speech Gesture Synthesis via Semantic Injection with Large-Scale Pre-Training Diffusion Models"
-authors: [Qingrong Cheng, Xu Li, Xinghui Fu, Fei Xia, Zhongqian Sun]
-track: "Conference"
-source: arxiv
+authors:
+  - "Qingrong Cheng"
+  - "Xu Li"
+  - "Xinghui Fu"
+  - "Fei Xia"
+  - "Zhongqian Sun"
 category: "Animation & Simulation"
-institution: [Tencent]
-tags: [co-speech-gesture, diffusion-model, large-language-model, motion-synthesis, semantic-injection, pre-training]
+track: "Conference"
+source: "arxiv"
+institution: "Tencent"
+tags:
+  - "co-speech-gesture"
+  - "diffusion-model"
+  - "large-language-model"
+  - "motion-synthesis"
+  - "semantic-injection"
+  - "pre-training"
 links:
   paper: "https://doi.org/10.1145/3680528.3687677"
 ---

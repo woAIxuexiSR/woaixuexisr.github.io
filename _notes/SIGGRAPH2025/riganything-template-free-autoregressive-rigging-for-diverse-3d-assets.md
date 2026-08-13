@@ -1,30 +1,30 @@
 ---
 title: "RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets"
 authors:
-  - Isabella Liu
-  - Zhan Xu
-  - Wang Yifan
-  - Hao Tan
-  - Zexiang Xu
-  - Xiaolong Wang
-  - Hao Su
-  - Zifan Shi
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: UC San Diego
+  - "Isabella Liu"
+  - "Zhan Xu"
+  - "Wang Yifan"
+  - "Hao Tan"
+  - "Zexiang Xu"
+  - "Xiaolong Wang"
+  - "Hao Su"
+  - "Zifan Shi"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "UC San Diego"
 tags:
-  - Automatic Rigging
-  - Animation Skeleton
-  - Skinning
-  - Autoregressive Modeling
-  - Transformer
-  - Diffusion Model
-  - 3D Assets
+  - "Automatic Rigging"
+  - "Animation Skeleton"
+  - "Skinning"
+  - "Autoregressive Modeling"
+  - "Transformer"
+  - "Diffusion Model"
+  - "3D Assets"
 links:
-  paper: https://doi.org/10.1145/3731149
-  project: https://www.liuisabella.com/RigAnything
-  code: https://huggingface.co/Isabellaliu/RigAnything
+  paper: "https://doi.org/10.1145/3731149"
+  project: "https://www.liuisabella.com/RigAnything"
+  code: "https://huggingface.co/Isabellaliu/RigAnything"
 ---
 
 ## 一句话总结

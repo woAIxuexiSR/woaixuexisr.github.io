@@ -1,21 +1,20 @@
 ---
 title: "Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction"
 authors:
-  - Yiming Wang
-  - Shaofei Wang
-  - Marko Mihajlovic
-  - Siyu Tang
+  - "Yiming Wang"
+  - "Shaofei Wang"
+  - "Marko Mihajlovic"
+  - "Siyu Tang"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-category: Reconstruction
-institution:
-  - ETH Zurich
+source: "arxiv"
+institution: "ETH Zurich"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Surface Reconstruction
-  - Dynamic Scene Reconstruction
-  - Neural Texture
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Surface Reconstruction"
+  - "Dynamic Scene Reconstruction"
+  - "Neural Texture"
 links:
   paper: "https://doi.org/10.1145/3757377.3763957"
   project: "https://19reborn.github.io/nts/"

@@ -1,26 +1,26 @@
 ---
 title: "Robust Symmetry Detection via Riemannian Langevin Dynamics"
 authors:
-  - Jihyeon Je
-  - Jiayi Liu
-  - Guandao Yang
-  - Boyang Deng
-  - Shengqu Cai
-  - Gordon Wetzstein
-  - Or Litany
-  - Leonidas J. Guibas
-track: "Conference"
-source: arxiv
+  - "Jihyeon Je"
+  - "Jiayi Liu"
+  - "Guandao Yang"
+  - "Boyang Deng"
+  - "Shengqu Cai"
+  - "Gordon Wetzstein"
+  - "Or Litany"
+  - "Leonidas J. Guibas"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Stanford University
-  - Technion
+  - "Stanford University"
+  - "Technion"
 tags:
-  - Symmetry Detection
-  - Geometry Processing
-  - Langevin Dynamics
-  - Score-based Models
-  - Shape Analysis
+  - "Symmetry Detection"
+  - "Geometry Processing"
+  - "Langevin Dynamics"
+  - "Score-based Models"
+  - "Shape Analysis"
 links:
   paper: "https://doi.org/10.1145/3680528.3687682"
 ---

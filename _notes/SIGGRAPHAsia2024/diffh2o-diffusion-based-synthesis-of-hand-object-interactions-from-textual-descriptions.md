@@ -1,26 +1,26 @@
 ---
 title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
 authors:
-  - Sammy Christen
-  - Shreyas Hampali
-  - Fadime Sener
-  - Edoardo Remelli
-  - Tomas Hodan
-  - Eric Sauser
-  - Shugao Ma
-  - Bugra Tekin
-track: "Conference"
-source: arxiv
+  - "Sammy Christen"
+  - "Shreyas Hampali"
+  - "Fadime Sener"
+  - "Edoardo Remelli"
+  - "Tomas Hodan"
+  - "Eric Sauser"
+  - "Shugao Ma"
+  - "Bugra Tekin"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Meta
-  - ETH Zürich
+  - "Meta"
+  - "ETH Zürich"
 tags:
-  - Hand Object Interaction
-  - Diffusion Model
-  - Motion Generation
-  - Text Driven
-  - Dexterous Manipulation
+  - "Hand Object Interaction"
+  - "Diffusion Model"
+  - "Motion Generation"
+  - "Text Driven"
+  - "Dexterous Manipulation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687563"
 ---

@@ -1,25 +1,25 @@
 ---
 title: "MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation"
 authors:
-  - Chen Tessler
-  - Yifeng Jiang
-  - Erwin Coumans
-  - Zhengyi Luo
-  - Gal Chechik
-  - Xue Bin Peng
-category: Animation & Simulation
+  - "Chen Tessler"
+  - "Yifeng Jiang"
+  - "Erwin Coumans"
+  - "Zhengyi Luo"
+  - "Gal Chechik"
+  - "Xue Bin Peng"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: NVIDIA
+source: "arxiv"
+institution: "NVIDIA"
 tags:
-  - Physics-Based Animation
-  - Reinforcement Learning
-  - Full-Body Manipulation
-  - Goal-Conditioned Control
-  - Humanoid Character
-  - Motion Tracking
+  - "Physics-Based Animation"
+  - "Reinforcement Learning"
+  - "Full-Body Manipulation"
+  - "Goal-Conditioned Control"
+  - "Humanoid Character"
+  - "Motion Tracking"
 links:
-  paper: https://doi.org/10.1145/3757377.3763934
+  paper: "https://doi.org/10.1145/3757377.3763934"
 ---
 
 ## 一句话总结

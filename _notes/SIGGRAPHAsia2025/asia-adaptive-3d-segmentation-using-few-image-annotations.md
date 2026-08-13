@@ -1,22 +1,21 @@
 ---
 title: "ASIA: Adaptive 3D Segmentation using Few Image Annotations"
 authors:
-  - Sai Raj Kishore Perla
-  - Aditya Vora
-  - Sauradip Nag
-  - Ali Mahdavi-Amiri
-  - Hao Zhang
-track: "Conference"
-source: arxiv
+  - "Sai Raj Kishore Perla"
+  - "Aditya Vora"
+  - "Sauradip Nag"
+  - "Ali Mahdavi-Amiri"
+  - "Hao Zhang"
 category: "Geometry & Modeling"
-institution:
-  - Simon Fraser University
+track: "Conference"
+source: "arxiv"
+institution: "Simon Fraser University"
 tags:
-  - 3D Segmentation
-  - Diffusion Models
-  - Few-Shot Learning
-  - Part Segmentation
-  - Multi-View Consistency
+  - "3D Segmentation"
+  - "Diffusion Models"
+  - "Few-Shot Learning"
+  - "Part Segmentation"
+  - "Multi-View Consistency"
 links:
   paper: "https://doi.org/10.1145/3757377.3763821"
   project: "https://sairajk.github.io/asia"

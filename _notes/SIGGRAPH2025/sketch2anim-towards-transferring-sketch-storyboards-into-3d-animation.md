@@ -1,25 +1,25 @@
 ---
 title: "Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation"
 authors:
-  - Lei Zhong
-  - Chuan Guo
-  - Yiming Xie
-  - Jiawei Wang
-  - Changjian Li
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: University of Edinburgh
+  - "Lei Zhong"
+  - "Chuan Guo"
+  - "Yiming Xie"
+  - "Jiawei Wang"
+  - "Changjian Li"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "University of Edinburgh"
 tags:
-  - Sketch-Based Animation
-  - Motion Synthesis
-  - Motion Diffusion Model
-  - ControlNet
-  - Storyboard
-  - 3D Character Animation
+  - "Sketch-Based Animation"
+  - "Motion Synthesis"
+  - "Motion Diffusion Model"
+  - "ControlNet"
+  - "Storyboard"
+  - "3D Character Animation"
 links:
-  paper: https://doi.org/10.1145/3731167
-  project: https://zhongleilz.github.io/Sketch2Anim/
+  paper: "https://doi.org/10.1145/3731167"
+  project: "https://zhongleilz.github.io/Sketch2Anim/"
 ---
 ## 一句话总结
 

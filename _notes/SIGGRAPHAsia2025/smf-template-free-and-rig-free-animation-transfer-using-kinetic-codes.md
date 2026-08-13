@@ -1,19 +1,20 @@
 ---
 title: "SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes"
 authors:
-  - Sanjeev Muralikrishnan
-  - Niladri Shekhar Dutt
-  - Niloy J. Mitra
+  - "Sanjeev Muralikrishnan"
+  - "Niladri Shekhar Dutt"
+  - "Niloy J. Mitra"
+category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
-category: Animation & Simulation
+source: "arxiv"
+institution: "University College London"
 tags:
-  - Animation Transfer
-  - Motion Retargeting
-  - Self Supervised Learning
-  - Neural Jacobian Fields
-  - Motion Latent Space
-  - Character Animation
+  - "Animation Transfer"
+  - "Motion Retargeting"
+  - "Self Supervised Learning"
+  - "Neural Jacobian Fields"
+  - "Motion Latent Space"
+  - "Character Animation"
 links:
   paper: "https://doi.org/10.1145/3763309"
   project: "https://motionfields.github.io/"

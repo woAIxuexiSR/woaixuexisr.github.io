@@ -1,35 +1,35 @@
 ---
 title: "Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures"
 authors:
-  - Xingjian Han
-  - Yu Jiang
-  - Weiming Wang
-  - Guoxin Fang
-  - Simeon Gill
-  - Zhiqiang Zhang
-  - Shengfa Wang
-  - Jun Saito
-  - Deepak Kumar
-  - Zhongxuan Luo
-  - Emily Whiting
-  - Charlie C. L. Wang
-track: "Conference"
-source: author-page
+  - "Xingjian Han"
+  - "Yu Jiang"
+  - "Weiming Wang"
+  - "Guoxin Fang"
+  - "Simeon Gill"
+  - "Zhiqiang Zhang"
+  - "Shengfa Wang"
+  - "Jun Saito"
+  - "Deepak Kumar"
+  - "Zhongxuan Luo"
+  - "Emily Whiting"
+  - "Charlie C. L. Wang"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "author-page"
 institution:
-  - Boston University
-  - The University of Manchester
-  - Dalian University of Technology
-  - The Chinese University of Hong Kong
-  - University of Leeds
-  - Adobe Research
+  - "Boston University"
+  - "The University of Manchester"
+  - "Dalian University of Technology"
+  - "The Chinese University of Hong Kong"
+  - "University of Leeds"
+  - "Adobe Research"
 tags:
-  - Computational Design
-  - Topology Optimization
-  - Microstructures
-  - Biomechanics
-  - Neural Representation
-  - Fabrication
+  - "Computational Design"
+  - "Topology Optimization"
+  - "Microstructures"
+  - "Biomechanics"
+  - "Neural Representation"
+  - "Fabrication"
 links:
   paper: "https://doi.org/10.1145/3680528.3687661"
 ---

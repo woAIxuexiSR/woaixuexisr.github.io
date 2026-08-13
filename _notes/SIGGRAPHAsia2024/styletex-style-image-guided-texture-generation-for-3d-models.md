@@ -1,25 +1,24 @@
 ---
 title: "StyleTex: Style Image-Guided Texture Generation for 3D Models"
 authors:
-  - Zhiyu Xie
-  - Yuqing Zhang
-  - Xiangjun Tang
-  - Yiqian Wu
-  - Dehan Chen
-  - Gongsheng Li
-  - Xiaogang Jin
-track: "Journal"
-source: arxiv
+  - "Zhiyu Xie"
+  - "Yuqing Zhang"
+  - "Xiangjun Tang"
+  - "Yiqian Wu"
+  - "Dehan Chen"
+  - "Gongsheng Li"
+  - "Xiaogang Jin"
 category: "Neural & Generative"
-institution:
-  - Zhejiang University
+track: "Journal"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - Texture Generation
-  - Style Transfer
-  - Diffusion Model
-  - Score Distillation
-  - 3D Stylization
-  - CLIP
+  - "Texture Generation"
+  - "Style Transfer"
+  - "Diffusion Model"
+  - "Score Distillation"
+  - "3D Stylization"
+  - "CLIP"
 links:
   paper: "https://doi.org/10.1145/3687931"
 ---

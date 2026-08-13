@@ -1,28 +1,26 @@
 ---
 title: "ShapeGen: Towards High-Quality 3D Shape Synthesis"
 authors:
-  - Yangguang Li
-  - Xianglong He
-  - Zi-Xin Zou
-  - Zexiang Liu
-  - Wanli Ouyang
-  - Ding Liang
-  - Yan-Pei Cao
-category: Neural & Generative
+  - "Yangguang Li"
+  - "Xianglong He"
+  - "Zi-Xin Zou"
+  - "Zexiang Liu"
+  - "Wanli Ouyang"
+  - "Ding Liang"
+  - "Yan-Pei Cao"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: VAST
+source: "arxiv"
+institution: "VAST"
 tags:
-  - Image-to-3D
-  - 3D Generation
-  - Diffusion Model
-  - Linear Attention
-  - Shape Modeling
-  - VAE
+  - "Image-to-3D"
+  - "3D Generation"
+  - "Diffusion Model"
+  - "Linear Attention"
+  - "Shape Modeling"
+  - "VAE"
 links:
-  paper: https://doi.org/10.1145/3757377.3763812
-  project:
-  code:
+  paper: "https://doi.org/10.1145/3757377.3763812"
 ---
 
 ## 一句话总结

@@ -1,26 +1,26 @@
 ---
 title: "Actuators À La Mode: Modal Actuations for Soft Body Locomotion"
 authors:
-  - Otman Benchekroun
-  - Kaixiang Xie
-  - Hsueh-Ti Derek Liu
-  - Eitan Grinspun
-  - Sheldon Andrews
-  - Victor B. Zordan
-track: "Conference"
-source: author-page
+  - "Otman Benchekroun"
+  - "Kaixiang Xie"
+  - "Hsueh-Ti Derek Liu"
+  - "Eitan Grinspun"
+  - "Sheldon Andrews"
+  - "Victor B. Zordan"
 category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
 institution:
-  - University of Toronto
-  - McGill University
-  - Roblox Research
-  - École de Technologie Supérieure
+  - "University of Toronto"
+  - "McGill University"
+  - "Roblox Research"
+  - "École de Technologie Supérieure"
 tags:
-  - Soft Body Simulation
-  - Character Motion Control
-  - Modal Analysis
-  - Reduced Order Simulation
-  - Motion Optimization
+  - "Soft Body Simulation"
+  - "Character Motion Control"
+  - "Modal Analysis"
+  - "Reduced Order Simulation"
+  - "Motion Optimization"
 links:
   paper: "https://doi.org/10.1145/3680528.3687638"
 ---

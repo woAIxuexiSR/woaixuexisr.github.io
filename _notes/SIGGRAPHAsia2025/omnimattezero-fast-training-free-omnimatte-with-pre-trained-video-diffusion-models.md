@@ -1,25 +1,25 @@
 ---
 title: "OmnimatteZero: Fast Training-free Omnimatte with Pre-trained Video Diffusion Models"
 authors:
-  - Dvir Samuel
-  - Matan Levy
-  - Nir Darshan
-  - Gal Chechik
-  - Rami Ben-Ari
-category: Image & Video
+  - "Dvir Samuel"
+  - "Matan Levy"
+  - "Nir Darshan"
+  - "Gal Chechik"
+  - "Rami Ben-Ari"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: OriginAI
+source: "arxiv"
+institution: "OriginAI"
 tags:
-  - Video Diffusion Model
-  - Omnimatte
-  - Training-Free
-  - Video Inpainting
-  - Video Editing
+  - "Video Diffusion Model"
+  - "Omnimatte"
+  - "Training-Free"
+  - "Video Inpainting"
+  - "Video Editing"
 links:
-  paper: https://doi.org/10.1145/3757377.3763917
-  project: https://research.nvidia.com/labs/par/publication/omnimattezero/
-  code: https://github.com/dvirsamuel/OmnimatteZero
+  paper: "https://doi.org/10.1145/3757377.3763917"
+  project: "https://research.nvidia.com/labs/par/publication/omnimattezero/"
+  code: "https://github.com/dvirsamuel/OmnimatteZero"
 ---
 
 ## 一句话总结

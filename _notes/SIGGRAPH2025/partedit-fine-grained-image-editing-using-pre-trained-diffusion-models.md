@@ -1,20 +1,19 @@
 ---
 title: "PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models"
 authors:
-  - Aleksandar Cvejic
-  - Abdelrahman Eldesokey
-  - Peter Wonka
+  - "Aleksandar Cvejic"
+  - "Abdelrahman Eldesokey"
+  - "Peter Wonka"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution:
-  - King Abdullah University of Science and Technology
+source: "arxiv"
+institution: "King Abdullah University of Science and Technology"
 tags:
-  - Image Editing
-  - Diffusion Model
-  - Token Optimization
-  - Cross-Attention
-  - Fine-Grained Editing
+  - "Image Editing"
+  - "Diffusion Model"
+  - "Token Optimization"
+  - "Cross-Attention"
+  - "Fine-Grained Editing"
 links:
   paper: "https://doi.org/10.1145/3721238.3730747"
   project: "https://gorluxor.github.io/part-edit/"

@@ -1,22 +1,22 @@
 ---
 title: "Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images"
 authors:
-  - Jiatong Xia
-  - Lingqiao Liu
-category: Reconstruction
+  - "Jiatong Xia"
+  - "Lingqiao Liu"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: The University of Adelaide
+source: "arxiv"
+institution: "The University of Adelaide"
 tags:
-  - 3D Reconstruction
-  - Novel View Synthesis
-  - Diffusion Model
-  - Point Cloud
-  - Instance Segmentation
-  - Sparse Views
+  - "3D Reconstruction"
+  - "Novel View Synthesis"
+  - "Diffusion Model"
+  - "Point Cloud"
+  - "Instance Segmentation"
+  - "Sparse Views"
 links:
-  paper: https://doi.org/10.1145/3757377.3763977
-  project: https://jiatongxia.github.io/TID3R/
+  paper: "https://doi.org/10.1145/3757377.3763977"
+  project: "https://jiatongxia.github.io/TID3R/"
 ---
 
 ## 一句话总结

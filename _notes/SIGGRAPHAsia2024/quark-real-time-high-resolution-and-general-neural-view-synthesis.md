@@ -1,33 +1,32 @@
 ---
 title: "Quark: Real-time, High-resolution, and General Neural View Synthesis"
 authors:
-  - John Flynn
-  - Michael Broxton
-  - Lukas Murmann
-  - Lucy Chai
-  - Matthew DuVall
-  - Clément Godard
-  - Kathryn Heal
-  - Srinivas Kaza
-  - Stephen Lombardi
-  - Xuan Luo
-  - Supreeth Achar
-  - Kira Prabhu
-  - Tiancheng Sun
-  - Lynn Tsai
-  - Ryan S. Overbeck
-track: "Journal"
-source: arxiv
+  - "John Flynn"
+  - "Michael Broxton"
+  - "Lukas Murmann"
+  - "Lucy Chai"
+  - "Matthew DuVall"
+  - "Clément Godard"
+  - "Kathryn Heal"
+  - "Srinivas Kaza"
+  - "Stephen Lombardi"
+  - "Xuan Luo"
+  - "Supreeth Achar"
+  - "Kira Prabhu"
+  - "Tiancheng Sun"
+  - "Lynn Tsai"
+  - "Ryan S. Overbeck"
 category: "Rendering"
-institution:
-  - Google
+track: "Journal"
+source: "arxiv"
+institution: "Google"
 tags:
-  - Neural Rendering
-  - Novel View Synthesis
-  - Real-Time Rendering
-  - Image-based Rendering
-  - Layered Depth Map
-  - Transformer
+  - "Neural Rendering"
+  - "Novel View Synthesis"
+  - "Real-Time Rendering"
+  - "Image-based Rendering"
+  - "Layered Depth Map"
+  - "Transformer"
 links:
   paper: "https://doi.org/10.1145/3687953"
 ---

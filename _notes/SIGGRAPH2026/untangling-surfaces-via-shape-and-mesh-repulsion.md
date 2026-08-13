@@ -17,8 +17,8 @@ tags:
   - "Surface Embedding"
 links:
   paper: "https://doi.org/10.1145/3811382"
-  code: "https://github.com/Simulation-Intelligence/Mesh-Untangling"
   project: "https://minarcik.com/"
+  code: "https://github.com/Simulation-Intelligence/Mesh-Untangling"
 ---
 
 ## 一句话总结

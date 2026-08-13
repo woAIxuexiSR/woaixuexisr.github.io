@@ -1,27 +1,27 @@
 ---
 title: "Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing"
 authors:
-  - Fanchao Zhong
-  - Zhenmin Zhang
-  - Liyuan Wang
-  - Xin Yan
-  - Jikai Liu
-  - Lin Lu
-  - Haisen Zhao
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: Shandong University
+  - "Fanchao Zhong"
+  - "Zhenmin Zhang"
+  - "Liyuan Wang"
+  - "Xin Yan"
+  - "Jikai Liu"
+  - "Lin Lu"
+  - "Haisen Zhao"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "Shandong University"
 tags:
-  - Digital Fabrication
-  - Remanufacturing
-  - Hybrid Manufacturing
-  - Additive Manufacturing
-  - Subtractive Manufacturing
-  - Process Planning
-  - Volume Optimization
-  - Collision Free Constraints
-  - Monte Carlo Tree Search
+  - "Digital Fabrication"
+  - "Remanufacturing"
+  - "Hybrid Manufacturing"
+  - "Additive Manufacturing"
+  - "Subtractive Manufacturing"
+  - "Process Planning"
+  - "Volume Optimization"
+  - "Collision Free Constraints"
+  - "Monte Carlo Tree Search"
 links:
   paper: "https://doi.org/10.1145/3763313"
   project: "https://fanchao98.github.io/Refab%20page/refab.html"

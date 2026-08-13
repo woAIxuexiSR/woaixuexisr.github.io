@@ -1,30 +1,29 @@
 ---
 title: "Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture"
 authors:
-  - Julien Philip
-  - Li Ma
-  - Pascal Clausen
-  - Wenqi Xian
-  - Ahmet Levent Taşel
-  - Mingming He
-  - Xueming Yu
-  - David M. George
-  - Ning Yu
-  - Oliver Pilarski
-  - Paul Debevec
+  - "Julien Philip"
+  - "Li Ma"
+  - "Pascal Clausen"
+  - "Wenqi Xian"
+  - "Ahmet Levent Taşel"
+  - "Mingming He"
+  - "Xueming Yu"
+  - "David M. George"
+  - "Ning Yu"
+  - "Oliver Pilarski"
+  - "Paul Debevec"
+category: "Reconstruction"
 track: "Journal"
-source: arxiv
-category: Reconstruction
-institution:
-  - Eyeline Labs
+source: "arxiv"
+institution: "Eyeline Labs"
 tags:
-  - Gaussian Splatting
-  - Volumetric Capture
-  - Free Viewpoint Video
-  - Detail Enhancement
-  - Diffusion Model
-  - Super Resolution
-  - Performance Capture
+  - "Gaussian Splatting"
+  - "Volumetric Capture"
+  - "Free Viewpoint Video"
+  - "Detail Enhancement"
+  - "Diffusion Model"
+  - "Super Resolution"
+  - "Performance Capture"
 links:
   paper: "https://doi.org/10.1145/3763336"
 ---

@@ -1,21 +1,21 @@
 ---
 title: "ClothCombo: Modeling Inter-Cloth Interaction for Draping Multi-Layered Clothes"
 authors:
-  - Dohae Lee
-  - Hyun Kang
-  - In-Kwon Lee
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: Yonsei University
+  - "Dohae Lee"
+  - "Hyun Kang"
+  - "In-Kwon Lee"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "Yonsei University"
 tags:
-  - Cloth Simulation
-  - Multi-Layer Garment
-  - Graph Neural Network
-  - Virtual Try-On
-  - Draping
+  - "Cloth Simulation"
+  - "Multi-Layer Garment"
+  - "Graph Neural Network"
+  - "Virtual Try-On"
+  - "Draping"
 links:
-  paper: https://doi.org/10.1145/3618376
+  paper: "https://doi.org/10.1145/3618376"
 ---
 
 ## 一句话总结

@@ -1,18 +1,18 @@
 ---
 title: "Computational Design of Shape-Aware Sieves"
 authors:
-  - David Cha
-  - Oded Stein
+  - "David Cha"
+  - "Oded Stein"
 category: "Geometry & Modeling"
 track: "Conference"
 source: "author-page"
 institution: "University of Southern California"
 tags:
-  - Fabrication
-  - Global Optimization
-  - Differentiable Rendering
-  - Computational Design
-  - Geometry Processing
+  - "Fabrication"
+  - "Global Optimization"
+  - "Differentiable Rendering"
+  - "Computational Design"
+  - "Geometry Processing"
 links:
   paper: "https://doi.org/10.1145/3757377.3763875"
   project: "https://david-cha.github.io/projects/sieves/index.html"

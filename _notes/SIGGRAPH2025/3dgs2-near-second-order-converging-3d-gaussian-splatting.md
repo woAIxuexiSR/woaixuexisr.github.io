@@ -1,27 +1,27 @@
 ---
 title: "3DGS²: Near Second-order Converging 3D Gaussian Splatting"
 authors:
-  - Lei Lan
-  - Tianjia Shao
-  - Zixuan Lu
-  - Yu Zhang
-  - Chenfanfu Jiang
-  - Yin Yang
-category: Reconstruction
-track: Conference
-source: arxiv
+  - "Lei Lan"
+  - "Tianjia Shao"
+  - "Zixuan Lu"
+  - "Yu Zhang"
+  - "Chenfanfu Jiang"
+  - "Yin Yang"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of Utah
-  - Zhejiang University
-  - University of California, Los Angeles
+  - "University of Utah"
+  - "Zhejiang University"
+  - "University of California, Los Angeles"
 tags:
-  - 3D Gaussian Splatting
-  - Second-Order Optimization
-  - Newton's Method
-  - Novel View Synthesis
-  - Training Acceleration
+  - "3D Gaussian Splatting"
+  - "Second-Order Optimization"
+  - "Newton's Method"
+  - "Novel View Synthesis"
+  - "Training Acceleration"
 links:
-  paper: https://doi.org/10.1145/3721238.3730687
+  paper: "https://doi.org/10.1145/3721238.3730687"
 ---
 
 ## 一句话总结

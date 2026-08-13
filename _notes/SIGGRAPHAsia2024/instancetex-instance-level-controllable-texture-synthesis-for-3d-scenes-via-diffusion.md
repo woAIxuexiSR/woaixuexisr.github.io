@@ -1,27 +1,27 @@
 ---
 title: "InstanceTex: Instance-level Controllable Texture Synthesis for 3D Scenes via Diffusion Priors"
 authors:
-  - Mingxin Yang
-  - Jianwei Guo
-  - Yuzhi Chen
-  - Lan Chen
-  - Pu Li
-  - Zhanglin Cheng
-  - Xiaopeng Zhang
-  - Hui Huang
-track: "Conference"
-source: author-page
+  - "Mingxin Yang"
+  - "Jianwei Guo"
+  - "Yuzhi Chen"
+  - "Lan Chen"
+  - "Pu Li"
+  - "Zhanglin Cheng"
+  - "Xiaopeng Zhang"
+  - "Hui Huang"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - Chinese Academy of Sciences
-  - University of Chinese Academy of Sciences
-  - Shenzhen University
+  - "Chinese Academy of Sciences"
+  - "University of Chinese Academy of Sciences"
+  - "Shenzhen University"
 tags:
-  - Texture Synthesis
-  - 3D Scene
-  - Diffusion Prior
-  - Instance Level Control
-  - Score Distillation
+  - "Texture Synthesis"
+  - "3D Scene"
+  - "Diffusion Prior"
+  - "Instance Level Control"
+  - "Score Distillation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687633"
 ---

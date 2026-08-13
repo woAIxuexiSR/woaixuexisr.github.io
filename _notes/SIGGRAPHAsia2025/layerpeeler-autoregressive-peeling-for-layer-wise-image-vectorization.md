@@ -1,20 +1,20 @@
 ---
 title: "LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization"
 authors:
-  - Ronghuan Wu
-  - Wanchao Su
-  - Jing Liao
+  - "Ronghuan Wu"
+  - "Wanchao Su"
+  - "Jing Liao"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "City University of Hong Kong"
 tags:
-  - Image Vectorization
-  - Vector Graphics
-  - Vision-Language Models
-  - Diffusion Model
-  - Attention Control
-  - Autoregressive Model
+  - "Image Vectorization"
+  - "Vector Graphics"
+  - "Vision-Language Models"
+  - "Diffusion Model"
+  - "Attention Control"
+  - "Autoregressive Model"
 links:
   paper: "https://doi.org/10.1145/3757377.3763964"
   project: "https://layerpeeler.github.io/"

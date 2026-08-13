@@ -1,19 +1,18 @@
 ---
 title: "HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution"
 authors:
-  - Hua Li
-  - Zhouhui Lian
-track: "Journal"
-source: arxiv
+  - "Hua Li"
+  - "Zhouhui Lian"
 category: "Neural & Generative"
-institution:
-  - Peking University
+track: "Journal"
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Font Generation
-  - Few Shot Learning
-  - Diffusion Model
-  - Style Transfer
-  - Image Synthesis
+  - "Font Generation"
+  - "Few Shot Learning"
+  - "Diffusion Model"
+  - "Style Transfer"
+  - "Image Synthesis"
 links:
   paper: "https://doi.org/10.1145/3687994"
 ---

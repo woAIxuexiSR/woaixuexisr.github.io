@@ -1,29 +1,29 @@
 ---
 title: "Polarimetric BSSRDF Acquisition of Dynamic Faces"
 authors:
-  - Hyunho Ha
-  - Inseung Hwang
-  - Néstor Monzón
-  - Jaemin Cho
-  - Donggun Kim
-  - Seung-Hwan Baek
-  - Adolfo Muñoz
-  - Diego Gutierrez
-  - Min H. Kim
-track: "Journal"
-source: arxiv
+  - "Hyunho Ha"
+  - "Inseung Hwang"
+  - "Néstor Monzón"
+  - "Jaemin Cho"
+  - "Donggun Kim"
+  - "Seung-Hwan Baek"
+  - "Adolfo Muñoz"
+  - "Diego Gutierrez"
+  - "Min H. Kim"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - KAIST
-  - Universidad de Zaragoza
-  - POSTECH
+  - "KAIST"
+  - "Universidad de Zaragoza"
+  - "POSTECH"
 tags:
-  - Polarization Imaging
-  - Multispectral Imaging
-  - Skin Reflectance Modeling
-  - BSSRDF
-  - Subsurface Scattering
-  - Face Appearance Acquisition
+  - "Polarization Imaging"
+  - "Multispectral Imaging"
+  - "Skin Reflectance Modeling"
+  - "BSSRDF"
+  - "Subsurface Scattering"
+  - "Face Appearance Acquisition"
 links:
   paper: "https://doi.org/10.1145/3687767"
   code: "https://github.com/KAIST-VCLAB/polarimetric-bssrdf-dynamic-face"

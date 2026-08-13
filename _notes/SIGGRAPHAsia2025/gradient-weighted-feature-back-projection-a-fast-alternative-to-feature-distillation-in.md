@@ -1,20 +1,19 @@
 ---
 title: "Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting"
 authors:
-  - Joji Joseph
-  - Bharadwaj Amrutur
-  - Shalabh Bhatnagar
-category: Rendering
+  - "Joji Joseph"
+  - "Bharadwaj Amrutur"
+  - "Shalabh Bhatnagar"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution:
-  - Indian Institute of Science
+source: "arxiv"
+institution: "Indian Institute of Science"
 tags:
-  - 3D Gaussian Splatting
-  - Feature Fields
-  - 3D Segmentation
-  - Scene Understanding
-  - Training Free
+  - "3D Gaussian Splatting"
+  - "Feature Fields"
+  - "3D Segmentation"
+  - "Scene Understanding"
+  - "Training Free"
 links:
   paper: "https://doi.org/10.1145/3757377.3763926"
   project: "https://jojijoseph.github.io/3dgs-backprojection/"

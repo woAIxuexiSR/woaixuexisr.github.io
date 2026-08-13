@@ -1,24 +1,24 @@
 ---
 title: "ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model"
 authors:
-  - Xuangeng Chu
-  - Nabarun Goswami
-  - Ziteng Cui
-  - Hanqin Wang
-  - Tatsuya Harada
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: The University of Tokyo
+  - "Xuangeng Chu"
+  - "Nabarun Goswami"
+  - "Ziteng Cui"
+  - "Hanqin Wang"
+  - "Tatsuya Harada"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "The University of Tokyo"
 tags:
-  - Speech-Driven Animation
-  - 3D Head Animation
-  - Autoregressive Model
-  - Motion Generation
-  - Facial Animation
+  - "Speech-Driven Animation"
+  - "3D Head Animation"
+  - "Autoregressive Model"
+  - "Motion Generation"
+  - "Facial Animation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763955
-  code: https://github.com/xg-chu/ARTalk
+  paper: "https://doi.org/10.1145/3757377.3763955"
+  code: "https://github.com/xg-chu/ARTalk"
 ---
 
 ## 一句话总结

@@ -1,24 +1,24 @@
 ---
 title: "mpcMech: Multi-Point Conjugation Mechanisms"
 authors:
-  - Ke Chen
-  - Siqi Li
-  - Peng Song
-  - Jianmin Zheng
-  - Ligang Liu
-track: "Journal"
-source: author-page
+  - "Ke Chen"
+  - "Siqi Li"
+  - "Peng Song"
+  - "Jianmin Zheng"
+  - "Ligang Liu"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
 institution:
-  - University of Science and Technology of China
-  - Singapore University of Technology and Design
-  - Nanyang Technological University
+  - "University of Science and Technology of China"
+  - "Singapore University of Technology and Design"
+  - "Nanyang Technological University"
 tags:
-  - Mechanism Design
-  - Motion Generation
-  - Conjugate Surface
-  - Form Closure
-  - Computational Fabrication
+  - "Mechanism Design"
+  - "Motion Generation"
+  - "Conjugate Surface"
+  - "Form Closure"
+  - "Computational Fabrication"
 links:
   paper: "https://doi.org/10.1145/3687770"
 ---

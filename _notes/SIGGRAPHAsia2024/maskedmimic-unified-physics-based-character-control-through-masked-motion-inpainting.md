@@ -1,23 +1,22 @@
 ---
 title: "MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting"
 authors:
-  - Chen Tessler
-  - Yunrong Guo
-  - Ofir Nabati
-  - Gal Chechik
-  - Xue Bin Peng
-track: "Journal"
-source: arxiv
+  - "Chen Tessler"
+  - "Yunrong Guo"
+  - "Ofir Nabati"
+  - "Gal Chechik"
+  - "Xue Bin Peng"
 category: "Animation & Simulation"
-institution:
-  - NVIDIA
+track: "Journal"
+source: "arxiv"
+institution: "NVIDIA"
 tags:
-  - Physics-Based Character Control
-  - Reinforcement Learning
-  - Motion Completion
-  - Behavior Cloning
-  - Conditional VAE
-  - Multimodal Control
+  - "Physics-Based Character Control"
+  - "Reinforcement Learning"
+  - "Motion Completion"
+  - "Behavior Cloning"
+  - "Conditional VAE"
+  - "Multimodal Control"
 links:
   paper: "https://doi.org/10.1145/3687951"
   project: "https://research.nvidia.com/labs/par/maskedmimic/"

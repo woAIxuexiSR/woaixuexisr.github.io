@@ -1,25 +1,25 @@
 ---
 title: "Cobra: Efficient Line Art Colorization with Broader References"
 authors:
-  - Junhao Zhuang
-  - Lingen Li
-  - Xuan Ju
-  - Zhaoyang Zhang
-  - Chun Yuan
-  - Ying Shan
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Tsinghua University
+  - "Junhao Zhuang"
+  - "Lingen Li"
+  - "Xuan Ju"
+  - "Zhaoyang Zhang"
+  - "Chun Yuan"
+  - "Ying Shan"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Line Art Colorization
-  - Diffusion Model
-  - Long Context Reference
-  - Identity Preservation
-  - Sparse Attention
+  - "Line Art Colorization"
+  - "Diffusion Model"
+  - "Long Context Reference"
+  - "Identity Preservation"
+  - "Sparse Attention"
 links:
-  paper: https://doi.org/10.1145/3721238.3730660
-  project: https://zhuang2002.github.io/Cobra/
+  paper: "https://doi.org/10.1145/3721238.3730660"
+  project: "https://zhuang2002.github.io/Cobra/"
 ---
 
 ## 一句话总结

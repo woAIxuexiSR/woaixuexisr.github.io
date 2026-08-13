@@ -1,21 +1,21 @@
 ---
 title: "MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation"
 authors:
-  - Kuan-Chieh Wang
-  - Daniil Ostashev
-  - Yuwei Fang
-  - Sergey Tulyakov
-  - Kfir Aberman
-category: Neural & Generative
+  - "Kuan-Chieh Wang"
+  - "Daniil Ostashev"
+  - "Yuwei Fang"
+  - "Sergey Tulyakov"
+  - "Kfir Aberman"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Snap Inc.
+source: "arxiv"
+institution: "Snap Inc."
 tags:
-  - Personalization
-  - Text-to-Image Generation
-  - Diffusion Model
-  - Mixture of Experts
-  - Attention
+  - "Personalization"
+  - "Text-to-Image Generation"
+  - "Diffusion Model"
+  - "Mixture of Experts"
+  - "Attention"
 links:
   paper: "https://doi.org/10.1145/3680528.3687662"
   project: "https://snap-research.github.io/mixture-of-attention"

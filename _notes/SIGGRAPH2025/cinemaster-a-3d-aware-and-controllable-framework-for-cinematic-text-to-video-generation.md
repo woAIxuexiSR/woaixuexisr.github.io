@@ -1,29 +1,29 @@
 ---
 title: "CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation"
 authors:
-  - Qinghe Wang
-  - Yawen Luo
-  - Xiaoyu Shi
-  - Xu Jia
-  - Huchuan Lu
-  - Tianfan Xue
-  - Xintao Wang
-  - Pengfei Wan
-  - Di Zhang
-  - Kun Gai
+  - "Qinghe Wang"
+  - "Yawen Luo"
+  - "Xiaoyu Shi"
+  - "Xu Jia"
+  - "Huchuan Lu"
+  - "Tianfan Xue"
+  - "Xintao Wang"
+  - "Pengfei Wan"
+  - "Di Zhang"
+  - "Kun Gai"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Dalian University of Technology
-  - The Chinese University of Hong Kong
-  - Kuaishou Technology
+  - "Dalian University of Technology"
+  - "The Chinese University of Hong Kong"
+  - "Kuaishou Technology"
 tags:
-  - Text-to-Video
-  - Diffusion Model
-  - Video Generation
-  - Camera Control
-  - ControlNet
+  - "Text-to-Video"
+  - "Diffusion Model"
+  - "Video Generation"
+  - "Camera Control"
+  - "ControlNet"
 links:
   paper: "https://doi.org/10.1145/3721238.3730755"
   project: "https://cinemaster-dev.github.io/"

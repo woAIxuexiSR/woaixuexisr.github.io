@@ -1,26 +1,26 @@
 ---
 title: "Manifold Sampling for Differentiable Uncertainty in Radiance Fields"
 authors:
-  - Linjie Lyu
-  - Ayush Tewari
-  - Marc Habermann
-  - Shunsuke Saito
-  - Michael Zollhöfer
-  - Thomas Leimkühler
-  - Christian Theobalt
-track: "Conference"
-source: arxiv
+  - "Linjie Lyu"
+  - "Ayush Tewari"
+  - "Marc Habermann"
+  - "Shunsuke Saito"
+  - "Michael Zollhöfer"
+  - "Thomas Leimkühler"
+  - "Christian Theobalt"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Max-Planck-Institut für Informatik
-  - MIT CSAIL
-  - Meta
+  - "Max-Planck-Institut für Informatik"
+  - "MIT CSAIL"
+  - "Meta"
 tags:
-  - Radiance Fields
-  - 3D Gaussian Splatting
-  - Uncertainty Quantification
-  - Next Best View Planning
-  - Monte Carlo Sampling
+  - "Radiance Fields"
+  - "3D Gaussian Splatting"
+  - "Uncertainty Quantification"
+  - "Next Best View Planning"
+  - "Monte Carlo Sampling"
 links:
   paper: "https://doi.org/10.1145/3680528.3687655"
 ---

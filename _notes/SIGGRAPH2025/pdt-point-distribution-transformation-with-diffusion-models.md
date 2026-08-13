@@ -1,29 +1,29 @@
 ---
 title: "PDT: Point Distribution Transformation with Diffusion Models"
 authors:
-  - Jionghao Wang
-  - Cheng Lin
-  - Yuan Liu
-  - Rui Xu
-  - Zhiyang Dou
-  - Xiaoxiao Long
-  - Haoxiang Guo
-  - Taku Komura
-  - Wenping Wang
-  - Xin Li
-category: Geometry & Modeling
-track: Conference
-source: arxiv
-institution: Texas A&M University
+  - "Jionghao Wang"
+  - "Cheng Lin"
+  - "Yuan Liu"
+  - "Rui Xu"
+  - "Zhiyang Dou"
+  - "Xiaoxiao Long"
+  - "Haoxiang Guo"
+  - "Taku Komura"
+  - "Wenping Wang"
+  - "Xin Li"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
+institution: "Texas A&M University"
 tags:
-  - Point Cloud
-  - Diffusion Model
-  - Remeshing
-  - Rigging
-  - 3D Shape Analysis
+  - "Point Cloud"
+  - "Diffusion Model"
+  - "Remeshing"
+  - "Rigging"
+  - "3D Shape Analysis"
 links:
-  paper: https://doi.org/10.1145/3721238.3730717
-  code: https://github.com/shanemankiw/PDT
+  paper: "https://doi.org/10.1145/3721238.3730717"
+  code: "https://github.com/shanemankiw/PDT"
 ---
 
 ## 一句话总结

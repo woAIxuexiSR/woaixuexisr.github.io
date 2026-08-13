@@ -1,35 +1,35 @@
 ---
 title: "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views"
 authors:
-  - Lihan Jiang
-  - Yucheng Mao
-  - Linning Xu
-  - Tao Lu
-  - Kerui Ren
-  - Yichen Jin
-  - Xudong Xu
-  - Mulin Yu
-  - Jiangmiao Pang
-  - Feng Zhao
-  - Dahua Lin
-  - Bo Dai
+  - "Lihan Jiang"
+  - "Yucheng Mao"
+  - "Linning Xu"
+  - "Tao Lu"
+  - "Kerui Ren"
+  - "Yichen Jin"
+  - "Xudong Xu"
+  - "Mulin Yu"
+  - "Jiangmiao Pang"
+  - "Feng Zhao"
+  - "Dahua Lin"
+  - "Bo Dai"
+category: "Reconstruction"
 track: "Journal"
-source: arxiv
-category: Reconstruction
+source: "arxiv"
 institution:
-  - University of Science and Technology of China
-  - Shanghai Artificial Intelligence Laboratory
-  - The Chinese University of Hong Kong
-  - Brown University
-  - Shanghai Jiao Tong University
-  - The University of Hong Kong
+  - "University of Science and Technology of China"
+  - "Shanghai Artificial Intelligence Laboratory"
+  - "The Chinese University of Hong Kong"
+  - "Brown University"
+  - "Shanghai Jiao Tong University"
+  - "The University of Hong Kong"
 tags:
-  - Multi-View Capture
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Feed-Forward Models
-  - Pose-Free Reconstruction
-  - Knowledge Distillation
+  - "Multi-View Capture"
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Feed-Forward Models"
+  - "Pose-Free Reconstruction"
+  - "Knowledge Distillation"
 links:
   paper: "https://doi.org/10.1145/3763326"
   project: "https://city-super.github.io/anysplat/"

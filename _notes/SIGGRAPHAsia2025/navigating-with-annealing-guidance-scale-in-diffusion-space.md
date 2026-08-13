@@ -1,21 +1,20 @@
 ---
 title: "Navigating with Annealing Guidance Scale in Diffusion Space"
 authors:
-  - Shai Yehezkel
-  - Omer Dahary
-  - Andrey Voynov
-  - Daniel Cohen-Or
-track: "Conference"
-source: arxiv
+  - "Shai Yehezkel"
+  - "Omer Dahary"
+  - "Andrey Voynov"
+  - "Daniel Cohen-Or"
 category: "Neural & Generative"
-institution:
-  - Tel Aviv University
+track: "Conference"
+source: "arxiv"
+institution: "Tel Aviv University"
 tags:
-  - Diffusion Model
-  - Text-to-Image Generation
-  - Classifier-Free Guidance
-  - Sampling
-  - Guidance Scheduling
+  - "Diffusion Model"
+  - "Text-to-Image Generation"
+  - "Classifier-Free Guidance"
+  - "Sampling"
+  - "Guidance Scheduling"
 links:
   paper: "https://doi.org/10.1145/3757377.3763830"
   project: "https://annealing-guidance.github.io/annealing-guidance/"

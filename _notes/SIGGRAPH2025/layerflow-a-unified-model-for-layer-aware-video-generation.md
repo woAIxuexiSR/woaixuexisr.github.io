@@ -1,24 +1,24 @@
 ---
 title: "LayerFlow: A Unified Model for Layer-aware Video Generation"
 authors:
-  - Sihui Ji
-  - Hao Luo
-  - Xi Chen
-  - Yuanpeng Tu
-  - Yiyang Wang
-  - Hengshuang Zhao
+  - "Sihui Ji"
+  - "Hao Luo"
+  - "Xi Chen"
+  - "Yuanpeng Tu"
+  - "Yiyang Wang"
+  - "Hengshuang Zhao"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - The University of Hong Kong
-  - DAMO Academy, Alibaba Group
+  - "The University of Hong Kong"
+  - "DAMO Academy, Alibaba Group"
 tags:
-  - Video Generation
-  - Diffusion Transformer
-  - Layer Decomposition
-  - Transparency
-  - LoRA
+  - "Video Generation"
+  - "Diffusion Transformer"
+  - "Layer Decomposition"
+  - "Transparency"
+  - "LoRA"
 links:
   paper: "https://doi.org/10.1145/3721238.3730662"
   code: "https://github.com/SihuiJi/LayerFlow"

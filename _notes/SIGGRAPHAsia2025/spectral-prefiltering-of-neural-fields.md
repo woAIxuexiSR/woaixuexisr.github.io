@@ -1,26 +1,26 @@
 ---
 title: "Spectral Prefiltering of Neural Fields"
 authors:
-  - Mustafa B. Yaldiz
-  - Ishit Mehta
-  - Nithin Raghavan
-  - Andreas Meuleman
-  - Tzu-Mao Li
-  - Ravi Ramamoorthi
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: University of California San Diego
+  - "Mustafa B. Yaldiz"
+  - "Ishit Mehta"
+  - "Nithin Raghavan"
+  - "Andreas Meuleman"
+  - "Tzu-Mao Li"
+  - "Ravi Ramamoorthi"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "University of California San Diego"
 tags:
-  - Neural Fields
-  - Prefiltering
-  - Fourier Features
-  - Monte Carlo
-  - Anti-Aliasing
-  - Signed Distance Fields
+  - "Neural Fields"
+  - "Prefiltering"
+  - "Fourier Features"
+  - "Monte Carlo"
+  - "Anti-Aliasing"
+  - "Signed Distance Fields"
 links:
-  paper: https://doi.org/10.1145/3757377.3763901
-  project: https://myaldiz.info/assets/spnf/
+  paper: "https://doi.org/10.1145/3757377.3763901"
+  project: "https://myaldiz.info/assets/spnf/"
 ---
 
 ## 一句话总结

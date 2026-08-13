@@ -7,8 +7,7 @@ authors:
 category: "Rendering"
 track: "Conference"
 source: "ACM"
-institution:
-  - "The Hong Kong University of Science and Technology"
+institution: "The Hong Kong University of Science and Technology"
 tags:
   - "Gaussian Splatting"
   - "Wang Tiles"

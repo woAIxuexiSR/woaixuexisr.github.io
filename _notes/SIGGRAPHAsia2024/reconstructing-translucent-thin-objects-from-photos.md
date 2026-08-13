@@ -1,25 +1,25 @@
 ---
 title: "Reconstructing Translucent Thin Objects from Photos"
 authors:
-  - Xi Deng
-  - Lifan Wu
-  - Bruce Walter
-  - Ravi Ramamoorthi
-  - Eugene d'Eon
-  - Steve Marschner
-  - Andrea Weidlich
-track: "Conference"
-source: author-page
+  - "Xi Deng"
+  - "Lifan Wu"
+  - "Bruce Walter"
+  - "Ravi Ramamoorthi"
+  - "Eugene d'Eon"
+  - "Steve Marschner"
+  - "Andrea Weidlich"
 category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - Cornell University
-  - NVIDIA
+  - "Cornell University"
+  - "NVIDIA"
 tags:
-  - Inverse Rendering
-  - Differentiable Rendering
-  - Appearance Acquisition
-  - Translucent Material
-  - Layered Material Model
+  - "Inverse Rendering"
+  - "Differentiable Rendering"
+  - "Appearance Acquisition"
+  - "Translucent Material"
+  - "Layered Material Model"
 links:
   paper: "https://doi.org/10.1145/3680528.3687572"
 ---

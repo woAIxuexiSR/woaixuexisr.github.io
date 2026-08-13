@@ -1,28 +1,28 @@
 ---
 title: "One-shot Embroidery Customization via Contrastive LoRA Modulation"
 authors:
-  - Jun Ma
-  - Qian He
-  - Gaofeng He
-  - Huang Chen
-  - Chen Liu
-  - Xiaogang Jin
-  - Huamin Wang
+  - "Jun Ma"
+  - "Qian He"
+  - "Gaofeng He"
+  - "Huang Chen"
+  - "Chen Liu"
+  - "Xiaogang Jin"
+  - "Huamin Wang"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Zhejiang Sci-Tech University
-  - Style3D Research
-  - State Key Lab of CAD&CG, Zhejiang University
+  - "Zhejiang Sci-Tech University"
+  - "Style3D Research"
+  - "State Key Lab of CAD&CG, Zhejiang University"
 tags:
-  - Embroidery Customization
-  - Style Transfer
-  - Contrastive Learning
-  - LoRA
-  - Diffusion Models
-  - One-shot Learning
-  - Style Content Disentanglement
+  - "Embroidery Customization"
+  - "Style Transfer"
+  - "Contrastive Learning"
+  - "LoRA"
+  - "Diffusion Models"
+  - "One-shot Learning"
+  - "Style Content Disentanglement"
 links:
   paper: "https://doi.org/10.1145/3763290"
   project: "https://style3d.github.io/embroidery_customization"

@@ -1,24 +1,23 @@
 ---
 title: "Implicit Incompressible Porous Flow using SPH"
 authors:
-  - Timna Böttcher
-  - Stefan Rhys Jeske
-  - Lukas Westhofen
-  - Jan Bender
-track: "Journal"
-source: arxiv
+  - "Timna Böttcher"
+  - "Stefan Rhys Jeske"
+  - "Lukas Westhofen"
+  - "Jan Bender"
 category: "Animation & Simulation"
-institution:
-  - RWTH Aachen University
+track: "Journal"
+source: "arxiv"
+institution: "RWTH Aachen University"
 tags:
-  - Smoothed Particle Hydrodynamics
-  - Porous Flow
-  - Fluid Simulation
-  - Incompressible Flow
-  - Solid Fluid Coupling
-  - Implicit Solver
-  - Deformable Solids
-  - Physically Based Animation
+  - "Smoothed Particle Hydrodynamics"
+  - "Porous Flow"
+  - "Fluid Simulation"
+  - "Incompressible Flow"
+  - "Solid Fluid Coupling"
+  - "Implicit Solver"
+  - "Deformable Solids"
+  - "Physically Based Animation"
 links:
   paper: "https://doi.org/10.1145/3763325"
 ---

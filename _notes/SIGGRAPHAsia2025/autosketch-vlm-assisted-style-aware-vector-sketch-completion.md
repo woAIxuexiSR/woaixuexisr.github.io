@@ -1,23 +1,23 @@
 ---
 title: "AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion"
 authors:
-  - Hsiao-Yuan Chin
-  - I-Chao Shen
-  - Yi-Ting Chiu
-  - Ariel Shamir
-  - Bing-Yu Chen
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: National Taiwan University
+  - "Hsiao-Yuan Chin"
+  - "I-Chao Shen"
+  - "Yi-Ting Chiu"
+  - "Ariel Shamir"
+  - "Bing-Yu Chen"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "National Taiwan University"
 tags:
-  - Vector Sketch
-  - Sketch Completion
-  - VLM
-  - Style-Aware Generation
-  - Diffusion Models
+  - "Vector Sketch"
+  - "Sketch Completion"
+  - "VLM"
+  - "Style-Aware Generation"
+  - "Diffusion Models"
 links:
-  paper: https://doi.org/10.1145/3757377.3763828
+  paper: "https://doi.org/10.1145/3757377.3763828"
 ---
 
 ## 一句话总结

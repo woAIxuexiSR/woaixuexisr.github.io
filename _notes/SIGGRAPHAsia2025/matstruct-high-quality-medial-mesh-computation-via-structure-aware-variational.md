@@ -1,25 +1,25 @@
 ---
 title: "MATStruct: High-quality Medial Mesh Computation via Structure-aware Variational Optimization"
 authors:
-  - Ningna Wang
-  - Rui Xu
-  - Yibo Yin
-  - Zichun Zhong
-  - Taku Komura
-  - Wenping Wang
-  - Xiaohu Guo
-category: Geometry & Modeling
-track: Conference
-source: arxiv
-institution: University of Texas at Dallas
+  - "Ningna Wang"
+  - "Rui Xu"
+  - "Yibo Yin"
+  - "Zichun Zhong"
+  - "Taku Komura"
+  - "Wenping Wang"
+  - "Xiaohu Guo"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
+institution: "University of Texas at Dallas"
 tags:
-  - Medial Axis Transform
-  - Variational Optimization
-  - Shape Analysis
-  - Geometry Processing
-  - CAD Models
+  - "Medial Axis Transform"
+  - "Variational Optimization"
+  - "Shape Analysis"
+  - "Geometry Processing"
+  - "CAD Models"
 links:
-  paper: https://doi.org/10.1145/3757377.3763840
+  paper: "https://doi.org/10.1145/3757377.3763840"
 ---
 
 ## 一句话总结

@@ -1,23 +1,23 @@
 ---
 title: "WaveBlender: Practical Sound-Source Animation in Blended Domains"
 authors:
-  - Kangrui Xue
-  - Jui-Hsien Wang
-  - Timothy R. Langlois
-  - Doug L. James
-track: "Conference"
-source: author-page
+  - "Kangrui Xue"
+  - "Jui-Hsien Wang"
+  - "Timothy R. Langlois"
+  - "Doug L. James"
 category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
 institution:
-  - Stanford University
-  - Adobe Research
-  - NVIDIA
+  - "Stanford University"
+  - "Adobe Research"
+  - "NVIDIA"
 tags:
-  - Sound Synthesis
-  - Physical Simulation
-  - FDTD
-  - GPU Acceleration
-  - Computer Animation
+  - "Sound Synthesis"
+  - "Physical Simulation"
+  - "FDTD"
+  - "GPU Acceleration"
+  - "Computer Animation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687696"
 ---

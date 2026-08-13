@@ -1,24 +1,23 @@
 ---
 title: "When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering"
 authors:
-  - Keyang Ye
-  - Tianjia Shao
-  - Kun Zhou
-category: Rendering
-track: Journal
-source: arxiv
-institution:
-  - Zhejiang University
+  - "Keyang Ye"
+  - "Tianjia Shao"
+  - "Kun Zhou"
+category: "Rendering"
+track: "Journal"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - Radiance Field Rendering
-  - Novel View Synthesis
-  - Gaussian Splatting
-  - Surfel
-  - Point-Based Rendering
-  - Sorting-Free Rendering
-  - Real-Time Rendering
+  - "Radiance Field Rendering"
+  - "Novel View Synthesis"
+  - "Gaussian Splatting"
+  - "Surfel"
+  - "Point-Based Rendering"
+  - "Sorting-Free Rendering"
+  - "Real-Time Rendering"
 links:
-  paper: https://doi.org/10.1145/3730925
+  paper: "https://doi.org/10.1145/3730925"
 ---
 
 ## 一句话总结

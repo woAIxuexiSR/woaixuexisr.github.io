@@ -1,24 +1,24 @@
 ---
 title: "NeuralPVS: Learned Estimation of Potentially Visible Sets"
 authors:
-  - Xiangyu Wang
-  - Thomas Köhler
-  - Jun Lin Qiu
-  - Shohei Mori
-  - Markus Steinberger
-  - Dieter Schmalstieg
-category: Rendering
+  - "Xiangyu Wang"
+  - "Thomas Köhler"
+  - "Jun Lin Qiu"
+  - "Shohei Mori"
+  - "Markus Steinberger"
+  - "Dieter Schmalstieg"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: University of Stuttgart
+source: "arxiv"
+institution: "University of Stuttgart"
 tags:
-  - Potentially Visible Set
-  - Occlusion Culling
-  - Sparse Convolution
-  - Real-Time Rendering
-  - Convolutional Neural Network
+  - "Potentially Visible Set"
+  - "Occlusion Culling"
+  - "Sparse Convolution"
+  - "Real-Time Rendering"
+  - "Convolutional Neural Network"
 links:
-  paper: https://doi.org/10.1145/3757377.3763822
+  paper: "https://doi.org/10.1145/3757377.3763822"
 ---
 
 ## 一句话总结

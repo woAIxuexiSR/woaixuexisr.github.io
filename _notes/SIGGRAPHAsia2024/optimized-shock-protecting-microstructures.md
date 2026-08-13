@@ -1,20 +1,20 @@
 ---
 title: "Optimized shock-protecting microstructures"
 authors:
-  - Zizhou Huang
-  - Daniele Panozzo
-  - Denis Zorin
-track: "Journal"
-source: arxiv
+  - "Zizhou Huang"
+  - "Daniele Panozzo"
+  - "Denis Zorin"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution: "New York University"
 tags:
-  - Microstructure Design
-  - Shape Optimization
-  - Nonlinear Homogenization
-  - Metamaterial
-  - Shock Absorption
-  - 3D Printing
+  - "Microstructure Design"
+  - "Shape Optimization"
+  - "Nonlinear Homogenization"
+  - "Metamaterial"
+  - "Shock Absorption"
+  - "3D Printing"
 links:
   paper: "https://doi.org/10.1145/3687765"
 ---

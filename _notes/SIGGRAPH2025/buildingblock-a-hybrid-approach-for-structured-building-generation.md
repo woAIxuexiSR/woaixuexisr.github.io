@@ -1,25 +1,25 @@
 ---
 title: "BuildingBlock: A Hybrid Approach for Structured Building Generation"
 authors:
-  - Junming Huang
-  - Chi Wang
-  - Letian Li
-  - Changxin Huang
-  - Qiang Dai
-  - Weiwei Xu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Zhejiang University
+  - "Junming Huang"
+  - "Chi Wang"
+  - "Letian Li"
+  - "Changxin Huang"
+  - "Qiang Dai"
+  - "Weiwei Xu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - Building Generation
-  - Procedural Content Generation
-  - Diffusion Model
-  - LLM
-  - Layout Generation
-  - 3D Generation
+  - "Building Generation"
+  - "Procedural Content Generation"
+  - "Diffusion Model"
+  - "LLM"
+  - "Layout Generation"
+  - "3D Generation"
 links:
-  paper: https://doi.org/10.1145/3721238.3730705
+  paper: "https://doi.org/10.1145/3721238.3730705"
 ---
 
 ## 一句话总结

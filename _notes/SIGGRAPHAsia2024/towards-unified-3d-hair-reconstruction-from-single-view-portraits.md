@@ -1,26 +1,26 @@
 ---
 title: "Towards Unified 3D Hair Reconstruction from Single-View Portraits"
 authors:
-  - Yujian Zheng
-  - Yuda Qiu
-  - Leyang Jin
-  - Chongyang Ma
-  - Haibin Huang
-  - Di Zhang
-  - Pengfei Wan
-  - Xiaoguang Han
-track: "Conference"
-source: arxiv
+  - "Yujian Zheng"
+  - "Yuda Qiu"
+  - "Leyang Jin"
+  - "Chongyang Ma"
+  - "Haibin Huang"
+  - "Di Zhang"
+  - "Pengfei Wan"
+  - "Xiaoguang Han"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - The Chinese University of Hong Kong, Shenzhen
-  - Kuaishou Technology
+  - "The Chinese University of Hong Kong, Shenzhen"
+  - "Kuaishou Technology"
 tags:
-  - 3D Hair Reconstruction
-  - Single View
-  - 3D Gaussian Splatting
-  - Diffusion Prior
-  - Score Distillation Sampling
+  - "3D Hair Reconstruction"
+  - "Single View"
+  - "3D Gaussian Splatting"
+  - "Diffusion Prior"
+  - "Score Distillation Sampling"
 links:
   paper: "https://doi.org/10.1145/3680528.3687597"
 ---

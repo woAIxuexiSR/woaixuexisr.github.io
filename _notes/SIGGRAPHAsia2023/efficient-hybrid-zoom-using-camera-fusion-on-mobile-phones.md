@@ -11,8 +11,7 @@ authors:
 category: "Image & Video"
 track: "Journal"
 source: "ACM"
-institution:
-  - "Google"
+institution: "Google"
 tags:
   - "Computational Photography"
   - "Camera Fusion"

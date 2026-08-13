@@ -1,26 +1,26 @@
 ---
 title: "RoMo: A Robust Solver for Full-body Unlabeled Optical Motion Capture"
 authors:
-  - Xiaoyu Pan
-  - Bowen Zheng
-  - Xinwei Jiang
-  - Zijiao Zeng
-  - Qilong Kou
-  - He Wang
-  - Xiaogang Jin
-track: "Conference"
-source: arxiv
+  - "Xiaoyu Pan"
+  - "Bowen Zheng"
+  - "Xinwei Jiang"
+  - "Zijiao Zeng"
+  - "Qilong Kou"
+  - "He Wang"
+  - "Xiaogang Jin"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - Tencent
-  - University College London
+  - "Zhejiang University"
+  - "Tencent"
+  - "University College London"
 tags:
-  - Motion Capture
-  - Character Animation
-  - Marker Labeling
-  - Inverse Kinematics
-  - Point Cloud
+  - "Motion Capture"
+  - "Character Animation"
+  - "Marker Labeling"
+  - "Inverse Kinematics"
+  - "Point Cloud"
 links:
   paper: "https://doi.org/10.1145/3680528.3687615"
 ---

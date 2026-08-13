@@ -9,7 +9,11 @@ authors:
   - "Yuchi Huo"
 category: "Rendering"
 track: "Journal"
-source: ACM
+source: "ACM"
+institution:
+  - "Zhejiang University"
+  - "Tencent"
+  - "Zhejiang Lab"
 tags:
   - "Frame Extrapolation"
   - "Sparse Shading"

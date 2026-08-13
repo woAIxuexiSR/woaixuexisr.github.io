@@ -1,21 +1,21 @@
 ---
 title: "LVCD: Reference-based Lineart Video Colorization with Diffusion Models"
 authors:
-  - Zhitong Huang
-  - Mohan Zhang
-  - Jing Liao
-track: "Journal"
-source: arxiv
+  - "Zhitong Huang"
+  - "Mohan Zhang"
+  - "Jing Liao"
 category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - City University of Hong Kong
-  - Tencent
+  - "City University of Hong Kong"
+  - "Tencent"
 tags:
-  - Line Art Colorization
-  - Video Diffusion
-  - Animation
-  - Reference Guided
-  - Temporal Consistency
+  - "Line Art Colorization"
+  - "Video Diffusion"
+  - "Animation"
+  - "Reference Guided"
+  - "Temporal Consistency"
 links:
   paper: "https://doi.org/10.1145/3687910"
 ---

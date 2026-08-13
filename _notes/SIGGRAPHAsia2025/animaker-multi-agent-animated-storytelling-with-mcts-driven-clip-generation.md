@@ -1,22 +1,22 @@
 ---
 title: "AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation"
 authors:
-  - Haoyuan Shi
-  - Yunxin Li
-  - Xinyu Chen
-  - Longyue Wang
-  - Baotian Hu
-  - Min Zhang
+  - "Haoyuan Shi"
+  - "Yunxin Li"
+  - "Xinyu Chen"
+  - "Longyue Wang"
+  - "Baotian Hu"
+  - "Min Zhang"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "Harbin Institute of Technology"
 tags:
-  - Animated Storytelling
-  - Multi-Agent System
-  - Monte Carlo Tree Search
-  - Video Generation
-  - Story Coherence
+  - "Animated Storytelling"
+  - "Multi-Agent System"
+  - "Monte Carlo Tree Search"
+  - "Video Generation"
+  - "Story Coherence"
 links:
   paper: "https://doi.org/10.1145/3757377.3764009"
   project: "https://animaker-dev.github.io/"

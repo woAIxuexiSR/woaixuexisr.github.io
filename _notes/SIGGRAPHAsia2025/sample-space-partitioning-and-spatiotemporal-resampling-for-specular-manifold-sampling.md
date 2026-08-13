@@ -1,25 +1,25 @@
 ---
 title: "Sample Space Partitioning and Spatiotemporal Resampling for Specular Manifold Sampling"
 authors:
-  - Pengpei Hong
-  - Meng Duan
-  - Beibei Wang
-  - Cem Yuksel
-  - Tizian Zeltner
-  - Daqi Lin
-category: Rendering
+  - "Pengpei Hong"
+  - "Meng Duan"
+  - "Beibei Wang"
+  - "Cem Yuksel"
+  - "Tizian Zeltner"
+  - "Daqi Lin"
+category: "Rendering"
 track: "Conference"
-source: author-page
-institution: University of Utah
+source: "author-page"
+institution: "University of Utah"
 tags:
-  - Caustics Rendering
-  - Specular Manifold Sampling
-  - ReSTIR
-  - Monte Carlo Rendering
-  - Real-Time Rendering
+  - "Caustics Rendering"
+  - "Specular Manifold Sampling"
+  - "ReSTIR"
+  - "Monte Carlo Rendering"
+  - "Real-Time Rendering"
 links:
-  paper: https://doi.org/10.1145/3757377.3763927
-  project: https://research.nvidia.com/labs/rtr/publication/hong2025partition/
+  paper: "https://doi.org/10.1145/3757377.3763927"
+  project: "https://research.nvidia.com/labs/rtr/publication/hong2025partition/"
 ---
 
 ## 一句话总结

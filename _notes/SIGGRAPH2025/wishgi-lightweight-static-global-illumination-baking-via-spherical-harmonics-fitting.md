@@ -1,26 +1,26 @@
 ---
 title: "WishGI: Lightweight Static Global Illumination Baking via Spherical Harmonics Fitting"
 authors:
-  - Junke Zhu
-  - Zehan Wu
-  - Qixing Zhang
-  - Cheng Liao
-  - Zhangjin Huang
-category: Rendering
-track: Journal
-source: arxiv
-institution: University of Science and Technology of China
+  - "Junke Zhu"
+  - "Zehan Wu"
+  - "Qixing Zhang"
+  - "Cheng Liao"
+  - "Zhangjin Huang"
+category: "Rendering"
+track: "Journal"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - Global Illumination
-  - Spherical Harmonics
-  - Light Baking
-  - Probe Distribution
-  - Mobile Rendering
-  - Forward Rendering
-  - Level of Detail
+  - "Global Illumination"
+  - "Spherical Harmonics"
+  - "Light Baking"
+  - "Probe Distribution"
+  - "Mobile Rendering"
+  - "Forward Rendering"
+  - "Level of Detail"
 links:
-  paper: https://doi.org/10.1145/3730935
-  project: https://arxiv.org/abs/2506.01288
+  paper: "https://doi.org/10.1145/3730935"
+  project: "https://arxiv.org/abs/2506.01288"
 ---
 ## 一句话总结
 

@@ -1,23 +1,23 @@
 ---
 title: "Neural Light Spheres for Implicit Image Stitching and View Synthesis"
 authors:
-  - Ilya Chugunov
-  - Amogh Joshi
-  - Kiran Murthy
-  - Francois Bleibel
-  - Felix Heide
-category: Reconstruction
+  - "Ilya Chugunov"
+  - "Amogh Joshi"
+  - "Kiran Murthy"
+  - "Francois Bleibel"
+  - "Felix Heide"
+category: "Reconstruction"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Princeton University
-  - Google
+  - "Princeton University"
+  - "Google"
 tags:
-  - Neural Fields
-  - Panorama
-  - Image Stitching
-  - View Synthesis
-  - Light Field
+  - "Neural Fields"
+  - "Panorama"
+  - "Image Stitching"
+  - "View Synthesis"
+  - "Light Field"
 links:
   paper: "https://doi.org/10.1145/3680528.3687660"
 ---

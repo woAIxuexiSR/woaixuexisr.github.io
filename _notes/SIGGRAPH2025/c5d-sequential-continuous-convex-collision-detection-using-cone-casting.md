@@ -1,26 +1,26 @@
 ---
 title: "C5D: Sequential Continuous Convex Collision Detection Using Cone Casting"
 authors:
-  - Xiaodi Yuan
-  - Fanbo Xiang
-  - Yin Yang
-  - Hao Su
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: University of California San Diego
+  - "Xiaodi Yuan"
+  - "Fanbo Xiang"
+  - "Yin Yang"
+  - "Hao Su"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "University of California San Diego"
 tags:
-  - Continuous Collision Detection
-  - Rigid Body Dynamics
-  - Affine Body Dynamics
-  - Conservative Advancement
-  - Convex Shapes
-  - Cone Casting
-  - Physical Simulation
-  - Robotics
+  - "Continuous Collision Detection"
+  - "Rigid Body Dynamics"
+  - "Affine Body Dynamics"
+  - "Conservative Advancement"
+  - "Convex Shapes"
+  - "Cone Casting"
+  - "Physical Simulation"
+  - "Robotics"
 links:
-  paper: https://doi.org/10.1145/3731151
-  code: https://github.com/Rabbit-Hu/c5d
+  paper: "https://doi.org/10.1145/3731151"
+  code: "https://github.com/Rabbit-Hu/c5d"
 ---
 ## 一句话总结
 

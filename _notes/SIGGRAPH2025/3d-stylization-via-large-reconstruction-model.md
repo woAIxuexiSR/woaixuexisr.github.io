@@ -1,22 +1,22 @@
 ---
 title: "3D Stylization via Large Reconstruction Model"
 authors:
-  - Ipek Oztas
-  - Duygu Ceylan
-  - Aysegul Dundar
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Bilkent University
+  - "Ipek Oztas"
+  - "Duygu Ceylan"
+  - "Aysegul Dundar"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Bilkent University"
 tags:
-  - 3D Stylization
-  - Style Transfer
-  - Large Reconstruction Model
-  - Attention Mechanism
-  - Neural Radiance Field
+  - "3D Stylization"
+  - "Style Transfer"
+  - "Large Reconstruction Model"
+  - "Attention Mechanism"
+  - "Neural Radiance Field"
 links:
-  paper: https://doi.org/10.1145/3721238.3730636
-  project: https://github.com/ipekoztas/3D-Stylization-LRM
+  paper: "https://doi.org/10.1145/3721238.3730636"
+  project: "https://github.com/ipekoztas/3D-Stylization-LRM"
 ---
 
 ## 一句话总结

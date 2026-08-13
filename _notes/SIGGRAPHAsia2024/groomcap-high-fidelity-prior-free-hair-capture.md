@@ -1,26 +1,26 @@
 ---
 title: "GroomCap: High-Fidelity Prior-Free Hair Capture"
 authors:
-  - Yuxiao Zhou
-  - Menglei Chai
-  - Daoye Wang
-  - Sebastian Winberg
-  - Erroll Wood
-  - Kripasindhu Sarkar
-  - Markus Gross
-  - Thabo Beeler
-track: "Journal"
-source: author-page
+  - "Yuxiao Zhou"
+  - "Menglei Chai"
+  - "Daoye Wang"
+  - "Sebastian Winberg"
+  - "Erroll Wood"
+  - "Kripasindhu Sarkar"
+  - "Markus Gross"
+  - "Thabo Beeler"
 category: "Reconstruction"
+track: "Journal"
+source: "author-page"
 institution:
-  - ETH Zurich
-  - Google
+  - "ETH Zurich"
+  - "Google"
 tags:
-  - Hair Modeling
-  - Multi View Reconstruction
-  - Neural Implicit Field
-  - 3D Gaussian Splatting
-  - Hair Strand Geometry
+  - "Hair Modeling"
+  - "Multi View Reconstruction"
+  - "Neural Implicit Field"
+  - "3D Gaussian Splatting"
+  - "Hair Strand Geometry"
 links:
   paper: "https://doi.org/10.1145/3687768"
 ---

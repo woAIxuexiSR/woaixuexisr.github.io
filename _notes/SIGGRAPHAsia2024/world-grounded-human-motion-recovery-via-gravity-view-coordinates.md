@@ -1,29 +1,29 @@
 ---
 title: "World-Grounded Human Motion Recovery via Gravity-View Coordinates"
 authors:
-  - Zehong Shen
-  - Huaijin Pi
-  - Yan Xia
-  - Zhi Cen
-  - Sida Peng
-  - Zechen Hu
-  - Hujun Bao
-  - Ruizhen Hu
-  - Xiaowei Zhou
-track: "Conference"
-source: arxiv
+  - "Zehong Shen"
+  - "Huaijin Pi"
+  - "Yan Xia"
+  - "Zhi Cen"
+  - "Sida Peng"
+  - "Zechen Hu"
+  - "Hujun Bao"
+  - "Ruizhen Hu"
+  - "Xiaowei Zhou"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - The University of Hong Kong
-  - Deep Glint
-  - Shenzhen University
+  - "Zhejiang University"
+  - "The University of Hong Kong"
+  - "Deep Glint"
+  - "Shenzhen University"
 tags:
-  - Human Motion Recovery
-  - Monocular Video
-  - SMPL-X
-  - Transformer
-  - Gravity-Aware
+  - "Human Motion Recovery"
+  - "Monocular Video"
+  - "SMPL-X"
+  - "Transformer"
+  - "Gravity-Aware"
 links:
   paper: "https://doi.org/10.1145/3680528.3687565"
 ---

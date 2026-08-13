@@ -1,30 +1,30 @@
 ---
 title: "Hairmony: Fairness-aware hairstyle classification"
 authors:
-  - Givi Meishvili
-  - James Clemoes
-  - Charlie Hewitt
-  - Zafiirah Hosenie
-  - Xian Xiao
-  - Martin de La Gorce
-  - Tibor Takács
-  - Tadas Baltrusaitis
-  - Antonio Criminisi
-  - Chyna McRae
-  - Nina Jablonski
-  - Marta Wilczkowiak
-track: "Conference"
-source: arxiv
+  - "Givi Meishvili"
+  - "James Clemoes"
+  - "Charlie Hewitt"
+  - "Zafiirah Hosenie"
+  - "Xian Xiao"
+  - "Martin de La Gorce"
+  - "Tibor Takács"
+  - "Tadas Baltrusaitis"
+  - "Antonio Criminisi"
+  - "Chyna McRae"
+  - "Nina Jablonski"
+  - "Marta Wilczkowiak"
 category: "Image & Video"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Microsoft
-  - The Pennsylvania State University
+  - "Microsoft"
+  - "The Pennsylvania State University"
 tags:
-  - Hairstyle Classification
-  - Fairness
-  - Synthetic Data
-  - Taxonomy
-  - User Digitization
+  - "Hairstyle Classification"
+  - "Fairness"
+  - "Synthetic Data"
+  - "Taxonomy"
+  - "User Digitization"
 links:
   paper: "https://doi.org/10.1145/3680528.3687582"
 ---

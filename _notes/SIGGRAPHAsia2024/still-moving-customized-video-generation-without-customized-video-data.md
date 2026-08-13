@@ -1,31 +1,31 @@
 ---
 title: "Still-Moving: Customized Video Generation without Customized Video Data"
 authors:
-  - Hila Chefer
-  - Shiran Zada
-  - Roni Paiss
-  - Ariel Ephrat
-  - Omer Tov
-  - Michael Rubinstein
-  - Lior Wolf
-  - Tali Dekel
-  - Tomer Michaeli
-  - Inbar Mosseri
-track: "Journal"
-source: arxiv
+  - "Hila Chefer"
+  - "Shiran Zada"
+  - "Roni Paiss"
+  - "Ariel Ephrat"
+  - "Omer Tov"
+  - "Michael Rubinstein"
+  - "Lior Wolf"
+  - "Tali Dekel"
+  - "Tomer Michaeli"
+  - "Inbar Mosseri"
 category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Google DeepMind
-  - Tel Aviv University
-  - Weizmann Institute of Science
-  - Technion
+  - "Google DeepMind"
+  - "Tel Aviv University"
+  - "Weizmann Institute of Science"
+  - "Technion"
 tags:
-  - Video Generation
-  - Customized Generation
-  - Diffusion Model
-  - Text-to-Video
-  - LoRA
-  - Personalization
+  - "Video Generation"
+  - "Customized Generation"
+  - "Diffusion Model"
+  - "Text-to-Video"
+  - "LoRA"
+  - "Personalization"
 links:
   paper: "https://doi.org/10.1145/3687945"
   project: "https://still-moving.github.io"

@@ -1,26 +1,26 @@
 ---
 title: "Quad mesh mechanisms"
 authors:
-  - Caigui Jiang
-  - Dmitry A. Lyakhov
-  - Florian Rist
-  - Helmut Pottmann
-  - Johannes Wallner
-track: "Journal"
-source: author-page
+  - "Caigui Jiang"
+  - "Dmitry A. Lyakhov"
+  - "Florian Rist"
+  - "Helmut Pottmann"
+  - "Johannes Wallner"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
 institution:
-  - Xi'an Jiaotong University
-  - KAUST
-  - TU Wien
-  - TU Graz
+  - "Xi'an Jiaotong University"
+  - "KAUST"
+  - "TU Wien"
+  - "TU Graz"
 tags:
-  - Deformable Design
-  - Flexible Mesh
-  - Kinematics
-  - Discrete Differential Geometry
-  - Isometric Transformation
-  - Quad Mesh
+  - "Deformable Design"
+  - "Flexible Mesh"
+  - "Kinematics"
+  - "Discrete Differential Geometry"
+  - "Isometric Transformation"
+  - "Quad Mesh"
 links:
   paper: "https://doi.org/10.1145/3687939"
 ---

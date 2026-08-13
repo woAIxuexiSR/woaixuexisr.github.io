@@ -1,25 +1,25 @@
 ---
 title: "AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models"
 authors:
-  - Zehuan Huang
-  - Haoran Feng
-  - Yangtian Sun
-  - Yuanchen Guo
-  - Yanpei Cao
-  - Lu Sheng
-category: Animation & Simulation
+  - "Zehuan Huang"
+  - "Haoran Feng"
+  - "Yangtian Sun"
+  - "Yuanchen Guo"
+  - "Yanpei Cao"
+  - "Lu Sheng"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: Beihang University
+source: "arxiv"
+institution: "Beihang University"
 tags:
-  - 3D Animation
-  - Video Diffusion Model
-  - Skeleton Based Animation
-  - Pose Estimation
-  - 4D Generation
+  - "3D Animation"
+  - "Video Diffusion Model"
+  - "Skeleton Based Animation"
+  - "Pose Estimation"
+  - "4D Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763885
-  project: https://anima-x.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763885"
+  project: "https://anima-x.github.io/"
 ---
 
 ## 一句话总结

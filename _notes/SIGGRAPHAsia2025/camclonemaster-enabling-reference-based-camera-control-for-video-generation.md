@@ -1,28 +1,28 @@
 ---
 title: "CamCloneMaster: Enabling Reference-based Camera Control for Video Generation"
 authors:
-  - Yawen Luo
-  - Jianhong Bai
-  - Xiaoyu Shi
-  - Menghan Xia
-  - Xintao Wang
-  - Pengfei Wan
-  - Di Zhang
-  - Kun Gai
-  - Tianfan Xue
-category: Neural & Generative
+  - "Yawen Luo"
+  - "Jianhong Bai"
+  - "Xiaoyu Shi"
+  - "Menghan Xia"
+  - "Xintao Wang"
+  - "Pengfei Wan"
+  - "Di Zhang"
+  - "Kun Gai"
+  - "Tianfan Xue"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: The Chinese University of Hong Kong
+source: "arxiv"
+institution: "The Chinese University of Hong Kong"
 tags:
-  - Video Generation
-  - Camera Control
-  - Diffusion Model
-  - Diffusion Transformer
-  - Image To Video
+  - "Video Generation"
+  - "Camera Control"
+  - "Diffusion Model"
+  - "Diffusion Transformer"
+  - "Image To Video"
 links:
-  paper: https://doi.org/10.1145/3757377.3763841
-  project: https://camclonemaster.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763841"
+  project: "https://camclonemaster.github.io/"
 ---
 
 ## 一句话总结

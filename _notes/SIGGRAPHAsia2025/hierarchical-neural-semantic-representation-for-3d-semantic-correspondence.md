@@ -1,27 +1,27 @@
 ---
 title: "Hierarchical Neural Semantic Representation for 3D Semantic Correspondence"
 authors:
-  - Keyu Du
-  - Jingyu Hu
-  - Haipeng Li
-  - Hao Xu
-  - Haibin Huang
-  - Chi-Wing Fu
-  - Shuaicheng Liu
-track: "Conference"
-source: arxiv
+  - "Keyu Du"
+  - "Jingyu Hu"
+  - "Haipeng Li"
+  - "Hao Xu"
+  - "Haibin Huang"
+  - "Chi-Wing Fu"
+  - "Shuaicheng Liu"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of Electronic Science and Technology of China
-  - The Chinese University of Hong Kong
-  - TeleAI
+  - "University of Electronic Science and Technology of China"
+  - "The Chinese University of Hong Kong"
+  - "TeleAI"
 tags:
-  - 3D Semantic Correspondence
-  - Shape Analysis
-  - Generative Priors
-  - Training Free Matching
-  - Shape Co-Segmentation
-  - Texture Transfer
+  - "3D Semantic Correspondence"
+  - "Shape Analysis"
+  - "Generative Priors"
+  - "Training Free Matching"
+  - "Shape Co-Segmentation"
+  - "Texture Transfer"
 links:
   paper: "https://doi.org/10.1145/3757377.3763921"
 ---

@@ -1,20 +1,20 @@
 ---
 title: "Instant Self-Intersection Repair for 3D Meshes"
 authors:
-  - Wonjong Jang
-  - Yucheol Jung
-  - Gyeongmin Lee
-  - Seungyong Lee
-category: Geometry & Modeling
-track: Journal
-source: ACM
-institution: POSTECH
+  - "Wonjong Jang"
+  - "Yucheol Jung"
+  - "Gyeongmin Lee"
+  - "Seungyong Lee"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "ACM"
+institution: "POSTECH"
 tags:
-  - Mesh Repair
-  - Self-Intersection
-  - Geometry Processing
-  - Mesh Healing
-  - Robust Geometry
+  - "Mesh Repair"
+  - "Self-Intersection"
+  - "Geometry Processing"
+  - "Mesh Healing"
+  - "Robust Geometry"
 links:
   paper: "https://doi.org/10.1145/3731427"
   project: "https://www.wonjongg.me/"

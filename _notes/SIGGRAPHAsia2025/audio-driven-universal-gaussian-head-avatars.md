@@ -1,25 +1,25 @@
 ---
 title: "Audio-Driven Universal Gaussian Head Avatars"
 authors:
-  - Kartik Teotia
-  - Helge Rhodin
-  - Mohit Mendiratta
-  - Hyeongwoo Kim
-  - Marc Habermann
-  - Christian Theobalt
-category: Neural & Generative
+  - "Kartik Teotia"
+  - "Helge Rhodin"
+  - "Mohit Mendiratta"
+  - "Hyeongwoo Kim"
+  - "Marc Habermann"
+  - "Christian Theobalt"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Max Planck Institute for Informatics
+source: "arxiv"
+institution: "Max Planck Institute for Informatics"
 tags:
-  - 3D Gaussian Splatting
-  - Audio-Driven Animation
-  - Head Avatar
-  - Diffusion Model
-  - Talking Head
+  - "3D Gaussian Splatting"
+  - "Audio-Driven Animation"
+  - "Head Avatar"
+  - "Diffusion Model"
+  - "Talking Head"
 links:
-  paper: https://doi.org/10.1145/3757377.3763939
-  project: https://kartik-teotia.github.io/UniGAHA/
+  paper: "https://doi.org/10.1145/3757377.3763939"
+  project: "https://kartik-teotia.github.io/UniGAHA/"
 ---
 
 ## 一句话总结

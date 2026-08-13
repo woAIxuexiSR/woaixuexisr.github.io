@@ -1,27 +1,27 @@
 ---
 title: "HoLa: B-Rep Generation using a Holistic Latent Representation"
 authors:
-  - Yilin Liu
-  - Duoteng Xu
-  - Xingyao Yu
-  - Xiang Xu
-  - Daniel Cohen-Or
-  - Hao Zhang
-  - Hui Huang
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: Shenzhen University
+  - "Yilin Liu"
+  - "Duoteng Xu"
+  - "Xingyao Yu"
+  - "Xiang Xu"
+  - "Daniel Cohen-Or"
+  - "Hao Zhang"
+  - "Hui Huang"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "Shenzhen University"
 tags:
-  - Boundary Representation
-  - CAD Generation
-  - Latent Diffusion Model
-  - Representation Learning
-  - Variational Autoencoder
-  - Conditional Generation
+  - "Boundary Representation"
+  - "CAD Generation"
+  - "Latent Diffusion Model"
+  - "Representation Learning"
+  - "Variational Autoencoder"
+  - "Conditional Generation"
 links:
-  paper: https://doi.org/10.1145/3730842
-  arxiv: https://arxiv.org/abs/2504.14257
+  paper: "https://doi.org/10.1145/3730842"
+  arxiv: "https://arxiv.org/abs/2504.14257"
 ---
 ## 一句话总结
 

@@ -1,21 +1,21 @@
 ---
 title: "FairyGen: Storied Cartoon Video from a Single Child-Drawn Character"
 authors:
-  - Jiayi Zheng
-  - Xiaodong Cun
-category: Neural & Generative
+  - "Jiayi Zheng"
+  - "Xiaodong Cun"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Great Bay University
+source: "arxiv"
+institution: "Great Bay University"
 tags:
-  - Story Video Generation
-  - Diffusion Model
-  - Motion Customization
-  - Style Propagation
-  - Image To Video
+  - "Story Video Generation"
+  - "Diffusion Model"
+  - "Motion Customization"
+  - "Style Propagation"
+  - "Image To Video"
 links:
-  paper: https://doi.org/10.1145/3757377.3764007
-  project: https://jayleejia.github.io/FairyGen/
+  paper: "https://doi.org/10.1145/3757377.3764007"
+  project: "https://jayleejia.github.io/FairyGen/"
 ---
 
 ## 一句话总结

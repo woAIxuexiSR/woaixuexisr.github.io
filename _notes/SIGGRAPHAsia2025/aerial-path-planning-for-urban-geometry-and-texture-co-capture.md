@@ -1,28 +1,28 @@
 ---
 title: "Aerial Path Planning for Urban Geometry and Texture Co-Capture"
 authors:
-  - Weidan Xiong
-  - Bochuan Zeng
-  - Ziyu Hu
-  - Jianwei Guo
-  - Ke Xie
-  - Hui Huang
+  - "Weidan Xiong"
+  - "Bochuan Zeng"
+  - "Ziyu Hu"
+  - "Jianwei Guo"
+  - "Ke Xie"
+  - "Hui Huang"
 category: "Reconstruction"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Shenzhen University
-  - Beijing Normal University
+  - "Shenzhen University"
+  - "Beijing Normal University"
 tags:
-  - Aerial Path Planning
-  - Urban Reconstruction
-  - Texture Mapping
-  - Proxy Models
-  - Multi-Objective Optimization
-  - UAV
-  - View Planning
+  - "Aerial Path Planning"
+  - "Urban Reconstruction"
+  - "Texture Mapping"
+  - "Proxy Models"
+  - "Multi-Objective Optimization"
+  - "UAV"
+  - "View Planning"
 links:
-  paper: https://doi.org/10.1145/3763292
+  paper: "https://doi.org/10.1145/3763292"
 ---
 
 ## 概述

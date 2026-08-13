@@ -1,28 +1,28 @@
 ---
 title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
 authors:
-  - Linjie Lyu
-  - Valentin Deschaintre
-  - Yannick Hold-Geoffroy
-  - Milos Hasan
-  - Jae Shin Yoon
-  - Thomas Leimkühler
-  - Christian Theobalt
-  - Iliyan Georgiev
+  - "Linjie Lyu"
+  - "Valentin Deschaintre"
+  - "Yannick Hold-Geoffroy"
+  - "Milos Hasan"
+  - "Jae Shin Yoon"
+  - "Thomas Leimkühler"
+  - "Christian Theobalt"
+  - "Iliyan Georgiev"
 category: "Neural & Generative"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Max-Planck-Institute for Informatics
-  - Adobe Research
+  - "Max-Planck-Institute for Informatics"
+  - "Adobe Research"
 tags:
-  - Image Editing
-  - Intrinsic Decomposition
-  - Diffusion Model
-  - Identity Preservation
-  - Diffusion Inversion
-  - Relighting
-  - Global Illumination
+  - "Image Editing"
+  - "Intrinsic Decomposition"
+  - "Diffusion Model"
+  - "Identity Preservation"
+  - "Diffusion Inversion"
+  - "Relighting"
+  - "Global Illumination"
 links:
   paper: "https://doi.org/10.1145/3731173"
 ---

@@ -1,24 +1,24 @@
 ---
 title: "GenLit: Reformulating Single-Image Relighting as Video Generation"
 authors:
-  - Shrisha Bharadwaj
-  - Haiwen Feng
-  - Giorgio Becherini
-  - Victoria Fernandez Abrevaya
-  - Michael J. Black
-category: Neural & Generative
+  - "Shrisha Bharadwaj"
+  - "Haiwen Feng"
+  - "Giorgio Becherini"
+  - "Victoria Fernandez Abrevaya"
+  - "Michael J. Black"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Max Planck Institute for Intelligent Systems
+source: "arxiv"
+institution: "Max Planck Institute for Intelligent Systems"
 tags:
-  - Relighting
-  - Video Diffusion Model
-  - Neural Rendering
-  - Single Image Relighting
-  - ControlNet
+  - "Relighting"
+  - "Video Diffusion Model"
+  - "Neural Rendering"
+  - "Single Image Relighting"
+  - "ControlNet"
 links:
-  paper: https://doi.org/10.1145/3757377.3763970
-  project: https://genlit.is.tue.mpg.de/
+  paper: "https://doi.org/10.1145/3757377.3763970"
+  project: "https://genlit.is.tue.mpg.de/"
 ---
 
 ## 一句话总结

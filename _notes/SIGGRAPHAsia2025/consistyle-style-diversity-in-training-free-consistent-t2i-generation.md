@@ -1,23 +1,22 @@
 ---
 title: "ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation"
 authors:
-  - Yohai Mazuz
-  - Janna Bruner
-  - Lior Wolf
+  - "Yohai Mazuz"
+  - "Janna Bruner"
+  - "Lior Wolf"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-category: Neural & Generative
-institution:
-  - Tel Aviv University
+source: "arxiv"
+institution: "Tel Aviv University"
 tags:
-  - Text To Image Generation
-  - Consistent Character Generation
-  - Training Free
-  - Style Transfer
-  - Self Attention
-  - Diffusion Models
-  - AdaIN
-  - SDXL
+  - "Text To Image Generation"
+  - "Consistent Character Generation"
+  - "Training Free"
+  - "Style Transfer"
+  - "Self Attention"
+  - "Diffusion Models"
+  - "AdaIN"
+  - "SDXL"
 links:
   paper: "https://doi.org/10.1145/3763303"
   project: "https://jbruner23.github.io/consistyle"

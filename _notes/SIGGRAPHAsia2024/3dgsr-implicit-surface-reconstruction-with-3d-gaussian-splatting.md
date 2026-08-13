@@ -1,26 +1,26 @@
 ---
 title: "3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting"
 authors:
-  - Xiaoyang Lyu
-  - Yang-Tian Sun
-  - Yi-Hua Huang
-  - Xiuzhe Wu
-  - Ziyi Yang
-  - Yilun Chen
-  - Jiangmiao Pang
-  - Xiaojuan Qi
-track: "Journal"
-source: arxiv
+  - "Xiaoyang Lyu"
+  - "Yang-Tian Sun"
+  - "Yi-Hua Huang"
+  - "Xiuzhe Wu"
+  - "Ziyi Yang"
+  - "Yilun Chen"
+  - "Jiangmiao Pang"
+  - "Xiaojuan Qi"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The University of Hong Kong
-  - Shanghai AI Lab
+  - "The University of Hong Kong"
+  - "Shanghai AI Lab"
 tags:
-  - 3D Gaussian Splatting
-  - Signed Distance Function
-  - Surface Reconstruction
-  - Volumetric Rendering
-  - Implicit Neural Representation
+  - "3D Gaussian Splatting"
+  - "Signed Distance Function"
+  - "Surface Reconstruction"
+  - "Volumetric Rendering"
+  - "Implicit Neural Representation"
 links:
   paper: "https://doi.org/10.1145/3687952"
 ---

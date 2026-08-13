@@ -1,20 +1,20 @@
 ---
 title: "Nonlinear Noise2Noise for Efficient Monte Carlo Denoiser Training"
 authors:
-  - Andrew Tinits
-  - Stephen Mann
-category: Rendering
+  - "Andrew Tinits"
+  - "Stephen Mann"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: University of Waterloo
+source: "arxiv"
+institution: "University of Waterloo"
 tags:
-  - Monte Carlo Rendering
-  - Denoising
-  - Noise2Noise
-  - High Dynamic Range
-  - Neural Networks
+  - "Monte Carlo Rendering"
+  - "Denoising"
+  - "Noise2Noise"
+  - "High Dynamic Range"
+  - "Neural Networks"
 links:
-  paper: https://doi.org/10.1145/3757377.3763931
+  paper: "https://doi.org/10.1145/3757377.3763931"
 ---
 
 ## 一句话总结

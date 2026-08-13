@@ -1,24 +1,24 @@
 ---
-title: Spline Deformation Field
+title: "Spline Deformation Field"
 authors:
-  - Mingyang Song
-  - Yang Zhang
-  - Marko Mihajlovic
-  - Siyu Tang
-  - Markus Gross
-  - Tunç Ozan Aydın
-category: Reconstruction
-track: Conference
-source: arxiv
-institution: DisneyResearch|Studios
+  - "Mingyang Song"
+  - "Yang Zhang"
+  - "Marko Mihajlovic"
+  - "Siyu Tang"
+  - "Markus Gross"
+  - "Tunç Ozan Aydın"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
+institution: "DisneyResearch|Studios"
 tags:
-  - Deformation Field
-  - Spline Interpolation
-  - Dynamic Scene Reconstruction
-  - Gaussian Splatting
-  - Trajectory Modeling
+  - "Deformation Field"
+  - "Spline Interpolation"
+  - "Dynamic Scene Reconstruction"
+  - "Gaussian Splatting"
+  - "Trajectory Modeling"
 links:
-  paper: https://doi.org/10.1145/3721238.3730676
+  paper: "https://doi.org/10.1145/3721238.3730676"
 ---
 
 ## 一句话总结

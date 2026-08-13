@@ -1,22 +1,22 @@
 ---
 title: "Motion In-Betweening for Densely Interacting Characters"
 authors:
-  - Xiaotang Zhang
-  - Ziyi Chang
-  - Qianhui Men
-  - Hubert P. H. Shum
-category: Animation & Simulation
+  - "Xiaotang Zhang"
+  - "Ziyi Chang"
+  - "Qianhui Men"
+  - "Hubert P. H. Shum"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: Durham University
+source: "arxiv"
+institution: "Durham University"
 tags:
-  - Motion Synthesis
-  - Motion In-Betweening
-  - Character Interaction
-  - Adversarial Learning
-  - Deep Learning
+  - "Motion Synthesis"
+  - "Motion In-Betweening"
+  - "Character Interaction"
+  - "Adversarial Learning"
+  - "Deep Learning"
 links:
-  paper: https://doi.org/10.1145/3757377.3763950
+  paper: "https://doi.org/10.1145/3757377.3763950"
 ---
 
 ## 一句话总结

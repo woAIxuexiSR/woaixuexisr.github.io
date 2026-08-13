@@ -1,23 +1,23 @@
 ---
 title: "A Platform for Interactive AI Character Experiences"
 authors:
-  - Rafael Wampfler
-  - Chen Yang
-  - Dillon Elste
-  - Nikola Kovačević
-  - Philine Witzig
-  - Markus Gross
+  - "Rafael Wampfler"
+  - "Chen Yang"
+  - "Dillon Elste"
+  - "Nikola Kovačević"
+  - "Philine Witzig"
+  - "Markus Gross"
 category: "HCI & XR"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "ETH Zurich"
 tags:
-  - Conversational AI
-  - Embodied Agents
-  - Digital Characters
-  - LLM
-  - Interactive Storytelling
-  - Speech-Driven Animation
+  - "Conversational AI"
+  - "Embodied Agents"
+  - "Digital Characters"
+  - "LLM"
+  - "Interactive Storytelling"
+  - "Speech-Driven Animation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730762"
 ---

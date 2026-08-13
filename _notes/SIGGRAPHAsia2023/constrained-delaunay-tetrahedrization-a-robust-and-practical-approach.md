@@ -1,23 +1,23 @@
 ---
 title: "Constrained Delaunay Tetrahedrization: A Robust and Practical Approach"
 authors:
-  - Lorenzo Diazzi
-  - Daniele Panozzo
-  - Amir Vaxman
-  - Marco Attene
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: IMATI - CNR
+  - "Lorenzo Diazzi"
+  - "Daniele Panozzo"
+  - "Amir Vaxman"
+  - "Marco Attene"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "IMATI - CNR"
 tags:
-  - Tetrahedral Meshing
-  - Constrained Delaunay
-  - Geometric Predicate
-  - Numerical Robustness
-  - Steiner Point
+  - "Tetrahedral Meshing"
+  - "Constrained Delaunay"
+  - "Geometric Predicate"
+  - "Numerical Robustness"
+  - "Steiner Point"
 links:
-  paper: https://doi.org/10.1145/3618352
-  code: https://github.com/MarcoAttene/CDT
+  paper: "https://doi.org/10.1145/3618352"
+  code: "https://github.com/MarcoAttene/CDT"
 ---
 
 ## 一句话总结

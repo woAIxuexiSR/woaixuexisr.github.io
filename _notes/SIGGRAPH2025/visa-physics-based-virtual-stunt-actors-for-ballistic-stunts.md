@@ -7,7 +7,7 @@ authors:
   - "Jungdam Won"
 category: "Animation & Simulation"
 track: "Journal"
-source: ACM
+source: "ACM"
 institution:
   - "Seoul National University"
   - "KAIST"

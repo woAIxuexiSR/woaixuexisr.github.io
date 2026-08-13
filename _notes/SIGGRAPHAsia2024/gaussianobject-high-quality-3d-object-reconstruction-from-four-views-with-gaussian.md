@@ -1,27 +1,27 @@
 ---
 title: "GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting"
 authors:
-  - Chen Yang
-  - Sikuang Li
-  - Jiemin Fang
-  - Ruofan Liang
-  - Lingxi Xie
-  - Xiaopeng Zhang
-  - Wei Shen
-  - Qi Tian
-track: "Journal"
-source: arxiv
+  - "Chen Yang"
+  - "Sikuang Li"
+  - "Jiemin Fang"
+  - "Ruofan Liang"
+  - "Lingxi Xie"
+  - "Xiaopeng Zhang"
+  - "Wei Shen"
+  - "Qi Tian"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Shanghai Jiao Tong University
-  - Huawei
-  - University of Toronto
+  - "Shanghai Jiao Tong University"
+  - "Huawei"
+  - "University of Toronto"
 tags:
-  - Sparse View Reconstruction
-  - 3D Gaussian Splatting
-  - ControlNet
-  - Visual Hull
-  - Novel View Synthesis
+  - "Sparse View Reconstruction"
+  - "3D Gaussian Splatting"
+  - "ControlNet"
+  - "Visual Hull"
+  - "Novel View Synthesis"
 links:
   paper: "https://doi.org/10.1145/3687759"
   project: "https://gaussianobject.github.io/"

@@ -1,21 +1,21 @@
 ---
 title: "ReVersion: Diffusion-Based Relation Inversion from Images"
 authors:
-  - Ziqi Huang
-  - Tianxing Wu
-  - Yuming Jiang
-  - Kelvin C. K. Chan
-  - Ziwei Liu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Nanyang Technological University
+  - "Ziqi Huang"
+  - "Tianxing Wu"
+  - "Yuming Jiang"
+  - "Kelvin C. K. Chan"
+  - "Ziwei Liu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Nanyang Technological University"
 tags:
-  - Diffusion Model
-  - Text-to-Image Generation
-  - Inversion
-  - Relation Modeling
-  - Contrastive Learning
+  - "Diffusion Model"
+  - "Text-to-Image Generation"
+  - "Inversion"
+  - "Relation Modeling"
+  - "Contrastive Learning"
 links:
   paper: "https://doi.org/10.1145/3680528.3687658"
   project: "https://github.com/ziqihuangg/ReVersion"

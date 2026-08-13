@@ -1,27 +1,27 @@
 ---
 title: "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval"
 authors:
-  - Jiwen Yu
-  - Jianhong Bai
-  - Yiran Qin
-  - Quande Liu
-  - Xintao Wang
-  - Pengfei Wan
-  - Di Zhang
-  - Xihui Liu
-category: Neural & Generative
+  - "Jiwen Yu"
+  - "Jianhong Bai"
+  - "Yiran Qin"
+  - "Quande Liu"
+  - "Xintao Wang"
+  - "Pengfei Wan"
+  - "Di Zhang"
+  - "Xihui Liu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: The University of Hong Kong
+source: "arxiv"
+institution: "The University of Hong Kong"
 tags:
-  - Video Generation
-  - Diffusion Model
-  - World Model
-  - Memory Retrieval
-  - Camera Control
+  - "Video Generation"
+  - "Diffusion Model"
+  - "World Model"
+  - "Memory Retrieval"
+  - "Camera Control"
 links:
-  paper: https://doi.org/10.1145/3757377.3763833
-  project: https://context-as-memory.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763833"
+  project: "https://context-as-memory.github.io/"
 ---
 
 ## 一句话总结

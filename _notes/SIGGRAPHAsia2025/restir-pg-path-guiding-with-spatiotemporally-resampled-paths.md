@@ -1,27 +1,27 @@
 ---
 title: "ReSTIR PG: Path Guiding with Spatiotemporally Resampled Paths"
 authors:
-  - Zheng Zeng
-  - Markus Kettunen
-  - Chris Wyman
-  - Lifan Wu
-  - Ravi Ramamoorthi
-  - Ling-Qi Yan
-  - Daqi Lin
-category: Rendering
+  - "Zheng Zeng"
+  - "Markus Kettunen"
+  - "Chris Wyman"
+  - "Lifan Wu"
+  - "Ravi Ramamoorthi"
+  - "Ling-Qi Yan"
+  - "Daqi Lin"
+category: "Rendering"
 track: "Conference"
-source: author-page
-institution: NVIDIA
+source: "author-page"
+institution: "NVIDIA"
 tags:
-  - Path Guiding
-  - ReSTIR
-  - Path Tracing
-  - Global Illumination
-  - Real-Time Rendering
-  - Importance Sampling
+  - "Path Guiding"
+  - "ReSTIR"
+  - "Path Tracing"
+  - "Global Illumination"
+  - "Real-Time Rendering"
+  - "Importance Sampling"
 links:
-  paper: https://doi.org/10.1145/3757377.3763813
-  project: https://research.nvidia.com/labs/rtr/publication/zeng2025restirpg
+  paper: "https://doi.org/10.1145/3757377.3763813"
+  project: "https://research.nvidia.com/labs/rtr/publication/zeng2025restirpg"
 ---
 
 ## 一句话总结

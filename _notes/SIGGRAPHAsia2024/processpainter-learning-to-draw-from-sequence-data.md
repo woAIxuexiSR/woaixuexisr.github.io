@@ -1,23 +1,23 @@
 ---
 title: "ProcessPainter: Learning to draw from sequence data"
 authors:
-  - Yiren Song
-  - Shijie Huang
-  - Chen Yao
-  - Hai Ci
-  - Xiaojun Ye
-  - Jiaming Liu
-  - Yuxuan Zhang
-  - Mike Zheng Shou
-track: "Conference"
-source: author-page
+  - "Yiren Song"
+  - "Shijie Huang"
+  - "Chen Yao"
+  - "Hai Ci"
+  - "Xiaojun Ye"
+  - "Jiaming Liu"
+  - "Yuxuan Zhang"
+  - "Mike Zheng Shou"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution: "National University of Singapore"
 tags:
-  - Diffusion Model
-  - Painting Process
-  - Video Generation
-  - LoRA
+  - "Diffusion Model"
+  - "Painting Process"
+  - "Video Generation"
+  - "LoRA"
 links:
   paper: "https://doi.org/10.1145/3680528.3687596"
   code: "https://github.com/nicolaus-huang/ProcessPainter"

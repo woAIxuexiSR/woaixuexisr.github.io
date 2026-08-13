@@ -1,24 +1,24 @@
 ---
 title: "Variational Green and Biharmonic Coordinates for 2D Polynomial Cages"
 authors:
-  - Élie Michel
-  - Alec Jacobson
-  - Siddhartha Chaudhuri
-  - Jean-Marc Thiery
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: Adobe Research
+  - "Élie Michel"
+  - "Alec Jacobson"
+  - "Siddhartha Chaudhuri"
+  - "Jean-Marc Thiery"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "Adobe Research"
 tags:
-  - Cage-Based Deformation
-  - Green Coordinates
-  - Biharmonic Coordinates
-  - Polynomial Cages
-  - Harmonic Functions
-  - Conformal Deformation
-  - Variational Shape Deformation
-  - Boundary Element Method
-  - 2D Shape Editing
+  - "Cage-Based Deformation"
+  - "Green Coordinates"
+  - "Biharmonic Coordinates"
+  - "Polynomial Cages"
+  - "Harmonic Functions"
+  - "Conformal Deformation"
+  - "Variational Shape Deformation"
+  - "Boundary Element Method"
+  - "2D Shape Editing"
 links:
   paper: "https://doi.org/10.1145/3731421"
   project: "https://eliemichel.github.io/Variational2dPolyCoords"

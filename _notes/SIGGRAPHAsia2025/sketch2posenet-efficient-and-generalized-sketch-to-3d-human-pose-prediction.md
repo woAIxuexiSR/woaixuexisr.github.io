@@ -1,25 +1,24 @@
 ---
 title: "Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction"
 authors:
-  - Li Wang
-  - Yiyu Zhuang
-  - Yanwen Wang
-  - Xun Cao
-  - Chuan Guo
-  - Xinxin Zuo
-  - Hao Zhu
+  - "Li Wang"
+  - "Yiyu Zhuang"
+  - "Yanwen Wang"
+  - "Xun Cao"
+  - "Chuan Guo"
+  - "Xinxin Zuo"
+  - "Hao Zhu"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-category: Reconstruction
-institution:
-  - Nanjing University
+source: "arxiv"
+institution: "Nanjing University"
 tags:
-  - Human Pose Estimation
-  - Sketch-Based Modeling
-  - 3D Human Pose
-  - SMPL
-  - Diffusion Prior
-  - Motion Capture
+  - "Human Pose Estimation"
+  - "Sketch-Based Modeling"
+  - "3D Human Pose"
+  - "SMPL"
+  - "Diffusion Prior"
+  - "Motion Capture"
 links:
   paper: "https://doi.org/10.1145/3757377.3763855"
 ---

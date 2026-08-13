@@ -1,28 +1,27 @@
 ---
 title: "Look Ma, no markers: holistic performance capture without the hassle"
 authors:
-  - Charlie Hewitt
-  - Fatemeh Saleh
-  - Sadegh Aliakbarian
-  - Lohit Petikam
-  - Shideh Rezaeifar
-  - Louis Florentin
-  - Zafiirah Hosenie
-  - Thomas J. Cashman
-  - Julien Valentin
-  - Darren Cosker
-  - Tadas Baltrusaitis
-track: "Journal"
-source: arxiv
+  - "Charlie Hewitt"
+  - "Fatemeh Saleh"
+  - "Sadegh Aliakbarian"
+  - "Lohit Petikam"
+  - "Shideh Rezaeifar"
+  - "Louis Florentin"
+  - "Zafiirah Hosenie"
+  - "Thomas J. Cashman"
+  - "Julien Valentin"
+  - "Darren Cosker"
+  - "Tadas Baltrusaitis"
 category: "Reconstruction"
-institution:
-  - Microsoft
+track: "Journal"
+source: "arxiv"
+institution: "Microsoft"
 tags:
-  - 3D Reconstruction
-  - Motion Capture
-  - Parametric Human Model
-  - Synthetic Data
-  - Dense Keypoints
+  - "3D Reconstruction"
+  - "Motion Capture"
+  - "Parametric Human Model"
+  - "Synthetic Data"
+  - "Dense Keypoints"
 links:
   paper: "https://doi.org/10.1145/3687772"
   project: "https://aka.ms/SynthMoCap"

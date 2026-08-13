@@ -1,21 +1,21 @@
 ---
 title: "Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off"
 authors:
-  - Seungyong Lee
-  - Jeong-gi Kwak
+  - "Seungyong Lee"
+  - "Jeong-gi Kwak"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - NXN Labs
-  - University of British Columbia
+  - "NXN Labs"
+  - "University of British Columbia"
 tags:
-  - Virtual Try-On
-  - Virtual Try-Off
-  - Diffusion Transformer
-  - Flow Matching
-  - Fashion Image Synthesis
-  - Attention Temperature Scaling
+  - "Virtual Try-On"
+  - "Virtual Try-Off"
+  - "Diffusion Transformer"
+  - "Flow Matching"
+  - "Fashion Image Synthesis"
+  - "Attention Temperature Scaling"
 links:
   paper: "https://doi.org/10.1145/3757377.3763940"
   project: "https://nxnai.github.io/Voost"

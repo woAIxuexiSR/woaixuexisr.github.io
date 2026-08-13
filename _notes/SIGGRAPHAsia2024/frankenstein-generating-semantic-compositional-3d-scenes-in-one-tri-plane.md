@@ -1,32 +1,32 @@
 ---
 title: "Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane"
 authors:
-  - Han Yan
-  - Yang Li
-  - Zhennan Wu
-  - Shenzhou Chen
-  - Weixuan Sun
-  - Taizhang Shang
-  - Weizhe Liu
-  - Tian Chen
-  - Xiaqiang Dai
-  - Chao Ma
-  - Hongdong Li
-  - Pan Ji
-track: "Conference"
-source: arxiv
+  - "Han Yan"
+  - "Yang Li"
+  - "Zhennan Wu"
+  - "Shenzhou Chen"
+  - "Weixuan Sun"
+  - "Taizhang Shang"
+  - "Weizhe Liu"
+  - "Tian Chen"
+  - "Xiaqiang Dai"
+  - "Chao Ma"
+  - "Hongdong Li"
+  - "Pan Ji"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Shanghai Jiao Tong University
-  - Tencent
-  - The University of Tokyo
-  - Australian National University
+  - "Shanghai Jiao Tong University"
+  - "Tencent"
+  - "The University of Tokyo"
+  - "Australian National University"
 tags:
-  - 3D Scene Generation
-  - Semantic Composition
-  - Diffusion Model
-  - Tri Plane
-  - SDF
+  - "3D Scene Generation"
+  - "Semantic Composition"
+  - "Diffusion Model"
+  - "Tri Plane"
+  - "SDF"
 links:
   paper: "https://doi.org/10.1145/3680528.3687672"
 ---

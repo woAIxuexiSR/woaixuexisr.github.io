@@ -1,31 +1,31 @@
 ---
 title: "NASM: Neural Anisotropic Surface Meshing"
 authors:
-  - Hongbo Li
-  - Haikuan Zhu
-  - Sikai Zhong
-  - Ningna Wang
-  - Cheng Lin
-  - Xiaohu Guo
-  - Shiqing Xin
-  - Wenping Wang
-  - Jing Hua
-  - Zichun Zhong
-track: "Conference"
-source: arxiv
+  - "Hongbo Li"
+  - "Haikuan Zhu"
+  - "Sikai Zhong"
+  - "Ningna Wang"
+  - "Cheng Lin"
+  - "Xiaohu Guo"
+  - "Shiqing Xin"
+  - "Wenping Wang"
+  - "Jing Hua"
+  - "Zichun Zhong"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Wayne State University
-  - The University of Texas at Dallas
-  - The University of Hong Kong
-  - Shandong University
-  - Texas A&M University
+  - "Wayne State University"
+  - "The University of Texas at Dallas"
+  - "The University of Hong Kong"
+  - "Shandong University"
+  - "Texas A&M University"
 tags:
-  - Anisotropic Mesh
-  - Graph Neural Network
-  - High Dimensional Euclidean Embedding
-  - Feature Sensitive Remeshing
-  - CVT
+  - "Anisotropic Mesh"
+  - "Graph Neural Network"
+  - "High Dimensional Euclidean Embedding"
+  - "Feature Sensitive Remeshing"
+  - "CVT"
 links:
   paper: "https://doi.org/10.1145/3680528.3687700"
 ---

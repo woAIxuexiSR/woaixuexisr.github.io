@@ -1,24 +1,24 @@
 ---
 title: "PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion"
 authors:
-  - Avinash Paliwal
-  - Xilong Zhou
-  - Andrii Tsarov
-  - Nima Kalantari
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Texas A&M University
+  - "Avinash Paliwal"
+  - "Xilong Zhou"
+  - "Andrii Tsarov"
+  - "Nima Kalantari"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Texas A&M University"
 tags:
-  - Single Image To 3D
-  - 3D Scene Generation
-  - Diffusion Model
-  - Panorama Generation
-  - Depth Estimation
-  - 3D Gaussian Splatting
+  - "Single Image To 3D"
+  - "3D Scene Generation"
+  - "Diffusion Model"
+  - "Panorama Generation"
+  - "Depth Estimation"
+  - "3D Gaussian Splatting"
 links:
-  paper: https://doi.org/10.1145/3757377.3763883
-  project: https://people.engr.tamu.edu/nimak/Papers/PanoDreamer
+  paper: "https://doi.org/10.1145/3757377.3763883"
+  project: "https://people.engr.tamu.edu/nimak/Papers/PanoDreamer"
 ---
 
 ## 一句话总结

@@ -1,21 +1,20 @@
 ---
 title: "WorldExplorer: Towards Generating Fully Navigable 3D Scenes"
 authors:
-  - Manuel-Andreas Schneider
-  - Lukas Höllein
-  - Matthias Nießner
+  - "Manuel-Andreas Schneider"
+  - "Lukas Höllein"
+  - "Matthias Nießner"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution:
-  - Technical University of Munich
+source: "arxiv"
+institution: "Technical University of Munich"
 tags:
-  - 3D Scene Generation
-  - Video Diffusion
-  - 3D Gaussian Splatting
-  - Text To 3D
-  - Novel View Synthesis
-  - Autoregressive Generation
+  - "3D Scene Generation"
+  - "Video Diffusion"
+  - "3D Gaussian Splatting"
+  - "Text To 3D"
+  - "Novel View Synthesis"
+  - "Autoregressive Generation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763946"
   project: "https://mschneider456.github.io/world-explorer"

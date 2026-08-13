@@ -1,27 +1,27 @@
 ---
 title: "Fast Subspace Fluid Simulation with a Temporally-Aware Basis"
 authors:
-  - Siyuan Chen
-  - Yixin Chen
-  - Jonathan Panuelos
-  - Otman Benchekroun
-  - Yue Chang
-  - Eitan Grinspun
-  - Zhecheng Wang
-category: Animation & Simulation
-track: Journal
-source: arxiv
+  - "Siyuan Chen"
+  - "Yixin Chen"
+  - "Jonathan Panuelos"
+  - "Otman Benchekroun"
+  - "Yue Chang"
+  - "Eitan Grinspun"
+  - "Zhecheng Wang"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - University of Toronto
-  - Shanghai Jiao Tong University
+  - "University of Toronto"
+  - "Shanghai Jiao Tong University"
 tags:
-  - Fluid Simulation
-  - Reduced-Order Model
-  - Dynamic Mode Decomposition
-  - Koopman Operator
-  - Fluid Control
+  - "Fluid Simulation"
+  - "Reduced-Order Model"
+  - "Dynamic Mode Decomposition"
+  - "Koopman Operator"
+  - "Fluid Control"
 links:
-  paper: https://doi.org/10.1145/3730826
+  paper: "https://doi.org/10.1145/3730826"
 ---
 
 ## 一句话总结

@@ -1,25 +1,24 @@
 ---
 title: "URAvatar: Universal Relightable Gaussian Codec Avatars"
 authors:
-  - Junxuan Li
-  - Chen Cao
-  - Gabriel Schwartz
-  - Rawal Khirodkar
-  - Christian Richardt
-  - Tomas Simon
-  - Yaser Sheikh
-  - Shunsuke Saito
-track: "Conference"
-source: arxiv
+  - "Junxuan Li"
+  - "Chen Cao"
+  - "Gabriel Schwartz"
+  - "Rawal Khirodkar"
+  - "Christian Richardt"
+  - "Tomas Simon"
+  - "Yaser Sheikh"
+  - "Shunsuke Saito"
 category: "Rendering"
-institution:
-  - Meta
+track: "Conference"
+source: "arxiv"
+institution: "Meta"
 tags:
-  - Relighting
-  - Head Avatar
-  - 3D Gaussian Splatting
-  - Radiative Transfer
-  - Mobile Scanning Reconstruction
+  - "Relighting"
+  - "Head Avatar"
+  - "3D Gaussian Splatting"
+  - "Radiative Transfer"
+  - "Mobile Scanning Reconstruction"
 links:
   paper: "https://doi.org/10.1145/3680528.3687653"
 ---

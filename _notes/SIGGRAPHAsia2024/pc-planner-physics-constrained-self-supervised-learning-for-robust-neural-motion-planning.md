@@ -1,25 +1,25 @@
 ---
 title: "PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function"
 authors:
-  - Xujie Shen
-  - Haocheng Peng
-  - Zesong Yang
-  - Juzhan Xu
-  - Hujun Bao
-  - Ruizhen Hu
-  - Zhaopeng Cui
+  - "Xujie Shen"
+  - "Haocheng Peng"
+  - "Zesong Yang"
+  - "Juzhan Xu"
+  - "Hujun Bao"
+  - "Ruizhen Hu"
+  - "Zhaopeng Cui"
 category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Zhejiang University
-  - Shenzhen University
+  - "Zhejiang University"
+  - "Shenzhen University"
 tags:
-  - Motion Planning
-  - Robot Navigation
-  - Eikonal Equation
-  - Self-Supervised Learning
-  - Signed Distance Field
+  - "Motion Planning"
+  - "Robot Navigation"
+  - "Eikonal Equation"
+  - "Self-Supervised Learning"
+  - "Signed Distance Field"
 links:
   paper: "https://doi.org/10.1145/3680528.3687651"
 ---

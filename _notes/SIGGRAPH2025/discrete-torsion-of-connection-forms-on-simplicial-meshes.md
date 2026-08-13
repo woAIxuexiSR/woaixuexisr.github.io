@@ -1,27 +1,27 @@
 ---
 title: "Discrete Torsion of Connection Forms on Simplicial Meshes"
 authors:
-  - Theo Braune
-  - Mark Gillespie
-  - Yiying Tong
-  - Mathieu Desbrun
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: Inria
+  - "Theo Braune"
+  - "Mark Gillespie"
+  - "Yiying Tong"
+  - "Mathieu Desbrun"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "Inria"
 tags:
-  - Discrete Differential Geometry
-  - Discrete Connections
-  - Torsion
-  - Levi-Civita Connection
-  - Parallel Transport
-  - Vector Field Design
-  - Frame Fields
-  - Simplicial Meshes
-  - Geometry Processing
+  - "Discrete Differential Geometry"
+  - "Discrete Connections"
+  - "Torsion"
+  - "Levi-Civita Connection"
+  - "Parallel Transport"
+  - "Vector Field Design"
+  - "Frame Fields"
+  - "Simplicial Meshes"
+  - "Geometry Processing"
 links:
-  paper: https://doi.org/10.1145/3731197
-  project: https://www.geometry.caltech.edu/pubs/BGTD25.pdf
+  paper: "https://doi.org/10.1145/3731197"
+  project: "https://www.geometry.caltech.edu/pubs/BGTD25.pdf"
 ---
 
 ## 一句话总结

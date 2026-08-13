@@ -18,8 +18,8 @@ tags:
   - "Differentiable Rendering"
 links:
   paper: "https://doi.org/10.1145/3588432.3591498"
-  code: "https://github.com/ycjungSubhuman/density-adaptation"
   project: "https://youtu.be/L-WNBUNyP-Y"
+  code: "https://github.com/ycjungSubhuman/density-adaptation"
 ---
 
 ## 一句话总结

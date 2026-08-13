@@ -1,20 +1,20 @@
 ---
 title: "Learning to Draw Is Learning to See: Analyzing Eye Tracking Patterns for Assisted Observational Drawing"
 authors:
-  - Fengqi Liu
-  - Longji Huang
-  - Zhengyu Huang
-  - Zeyu Wang
+  - "Fengqi Liu"
+  - "Longji Huang"
+  - "Zhengyu Huang"
+  - "Zeyu Wang"
 category: "HCI & XR"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "HKUST (Guangzhou)"
 tags:
-  - Eye Tracking
-  - Observational Drawing
-  - Assistive Interface
-  - Eye-Hand Coordination
-  - Creativity Support
+  - "Eye Tracking"
+  - "Observational Drawing"
+  - "Assistive Interface"
+  - "Eye-Hand Coordination"
+  - "Creativity Support"
 links:
   paper: "https://doi.org/10.1145/3721238.3730734"
   project: "https://cislab.hkust-gz.edu.cn/publications/learning-to-draw-is-learning-to-see-analyzing-eye-tracking-patterns-for-assisted-observational-drawing/"

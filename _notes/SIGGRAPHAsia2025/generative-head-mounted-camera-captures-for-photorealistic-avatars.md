@@ -1,30 +1,30 @@
 ---
 title: "Generative Head-Mounted Camera Captures for Photorealistic Avatars"
 authors:
-  - Shaojie Bai
-  - Seunghyeon Seo
-  - Yida Wang
-  - Chenghui Li
-  - Owen Wang
-  - Te-Li Wang
-  - Tianyang Ma
-  - Jason Saragih
-  - Shih-En Wei
-  - Nojun Kwak
-  - Hyung Jun Kim
-category: Neural & Generative
+  - "Shaojie Bai"
+  - "Seunghyeon Seo"
+  - "Yida Wang"
+  - "Chenghui Li"
+  - "Owen Wang"
+  - "Te-Li Wang"
+  - "Tianyang Ma"
+  - "Jason Saragih"
+  - "Shih-En Wei"
+  - "Nojun Kwak"
+  - "Hyung Jun Kim"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-institution: Meta Reality Labs
+source: "arxiv"
+institution: "Meta Reality Labs"
 tags:
-  - Diffusion Model
-  - Synthetic Data
-  - Photorealistic Avatar
-  - Codec Avatar
-  - Head-Mounted Camera
-  - VR Facial Animation
+  - "Diffusion Model"
+  - "Synthetic Data"
+  - "Photorealistic Avatar"
+  - "Codec Avatar"
+  - "Head-Mounted Camera"
+  - "VR Facial Animation"
 links:
-  paper: https://doi.org/10.1145/3763300
+  paper: "https://doi.org/10.1145/3763300"
 ---
 
 ## 一句话总结

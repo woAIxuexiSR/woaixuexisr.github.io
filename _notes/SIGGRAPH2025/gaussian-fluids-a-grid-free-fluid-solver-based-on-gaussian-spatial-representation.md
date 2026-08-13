@@ -1,22 +1,21 @@
 ---
 title: "Gaussian Fluids: A Grid-Free Fluid Solver based on Gaussian Spatial Representation"
 authors:
-  - Jingrui Xing
-  - Bin Wang
-  - Mengyu Chu
-  - Baoquan Chen
-track: "Conference"
-source: arxiv
+  - "Jingrui Xing"
+  - "Bin Wang"
+  - "Mengyu Chu"
+  - "Baoquan Chen"
 category: "Animation & Simulation"
-institution:
-  - Peking University
+track: "Conference"
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Fluid Simulation
-  - Gaussian Representation
-  - Grid-Free Solver
-  - Vorticity Preservation
-  - Continuous Representation
-  - PDE Optimization
+  - "Fluid Simulation"
+  - "Gaussian Representation"
+  - "Grid-Free Solver"
+  - "Vorticity Preservation"
+  - "Continuous Representation"
+  - "PDE Optimization"
 links:
   paper: "https://doi.org/10.1145/3721238.3730620"
 ---

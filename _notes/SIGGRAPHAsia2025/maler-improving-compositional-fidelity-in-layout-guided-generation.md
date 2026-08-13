@@ -1,23 +1,23 @@
 ---
 title: "MALeR: Improving Compositional Fidelity in Layout-Guided Generation"
 authors:
-  - Shivank Saxena
-  - Dhruv Srivastava
-  - Makarand Tapaswi
+  - "Shivank Saxena"
+  - "Dhruv Srivastava"
+  - "Makarand Tapaswi"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - CVIT, IIIT Hyderabad
-  - Adobe Research
+  - "CVIT, IIIT Hyderabad"
+  - "Adobe Research"
 tags:
-  - Layout-Guided Generation
-  - Text-To-Image
-  - Diffusion Models
-  - Compositional Generation
-  - Attribute Binding
-  - Latent Optimization
-  - Training-Free
+  - "Layout-Guided Generation"
+  - "Text-To-Image"
+  - "Diffusion Models"
+  - "Compositional Generation"
+  - "Attribute Binding"
+  - "Latent Optimization"
+  - "Training-Free"
 links:
   paper: "https://doi.org/10.1145/3763341"
   project: "https://katha-ai.github.io/projects/maler/"

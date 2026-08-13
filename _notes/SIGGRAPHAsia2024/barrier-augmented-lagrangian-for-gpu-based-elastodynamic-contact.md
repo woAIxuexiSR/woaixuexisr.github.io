@@ -1,27 +1,27 @@
 ---
 title: "Barrier-Augmented Lagrangian for GPU-based Elastodynamic Contact"
 authors:
-  - Dewen Guo
-  - Minchen Li
-  - Yin Yang
-  - Sheng Li
-  - Guoping Wang
-track: "Journal"
-source: arxiv
+  - "Dewen Guo"
+  - "Minchen Li"
+  - "Yin Yang"
+  - "Sheng Li"
+  - "Guoping Wang"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Peking University
-  - Carnegie Mellon University
-  - University of Utah
+  - "Peking University"
+  - "Carnegie Mellon University"
+  - "University of Utah"
 tags:
-  - Elastodynamics
-  - Frictional Contact
-  - Augmented Lagrangian
-  - Interior Point Method
-  - IPC
-  - Newton PCG
-  - GPU
-  - Continuous Collision Detection
+  - "Elastodynamics"
+  - "Frictional Contact"
+  - "Augmented Lagrangian"
+  - "Interior Point Method"
+  - "IPC"
+  - "Newton PCG"
+  - "GPU"
+  - "Continuous Collision Detection"
 links:
   paper: "https://doi.org/10.1145/3687988"
 ---

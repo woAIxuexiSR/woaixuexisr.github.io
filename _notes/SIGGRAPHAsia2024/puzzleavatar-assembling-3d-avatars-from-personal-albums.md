@@ -1,25 +1,25 @@
 ---
 title: "PuzzleAvatar: Assembling 3D Avatars from Personal Albums"
 authors:
-  - Yuliang Xiu
-  - Yufei Ye
-  - Zhen Liu
-  - Dimitris Tzionas
-  - Michael J. Black
-track: "Journal"
-source: arxiv
+  - "Yuliang Xiu"
+  - "Yufei Ye"
+  - "Zhen Liu"
+  - "Dimitris Tzionas"
+  - "Michael J. Black"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Max Planck Institute for Intelligent Systems
-  - Carnegie Mellon University
-  - Université de Montréal
-  - University of Amsterdam
+  - "Max Planck Institute for Intelligent Systems"
+  - "Carnegie Mellon University"
+  - "Université de Montréal"
+  - "University of Amsterdam"
 tags:
-  - 3D Avatar
-  - Text to Image Diffusion
-  - Score Distillation Sampling
-  - Digital Human
-  - Subject-Driven Generation
+  - "3D Avatar"
+  - "Text to Image Diffusion"
+  - "Score Distillation Sampling"
+  - "Digital Human"
+  - "Subject-Driven Generation"
 links:
   paper: "https://doi.org/10.1145/3687771"
   project: "https://puzzleavatar.is.tue.mpg.de/"

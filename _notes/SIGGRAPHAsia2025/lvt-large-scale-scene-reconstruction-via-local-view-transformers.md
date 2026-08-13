@@ -1,27 +1,27 @@
 ---
 title: "LVT: Large-Scale Scene Reconstruction via Local View Transformers"
 authors:
-  - Tooba Imtiaz
-  - Lucy Chai
-  - Kathryn Heal
-  - Xuan Luo
-  - Jungyeon Park
-  - Jennifer Dy
-  - John Flynn
-track: "Conference"
-source: arxiv
+  - "Tooba Imtiaz"
+  - "Lucy Chai"
+  - "Kathryn Heal"
+  - "Xuan Luo"
+  - "Jungyeon Park"
+  - "Jennifer Dy"
+  - "John Flynn"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Google
-  - Northeastern University
+  - "Google"
+  - "Northeastern University"
 tags:
-  - Novel View Synthesis
-  - 3D Gaussian Splatting
-  - Transformer
-  - Local Attention
-  - Feed-Forward Reconstruction
-  - Large-Scale Scene Reconstruction
-  - Relative Pose Encoding
+  - "Novel View Synthesis"
+  - "3D Gaussian Splatting"
+  - "Transformer"
+  - "Local Attention"
+  - "Feed-Forward Reconstruction"
+  - "Large-Scale Scene Reconstruction"
+  - "Relative Pose Encoding"
 links:
   paper: "https://doi.org/10.1145/3757377.3763838"
   project: "https://toobaimt.github.io/lvt/"

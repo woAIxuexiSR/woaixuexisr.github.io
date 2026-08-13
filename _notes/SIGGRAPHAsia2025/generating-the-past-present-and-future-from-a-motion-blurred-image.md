@@ -1,28 +1,28 @@
 ---
 title: "Generating the Past, Present and Future from a Motion-Blurred Image"
 authors:
-  - SaiKiran Tedla
-  - Kelly Zhu
-  - Trevor Canham
-  - Felix Taubner
-  - Michael S. Brown
-  - Kiriakos N. Kutulakos
-  - David B. Lindell
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: York University / University of Toronto / Vector Institute
+  - "SaiKiran Tedla"
+  - "Kelly Zhu"
+  - "Trevor Canham"
+  - "Felix Taubner"
+  - "Michael S. Brown"
+  - "Kiriakos N. Kutulakos"
+  - "David B. Lindell"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "York University / University of Toronto / Vector Institute"
 tags:
-  - Video Diffusion Model
-  - Motion Deblurring
-  - Video Generation
-  - Computational Photography
-  - Inverse Problems
-  - Scene Dynamics
+  - "Video Diffusion Model"
+  - "Motion Deblurring"
+  - "Video Generation"
+  - "Computational Photography"
+  - "Inverse Problems"
+  - "Scene Dynamics"
 links:
-  paper: https://doi.org/10.1145/3763306
-  project: https://blur2vid.github.io
-  code: https://blur2vid.github.io
+  paper: "https://doi.org/10.1145/3763306"
+  project: "https://blur2vid.github.io"
+  code: "https://blur2vid.github.io"
 ---
 
 ## 一句话总结

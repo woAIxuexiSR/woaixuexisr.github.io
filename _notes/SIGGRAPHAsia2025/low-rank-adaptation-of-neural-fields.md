@@ -1,25 +1,24 @@
 ---
 title: "Low-Rank Adaptation of Neural Fields"
 authors:
-  - Anh Truong
-  - Ahmed H. Mahmoud
-  - Mina Konaković Luković
-  - Justin Solomon
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution:
-  - Massachusetts Institute of Technology
+  - "Anh Truong"
+  - "Ahmed H. Mahmoud"
+  - "Mina Konaković Luković"
+  - "Justin Solomon"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Massachusetts Institute of Technology"
 tags:
-  - LoRA
-  - Neural Fields
-  - Parameter-Efficient Fine-Tuning
-  - Compression
-  - Neural SDF
-  - Energy Minimization
+  - "LoRA"
+  - "Neural Fields"
+  - "Parameter-Efficient Fine-Tuning"
+  - "Compression"
+  - "Neural SDF"
+  - "Energy Minimization"
 links:
-  paper: https://doi.org/10.1145/3757377.3763882
-  code: https://github.com/dinhanhtruong/LoRA-NF
+  paper: "https://doi.org/10.1145/3757377.3763882"
+  code: "https://github.com/dinhanhtruong/LoRA-NF"
 ---
 
 ## 一句话总结

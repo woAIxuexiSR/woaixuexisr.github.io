@@ -1,27 +1,27 @@
 ---
 title: "Local Gaussian Density Mixtures for Unstructured Lumigraph Rendering"
 authors:
-  - Xiuchao Wu
-  - Jiamin Xu
-  - Chi Wang
-  - Yifan Peng
-  - Qixing Huang
-  - James Tompkin
-  - Weiwei Xu
-track: "Conference"
-source: author-page
+  - "Xiuchao Wu"
+  - "Jiamin Xu"
+  - "Chi Wang"
+  - "Yifan Peng"
+  - "Qixing Huang"
+  - "James Tompkin"
+  - "Weiwei Xu"
 category: "Rendering"
+track: "Conference"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - Hangzhou Dianzi University
-  - The University of Hong Kong
-  - University of Texas at Austin
-  - Brown University
+  - "Zhejiang University"
+  - "Hangzhou Dianzi University"
+  - "The University of Hong Kong"
+  - "University of Texas at Austin"
+  - "Brown University"
 tags:
-  - Novel View Synthesis
-  - Image-based Rendering
-  - Gaussian Mixtures
-  - Reflections
+  - "Novel View Synthesis"
+  - "Image-based Rendering"
+  - "Gaussian Mixtures"
+  - "Reflections"
 links:
   paper: "https://doi.org/10.1145/3680528.3687659"
   project: "https://xchaowu.github.io/papers/lgdm/index.html"

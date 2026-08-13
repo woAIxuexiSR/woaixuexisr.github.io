@@ -1,18 +1,18 @@
 ---
 title: "Polar Interpolants for Thin-Shell Microstructure Homogenization"
 authors:
-  - Antoine Chan-Lock
-  - Miguel A. Otaduy
-track: "Conference"
-source: author-page
+  - "Antoine Chan-Lock"
+  - "Miguel A. Otaduy"
 category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
 institution: "Universidad Rey Juan Carlos"
 tags:
-  - Homogenization
-  - Thin Shell Simulation
-  - Microstructures
-  - RBF Interpolation
-  - Constitutive Model
+  - "Homogenization"
+  - "Thin Shell Simulation"
+  - "Microstructures"
+  - "RBF Interpolation"
+  - "Constitutive Model"
 links:
   paper: "https://doi.org/10.1145/3680528.3687693"
   code: "https://github.com/antoine-chan-lock/PolarInterpolants"

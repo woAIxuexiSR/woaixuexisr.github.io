@@ -1,11 +1,21 @@
 ---
 title: "Hodge decomposition of vector fields in Cartesian grids"
-authors: [Zhe Su, Yiying Tong, Guowei Wei]
-track: "Conference"
-source: arxiv
+authors:
+  - "Zhe Su"
+  - "Yiying Tong"
+  - "Guowei Wei"
 category: "Geometry & Modeling"
-institution: [Michigan State University]
-tags: [vector-field-decomposition, hodge-decomposition, discrete-exterior-calculus, cartesian-grid, level-set, topology-preserving, cohomology]
+track: "Conference"
+source: "arxiv"
+institution: "Michigan State University"
+tags:
+  - "vector-field-decomposition"
+  - "hodge-decomposition"
+  - "discrete-exterior-calculus"
+  - "cartesian-grid"
+  - "level-set"
+  - "topology-preserving"
+  - "cohomology"
 links:
   paper: "https://doi.org/10.1145/3680528.3687602"
 ---

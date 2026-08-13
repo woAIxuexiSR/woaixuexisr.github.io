@@ -1,20 +1,20 @@
 ---
 title: "PersonaTalk: Bring Attention to Your Persona in Visual Dubbing"
 authors:
-  - Longhao Zhang
-  - Shuang Liang
-  - Zhipeng Ge
-  - Tianshu Hu
-track: "Conference"
-source: arxiv
+  - "Longhao Zhang"
+  - "Shuang Liang"
+  - "Zhipeng Ge"
+  - "Tianshu Hu"
 category: "Image & Video"
+track: "Conference"
+source: "arxiv"
 institution: "ByteDance"
 tags:
-  - Visual Dubbing
-  - Lip Synchronization
-  - Attention
-  - Talking Face
-  - 3DMM
+  - "Visual Dubbing"
+  - "Lip Synchronization"
+  - "Attention"
+  - "Talking Face"
+  - "3DMM"
 links:
   paper: "https://doi.org/10.1145/3680528.3687618"
 ---

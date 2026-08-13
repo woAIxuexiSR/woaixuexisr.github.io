@@ -1,30 +1,30 @@
 ---
 title: "X-Actor: Emotional and Expressive Long-Range Portrait Acting from Audio"
 authors:
-  - Chenxu Zhang
-  - Zenan Li
-  - Hongyi Xu
-  - You Xie
-  - Xiaochen Zhao
-  - Tianpei Gu
-  - Guoxian Song
-  - Xin Chen
-  - Chao Liang
-  - Jianwen Jiang
-  - Linjie Luo
-category: Image & Video
+  - "Chenxu Zhang"
+  - "Zenan Li"
+  - "Hongyi Xu"
+  - "You Xie"
+  - "Xiaochen Zhao"
+  - "Tianpei Gu"
+  - "Guoxian Song"
+  - "Xin Chen"
+  - "Chao Liang"
+  - "Jianwen Jiang"
+  - "Linjie Luo"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: ByteDance
+source: "arxiv"
+institution: "ByteDance"
 tags:
-  - Talking Head Generation
-  - Audio-Driven Animation
-  - Diffusion Model
-  - Autoregressive Model
-  - Portrait Animation
+  - "Talking Head Generation"
+  - "Audio-Driven Animation"
+  - "Diffusion Model"
+  - "Autoregressive Model"
+  - "Portrait Animation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763985
-  project: https://byteaigc.github.io/X-Actor/
+  paper: "https://doi.org/10.1145/3757377.3763985"
+  project: "https://byteaigc.github.io/X-Actor/"
 ---
 
 ## 一句话总结

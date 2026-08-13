@@ -1,25 +1,25 @@
 ---
 title: "BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch"
 authors:
-  - Pu Li
-  - Wenhao Zhang
-  - Weize Quan
-  - Biao Zhang
-  - Peter Wonka
-  - Dong-Ming Yan
-category: Neural & Generative
+  - "Pu Li"
+  - "Wenhao Zhang"
+  - "Weize Quan"
+  - "Biao Zhang"
+  - "Peter Wonka"
+  - "Dong-Ming Yan"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-institution: MAIS, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences; KAUST
+source: "arxiv"
+institution: "MAIS, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences; KAUST"
 tags:
-  - B-Rep Generation
-  - CAD Modeling
-  - Voronoi Half-Patch
-  - Autoregressive Transformer
-  - Vector Quantization
-  - Half-Edge Representation
+  - "B-Rep Generation"
+  - "CAD Modeling"
+  - "Voronoi Half-Patch"
+  - "Autoregressive Transformer"
+  - "Vector Quantization"
+  - "Half-Edge Representation"
 links:
-  paper: https://doi.org/10.1145/3763323
+  paper: "https://doi.org/10.1145/3763323"
 ---
 
 ## 一句话总结

@@ -1,21 +1,20 @@
 ---
 title: "Surface-Aware Distilled 3D Semantic Features"
 authors:
-  - Lukas Uzolas
-  - Elmar Eisemann
-  - Petr Kellnhofer
-track: "Conference"
-source: arxiv
+  - "Lukas Uzolas"
+  - "Elmar Eisemann"
+  - "Petr Kellnhofer"
 category: "Geometry & Modeling"
-institution:
-  - Delft University of Technology
+track: "Conference"
+source: "arxiv"
+institution: "Delft University of Technology"
 tags:
-  - Semantic Features
-  - Contrastive Learning
-  - Shape Correspondence
-  - Motion Transfer
-  - Geodesic Distance
-  - Self-Supervised Learning
+  - "Semantic Features"
+  - "Contrastive Learning"
+  - "Shape Correspondence"
+  - "Motion Transfer"
+  - "Geodesic Distance"
+  - "Self-Supervised Learning"
 links:
   paper: "https://doi.org/10.1145/3757377.3763974"
   project: "https://graphics.tudelft.nl/SurfaceAware3DFeatures"

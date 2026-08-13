@@ -1,28 +1,28 @@
 ---
 title: "V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians"
 authors:
-  - Penghao Wang
-  - Zhirui Zhang
-  - Liao Wang
-  - Kaixin Yao
-  - Siyuan Xie
-  - Jingyi Yu
-  - Minye Wu
-  - Lan Xu
-track: "Journal"
-source: arxiv
+  - "Penghao Wang"
+  - "Zhirui Zhang"
+  - "Liao Wang"
+  - "Kaixin Yao"
+  - "Siyuan Xie"
+  - "Jingyi Yu"
+  - "Minye Wu"
+  - "Lan Xu"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - ShanghaiTech University
-  - NeuDim Digital Technology
-  - KU Leuven
+  - "ShanghaiTech University"
+  - "NeuDim Digital Technology"
+  - "KU Leuven"
 tags:
-  - Volumetric Video
-  - 3D Gaussian Splatting
-  - Streaming
-  - Mobile Rendering
-  - Neural Rendering
-  - Video Codec
+  - "Volumetric Video"
+  - "3D Gaussian Splatting"
+  - "Streaming"
+  - "Mobile Rendering"
+  - "Neural Rendering"
+  - "Video Codec"
 links:
   paper: "https://doi.org/10.1145/3687935"
   project: "https://authoritywang.github.io/v3/"

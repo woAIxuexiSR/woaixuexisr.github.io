@@ -1,21 +1,21 @@
 ---
 title: "Compositional Neural Textures"
 authors:
-  - Peihan Tu
-  - Li-Yi Wei
-  - Matthias Zwicker
-category: Neural & Generative
-track: Conference
-source: author-page
+  - "Peihan Tu"
+  - "Li-Yi Wei"
+  - "Matthias Zwicker"
+category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - University of Maryland
-  - Adobe Research
+  - "University of Maryland"
+  - "Adobe Research"
 tags:
-  - Texture Editing
-  - Compositional Representation
-  - Unsupervised Learning
-  - 3D Gaussian Splatting
-  - Autoencoder
+  - "Texture Editing"
+  - "Compositional Representation"
+  - "Unsupervised Learning"
+  - "3D Gaussian Splatting"
+  - "Autoencoder"
 links:
   paper: "https://doi.org/10.1145/3680528.3687561"
 ---

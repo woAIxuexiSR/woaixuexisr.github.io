@@ -1,27 +1,27 @@
 ---
 title: "SPARK: Self-supervised Personalized Real-time Monocular Face Capture"
 authors:
-  - Kelian Baert
-  - Shrisha Bharadwaj
-  - Fabien Castan
-  - Benoit Maujean
-  - Marc Christie
-  - Victoria Fernández Abrevaya
-  - Adnane Boukhayma
-track: "Conference"
-source: arxiv
+  - "Kelian Baert"
+  - "Shrisha Bharadwaj"
+  - "Fabien Castan"
+  - "Benoit Maujean"
+  - "Marc Christie"
+  - "Victoria Fernández Abrevaya"
+  - "Adnane Boukhayma"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Technicolor Group
-  - University Rennes
-  - Max Planck Institute for Intelligent Systems
-  - Inria
+  - "Technicolor Group"
+  - "University Rennes"
+  - "Max Planck Institute for Intelligent Systems"
+  - "Inria"
 tags:
-  - Face Capture
-  - Face Reconstruction
-  - Personalized Avatar
-  - Monocular
-  - Self-Supervised Learning
+  - "Face Capture"
+  - "Face Reconstruction"
+  - "Personalized Avatar"
+  - "Monocular"
+  - "Self-Supervised Learning"
 links:
   paper: "https://doi.org/10.1145/3680528.3687704"
 ---

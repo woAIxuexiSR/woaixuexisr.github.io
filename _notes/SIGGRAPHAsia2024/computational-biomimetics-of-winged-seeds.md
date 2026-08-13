@@ -1,11 +1,26 @@
 ---
 title: "Computational Biomimetics of Winged Seeds"
-authors: [Qiqin Le, Jiamu Bu, Yanke Qu, Bo Zhu, Tao Du]
-track: "Journal"
-source: author-page
+authors:
+  - "Qiqin Le"
+  - "Jiamu Bu"
+  - "Yanke Qu"
+  - "Bo Zhu"
+  - "Tao Du"
 category: "Animation & Simulation"
-institution: [Shanghai Qi Zhi Institute, Tsinghua University, Peking University, Georgia Institute of Technology]
-tags: [computational-design, biomimetics, fluid-solid-coupling, shape-space, gradient-free-optimization, LBM]
+track: "Journal"
+source: "author-page"
+institution:
+  - "Shanghai Qi Zhi Institute"
+  - "Tsinghua University"
+  - "Peking University"
+  - "Georgia Institute of Technology"
+tags:
+  - "computational-design"
+  - "biomimetics"
+  - "fluid-solid-coupling"
+  - "shape-space"
+  - "gradient-free-optimization"
+  - "LBM"
 links:
   paper: "https://doi.org/10.1145/3687899"
 ---

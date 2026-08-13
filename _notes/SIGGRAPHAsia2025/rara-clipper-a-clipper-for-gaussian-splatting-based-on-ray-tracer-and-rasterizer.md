@@ -1,23 +1,22 @@
 ---
 title: "RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer"
 authors:
-  - Da Li
-  - Donggang Jia
-  - Yousef Rajeh
-  - Dominik Engel
-  - Ivan Viola
-category: Rendering
+  - "Da Li"
+  - "Donggang Jia"
+  - "Yousef Rajeh"
+  - "Dominik Engel"
+  - "Ivan Viola"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution:
-  - King Abdullah University of Science and Technology
+source: "arxiv"
+institution: "King Abdullah University of Science and Technology"
 tags:
-  - 3D Gaussian Splatting
-  - Ray Tracing
-  - Rasterization
-  - Clipping
-  - Real-Time Rendering
-  - Volume Visualization
+  - "3D Gaussian Splatting"
+  - "Ray Tracing"
+  - "Rasterization"
+  - "Clipping"
+  - "Real-Time Rendering"
+  - "Volume Visualization"
 links:
   paper: "https://doi.org/10.1145/3757377.3763982"
 ---

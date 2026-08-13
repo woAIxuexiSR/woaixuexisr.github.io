@@ -1,22 +1,22 @@
 ---
 title: "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models"
 authors:
-  - Geonung Kim
-  - Janghyeok Han
-  - Sunghyun Cho
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: POSTECH
+  - "Geonung Kim"
+  - "Janghyeok Han"
+  - "Sunghyun Cho"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "POSTECH"
 tags:
-  - 3D Scene Generation
-  - Video Diffusion Model
-  - Image Diffusion Model
-  - Camera Control
-  - Novel View Synthesis
+  - "3D Scene Generation"
+  - "Video Diffusion Model"
+  - "Image Diffusion Model"
+  - "Camera Control"
+  - "Novel View Synthesis"
 links:
-  paper: https://doi.org/10.1145/3757377.3763871
-  code: https://github.com/KIMGEONUNG/VideoFrom3D
+  paper: "https://doi.org/10.1145/3757377.3763871"
+  code: "https://github.com/KIMGEONUNG/VideoFrom3D"
 ---
 
 ## 一句话总结

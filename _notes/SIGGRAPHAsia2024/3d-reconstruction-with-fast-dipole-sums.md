@@ -1,21 +1,20 @@
 ---
 title: "3D Reconstruction with Fast Dipole Sums"
 authors:
-  - Hanyu Chen
-  - Bailey Miller
-  - Ioannis Gkioulekas
-track: "Journal"
-source: arxiv
+  - "Hanyu Chen"
+  - "Bailey Miller"
+  - "Ioannis Gkioulekas"
 category: "Reconstruction"
-institution:
-  - Carnegie Mellon University
+track: "Journal"
+source: "arxiv"
+institution: "Carnegie Mellon University"
 tags:
-  - Multi View 3D Reconstruction
-  - Point Cloud Representation
-  - Winding Number
-  - Inverse Rendering
-  - Ray Tracing
-  - Barnes Hut Summation
+  - "Multi View 3D Reconstruction"
+  - "Point Cloud Representation"
+  - "Winding Number"
+  - "Inverse Rendering"
+  - "Ray Tracing"
+  - "Barnes Hut Summation"
 links:
   paper: "https://doi.org/10.1145/3687914"
   code: "https://github.com/cmu-ci-lab/fast_dipole_sums"

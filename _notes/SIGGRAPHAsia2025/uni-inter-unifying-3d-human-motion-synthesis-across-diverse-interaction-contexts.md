@@ -1,26 +1,26 @@
 ---
 title: "Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts"
 authors:
-  - Sheng Liu
-  - Yuanzhi Liang
-  - Jiepeng Wang
-  - Sidan Du
-  - Chi Zhang
-  - Xuelong Li
+  - "Sheng Liu"
+  - "Yuanzhi Liang"
+  - "Jiepeng Wang"
+  - "Sidan Du"
+  - "Chi Zhang"
+  - "Xuelong Li"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Nanjing University
-  - Institute of Artificial Intelligence, China Telecom (TeleAI)
+  - "Nanjing University"
+  - "Institute of Artificial Intelligence, China Telecom (TeleAI)"
 tags:
-  - Human Motion Synthesis
-  - Human Object Interaction
-  - Human Scene Interaction
-  - Human Human Interaction
-  - Diffusion Model
-  - Volumetric Representation
-  - Occupancy Grid
+  - "Human Motion Synthesis"
+  - "Human Object Interaction"
+  - "Human Scene Interaction"
+  - "Human Human Interaction"
+  - "Diffusion Model"
+  - "Volumetric Representation"
+  - "Occupancy Grid"
 links:
   paper: "https://doi.org/10.1145/3757377.3763954"
 ---

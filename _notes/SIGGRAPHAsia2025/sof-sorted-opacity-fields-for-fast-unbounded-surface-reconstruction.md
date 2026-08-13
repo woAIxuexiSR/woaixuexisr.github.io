@@ -1,26 +1,26 @@
 ---
 title: "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction"
 authors:
-  - Lukas Radl
-  - Felix Windisch
-  - Thomas Deixelberger
-  - Jozef Hladky
-  - Michael Steiner
-  - Dieter Schmalstieg
-  - Markus Steinberger
-category: Reconstruction
+  - "Lukas Radl"
+  - "Felix Windisch"
+  - "Thomas Deixelberger"
+  - "Jozef Hladky"
+  - "Michael Steiner"
+  - "Dieter Schmalstieg"
+  - "Markus Steinberger"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: Graz University of Technology
+source: "arxiv"
+institution: "Graz University of Technology"
 tags:
-  - 3D Gaussian Splatting
-  - Surface Reconstruction
-  - Marching Tetrahedra
-  - Opacity Fields
-  - Novel View Synthesis
+  - "3D Gaussian Splatting"
+  - "Surface Reconstruction"
+  - "Marching Tetrahedra"
+  - "Opacity Fields"
+  - "Novel View Synthesis"
 links:
-  paper: https://doi.org/10.1145/3757377.3763933
-  code: https://github.com/r4dl/SOF
+  paper: "https://doi.org/10.1145/3757377.3763933"
+  code: "https://github.com/r4dl/SOF"
 ---
 
 ## 一句话总结

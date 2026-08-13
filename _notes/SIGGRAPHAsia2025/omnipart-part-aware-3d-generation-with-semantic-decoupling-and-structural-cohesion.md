@@ -1,29 +1,29 @@
 ---
 title: "OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion"
 authors:
-  - Yunhan Yang
-  - Yufan Zhou
-  - Yuan-Chen Guo
-  - Zi-Xin Zou
-  - Yukun Huang
-  - Ying-Tian Liu
-  - Hao Xu
-  - Ding Liang
-  - Yan-Pei Cao
-  - Xihui Liu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: The University of Hong Kong
+  - "Yunhan Yang"
+  - "Yufan Zhou"
+  - "Yuan-Chen Guo"
+  - "Zi-Xin Zou"
+  - "Yukun Huang"
+  - "Ying-Tian Liu"
+  - "Hao Xu"
+  - "Ding Liang"
+  - "Yan-Pei Cao"
+  - "Xihui Liu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "The University of Hong Kong"
 tags:
-  - 3D Generation
-  - Part-Aware Generation
-  - Diffusion Model
-  - Autoregressive Model
-  - Rectified Flow
+  - "3D Generation"
+  - "Part-Aware Generation"
+  - "Diffusion Model"
+  - "Autoregressive Model"
+  - "Rectified Flow"
 links:
-  paper: https://doi.org/10.1145/3757377.3763872
-  project: https://omnipart.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763872"
+  project: "https://omnipart.github.io/"
 ---
 
 ## 一句话总结

@@ -1,22 +1,21 @@
 ---
 title: "FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion"
 authors:
-  - Chuhao Chen
-  - Isabella Liu
-  - Xinyue Wei
-  - Hao Su
-  - Minghua Liu
+  - "Chuhao Chen"
+  - "Isabella Liu"
+  - "Xinyue Wei"
+  - "Hao Su"
+  - "Minghua Liu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - University of California San Diego
+source: "arxiv"
+institution: "University of California San Diego"
 tags:
-  - Articulated Objects
-  - 3D Generation
-  - Diffusion Model
-  - Score Distillation Sampling
-  - Training-Free
+  - "Articulated Objects"
+  - "3D Generation"
+  - "Diffusion Model"
+  - "Score Distillation Sampling"
+  - "Training-Free"
 links:
   paper: "https://doi.org/10.1145/3757377.3763845"
   project: "https://czzzzh.github.io/FreeArt3D"

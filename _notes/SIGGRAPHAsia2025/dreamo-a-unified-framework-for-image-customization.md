@@ -1,37 +1,37 @@
 ---
 title: "DreamO: A Unified Framework for Image Customization"
 authors:
-  - Chong Mou
-  - Yanze Wu
-  - Wenxu Wu
-  - Zinan Guo
-  - Pengze Zhang
-  - Yufeng Cheng
-  - Yiming Luo
-  - Fei Ding
-  - Shiwen Zhang
-  - Xinghui Li
-  - Mengtian Li
-  - Mingcong Liu
-  - Yunsheng Jiang
-  - Shaojin Wu
-  - Songtao Zhao
-  - Jian Zhang
-  - Qian He
-  - Xinglong Wu
+  - "Chong Mou"
+  - "Yanze Wu"
+  - "Wenxu Wu"
+  - "Zinan Guo"
+  - "Pengze Zhang"
+  - "Yufeng Cheng"
+  - "Yiming Luo"
+  - "Fei Ding"
+  - "Shiwen Zhang"
+  - "Xinghui Li"
+  - "Mengtian Li"
+  - "Mingcong Liu"
+  - "Yunsheng Jiang"
+  - "Shaojin Wu"
+  - "Songtao Zhao"
+  - "Jian Zhang"
+  - "Qian He"
+  - "Xinglong Wu"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "ByteDance Intelligent Creation Team; Peking University"
 tags:
-  - Diffusion Model
-  - Image Customization
-  - Diffusion Transformer
-  - Feature Routing
-  - Identity Preservation
-  - Style Transfer
-  - Virtual Try On
-  - LoRA
+  - "Diffusion Model"
+  - "Image Customization"
+  - "Diffusion Transformer"
+  - "Feature Routing"
+  - "Identity Preservation"
+  - "Style Transfer"
+  - "Virtual Try On"
+  - "LoRA"
 links:
   paper: "https://doi.org/10.1145/3757377.3763956"
   project: "https://mc-e.github.io/project/DreamO"

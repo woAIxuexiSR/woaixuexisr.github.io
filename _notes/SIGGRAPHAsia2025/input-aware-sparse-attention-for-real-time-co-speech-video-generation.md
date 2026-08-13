@@ -1,21 +1,21 @@
 ---
 title: "Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation"
 authors:
-  - Beijia Lu
-  - Ziyi Chen
-  - Jing Xiao
-  - Jun-Yan Zhu
-category: Neural & Generative
+  - "Beijia Lu"
+  - "Ziyi Chen"
+  - "Jing Xiao"
+  - "Jun-Yan Zhu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Carnegie Mellon University
+source: "arxiv"
+institution: "Carnegie Mellon University"
 tags:
-  - Co-Speech Video Generation
-  - Diffusion Distillation
-  - Sparse Attention
-  - Real-Time Generation
-  - Human Pose
-  - Lip Synchronization
+  - "Co-Speech Video Generation"
+  - "Diffusion Distillation"
+  - "Sparse Attention"
+  - "Real-Time Generation"
+  - "Human Pose"
+  - "Lip Synchronization"
 links:
   paper: "https://doi.org/10.1145/3757377.3763831"
   project: "https://beijia11.github.io/IASA"

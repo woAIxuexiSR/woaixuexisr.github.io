@@ -1,32 +1,32 @@
 ---
 title: "3DGH: 3D Head Generation with Composable Hair and Face"
 authors:
-  - Chengan He
-  - Junxuan Li
-  - Tobias Kirschstein
-  - Artem Sevastopolsky
-  - Shunsuke Saito
-  - Qingyang Tan
-  - Javier Romero
-  - Chen Cao
-  - Holly E. Rushmeier
-  - Giljoo Nam
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: Yale University
+  - "Chengan He"
+  - "Junxuan Li"
+  - "Tobias Kirschstein"
+  - "Artem Sevastopolsky"
+  - "Shunsuke Saito"
+  - "Qingyang Tan"
+  - "Javier Romero"
+  - "Chen Cao"
+  - "Holly E. Rushmeier"
+  - "Giljoo Nam"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "Yale University"
 tags:
-  - 3D Head Generation
-  - 3D GAN
-  - 3D Gaussian Splatting
-  - Hair Modeling
-  - Facial Modeling
-  - Composable Representation
-  - Hairstyle Editing
-  - Cross-Attention
+  - "3D Head Generation"
+  - "3D GAN"
+  - "3D Gaussian Splatting"
+  - "Hair Modeling"
+  - "Facial Modeling"
+  - "Composable Representation"
+  - "Hairstyle Editing"
+  - "Cross-Attention"
 links:
-  paper: https://doi.org/10.1145/3731211
-  project: https://c-he.github.io/projects/3dgh/
+  paper: "https://doi.org/10.1145/3731211"
+  project: "https://c-he.github.io/projects/3dgh/"
 ---
 
 ## 一句话总结

@@ -1,21 +1,21 @@
 ---
 title: "SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing"
 authors:
-  - Zhiyuan Zhang
-  - Dongdong Chen
-  - Jing Liao
-track: "Journal"
-source: arxiv
+  - "Zhiyuan Zhang"
+  - "Dongdong Chen"
+  - "Jing Liao"
 category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - City University of Hong Kong
-  - Microsoft
+  - "City University of Hong Kong"
+  - "Microsoft"
 tags:
-  - Image Editing
-  - Scene Graph
-  - Diffusion Model
-  - Large Language Model
-  - Attention Modulation
+  - "Image Editing"
+  - "Scene Graph"
+  - "Diffusion Model"
+  - "Large Language Model"
+  - "Attention Modulation"
 links:
   paper: "https://doi.org/10.1145/3687957"
   project: "https://bestzzhang.github.io/SGEdit"

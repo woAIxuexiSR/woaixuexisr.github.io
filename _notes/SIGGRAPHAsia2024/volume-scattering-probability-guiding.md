@@ -1,24 +1,24 @@
 ---
 title: "Volume Scattering Probability Guiding"
 authors:
-  - Kehan Xu
-  - Sebastian Herholz
-  - Marco Manzi
-  - Marios Papas
-  - Markus Gross
-track: "Journal"
-source: author-page
+  - "Kehan Xu"
+  - "Sebastian Herholz"
+  - "Marco Manzi"
+  - "Marios Papas"
+  - "Markus Gross"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - ETH Zürich
-  - Intel Corporation
-  - DisneyResearch|Studios
+  - "ETH Zürich"
+  - "Intel Corporation"
+  - "DisneyResearch|Studios"
 tags:
-  - Volume Rendering
-  - Monte Carlo
-  - Importance Sampling
-  - Path Guiding
-  - Scattering Probability
+  - "Volume Rendering"
+  - "Monte Carlo"
+  - "Importance Sampling"
+  - "Path Guiding"
+  - "Scattering Probability"
 links:
   paper: "https://doi.org/10.1145/3687982"
 ---

@@ -1,21 +1,21 @@
 ---
 title: "Spherical Lighting with Spherical Harmonics Hessian"
 authors:
-  - Kei Iwasaki
-  - Yoshinori Dobashi
+  - "Kei Iwasaki"
+  - "Yoshinori Dobashi"
+category: "Rendering"
 track: "Conference"
-source: author-page
-category: Rendering
+source: "author-page"
 institution:
-  - Saitama University
-  - Hokkaido University
+  - "Saitama University"
+  - "Hokkaido University"
 tags:
-  - Spherical Harmonics
-  - Solid Spherical Harmonics
-  - SH Hessian
-  - Precomputed Radiance Transfer
-  - Adaptive Grid
-  - Spherical Lights
+  - "Spherical Harmonics"
+  - "Solid Spherical Harmonics"
+  - "SH Hessian"
+  - "Precomputed Radiance Transfer"
+  - "Adaptive Grid"
+  - "Spherical Lights"
 links:
   paper: "https://doi.org/10.1145/3721238.3730689"
   project: "https://visualcomputing-lab.github.io/projects_/sig2025/"

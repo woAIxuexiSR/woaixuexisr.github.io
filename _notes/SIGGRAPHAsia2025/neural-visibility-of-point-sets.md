@@ -1,24 +1,24 @@
 ---
 title: "Neural Visibility of Point Sets"
 authors:
-  - Jun-Hao Wang
-  - Yi-Yang Tian
-  - Baoquan Chen
-  - Peng-Shuai Wang
-category: Rendering
+  - "Jun-Hao Wang"
+  - "Yi-Yang Tian"
+  - "Baoquan Chen"
+  - "Peng-Shuai Wang"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Peking University
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Point Cloud
-  - Visibility Determination
-  - Octree
-  - Neural Networks
-  - Real-Time Rendering
+  - "Point Cloud"
+  - "Visibility Determination"
+  - "Octree"
+  - "Neural Networks"
+  - "Real-Time Rendering"
 links:
-  paper: https://doi.org/10.1145/3757377.3763869
-  project: https://github.com/octree-nn/neural-visibility
-  code: https://github.com/octree-nn/neural-visibility
+  paper: "https://doi.org/10.1145/3757377.3763869"
+  project: "https://github.com/octree-nn/neural-visibility"
+  code: "https://github.com/octree-nn/neural-visibility"
 ---
 
 ## 一句话总结

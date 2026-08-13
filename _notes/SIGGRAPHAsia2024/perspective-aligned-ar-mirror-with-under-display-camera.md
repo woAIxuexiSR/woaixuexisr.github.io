@@ -1,26 +1,26 @@
 ---
 title: "Perspective-Aligned AR Mirror with Under-Display Camera"
 authors:
-  - Jian Wang
-  - Sizhuo Ma
-  - Karl Bayer
-  - Yi Zhang
-  - Peihao Wang
-  - Bing Zhou
-  - Shree K. Nayar
-  - Gurunandan Krishnan
-track: "Journal"
-source: author-page
+  - "Jian Wang"
+  - "Sizhuo Ma"
+  - "Karl Bayer"
+  - "Yi Zhang"
+  - "Peihao Wang"
+  - "Bing Zhou"
+  - "Shree K. Nayar"
+  - "Gurunandan Krishnan"
 category: "HCI & XR"
+track: "Journal"
+source: "author-page"
 institution:
-  - Snap Inc.
-  - Columbia University
+  - "Snap Inc."
+  - "Columbia University"
 tags:
-  - AR Mirror
-  - Under Display Camera
-  - Image Restoration
-  - Perspective Correction
-  - User Experience
+  - "AR Mirror"
+  - "Under Display Camera"
+  - "Image Restoration"
+  - "Perspective Correction"
+  - "User Experience"
 links:
   paper: "https://doi.org/10.1145/3687995"
   project: "https://perspective-armirror.github.io/"

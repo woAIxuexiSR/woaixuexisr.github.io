@@ -1,25 +1,24 @@
 ---
 title: "Kernel Predicting Neural Shadow Maps"
 authors:
-  - Xuejun Hu
-  - Jinfan Lu
-  - Kun Xu
+  - "Xuejun Hu"
+  - "Jinfan Lu"
+  - "Kun Xu"
+category: "Rendering"
 track: "Conference"
-source: author-page
-category: Rendering
-institution:
-  - Tsinghua University
+source: "author-page"
+institution: "Tsinghua University"
 tags:
-  - Shadow Mapping
-  - Kernel Prediction
-  - Soft Shadows
-  - Real-Time Rendering
-  - Neural Networks
-  - Screen-Space Filtering
+  - "Shadow Mapping"
+  - "Kernel Prediction"
+  - "Soft Shadows"
+  - "Real-Time Rendering"
+  - "Neural Networks"
+  - "Screen-Space Filtering"
 links:
   paper: "https://doi.org/10.1145/3721238.3730645"
-  code: "https://github.com/Hoosus/KPNSM"
   project: "https://hoosus.github.io/kpnsm"
+  code: "https://github.com/Hoosus/KPNSM"
 ---
 
 ## 一句话总结

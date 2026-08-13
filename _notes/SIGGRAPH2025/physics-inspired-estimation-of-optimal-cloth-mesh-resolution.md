@@ -1,24 +1,24 @@
 ---
 title: "Physics-inspired Estimation of Optimal Cloth Mesh Resolution"
 authors:
-  - Diyang Zhang
-  - Zhendong Wang
-  - Zegao Liu
-  - Xinming Pei
-  - Weiwei Xu
-  - Huamin Wang
-category: Animation & Simulation
+  - "Diyang Zhang"
+  - "Zhendong Wang"
+  - "Zegao Liu"
+  - "Xinming Pei"
+  - "Weiwei Xu"
+  - "Huamin Wang"
+category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Style3D Research
-  - Zhejiang University
+  - "Style3D Research"
+  - "Zhejiang University"
 tags:
-  - Cloth Simulation
-  - Mesh Resolution
-  - Wrinkle Wavelength
-  - Material Stiffness
-  - Adaptive Remeshing
+  - "Cloth Simulation"
+  - "Mesh Resolution"
+  - "Wrinkle Wavelength"
+  - "Material Stiffness"
+  - "Adaptive Remeshing"
 links:
   paper: "https://doi.org/10.1145/3721238.3730619"
   project: "https://wanghmin.github.io/publication/zhang-2025-pie/"

@@ -1,25 +1,24 @@
 ---
 title: "Dynamic Concepts Personalization from Single Videos"
 authors:
-  - Rameen Abdal
-  - Or Patashnik
-  - Ivan Skorokhodov
-  - Willi Menapace
-  - Aliaksandr Siarohin
-  - Sergey Tulyakov
-  - Daniel Cohen-Or
-  - Kfir Aberman
+  - "Rameen Abdal"
+  - "Or Patashnik"
+  - "Ivan Skorokhodov"
+  - "Willi Menapace"
+  - "Aliaksandr Siarohin"
+  - "Sergey Tulyakov"
+  - "Daniel Cohen-Or"
+  - "Kfir Aberman"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution:
-  - Snap Research
+source: "arxiv"
+institution: "Snap Research"
 tags:
-  - Video Generation
-  - Diffusion Transformer
-  - Personalization
-  - LoRA
-  - Motion Modeling
+  - "Video Generation"
+  - "Diffusion Transformer"
+  - "Personalization"
+  - "LoRA"
+  - "Motion Modeling"
 links:
   paper: "https://doi.org/10.1145/3721238.3730644"
 ---

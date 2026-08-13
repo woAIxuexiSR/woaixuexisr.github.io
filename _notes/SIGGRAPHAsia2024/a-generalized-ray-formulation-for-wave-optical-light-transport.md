@@ -1,26 +1,26 @@
 ---
 title: "A Generalized Ray Formulation For Wave-Optical Light Transport"
 authors:
-  - Shlomi Steinberg
-  - Ravi Ramamoorthi
-  - Benedikt Bitterli
-  - Eugene d'Eon
-  - Ling-Qi Yan
-  - Matt Pharr
-track: "Journal"
-source: arxiv
+  - "Shlomi Steinberg"
+  - "Ravi Ramamoorthi"
+  - "Benedikt Bitterli"
+  - "Eugene d'Eon"
+  - "Ling-Qi Yan"
+  - "Matt Pharr"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - NVIDIA
-  - University of California
-  - University of Waterloo
+  - "NVIDIA"
+  - "University of California"
+  - "University of Waterloo"
 tags:
-  - Wave Optics
-  - Light Transport
-  - Path Tracing
-  - Coherence
-  - Diffraction
-  - Physical Optics Rendering
+  - "Wave Optics"
+  - "Light Transport"
+  - "Path Tracing"
+  - "Coherence"
+  - "Diffraction"
+  - "Physical Optics Rendering"
 links:
   paper: "https://doi.org/10.1145/3687902"
 ---

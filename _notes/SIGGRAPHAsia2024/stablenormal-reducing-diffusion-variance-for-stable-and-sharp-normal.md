@@ -1,28 +1,28 @@
 ---
 title: "StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal"
 authors:
-  - Chongjie Ye
-  - Lingteng Qiu
-  - Xiaodong Gu
-  - Qi Zuo
-  - Yushuang Wu
-  - Zilong Dong
-  - Liefeng Bo
-  - Yuliang Xiu
-  - Xiaoguang Han
-track: "Journal"
-source: author-page
+  - "Chongjie Ye"
+  - "Lingteng Qiu"
+  - "Xiaodong Gu"
+  - "Qi Zuo"
+  - "Yushuang Wu"
+  - "Zilong Dong"
+  - "Liefeng Bo"
+  - "Yuliang Xiu"
+  - "Xiaoguang Han"
 category: "Reconstruction"
+track: "Journal"
+source: "author-page"
 institution:
-  - The Chinese University of Hong Kong, Shenzhen
-  - Alibaba Group
-  - Max Planck Institute for Intelligent Systems
+  - "The Chinese University of Hong Kong, Shenzhen"
+  - "Alibaba Group"
+  - "Max Planck Institute for Intelligent Systems"
 tags:
-  - Normal Estimation
-  - Diffusion Model
-  - Monocular Geometry
-  - Surface Reconstruction
-  - Variance Reduction
+  - "Normal Estimation"
+  - "Diffusion Model"
+  - "Monocular Geometry"
+  - "Surface Reconstruction"
+  - "Variance Reduction"
 links:
   paper: "https://doi.org/10.1145/3687971"
   project: "https://stable-x.github.io/StableNormal"

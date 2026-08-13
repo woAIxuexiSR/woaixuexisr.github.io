@@ -1,27 +1,27 @@
 ---
-title: Stochastic Preconditioning for Neural Field Optimization
+title: "Stochastic Preconditioning for Neural Field Optimization"
 authors:
-  - Selena Ling
-  - Merlin Nimier-David
-  - Alec Jacobson
-  - Nicholas Sharp
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: University of Toronto
+  - "Selena Ling"
+  - "Merlin Nimier-David"
+  - "Alec Jacobson"
+  - "Nicholas Sharp"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "University of Toronto"
 tags:
-  - Neural Fields
-  - Optimization
-  - Stochastic Smoothing
-  - Preconditioning
-  - Surface Reconstruction
-  - NeRF
-  - Signed Distance Function
-  - Coarse-to-Fine
+  - "Neural Fields"
+  - "Optimization"
+  - "Stochastic Smoothing"
+  - "Preconditioning"
+  - "Surface Reconstruction"
+  - "NeRF"
+  - "Signed Distance Function"
+  - "Coarse-to-Fine"
 links:
-  paper: https://doi.org/10.1145/3731161
-  project: https://research.nvidia.com/labs/toronto-ai/stochastic-preconditioning/
-  arxiv: https://arxiv.org/abs/2505.20473
+  paper: "https://doi.org/10.1145/3731161"
+  project: "https://research.nvidia.com/labs/toronto-ai/stochastic-preconditioning/"
+  arxiv: "https://arxiv.org/abs/2505.20473"
 ---
 
 ## 一句话总结

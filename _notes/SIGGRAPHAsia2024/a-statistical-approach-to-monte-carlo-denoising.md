@@ -1,23 +1,23 @@
 ---
 title: "A Statistical Approach to Monte Carlo Denoising"
 authors:
-  - Hiroyuki Sakai
-  - Christian Freude
-  - Thomas Auzinger
-  - David Hahn
-  - Michael Wimmer
+  - "Hiroyuki Sakai"
+  - "Christian Freude"
+  - "Thomas Auzinger"
+  - "David Hahn"
+  - "Michael Wimmer"
+category: "Rendering"
 track: "Conference"
-source: author-page
-category: Rendering
+source: "author-page"
 institution:
-  - TU Wien
-  - Institute of Science and Technology Austria
+  - "TU Wien"
+  - "Institute of Science and Technology Austria"
 tags:
-  - Monte Carlo Rendering
-  - Denoising
-  - Path Tracing
-  - Image Filtering
-  - Statistics
+  - "Monte Carlo Rendering"
+  - "Denoising"
+  - "Path Tracing"
+  - "Image Filtering"
+  - "Statistics"
 links:
   paper: "https://doi.org/10.1145/3680528.3687591"
   project: "https://www.cg.tuwien.ac.at/StatMC"

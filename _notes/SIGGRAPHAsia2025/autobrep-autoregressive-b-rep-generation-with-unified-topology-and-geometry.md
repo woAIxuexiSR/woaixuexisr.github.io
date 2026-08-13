@@ -1,25 +1,25 @@
 ---
 title: "AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry"
 authors:
-  - Xiang Xu
-  - Pradeep Kumar Jayaraman
-  - Joseph G. Lambourne
-  - Yilin Liu
-  - Durvesh Malpure
-  - Pete Meltzer
-category: Neural & Generative
+  - "Xiang Xu"
+  - "Pradeep Kumar Jayaraman"
+  - "Joseph G. Lambourne"
+  - "Yilin Liu"
+  - "Durvesh Malpure"
+  - "Pete Meltzer"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Autodesk Research
+source: "arxiv"
+institution: "Autodesk Research"
 tags:
-  - B-Rep Generation
-  - CAD Modeling
-  - Autoregressive Transformer
-  - Discrete Tokenization
-  - Topology Encoding
+  - "B-Rep Generation"
+  - "CAD Modeling"
+  - "Autoregressive Transformer"
+  - "Discrete Tokenization"
+  - "Topology Encoding"
 links:
-  paper: https://doi.org/10.1145/3757377.3763814
-  code: https://github.com/AutodeskAILab/AutoBrep
+  paper: "https://doi.org/10.1145/3757377.3763814"
+  code: "https://github.com/AutodeskAILab/AutoBrep"
 ---
 
 ## 一句话总结

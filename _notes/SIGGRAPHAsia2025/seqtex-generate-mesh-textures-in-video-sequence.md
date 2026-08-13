@@ -1,26 +1,26 @@
 ---
 title: "SeqTex: Generate Mesh Textures in Video Sequence"
 authors:
-  - Ze Yuan
-  - Xin Yu
-  - Yangtian Sun
-  - Yuan-Chen Guo
-  - Yan-Pei Cao
-  - Ding Liang
-  - Xiaojuan Qi
-category: Neural & Generative
+  - "Ze Yuan"
+  - "Xin Yu"
+  - "Yangtian Sun"
+  - "Yuan-Chen Guo"
+  - "Yan-Pei Cao"
+  - "Ding Liang"
+  - "Xiaojuan Qi"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: HKU
+source: "arxiv"
+institution: "HKU"
 tags:
-  - Texture Generation
-  - Video Diffusion Model
-  - UV Mapping
-  - 3D Generation
-  - Geometry-Aware Attention
+  - "Texture Generation"
+  - "Video Diffusion Model"
+  - "UV Mapping"
+  - "3D Generation"
+  - "Geometry-Aware Attention"
 links:
-  paper: https://doi.org/10.1145/3757377.3763863
-  project: https://yuanze1024.github.io/SeqTex/
+  paper: "https://doi.org/10.1145/3757377.3763863"
+  project: "https://yuanze1024.github.io/SeqTex/"
 ---
 
 ## 一句话总结

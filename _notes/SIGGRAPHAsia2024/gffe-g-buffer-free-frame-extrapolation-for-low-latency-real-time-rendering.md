@@ -1,25 +1,25 @@
 ---
 title: "GFFE: G-buffer Free Frame Extrapolation for Low-latency Real-time Rendering"
 authors:
-  - Songyin Wu
-  - Deepak Vembar
-  - Anton Sochenov
-  - Selvakumar Panneer
-  - Sungye Kim
-  - Anton Kaplanyan
-  - Ling-Qi Yan
-track: "Journal"
-source: author-page
+  - "Songyin Wu"
+  - "Deepak Vembar"
+  - "Anton Sochenov"
+  - "Selvakumar Panneer"
+  - "Sungye Kim"
+  - "Anton Kaplanyan"
+  - "Ling-Qi Yan"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - University of California, Santa Barbara
-  - Intel Corporation
+  - "University of California, Santa Barbara"
+  - "Intel Corporation"
 tags:
-  - Frame Extrapolation
-  - Real-Time Rendering
-  - Frame Generation
-  - Low Latency
-  - Neural Network
+  - "Frame Extrapolation"
+  - "Real-Time Rendering"
+  - "Frame Generation"
+  - "Low Latency"
+  - "Neural Network"
 links:
   paper: "https://doi.org/10.1145/3687923"
 ---

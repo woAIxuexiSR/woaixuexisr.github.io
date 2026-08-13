@@ -1,22 +1,22 @@
 ---
-title: Style Customization of Text-to-Vector Generation with Image Diffusion Priors
+title: "Style Customization of Text-to-Vector Generation with Image Diffusion Priors"
 authors:
-  - Peiying Zhang
-  - Nanxuan Zhao
-  - Jing Liao
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: City University of Hong Kong
+  - "Peiying Zhang"
+  - "Nanxuan Zhao"
+  - "Jing Liao"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "City University of Hong Kong"
 tags:
-  - Vector Graphics
-  - Diffusion Model
-  - Style Customization
-  - Text-to-Vector Generation
-  - Image Prior
+  - "Vector Graphics"
+  - "Diffusion Model"
+  - "Style Customization"
+  - "Text-to-Vector Generation"
+  - "Image Prior"
 links:
-  paper: https://doi.org/10.1145/3721238.3730707
-  project: https://customsvg.github.io
+  paper: "https://doi.org/10.1145/3721238.3730707"
+  project: "https://customsvg.github.io"
 ---
 
 ## 一句话总结

@@ -1,29 +1,29 @@
 ---
 title: "Volumetric Homogenization for Knitwear Simulation"
 authors:
-  - Chun Yuan
-  - Haoyang Shi
-  - Lei Lan
-  - Yuxing Qiu
-  - Cem Yuksel
-  - Huamin Wang
-  - Chenfanfu Jiang
-  - Kui Wu
-  - Yin Yang
-track: "Journal"
-source: arxiv
+  - "Chun Yuan"
+  - "Haoyang Shi"
+  - "Lei Lan"
+  - "Yuxing Qiu"
+  - "Cem Yuksel"
+  - "Huamin Wang"
+  - "Chenfanfu Jiang"
+  - "Kui Wu"
+  - "Yin Yang"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - University of Utah
-  - LightSpeed Studios
-  - Style3D Research
-  - UCLA
+  - "University of Utah"
+  - "LightSpeed Studios"
+  - "Style3D Research"
+  - "UCLA"
 tags:
-  - Knitwear Simulation
-  - Homogenization
-  - Projective Dynamics
-  - Inverse Material Optimization
-  - Cloth Simulation
+  - "Knitwear Simulation"
+  - "Homogenization"
+  - "Projective Dynamics"
+  - "Inverse Material Optimization"
+  - "Cloth Simulation"
 links:
   paper: "https://doi.org/10.1145/3687911"
 ---

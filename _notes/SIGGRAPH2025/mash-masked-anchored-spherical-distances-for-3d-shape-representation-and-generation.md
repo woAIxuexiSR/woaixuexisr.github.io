@@ -1,27 +1,27 @@
 ---
 title: "MASH: Masked Anchored SpHerical Distances for 3D Shape Representation and Generation"
 authors:
-  - Changhao Li
-  - Yu Xin
-  - Xiaowei Zhou
-  - Ariel Shamir
-  - Hao Zhang
-  - Ligang Liu
-  - Ruizhen Hu
-category: Geometry & Modeling
-track: Conference
-source: arxiv
-institution: University of Science and Technology of China
+  - "Changhao Li"
+  - "Yu Xin"
+  - "Xiaowei Zhou"
+  - "Ariel Shamir"
+  - "Hao Zhang"
+  - "Ligang Liu"
+  - "Ruizhen Hu"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - 3D Shape Representation
-  - Spherical Harmonics
-  - Differentiable Optimization
-  - Surface Reconstruction
-  - Shape Generation
-  - SDF
+  - "3D Shape Representation"
+  - "Spherical Harmonics"
+  - "Differentiable Optimization"
+  - "Surface Reconstruction"
+  - "Shape Generation"
+  - "SDF"
 links:
-  paper: https://doi.org/10.1145/3721238.3730610
-  project: https://chli.top/MASH
+  paper: "https://doi.org/10.1145/3721238.3730610"
+  project: "https://chli.top/MASH"
 ---
 
 ## 一句话总结

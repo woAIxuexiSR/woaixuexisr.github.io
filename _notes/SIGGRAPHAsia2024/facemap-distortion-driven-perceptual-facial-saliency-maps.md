@@ -1,25 +1,24 @@
 ---
 title: "FaceMap: Distortion-Driven Perceptual Facial Saliency Maps"
 authors:
-  - Zhongshi Jiang
-  - Kishore Venkateshan
-  - Giljoo Nam
-  - Meixu Chen
-  - Romain Bachy
-  - Jean-Charles Bazin
-  - Alexandre Chapiro
-track: "Conference"
-source: author-page
+  - "Zhongshi Jiang"
+  - "Kishore Venkateshan"
+  - "Giljoo Nam"
+  - "Meixu Chen"
+  - "Romain Bachy"
+  - "Jean-Charles Bazin"
+  - "Alexandre Chapiro"
 category: "Rendering"
-institution:
-  - Meta
+track: "Conference"
+source: "author-page"
+institution: "Meta"
 tags:
-  - Perception
-  - Psychophysics
-  - Facial Saliency
-  - Distortion Visibility
-  - Mesh Simplification
-  - 3D Gaussian Splatting
+  - "Perception"
+  - "Psychophysics"
+  - "Facial Saliency"
+  - "Distortion Visibility"
+  - "Mesh Simplification"
+  - "3D Gaussian Splatting"
 links:
   paper: "https://doi.org/10.1145/3680528.3687639"
 ---

@@ -1,24 +1,24 @@
 ---
 title: "GPU Coroutines for Flexible Splitting and Scheduling of Rendering Tasks"
 authors:
-  - Shaokun Zheng
-  - Xin Chen
-  - Zhong Shi
-  - Ling-Qi Yan
-  - Kun Xu
-track: "Journal"
-source: author-page
+  - "Shaokun Zheng"
+  - "Xin Chen"
+  - "Zhong Shi"
+  - "Ling-Qi Yan"
+  - "Kun Xu"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - Tsinghua University
-  - University of California, Santa Barbara
+  - "Tsinghua University"
+  - "University of California, Santa Barbara"
 tags:
-  - GPU
-  - Coroutine
-  - Path Tracing
-  - Kernel Scheduling
-  - Domain Specific Language
-  - Compiler Transformation
+  - "GPU"
+  - "Coroutine"
+  - "Path Tracing"
+  - "Kernel Scheduling"
+  - "Domain Specific Language"
+  - "Compiler Transformation"
 links:
   paper: "https://doi.org/10.1145/3687766"
 ---

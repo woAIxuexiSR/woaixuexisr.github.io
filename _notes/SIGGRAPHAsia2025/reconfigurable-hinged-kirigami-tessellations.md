@@ -1,21 +1,20 @@
 ---
 title: "Reconfigurable Hinged Kirigami Tessellations"
 authors:
-  - Aviv Segall
-  - Jing Ren
-  - Marcel Padilla
-  - Olga Sorkine-Hornung
+  - "Aviv Segall"
+  - "Jing Ren"
+  - "Marcel Padilla"
+  - "Olga Sorkine-Hornung"
 category: "Geometry & Modeling"
 track: "Conference"
-source: author-page
-institution:
-  - ETH Zurich
+source: "author-page"
+institution: "ETH Zurich"
 tags:
-  - Kirigami
-  - Computational Fabrication
-  - Inverse Design
-  - Metamaterials
-  - Surface Approximation
+  - "Kirigami"
+  - "Computational Fabrication"
+  - "Inverse Design"
+  - "Metamaterials"
+  - "Surface Approximation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763895"
   project: "https://igl.ethz.ch/projects/kirigami/"

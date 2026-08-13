@@ -1,18 +1,18 @@
 ---
 title: "SD-πXL: Generating Low-Resolution Quantized Imagery via Score Distillation"
 authors:
-  - Alexandre Binninger
-  - Olga Sorkine-Hornung
-track: "Conference"
-source: author-page
+  - "Alexandre Binninger"
+  - "Olga Sorkine-Hornung"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution: "ETH Zurich"
 tags:
-  - Pixel Art
-  - Score Distillation
-  - Diffusion Model
-  - Image Quantization
-  - Fabrication
+  - "Pixel Art"
+  - "Score Distillation"
+  - "Diffusion Model"
+  - "Image Quantization"
+  - "Fabrication"
 links:
   paper: "https://doi.org/10.1145/3680528.3687570"
   project: "https://igl.ethz.ch/projects/sd-pixl/"

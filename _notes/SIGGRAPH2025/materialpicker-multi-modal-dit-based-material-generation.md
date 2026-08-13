@@ -1,26 +1,26 @@
 ---
 title: "MaterialPicker: Multi-Modal DiT-Based Material Generation"
 authors:
-  - Xiaohe Ma
-  - Valentin Deschaintre
-  - Milos Hasan
-  - Fujun Luan
-  - Kun Zhou
-  - Hongzhi Wu
-  - Yiwei Hu
+  - "Xiaohe Ma"
+  - "Valentin Deschaintre"
+  - "Milos Hasan"
+  - "Fujun Luan"
+  - "Kun Zhou"
+  - "Hongzhi Wu"
+  - "Yiwei Hu"
 category: "Neural & Generative"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - Adobe Research
+  - "Zhejiang University"
+  - "Adobe Research"
 tags:
-  - Material Generation
-  - Diffusion Transformer
-  - PBR Material
-  - Text-to-Material
-  - Video Diffusion
-  - Appearance Capture
+  - "Material Generation"
+  - "Diffusion Transformer"
+  - "PBR Material"
+  - "Text-to-Material"
+  - "Video Diffusion"
+  - "Appearance Capture"
 links:
   paper: "https://doi.org/10.1145/3731199"
 ---

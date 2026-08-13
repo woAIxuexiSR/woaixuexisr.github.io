@@ -1,26 +1,26 @@
 ---
 title: "Autoregressive Generation of Static and Growing Trees"
 authors:
-  - Hanxiao Wang
-  - Biao Zhang
-  - Jonathan Klein
-  - Dominik L. Michels
-  - Dongming Yan
-  - Peter Wonka
+  - "Hanxiao Wang"
+  - "Biao Zhang"
+  - "Jonathan Klein"
+  - "Dominik L. Michels"
+  - "Dongming Yan"
+  - "Peter Wonka"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - KAUST
-  - CASIA
+  - "KAUST"
+  - "CASIA"
 tags:
-  - Tree Generation
-  - Autoregressive Model
-  - Hourglass Transformer
-  - 3D Generation
-  - Procedural Modeling
+  - "Tree Generation"
+  - "Autoregressive Model"
+  - "Hourglass Transformer"
+  - "3D Generation"
+  - "Procedural Modeling"
 links:
-  paper: https://doi.org/10.1145/3757377.3763818
+  paper: "https://doi.org/10.1145/3757377.3763818"
 ---
 
 ## 一句话总结

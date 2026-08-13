@@ -1,22 +1,22 @@
 ---
 title: "Field Smoothness-Controlled Partition for Quadrangulation"
 authors:
-  - Zhongxuan Liang
-  - Wei Du
-  - Xiao-Ming Fu
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: University of Science and Technology of China
+  - "Zhongxuan Liang"
+  - "Wei Du"
+  - "Xiao-Ming Fu"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "University of Science and Technology of China"
 tags:
-  - Quadrangulation
-  - Quad Meshing
-  - Cross Field
-  - Field Smoothness
-  - Patch Layout
-  - Streamline Tracing
-  - Feature-Aligned Meshing
-  - Mesh Generation
+  - "Quadrangulation"
+  - "Quad Meshing"
+  - "Cross Field"
+  - "Field Smoothness"
+  - "Patch Layout"
+  - "Streamline Tracing"
+  - "Feature-Aligned Meshing"
+  - "Mesh Generation"
 links:
   paper: "https://doi.org/10.1145/3730889"
   project: "https://staff.ustc.edu.cn/~fuxm/projects/FSCQ/FSCQ.html"

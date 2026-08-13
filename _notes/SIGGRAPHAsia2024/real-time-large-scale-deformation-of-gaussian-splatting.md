@@ -1,26 +1,26 @@
 ---
 title: "Real-time Large-scale Deformation of Gaussian Splatting"
 authors:
-  - Lin Gao
-  - Jie Yang
-  - Bo-Tao Zhang
-  - Jia-Mu Sun
-  - Yu-Jie Yuan
-  - Hongbo Fu
-  - Yu-Kun Lai
-track: "Journal"
-source: arxiv
+  - "Lin Gao"
+  - "Jie Yang"
+  - "Bo-Tao Zhang"
+  - "Jia-Mu Sun"
+  - "Yu-Jie Yuan"
+  - "Hongbo Fu"
+  - "Yu-Kun Lai"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Chinese Academy of Sciences
-  - City University of Hong Kong
-  - Cardiff University
+  - "Chinese Academy of Sciences"
+  - "City University of Hong Kong"
+  - "Cardiff University"
 tags:
-  - 3D Gaussian Splatting
-  - Deformation
-  - Interactive Editing
-  - Mesh Based
-  - Data-Driven
+  - "3D Gaussian Splatting"
+  - "Deformation"
+  - "Interactive Editing"
+  - "Mesh Based"
+  - "Data-Driven"
 links:
   paper: "https://doi.org/10.1145/3687756"
 ---

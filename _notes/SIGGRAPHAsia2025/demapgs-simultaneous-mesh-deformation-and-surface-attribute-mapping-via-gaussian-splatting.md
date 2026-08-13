@@ -1,26 +1,26 @@
 ---
 title: "DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting"
 authors:
-  - Shuyi Zhou
-  - Shengze Zhong
-  - Kenshi Takayama
-  - Takafumi Taketomi
-  - Takeshi Oishi
+  - "Shuyi Zhou"
+  - "Shengze Zhong"
+  - "Kenshi Takayama"
+  - "Takafumi Taketomi"
+  - "Takeshi Oishi"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-category: Reconstruction
+source: "arxiv"
 institution:
-  - The University of Tokyo
-  - CyberAgent
+  - "The University of Tokyo"
+  - "CyberAgent"
 tags:
-  - 3D Gaussian Splatting
-  - 2D Gaussian Splatting
-  - Mesh Deformation
-  - Surface Reconstruction
-  - Texture Mapping
-  - Displacement Map
-  - Normal Map
-  - Differentiable Rendering
+  - "3D Gaussian Splatting"
+  - "2D Gaussian Splatting"
+  - "Mesh Deformation"
+  - "Surface Reconstruction"
+  - "Texture Mapping"
+  - "Displacement Map"
+  - "Normal Map"
+  - "Differentiable Rendering"
 links:
   paper: "https://doi.org/10.1145/3757377.3763860"
 ---

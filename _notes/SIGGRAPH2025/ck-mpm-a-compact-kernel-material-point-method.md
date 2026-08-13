@@ -1,23 +1,23 @@
 ---
 title: "CK-MPM: A Compact-Kernel Material Point Method"
 authors:
-  - Michael Liu
-  - Xinlei Wang
-  - Minchen Li
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: Carnegie Mellon University
+  - "Michael Liu"
+  - "Xinlei Wang"
+  - "Minchen Li"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "Carnegie Mellon University"
 tags:
-  - Material Point Method
-  - Physics-Based Simulation
-  - Elastoplasticity
-  - Fracture Simulation
-  - Numerical Analysis
-  - GPU Simulation
+  - "Material Point Method"
+  - "Physics-Based Simulation"
+  - "Elastoplasticity"
+  - "Fracture Simulation"
+  - "Numerical Analysis"
+  - "GPU Simulation"
 links:
-  paper: https://doi.org/10.1145/3731155
-  code: https://github.com/Simulation-Intelligence/CK-MPM
+  paper: "https://doi.org/10.1145/3731155"
+  code: "https://github.com/Simulation-Intelligence/CK-MPM"
 ---
 ## 一句话总结
 

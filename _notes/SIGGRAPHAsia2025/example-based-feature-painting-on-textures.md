@@ -1,22 +1,22 @@
 ---
 title: "Example-Based Feature Painting on Textures"
 authors:
-  - Andrei-Timotei Ardelean
-  - Tim Weyrich
-category: Neural & Generative
+  - "Andrei-Timotei Ardelean"
+  - "Tim Weyrich"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+source: "arxiv"
+institution: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
 tags:
-  - Texture Synthesis
-  - Diffusion Model
-  - Anomaly Detection
-  - Contrastive Learning
-  - Conditional Generation
-  - Image Editing
+  - "Texture Synthesis"
+  - "Diffusion Model"
+  - "Anomaly Detection"
+  - "Contrastive Learning"
+  - "Conditional Generation"
+  - "Image Editing"
 links:
-  paper: https://doi.org/10.1145/3763301
-  project: https://reality.tf.fau.de/pub/ardelean2025examplebased.html
+  paper: "https://doi.org/10.1145/3763301"
+  project: "https://reality.tf.fau.de/pub/ardelean2025examplebased.html"
 ---
 
 ## 一句话总结

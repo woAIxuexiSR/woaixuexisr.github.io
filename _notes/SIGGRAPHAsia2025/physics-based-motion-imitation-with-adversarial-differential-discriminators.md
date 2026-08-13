@@ -1,27 +1,27 @@
 ---
 title: "ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators"
 authors:
-  - Ziyu Zhang
-  - Sergey Bashkirov
-  - Dun Yang
-  - Michael Taylor
-  - Xue Bin Peng
-category: Animation & Simulation
+  - "Ziyu Zhang"
+  - "Sergey Bashkirov"
+  - "Dun Yang"
+  - "Michael Taylor"
+  - "Xue Bin Peng"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Simon Fraser University
-  - Sony PlayStation
-  - NVIDIA
+  - "Simon Fraser University"
+  - "Sony PlayStation"
+  - "NVIDIA"
 tags:
-  - Physics-Based Animation
-  - Motion Tracking
-  - Reinforcement Learning
-  - Adversarial Imitation Learning
-  - Multi-Objective Optimization
-  - Humanoid Character
+  - "Physics-Based Animation"
+  - "Motion Tracking"
+  - "Reinforcement Learning"
+  - "Adversarial Imitation Learning"
+  - "Multi-Objective Optimization"
+  - "Humanoid Character"
 links:
-  paper: https://doi.org/10.1145/3757377.3763819
+  paper: "https://doi.org/10.1145/3757377.3763819"
 ---
 
 ## 一句话总结

@@ -1,23 +1,23 @@
 ---
 title: "Architectural Co-LOD Generation"
 authors:
-  - Runze Zhang
-  - Shanshan Pan
-  - Chenlei Lv
-  - Minglun Gong
-  - Hui Huang
-track: "Journal"
-source: arxiv
+  - "Runze Zhang"
+  - "Shanshan Pan"
+  - "Chenlei Lv"
+  - "Minglun Gong"
+  - "Hui Huang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Shenzhen University
-  - University of Guelph
+  - "Shenzhen University"
+  - "University of Guelph"
 tags:
-  - LOD Generation
-  - Structured Reconstruction
-  - Co Analysis
-  - Architectural Modeling
-  - Polygon Mesh
+  - "LOD Generation"
+  - "Structured Reconstruction"
+  - "Co Analysis"
+  - "Architectural Modeling"
+  - "Polygon Mesh"
 links:
   paper: "https://doi.org/10.1145/3687905"
 ---

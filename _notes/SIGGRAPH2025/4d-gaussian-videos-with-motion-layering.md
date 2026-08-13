@@ -1,37 +1,37 @@
 ---
 title: "4D Gaussian Videos with Motion Layering"
 authors:
-  - Pinxuan Dai
-  - Peiquan Zhang
-  - Zheng Dong
-  - Ke Xu
-  - Yifan Peng
-  - Dandan Ding
-  - Yujun Shen
-  - Yin Yang
-  - Xinguo Liu
-  - Rynson W. H. Lau
-  - Weiwei Xu
-category: Reconstruction
-track: Journal
-source: author-page
+  - "Pinxuan Dai"
+  - "Peiquan Zhang"
+  - "Zheng Dong"
+  - "Ke Xu"
+  - "Yifan Peng"
+  - "Dandan Ding"
+  - "Yujun Shen"
+  - "Yin Yang"
+  - "Xinguo Liu"
+  - "Rynson W. H. Lau"
+  - "Weiwei Xu"
+category: "Reconstruction"
+track: "Journal"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - City University of Hong Kong
-  - The University of Hong Kong
-  - Hangzhou Normal University
-  - Ant Group
-  - The University of Utah
+  - "Zhejiang University"
+  - "City University of Hong Kong"
+  - "The University of Hong Kong"
+  - "Hangzhou Normal University"
+  - "Ant Group"
+  - "The University of Utah"
 tags:
-  - Volumetric Video
-  - Motion Layering
-  - 4D Gaussian Splatting
-  - Dynamic Scene Reconstruction
-  - Gaussian Video Compression
-  - Real-Time Streaming
+  - "Volumetric Video"
+  - "Motion Layering"
+  - "4D Gaussian Splatting"
+  - "Dynamic Scene Reconstruction"
+  - "Gaussian Video Compression"
+  - "Real-Time Streaming"
 links:
-  paper: https://doi.org/10.1145/3731189
-  project: https://turandai.github.io/projects/4d_gaussian_video/
+  paper: "https://doi.org/10.1145/3731189"
+  project: "https://turandai.github.io/projects/4d_gaussian_video/"
 ---
 
 ## 一句话总结

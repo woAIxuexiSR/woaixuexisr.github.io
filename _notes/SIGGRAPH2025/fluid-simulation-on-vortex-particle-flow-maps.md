@@ -1,30 +1,30 @@
 ---
 title: "Fluid Simulation on Vortex Particle Flow Maps"
 authors:
-  - Sinan Wang
-  - Junwei Zhou
-  - Fan Feng
-  - Zhiqi Li
-  - Yuchen Sun
-  - Duowen Chen
-  - Greg Turk
-  - Bo Zhu
+  - "Sinan Wang"
+  - "Junwei Zhou"
+  - "Fan Feng"
+  - "Zhiqi Li"
+  - "Yuchen Sun"
+  - "Duowen Chen"
+  - "Greg Turk"
+  - "Bo Zhu"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Georgia Institute of Technology
-  - University of Michigan
-  - Dartmouth College
+  - "Georgia Institute of Technology"
+  - "University of Michigan"
+  - "Dartmouth College"
 tags:
-  - Fluid Simulation
-  - Vortex Method
-  - Flow Map
-  - Vortex Particle
-  - Vortex-In-Cell
-  - Incompressible Flow
-  - Particle-Grid Method
-  - Solid Boundary Condition
+  - "Fluid Simulation"
+  - "Vortex Method"
+  - "Flow Map"
+  - "Vortex Particle"
+  - "Vortex-In-Cell"
+  - "Incompressible Flow"
+  - "Particle-Grid Method"
+  - "Solid Boundary Condition"
 links:
   paper: "https://doi.org/10.1145/3731198"
 ---

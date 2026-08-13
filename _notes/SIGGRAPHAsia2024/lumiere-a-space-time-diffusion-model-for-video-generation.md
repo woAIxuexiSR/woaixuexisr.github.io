@@ -1,37 +1,37 @@
 ---
 title: "Lumiere: A Space-Time Diffusion Model for Video Generation"
 authors:
-  - Omer Bar-Tal
-  - Hila Chefer
-  - Omer Tov
-  - Charles Herrmann
-  - Roni Paiss
-  - Shiran Zada
-  - Ariel Ephrat
-  - Junhwa Hur
-  - Guanghui Liu
-  - Amit Raj
-  - Yuanzhen Li
-  - Michael Rubinstein
-  - Tomer Michaeli
-  - Oliver Wang
-  - Deqing Sun
-  - Tali Dekel
-  - Inbar Mosseri
-track: "Conference"
-source: arxiv
+  - "Omer Bar-Tal"
+  - "Hila Chefer"
+  - "Omer Tov"
+  - "Charles Herrmann"
+  - "Roni Paiss"
+  - "Shiran Zada"
+  - "Ariel Ephrat"
+  - "Junhwa Hur"
+  - "Guanghui Liu"
+  - "Amit Raj"
+  - "Yuanzhen Li"
+  - "Michael Rubinstein"
+  - "Tomer Michaeli"
+  - "Oliver Wang"
+  - "Deqing Sun"
+  - "Tali Dekel"
+  - "Inbar Mosseri"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Google Research
-  - Weizmann Institute
-  - Tel-Aviv University
-  - Technion
+  - "Google Research"
+  - "Weizmann Institute"
+  - "Tel-Aviv University"
+  - "Technion"
 tags:
-  - Text-to-Video
-  - Diffusion Model
-  - Video Generation
-  - Space Time Unet
-  - Image-to-Video
+  - "Text-to-Video"
+  - "Diffusion Model"
+  - "Video Generation"
+  - "Space Time Unet"
+  - "Image-to-Video"
 links:
   paper: "https://doi.org/10.1145/3680528.3687614"
 ---

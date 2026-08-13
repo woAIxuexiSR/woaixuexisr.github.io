@@ -1,23 +1,23 @@
 ---
 title: "Inverse Design of Discrete Interlocking Materials with Desired Mechanical Behavior"
 authors:
-  - Pengbin Tang
-  - Bernhard Thomaszewski
-  - Stelian Coros
-  - Bernd Bickel
-category: Animation & Simulation
-track: Conference
-source: author-page
-institution: ETH Zurich
+  - "Pengbin Tang"
+  - "Bernhard Thomaszewski"
+  - "Stelian Coros"
+  - "Bernd Bickel"
+category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
+institution: "ETH Zurich"
 tags:
-  - Discrete Interlocking Materials
-  - Metamaterial
-  - Inverse Design
-  - Physical Simulation
-  - Contact Modeling
+  - "Discrete Interlocking Materials"
+  - "Metamaterial"
+  - "Inverse Design"
+  - "Physical Simulation"
+  - "Contact Modeling"
 links:
-  paper: https://doi.org/10.1145/3721238.3730675
-  project: https://tangpengbin.github.io/publications/InverseDIM/index.html
+  paper: "https://doi.org/10.1145/3721238.3730675"
+  project: "https://tangpengbin.github.io/publications/InverseDIM/index.html"
 ---
 
 ## 一句话总结

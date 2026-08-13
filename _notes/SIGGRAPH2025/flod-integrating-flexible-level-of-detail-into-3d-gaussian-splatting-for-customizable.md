@@ -1,22 +1,22 @@
 ---
 title: "FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering"
 authors:
-  - Yunji Seo
-  - Young Sun Choi
-  - Hyun Seung Son
-  - Youngjung Uh
-category: Rendering
-track: Journal
-source: arxiv
-institution: Yonsei University
+  - "Yunji Seo"
+  - "Young Sun Choi"
+  - "Hyun Seung Son"
+  - "Youngjung Uh"
+category: "Rendering"
+track: "Journal"
+source: "arxiv"
+institution: "Yonsei University"
 tags:
-  - 3D Gaussian Splatting
-  - Level of Detail
-  - Novel View Synthesis
-  - Real-Time Rendering
-  - Memory Efficiency
+  - "3D Gaussian Splatting"
+  - "Level of Detail"
+  - "Novel View Synthesis"
+  - "Real-Time Rendering"
+  - "Memory Efficiency"
 links:
-  paper: https://doi.org/10.1145/3731430
+  paper: "https://doi.org/10.1145/3731430"
 ---
 
 ## 一句话总结

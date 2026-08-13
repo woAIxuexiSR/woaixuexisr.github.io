@@ -1,25 +1,25 @@
 ---
 title: "Large Étendue 3D Holographic Display with Content-adaptive Dynamic Fourier Modulation"
 authors:
-  - Brian Chao
-  - Manu Gopakumar
-  - Suyeon Choi
-  - Jonghyun Kim
-  - Liang Shi
-  - Gordon Wetzstein
-category: HCI & XR
+  - "Brian Chao"
+  - "Manu Gopakumar"
+  - "Suyeon Choi"
+  - "Jonghyun Kim"
+  - "Liang Shi"
+  - "Gordon Wetzstein"
+category: "HCI & XR"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Stanford University
-  - NVIDIA
-  - MIT
+  - "Stanford University"
+  - "NVIDIA"
+  - "MIT"
 tags:
-  - Holographic Display
-  - Near Eye Display
-  - VR/AR
-  - Computational Display
-  - Light Field
+  - "Holographic Display"
+  - "Near Eye Display"
+  - "VR/AR"
+  - "Computational Display"
+  - "Light Field"
 links:
   paper: "https://doi.org/10.1145/3680528.3687600"
 ---

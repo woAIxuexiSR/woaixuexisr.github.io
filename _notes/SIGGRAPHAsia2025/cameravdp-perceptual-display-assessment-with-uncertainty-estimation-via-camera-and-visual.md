@@ -1,22 +1,22 @@
 ---
 title: "CameraVDP: Perceptual Display Assessment with Uncertainty Estimation via Camera and Visual Difference Prediction"
 authors:
-  - Yancheng Cai
-  - Robert Wanat
-  - Rafał K. Mantiuk
-category: HCI & XR
+  - "Yancheng Cai"
+  - "Robert Wanat"
+  - "Rafał K. Mantiuk"
+category: "HCI & XR"
 track: "Conference"
-source: arxiv
-institution: University of Cambridge
+source: "arxiv"
+institution: "University of Cambridge"
 tags:
-  - Display Measurement
-  - Camera Calibration
-  - Visual Difference Predictor
-  - Uncertainty Estimation
-  - Perceptual Quality
+  - "Display Measurement"
+  - "Camera Calibration"
+  - "Visual Difference Predictor"
+  - "Uncertainty Estimation"
+  - "Perceptual Quality"
 links:
-  paper: https://doi.org/10.1145/3757377.3763825
-  code: https://github.com/gfxdisp/CameraVDP
+  paper: "https://doi.org/10.1145/3757377.3763825"
+  code: "https://github.com/gfxdisp/CameraVDP"
 ---
 
 ## 一句话总结

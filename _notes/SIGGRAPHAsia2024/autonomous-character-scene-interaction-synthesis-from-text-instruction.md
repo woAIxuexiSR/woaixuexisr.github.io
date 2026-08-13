@@ -1,25 +1,25 @@
 ---
 title: "Autonomous Character-Scene Interaction Synthesis from Text Instruction"
 authors:
-  - Nan Jiang
-  - Zimo He
-  - Zi Wang
-  - Hongjie Li
-  - Yixin Chen
-  - Siyuan Huang
-  - Yixin Zhu
+  - "Nan Jiang"
+  - "Zimo He"
+  - "Zi Wang"
+  - "Hongjie Li"
+  - "Yixin Chen"
+  - "Siyuan Huang"
+  - "Yixin Zhu"
 category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Peking University
-  - BIGAI
-  - Beijing University of Posts and Telecommunications
+  - "Peking University"
+  - "BIGAI"
+  - "Beijing University of Posts and Telecommunications"
 tags:
-  - Human Scene Interaction
-  - Motion Synthesis
-  - Diffusion Model
-  - MoCap Dataset
+  - "Human Scene Interaction"
+  - "Motion Synthesis"
+  - "Diffusion Model"
+  - "MoCap Dataset"
 links:
   paper: "https://doi.org/10.1145/3680528.3687595"
 ---

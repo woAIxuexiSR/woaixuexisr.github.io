@@ -1,25 +1,25 @@
 ---
 title: "StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance"
 authors:
-  - Zefan Qu
-  - Zhenwei Wang
-  - Haoyuan Wang
-  - Ke Xu
-  - Gerhard Hancke
-  - Rynson W.H. Lau
-category: Neural & Generative
+  - "Zefan Qu"
+  - "Zhenwei Wang"
+  - "Haoyuan Wang"
+  - "Ke Xu"
+  - "Gerhard Hancke"
+  - "Rynson W.H. Lau"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: City University of Hong Kong
+source: "arxiv"
+institution: "City University of Hong Kong"
 tags:
-  - 3D Generation
-  - Style Transfer
-  - Zero-Shot Learning
-  - Diffusion Model
-  - Attention Mechanism
+  - "3D Generation"
+  - "Style Transfer"
+  - "Zero-Shot Learning"
+  - "Diffusion Model"
+  - "Attention Mechanism"
 links:
-  paper: https://doi.org/10.1145/3757377.3763929
-  project: https://stylesculptor.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763929"
+  project: "https://stylesculptor.github.io/"
 ---
 
 ## 一句话总结

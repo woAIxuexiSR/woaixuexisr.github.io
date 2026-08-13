@@ -1,24 +1,24 @@
 ---
 title: "OLAT Gaussians for Generic Relightable Appearance Acquisition"
 authors:
-  - Zhiyi Kuang
-  - Yanchao Yang
-  - Siyan Dong
-  - Jiayue Ma
-  - Hongbo Fu
-  - Youyi Zheng
-category: Rendering
+  - "Zhiyi Kuang"
+  - "Yanchao Yang"
+  - "Siyan Dong"
+  - "Jiayue Ma"
+  - "Hongbo Fu"
+  - "Youyi Zheng"
+category: "Rendering"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Zhejiang University
-  - The University of Hong Kong
-  - Hong Kong University of Science and Technology
+  - "Zhejiang University"
+  - "The University of Hong Kong"
+  - "Hong Kong University of Science and Technology"
 tags:
-  - 3D Gaussian Splatting
-  - Relighting
-  - Appearance Acquisition
-  - OLAT
+  - "3D Gaussian Splatting"
+  - "Relighting"
+  - "Appearance Acquisition"
+  - "OLAT"
 links:
   paper: "https://doi.org/10.1145/3680528.3687671"
   project: "https://musinghead.github.io/projects/olat_gaussians/"

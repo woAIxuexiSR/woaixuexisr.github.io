@@ -1,20 +1,20 @@
 ---
 title: "Projected Walk on Spheres: A Monte Carlo Closest Point Method for Surface PDEs"
 authors:
-  - Ryusuke Sugimoto
-  - Nathan D. King
-  - Toshiya Hachisuka
-  - Christopher Batty
-category: Geometry & Modeling
-track: Conference
-source: author-page
-institution: University of Waterloo
+  - "Ryusuke Sugimoto"
+  - "Nathan D. King"
+  - "Toshiya Hachisuka"
+  - "Christopher Batty"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "author-page"
+institution: "University of Waterloo"
 tags:
-  - Monte Carlo PDE
-  - Walk on Spheres
-  - Surface PDE
-  - Closest Point Method
-  - Diffusion Curves
+  - "Monte Carlo PDE"
+  - "Walk on Spheres"
+  - "Surface PDE"
+  - "Closest Point Method"
+  - "Diffusion Curves"
 links:
   paper: "https://doi.org/10.1145/3680528.3687599"
 ---

@@ -1,25 +1,25 @@
 ---
 title: "Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes"
 authors:
-  - Christian Stippel
-  - Felix Mujkanovic
-  - Thomas Leimkühler
-  - Pedro Hermosilla
-track: "Journal"
-source: arxiv
+  - "Christian Stippel"
+  - "Felix Mujkanovic"
+  - "Thomas Leimkühler"
+  - "Pedro Hermosilla"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - TU Wien
-  - Max-Planck-Institute for Informatics
+  - "TU Wien"
+  - "Max-Planck-Institute for Informatics"
 tags:
-  - Neural Implicit Surface
-  - Surface Extraction
-  - Signed Distance Function
-  - ReLU Networks
-  - Piecewise Linear Regions
-  - Analytic Meshing
-  - Range Analysis
-  - Mesh Generation
+  - "Neural Implicit Surface"
+  - "Surface Extraction"
+  - "Signed Distance Function"
+  - "ReLU Networks"
+  - "Piecewise Linear Regions"
+  - "Analytic Meshing"
+  - "Range Analysis"
+  - "Mesh Generation"
 links:
   paper: "https://doi.org/10.1145/3763328"
 ---

@@ -1,26 +1,26 @@
 ---
 title: "Cut2Next: Generating Next Shot via In-Context Tuning"
 authors:
-  - Jingwen He
-  - Hongbo Liu
-  - Jiajun Li
-  - Ziqi Huang
-  - Yu Qiao
-  - Wanli Ouyang
-  - Ziwei Liu
-category: Neural & Generative
+  - "Jingwen He"
+  - "Hongbo Liu"
+  - "Jiajun Li"
+  - "Ziqi Huang"
+  - "Yu Qiao"
+  - "Wanli Ouyang"
+  - "Ziwei Liu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: The Chinese University of Hong Kong
+source: "arxiv"
+institution: "The Chinese University of Hong Kong"
 tags:
-  - Video Generation
-  - Diffusion Transformer
-  - In-Context Tuning
-  - Cinematic Continuity
-  - Multi-Shot Generation
+  - "Video Generation"
+  - "Diffusion Transformer"
+  - "In-Context Tuning"
+  - "Cinematic Continuity"
+  - "Multi-Shot Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763896
-  project: https://vchitect.github.io/Cut2Next-project/
+  paper: "https://doi.org/10.1145/3757377.3763896"
+  project: "https://vchitect.github.io/Cut2Next-project/"
 ---
 
 ## 一句话总结

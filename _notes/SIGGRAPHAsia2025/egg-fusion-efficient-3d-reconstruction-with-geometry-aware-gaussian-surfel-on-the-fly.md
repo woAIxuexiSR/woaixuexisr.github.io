@@ -1,23 +1,22 @@
 ---
 title: "EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly"
 authors:
-  - Xiaokun Pan
-  - Zhenzhe Li
-  - Zhichao Ye
-  - Hongjia Zhai
-  - Guofeng Zhang
-track: "Conference"
-source: arxiv
+  - "Xiaokun Pan"
+  - "Zhenzhe Li"
+  - "Zhichao Ye"
+  - "Hongjia Zhai"
+  - "Guofeng Zhang"
 category: "Reconstruction"
-institution:
-  - Zhejiang University
+track: "Conference"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - 3D Reconstruction
-  - SLAM
-  - Gaussian Surfels
-  - 3D Gaussian Splatting
-  - Information Filter
-  - Surface Reconstruction
+  - "3D Reconstruction"
+  - "SLAM"
+  - "Gaussian Surfels"
+  - "3D Gaussian Splatting"
+  - "Information Filter"
+  - "Surface Reconstruction"
 links:
   paper: "https://doi.org/10.1145/3757377.3763878"
   project: "https://zju3dv.github.io/eggfusion/"

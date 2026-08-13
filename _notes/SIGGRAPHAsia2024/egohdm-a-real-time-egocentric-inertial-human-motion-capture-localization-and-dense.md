@@ -1,26 +1,26 @@
 ---
 title: "EgoHDM: A Real-time Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System"
 authors:
-  - Handi Yin
-  - Bonan Liu
-  - Manuel Kaufmann
-  - Jinhao He
-  - Sammy Christen
-  - Jie Song
-  - Pan Hui
-track: "Journal"
-source: arxiv
+  - "Handi Yin"
+  - "Bonan Liu"
+  - "Manuel Kaufmann"
+  - "Jinhao He"
+  - "Sammy Christen"
+  - "Jie Song"
+  - "Pan Hui"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - HKUST(GZ)
-  - ETH Zürich
+  - "HKUST(GZ)"
+  - "ETH Zürich"
 tags:
-  - Human Motion Capture
-  - Inertial Sensors
-  - SLAM
-  - Dense Mapping
-  - Egocentric
-  - Physics-Based Correction
+  - "Human Motion Capture"
+  - "Inertial Sensors"
+  - "SLAM"
+  - "Dense Mapping"
+  - "Egocentric"
+  - "Physics-Based Correction"
 links:
   paper: "https://doi.org/10.1145/3687907"
   project: "https://handiyin.github.io/EgoHDM/"

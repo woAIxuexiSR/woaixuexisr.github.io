@@ -1,20 +1,20 @@
 ---
 title: "Style-NeRF2NeRF: 3D Style Transfer from Style-Aligned Multi-View Images"
 authors:
-  - Haruo Fujiwara
-  - Yusuke Mukuta
-  - Tatsuya Harada
-track: "Conference"
-source: arxiv
+  - "Haruo Fujiwara"
+  - "Yusuke Mukuta"
+  - "Tatsuya Harada"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - The University of Tokyo
-  - RIKEN
+  - "The University of Tokyo"
+  - "RIKEN"
 tags:
-  - Neural Radiance Fields
-  - Style Transfer
-  - Diffusion Model
-  - Neural Rendering
+  - "Neural Radiance Fields"
+  - "Style Transfer"
+  - "Diffusion Model"
+  - "Neural Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687643"
 ---

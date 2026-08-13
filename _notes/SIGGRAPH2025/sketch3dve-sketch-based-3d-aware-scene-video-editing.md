@@ -1,24 +1,24 @@
 ---
 title: "Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing"
 authors:
-  - Feng-Lin Liu
-  - Shi-Yang Li
-  - Yan-Pei Cao
-  - Hongbo Fu
-  - Lin Gao
+  - "Feng-Lin Liu"
+  - "Shi-Yang Li"
+  - "Yan-Pei Cao"
+  - "Hongbo Fu"
+  - "Lin Gao"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Institute of Computing Technology, Chinese Academy of Sciences
-  - VAST
-  - Hong Kong University of Science and Technology
+  - "Institute of Computing Technology, Chinese Academy of Sciences"
+  - "VAST"
+  - "Hong Kong University of Science and Technology"
 tags:
-  - Video Editing
-  - Sketch-Based Interaction
-  - Diffusion Model
-  - Point Cloud
-  - 3D-Aware Generation
+  - "Video Editing"
+  - "Sketch-Based Interaction"
+  - "Diffusion Model"
+  - "Point Cloud"
+  - "3D-Aware Generation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730623"
   project: "https://geometrylearning.com/Sketch3DVE/"

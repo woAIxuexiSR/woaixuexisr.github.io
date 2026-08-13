@@ -1,27 +1,27 @@
 ---
 title: "ConsistEdit: Highly Consistent and Precise Training-free Visual Editing"
 authors:
-  - Zixin Yin
-  - Ling-Hao Chen
-  - Lionel Ni
-  - Xili Dai
-category: Image & Video
+  - "Zixin Yin"
+  - "Ling-Hao Chen"
+  - "Lionel Ni"
+  - "Xili Dai"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
   - "Hong Kong University of Science and Technology"
   - "Tsinghua University"
   - "International Digital Economy Academy"
 tags:
-  - Image Editing
-  - Video Editing
-  - Diffusion Transformer
-  - Attention Control
-  - Training-Free
-  - Rectified Flow
+  - "Image Editing"
+  - "Video Editing"
+  - "Diffusion Transformer"
+  - "Attention Control"
+  - "Training-Free"
+  - "Rectified Flow"
 links:
-  paper: https://doi.org/10.1145/3757377.3763909
-  code: https://github.com/zxYin/ConsistEdit_Code
+  paper: "https://doi.org/10.1145/3757377.3763909"
+  code: "https://github.com/zxYin/ConsistEdit_Code"
 ---
 
 ## 一句话总结

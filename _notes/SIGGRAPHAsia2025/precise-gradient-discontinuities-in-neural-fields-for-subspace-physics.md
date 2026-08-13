@@ -1,24 +1,24 @@
 ---
 title: "Precise Gradient Discontinuities in Neural Fields for Subspace Physics"
 authors:
-  - Mengfei Liu
-  - Yue Chang
-  - Zhecheng Wang
-  - Peter Yichen Chen
-  - Eitan Grinspun
-category: Animation & Simulation
+  - "Mengfei Liu"
+  - "Yue Chang"
+  - "Zhecheng Wang"
+  - "Peter Yichen Chen"
+  - "Eitan Grinspun"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: University of Toronto
+source: "arxiv"
+institution: "University of Toronto"
 tags:
-  - Neural Fields
-  - Reduced-order Modeling
-  - Elastodynamics
-  - Physical Simulation
-  - Heterogeneous Materials
+  - "Neural Fields"
+  - "Reduced-order Modeling"
+  - "Elastodynamics"
+  - "Physical Simulation"
+  - "Heterogeneous Materials"
 links:
-  paper: https://doi.org/10.1145/3757377.3763810
-  project: https://arxiv.org/abs/2505.20421
+  paper: "https://doi.org/10.1145/3757377.3763810"
+  project: "https://arxiv.org/abs/2505.20421"
 ---
 
 ## 一句话总结

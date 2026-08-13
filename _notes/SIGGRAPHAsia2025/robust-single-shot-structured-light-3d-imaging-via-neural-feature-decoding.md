@@ -1,27 +1,27 @@
 ---
 title: "Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding"
 authors:
-  - Jiaheng Li
-  - Qiyu Dai
-  - Lihan Li
-  - Praneeth Chakravarthula
-  - He Sun
-  - Baoquan Chen
-  - Wenzheng Chen
-category: Reconstruction
+  - "Jiaheng Li"
+  - "Qiyu Dai"
+  - "Lihan Li"
+  - "Praneeth Chakravarthula"
+  - "He Sun"
+  - "Baoquan Chen"
+  - "Wenzheng Chen"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: Peking University
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Structured Light
-  - 3D Imaging
-  - Depth Estimation
-  - Stereo Matching
-  - Neural Feature Decoding
-  - Synthetic Data
+  - "Structured Light"
+  - "3D Imaging"
+  - "Depth Estimation"
+  - "Stereo Matching"
+  - "Neural Feature Decoding"
+  - "Synthetic Data"
 links:
-  paper: https://doi.org/10.1145/3757377.3763924
-  project: https://namisntimpot.github.io/NSLweb/
+  paper: "https://doi.org/10.1145/3757377.3763924"
+  project: "https://namisntimpot.github.io/NSLweb/"
 ---
 
 ## 一句话总结

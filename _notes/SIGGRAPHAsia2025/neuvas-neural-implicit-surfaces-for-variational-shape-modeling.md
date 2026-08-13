@@ -1,38 +1,38 @@
 ---
 title: "NeuVAS: Neural Implicit Surfaces for Variational Shape Modeling"
 authors:
-  - Pengfei Wang
-  - Qiujie Dong
-  - Fangtian Liang
-  - Hao Pan
-  - Lei Yang
-  - Congyi Zhang
-  - Guying Lin
-  - Caiming Zhang
-  - Yuanfeng Zhou
-  - Changhe Tu
-  - Shiqing Xin
-  - Alla Sheffer
-  - Xin Li
-  - Wenping Wang
-track: "Journal"
-source: arxiv
+  - "Pengfei Wang"
+  - "Qiujie Dong"
+  - "Fangtian Liang"
+  - "Hao Pan"
+  - "Lei Yang"
+  - "Congyi Zhang"
+  - "Guying Lin"
+  - "Caiming Zhang"
+  - "Yuanfeng Zhou"
+  - "Changhe Tu"
+  - "Shiqing Xin"
+  - "Alla Sheffer"
+  - "Xin Li"
+  - "Wenping Wang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Shandong University
-  - The University of Hong Kong
-  - Tsinghua University
-  - University of British Columbia
-  - Texas A&M University
+  - "Shandong University"
+  - "The University of Hong Kong"
+  - "Tsinghua University"
+  - "University of British Columbia"
+  - "Texas A&M University"
 tags:
-  - Variational Shape Modeling
-  - Neural Implicit Surface
-  - Signed Distance Function
-  - Curve Networks
-  - Curve Sketches
-  - Thin Plate Energy
-  - Sharp Feature Curves
-  - Surfacing
+  - "Variational Shape Modeling"
+  - "Neural Implicit Surface"
+  - "Signed Distance Function"
+  - "Curve Networks"
+  - "Curve Sketches"
+  - "Thin Plate Energy"
+  - "Sharp Feature Curves"
+  - "Surfacing"
 links:
   paper: "https://doi.org/10.1145/3763331"
 ---

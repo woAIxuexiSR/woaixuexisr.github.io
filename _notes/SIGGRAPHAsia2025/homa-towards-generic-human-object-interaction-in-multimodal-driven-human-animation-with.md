@@ -1,33 +1,33 @@
 ---
 title: "HOMA: Towards Generic Human-Object Interaction in Multimodal Driven Human Animation with Weak Conditions"
 authors:
-  - Ziyao Huang
-  - Zixiang Zhou
-  - Juan Cao
-  - Yifeng Ma
-  - Yi Chen
-  - Zejing Rao
-  - Zhiyong Xu
-  - Hongmei Wang
-  - Qin Lin
-  - Yuan Zhou
-  - Qinglin Lu
-  - Fan Tang
-category: Image & Video
+  - "Ziyao Huang"
+  - "Zixiang Zhou"
+  - "Juan Cao"
+  - "Yifeng Ma"
+  - "Yi Chen"
+  - "Zejing Rao"
+  - "Zhiyong Xu"
+  - "Hongmei Wang"
+  - "Qin Lin"
+  - "Yuan Zhou"
+  - "Qinglin Lu"
+  - "Fan Tang"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: University of Chinese Academy of Sciences; Tencent Hunyuan
+source: "arxiv"
+institution: "University of Chinese Academy of Sciences; Tencent Hunyuan"
 tags:
-  - Human Object Interaction
-  - Human Animation
-  - Video Generation
-  - Diffusion Transformer
-  - Weak Conditions
-  - Multimodal Control
-  - Audio Driven Animation
+  - "Human Object Interaction"
+  - "Human Animation"
+  - "Video Generation"
+  - "Diffusion Transformer"
+  - "Weak Conditions"
+  - "Multimodal Control"
+  - "Audio Driven Animation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763861
-  project: https://bone-11.github.io/homa-page/
+  paper: "https://doi.org/10.1145/3757377.3763861"
+  project: "https://bone-11.github.io/homa-page/"
 ---
 
 ## 一句话总结

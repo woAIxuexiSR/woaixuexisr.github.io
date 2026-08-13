@@ -1,27 +1,27 @@
 ---
 title: "SOAP: Style-Omniscient Animatable Portraits"
 authors:
-  - Tingting Liao
-  - Yujian Zheng
-  - Yuliang Xiu
-  - Adilbek Karmanov
-  - Liwen Hu
-  - Leyang Jin
-  - Hao Li
-category: Reconstruction
-track: Conference
-source: arxiv
-institution: Mohamed bin Zayed University of Artificial Intelligence
+  - "Tingting Liao"
+  - "Yujian Zheng"
+  - "Yuliang Xiu"
+  - "Adilbek Karmanov"
+  - "Liwen Hu"
+  - "Leyang Jin"
+  - "Hao Li"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
+institution: "Mohamed bin Zayed University of Artificial Intelligence"
 tags:
-  - 3D Avatar
-  - Single-View Reconstruction
-  - Diffusion Model
-  - Head Modeling
-  - Differentiable Rendering
-  - Facial Animation
+  - "3D Avatar"
+  - "Single-View Reconstruction"
+  - "Diffusion Model"
+  - "Head Modeling"
+  - "Differentiable Rendering"
+  - "Facial Animation"
 links:
-  paper: https://doi.org/10.1145/3721238.3730691
-  code: https://github.com/TingtingLiao/soap
+  paper: "https://doi.org/10.1145/3721238.3730691"
+  code: "https://github.com/TingtingLiao/soap"
 ---
 
 ## 一句话总结

@@ -1,33 +1,33 @@
 ---
 title: "PVP-Recon: Progressive View Planning via Warping Consistency for Sparse-View Surface Reconstruction"
 authors:
-  - Sheng Ye
-  - Yuze He
-  - Matthieu Lin
-  - Jenny Sheng
-  - Ruoyu Fan
-  - Yiheng Han
-  - Yubin Hu
-  - Ran Yi
-  - Yu-Hui Wen
-  - Yong-Jin Liu
-  - Wenping Wang
-track: "Journal"
-source: arxiv
+  - "Sheng Ye"
+  - "Yuze He"
+  - "Matthieu Lin"
+  - "Jenny Sheng"
+  - "Ruoyu Fan"
+  - "Yiheng Han"
+  - "Yubin Hu"
+  - "Ran Yi"
+  - "Yu-Hui Wen"
+  - "Yong-Jin Liu"
+  - "Wenping Wang"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - Beijing University of Technology
-  - Shanghai Jiao Tong University
-  - Beijing Jiaotong University
-  - Texas A&M University
+  - "Tsinghua University"
+  - "Beijing University of Technology"
+  - "Shanghai Jiao Tong University"
+  - "Beijing Jiaotong University"
+  - "Texas A&M University"
 tags:
-  - Sparse View
-  - Surface Reconstruction
-  - Neural Implicit Surface
-  - View Planning
-  - Next Best View
-  - SDF
+  - "Sparse View"
+  - "Surface Reconstruction"
+  - "Neural Implicit Surface"
+  - "View Planning"
+  - "Next Best View"
+  - "SDF"
 links:
   paper: "https://doi.org/10.1145/3687896"
 ---

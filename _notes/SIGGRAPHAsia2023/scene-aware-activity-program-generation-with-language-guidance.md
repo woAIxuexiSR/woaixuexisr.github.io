@@ -10,8 +10,7 @@ authors:
 category: "Neural & Generative"
 track: "Journal"
 source: "ACM"
-institution:
-  - "Shenzhen University"
+institution: "Shenzhen University"
 tags:
   - "Activity Program Generation"
   - "Scene Understanding"

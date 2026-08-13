@@ -1,21 +1,24 @@
 ---
 title: "Force-Dual Modes: Subspace Design from Stochastic Forces"
 authors:
-  - Otman Benchekroun
-  - Eitan Grinspun
-  - Maurizio Chiaramonte
-  - Philip Allen Etter
-category: Animation & Simulation
+  - "Otman Benchekroun"
+  - "Eitan Grinspun"
+  - "Maurizio Chiaramonte"
+  - "Philip Allen Etter"
+category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
+institution:
+  - "University of Toronto"
+  - "Meta"
 tags:
-  - Subspace Simulation
-  - Reduced Order Modeling
-  - Linear Modal Analysis
-  - Deformable Simulation
-  - Finite Element Method
-  - Stochastic Forces
-  - Real-Time Simulation
+  - "Subspace Simulation"
+  - "Reduced Order Modeling"
+  - "Linear Modal Analysis"
+  - "Deformable Simulation"
+  - "Finite Element Method"
+  - "Stochastic Forces"
+  - "Real-Time Simulation"
 links:
   paper: "https://doi.org/10.1145/3763310"
   project: "https://arxiv.org/abs/2505.23969"

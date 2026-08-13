@@ -1,22 +1,25 @@
 ---
 title: "Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields"
 authors:
-  - Yohan Poirier-Ginter
-  - Jeffrey Hu
-  - Jean-François Lalonde
-  - George Drettakis
-category: Rendering
+  - "Yohan Poirier-Ginter"
+  - "Jeffrey Hu"
+  - "Jean-François Lalonde"
+  - "George Drettakis"
+category: "Rendering"
 track: "Conference"
-source: arxiv
+source: "arxiv"
+institution:
+  - "Université Laval"
+  - "Inria"
 tags:
-  - Gaussian Splatting
-  - Ray Tracing
-  - Path Tracing
-  - Specular Reflections
-  - Scene Editing
-  - Differentiable Rendering
-  - Radiance Fields
-  - Intrinsic Decomposition
+  - "Gaussian Splatting"
+  - "Ray Tracing"
+  - "Path Tracing"
+  - "Specular Reflections"
+  - "Scene Editing"
+  - "Differentiable Rendering"
+  - "Radiance Fields"
+  - "Intrinsic Decomposition"
 links:
   paper: "https://doi.org/10.1145/3757377.3763971"
   project: "https://repo-sam.inria.fr/nerphys/editable-gaussian-reflections/"

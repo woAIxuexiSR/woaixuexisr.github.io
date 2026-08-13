@@ -1,23 +1,22 @@
 ---
 title: "Fluid Implicit Particles on Coadjoint Orbits"
 authors:
-  - Mohammad Sina Nabizadeh
-  - Ritoban Roy-Chowdhury
-  - Hang Yin
-  - Ravi Ramamoorthi
-  - Albert Chern
-track: "Journal"
-source: arxiv
+  - "Mohammad Sina Nabizadeh"
+  - "Ritoban Roy-Chowdhury"
+  - "Hang Yin"
+  - "Ravi Ramamoorthi"
+  - "Albert Chern"
 category: "Animation & Simulation"
-institution:
-  - University of California San Diego
+track: "Journal"
+source: "arxiv"
+institution: "University of California San Diego"
 tags:
-  - Fluid Simulation
-  - FLIP
-  - Structure Preserving Discretization
-  - Hamiltonian Mechanics
-  - Circulation Conservation
-  - Vorticity Conservation
+  - "Fluid Simulation"
+  - "FLIP"
+  - "Structure Preserving Discretization"
+  - "Hamiltonian Mechanics"
+  - "Circulation Conservation"
+  - "Vorticity Conservation"
 links:
   paper: "https://doi.org/10.1145/3687970"
 ---

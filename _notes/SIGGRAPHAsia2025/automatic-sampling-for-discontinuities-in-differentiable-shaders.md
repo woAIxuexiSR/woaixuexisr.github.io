@@ -1,27 +1,27 @@
 ---
 title: "Automatic Sampling for Discontinuities in Differentiable Shaders"
 authors:
-  - Yash Belhe
-  - Ishit Mehta
-  - Wesley Chang
-  - Iliyan Georgiev
-  - Michaël Gharbi
-  - Ravi Ramamoorthi
-  - Tzu-Mao Li
-track: "Journal"
-source: author-page
+  - "Yash Belhe"
+  - "Ishit Mehta"
+  - "Wesley Chang"
+  - "Iliyan Georgiev"
+  - "Michaël Gharbi"
+  - "Ravi Ramamoorthi"
+  - "Tzu-Mao Li"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - University of California San Diego
-  - Adobe Research
-  - Reve
+  - "University of California San Diego"
+  - "Adobe Research"
+  - "Reve"
 tags:
-  - Differentiable Rendering
-  - Discontinuities
-  - Boundary Sampling
-  - Shader Programming
-  - Automatic Differentiation
-  - Inverse Rendering
+  - "Differentiable Rendering"
+  - "Discontinuities"
+  - "Boundary Sampling"
+  - "Shader Programming"
+  - "Automatic Differentiation"
+  - "Inverse Rendering"
 links:
   paper: "https://doi.org/10.1145/3763291"
   project: "https://yashbelhe.github.io/asd/index.html"

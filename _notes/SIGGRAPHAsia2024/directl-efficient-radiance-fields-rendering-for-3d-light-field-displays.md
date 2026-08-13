@@ -1,25 +1,24 @@
 ---
 title: "DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays"
 authors:
-  - Zongyuan Yang
-  - Baolin Liu
-  - Yingde Song
-  - Lan Yi
-  - Yongping Xiong
-  - Zhaohe Zhang
-  - Xunbo Yu
-track: "Journal"
-source: arxiv
+  - "Zongyuan Yang"
+  - "Baolin Liu"
+  - "Yingde Song"
+  - "Lan Yi"
+  - "Yongping Xiong"
+  - "Zhaohe Zhang"
+  - "Xunbo Yu"
 category: "Rendering"
-institution:
-  - Beijing University of Posts and Telecommunications
+track: "Journal"
+source: "arxiv"
+institution: "Beijing University of Posts and Telecommunications"
 tags:
-  - Radiance Fields
-  - Light Field Displays
-  - Autostereoscopic Display
-  - NeRF
-  - 3D Gaussian Splatting
-  - Real-Time Rendering
+  - "Radiance Fields"
+  - "Light Field Displays"
+  - "Autostereoscopic Display"
+  - "NeRF"
+  - "3D Gaussian Splatting"
+  - "Real-Time Rendering"
 links:
   paper: "https://doi.org/10.1145/3687897"
   project: "https://direct-l.github.io/"

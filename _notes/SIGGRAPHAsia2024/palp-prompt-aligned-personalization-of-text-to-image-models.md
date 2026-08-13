@@ -1,28 +1,28 @@
 ---
 title: "PALP: Prompt Aligned Personalization of Text-to-Image Models"
 authors:
-  - Moab Arar
-  - Andrey Voynov
-  - Amir Hertz
-  - Omri Avrahami
-  - Shlomi Fruchter
-  - Yael Pritch
-  - Daniel Cohen-Or
-  - Ariel Shamir
-category: Neural & Generative
-track: Conference
-source: arxiv
+  - "Moab Arar"
+  - "Andrey Voynov"
+  - "Amir Hertz"
+  - "Omri Avrahami"
+  - "Shlomi Fruchter"
+  - "Yael Pritch"
+  - "Daniel Cohen-Or"
+  - "Ariel Shamir"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tel-Aviv University
-  - Google Research
-  - Reichman University
-  - The Hebrew University of Jerusalem
+  - "Tel-Aviv University"
+  - "Google Research"
+  - "Reichman University"
+  - "The Hebrew University of Jerusalem"
 tags:
-  - Text-to-Image
-  - Personalization
-  - Diffusion Model
-  - Score Distillation
-  - Prompt Alignment
+  - "Text-to-Image"
+  - "Personalization"
+  - "Diffusion Model"
+  - "Score Distillation"
+  - "Prompt Alignment"
 links:
   paper: "https://doi.org/10.1145/3680528.3687604"
   project: "https://prompt-aligned.github.io/"

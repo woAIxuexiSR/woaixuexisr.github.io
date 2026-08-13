@@ -1,26 +1,26 @@
 ---
 title: "PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems"
 authors:
-  - Weikai Lin
-  - Sushant Kondguli
-  - Carl Marshall
-  - Yuhao Zhu
-category: HCI & XR
-track: Conference
-source: arxiv
+  - "Weikai Lin"
+  - "Sushant Kondguli"
+  - "Carl Marshall"
+  - "Yuhao Zhu"
+category: "HCI & XR"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of Rochester
-  - Meta Reality Labs Research
+  - "University of Rochester"
+  - "Meta Reality Labs Research"
 tags:
-  - XR
-  - 3D Gaussian Splatting
-  - Foveated Rendering
-  - Power Optimization
-  - Neural Rendering
-  - Display Power
+  - "XR"
+  - "3D Gaussian Splatting"
+  - "Foveated Rendering"
+  - "Power Optimization"
+  - "Neural Rendering"
+  - "Display Power"
 links:
-  paper: https://doi.org/10.1145/3757377.3763851
-  code: https://github.com/horizon-research/PowerGS
+  paper: "https://doi.org/10.1145/3757377.3763851"
+  code: "https://github.com/horizon-research/PowerGS"
 ---
 
 ## 一句话总结

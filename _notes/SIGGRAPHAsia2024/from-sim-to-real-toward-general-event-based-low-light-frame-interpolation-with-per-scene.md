@@ -1,26 +1,26 @@
 ---
 title: "From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization"
 authors:
-  - Ziran Zhang
-  - Yongrui Ma
-  - Yueting Chen
-  - Feng Zhang
-  - Jinwei Gu
-  - Tianfan Xue
-  - Shi Guo
-track: "Conference"
-source: arxiv
+  - "Ziran Zhang"
+  - "Yongrui Ma"
+  - "Yueting Chen"
+  - "Feng Zhang"
+  - "Jinwei Gu"
+  - "Tianfan Xue"
+  - "Shi Guo"
 category: "Image & Video"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - Shanghai AI Laboratory
-  - The Chinese University of Hong Kong
+  - "Zhejiang University"
+  - "Shanghai AI Laboratory"
+  - "The Chinese University of Hong Kong"
 tags:
-  - Event Camera
-  - Video Frame Interpolation
-  - Low Light
-  - Per Scene Optimization
-  - Sim-to-Real
+  - "Event Camera"
+  - "Video Frame Interpolation"
+  - "Low Light"
+  - "Per Scene Optimization"
+  - "Sim-to-Real"
 links:
   paper: "https://doi.org/10.1145/3680528.3687649"
 ---

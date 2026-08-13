@@ -1,32 +1,32 @@
 ---
 title: "Transforming Unstructured Hair Strands into Procedural Hair Grooms"
 authors:
-  - Wesley Chang
-  - Andrew L. Russell
-  - Stephane Grabli
-  - Matt Jen-Yuan Chiang
-  - Christophe Hery
-  - Doug Roble
-  - Ravi Ramamoorthi
-  - Tzu-Mao Li
-  - Olivier Maury
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: University of California San Diego
+  - "Wesley Chang"
+  - "Andrew L. Russell"
+  - "Stephane Grabli"
+  - "Matt Jen-Yuan Chiang"
+  - "Christophe Hery"
+  - "Doug Roble"
+  - "Ravi Ramamoorthi"
+  - "Tzu-Mao Li"
+  - "Olivier Maury"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "University of California San Diego"
 tags:
-  - Hair Modeling
-  - Procedural Modeling
-  - Inverse Procedural Modeling
-  - Grooming Operators
-  - Guide Strands
-  - Optimization
-  - Sliced Wasserstein Distance
-  - Determinantal Point Process
+  - "Hair Modeling"
+  - "Procedural Modeling"
+  - "Inverse Procedural Modeling"
+  - "Grooming Operators"
+  - "Guide Strands"
+  - "Optimization"
+  - "Sliced Wasserstein Distance"
+  - "Determinantal Point Process"
 links:
-  paper: https://doi.org/10.1145/3731168
-  project: https://weschang.com/publications/iphg/
-  code: https://github.com/facebookresearch/iphg
+  paper: "https://doi.org/10.1145/3731168"
+  project: "https://weschang.com/publications/iphg/"
+  code: "https://github.com/facebookresearch/iphg"
 ---
 
 ## 一句话总结

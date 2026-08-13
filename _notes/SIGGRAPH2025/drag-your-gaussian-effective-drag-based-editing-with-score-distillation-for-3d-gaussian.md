@@ -1,26 +1,26 @@
 ---
 title: "Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting"
 authors:
-  - Yansong Qu
-  - Dian Chen
-  - Xinyang Li
-  - Xiaofan Li
-  - Shengchuan Zhang
-  - Liujuan Cao
-  - Rongrong Ji
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Xiamen University
+  - "Yansong Qu"
+  - "Dian Chen"
+  - "Xinyang Li"
+  - "Xiaofan Li"
+  - "Shengchuan Zhang"
+  - "Liujuan Cao"
+  - "Rongrong Ji"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Xiamen University"
 tags:
-  - 3D Gaussian Splatting
-  - Drag-Based Editing
-  - Score Distillation
-  - Diffusion Model
-  - 3D Scene Editing
+  - "3D Gaussian Splatting"
+  - "Drag-Based Editing"
+  - "Score Distillation"
+  - "Diffusion Model"
+  - "3D Scene Editing"
 links:
-  paper: https://doi.org/10.1145/3721238.3730600
-  project: https://quyans.github.io/Drag-Your-Gaussian/
+  paper: "https://doi.org/10.1145/3721238.3730600"
+  project: "https://quyans.github.io/Drag-Your-Gaussian/"
 ---
 
 ## 一句话总结

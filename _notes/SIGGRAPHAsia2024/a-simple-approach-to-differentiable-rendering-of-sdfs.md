@@ -1,23 +1,23 @@
 ---
 title: "A Simple Approach to Differentiable Rendering of SDFs"
 authors:
-  - Zichen Wang
-  - Xi Deng
-  - Ziyi Zhang
-  - Wenzel Jakob
-  - Steve Marschner
-track: "Conference"
-source: arxiv
+  - "Zichen Wang"
+  - "Xi Deng"
+  - "Ziyi Zhang"
+  - "Wenzel Jakob"
+  - "Steve Marschner"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Cornell University
-  - EPFL
+  - "Cornell University"
+  - "EPFL"
 tags:
-  - Differentiable Rendering
-  - Signed Distance Field
-  - Inverse Rendering
-  - Monte Carlo
-  - Boundary Integral
+  - "Differentiable Rendering"
+  - "Signed Distance Field"
+  - "Inverse Rendering"
+  - "Monte Carlo"
+  - "Boundary Integral"
 links:
   paper: "https://doi.org/10.1145/3680528.3687573"
 ---

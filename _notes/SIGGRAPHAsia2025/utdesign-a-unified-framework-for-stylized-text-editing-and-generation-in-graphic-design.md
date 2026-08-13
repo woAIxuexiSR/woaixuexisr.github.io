@@ -1,28 +1,28 @@
 ---
 title: "UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images"
 authors:
-  - Yiming Zhao
-  - Yuanpeng Gao
-  - Yuxuan Luo
-  - Jiwei Duan
-  - Shisong Lin
-  - Longfei Xiong
-  - Zhouhui Lian
-category: Neural & Generative
+  - "Yiming Zhao"
+  - "Yuanpeng Gao"
+  - "Yuxuan Luo"
+  - "Jiwei Duan"
+  - "Shisong Lin"
+  - "Longfei Xiong"
+  - "Zhouhui Lian"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Peking University
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Diffusion Model
-  - Diffusion Transformer
-  - Text Editing
-  - Text Generation
-  - Graphic Design
-  - Style Transfer
+  - "Diffusion Model"
+  - "Diffusion Transformer"
+  - "Text Editing"
+  - "Text Generation"
+  - "Graphic Design"
+  - "Style Transfer"
 links:
-  paper: https://doi.org/10.1145/3757377.3763923
-  project: https://github.com/ZYM-PKU/UTDesign
-  code: https://github.com/ZYM-PKU/UTDesign
+  paper: "https://doi.org/10.1145/3757377.3763923"
+  project: "https://github.com/ZYM-PKU/UTDesign"
+  code: "https://github.com/ZYM-PKU/UTDesign"
 ---
 
 ## 一句话总结

@@ -1,22 +1,22 @@
 ---
 title: "ANIME-Rod: Adjustable Nonlinear Isotropic Materials for Elastic Rods"
 authors:
-  - Huanyu Chen
-  - Jiahao Wen
-  - Jernej Barbič
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: University of Southern California
+  - "Huanyu Chen"
+  - "Jiahao Wen"
+  - "Jernej Barbič"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "University of Southern California"
 tags:
-  - Elastic Rods
-  - Nonlinear Materials
-  - Hyperelasticity
-  - Isotropic Materials
-  - Physical Simulation
-  - Differential Geometry
-  - Cross-Sectional Deformation
-  - Kirchhoff Rods
+  - "Elastic Rods"
+  - "Nonlinear Materials"
+  - "Hyperelasticity"
+  - "Isotropic Materials"
+  - "Physical Simulation"
+  - "Differential Geometry"
+  - "Cross-Sectional Deformation"
+  - "Kirchhoff Rods"
 links:
   paper: "https://doi.org/10.1145/3731208"
   project: "https://viterbi-web.usc.edu/~jbarbic/fcurves/"

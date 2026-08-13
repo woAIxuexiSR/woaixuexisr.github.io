@@ -1,25 +1,25 @@
 ---
 title: "Accelerate Neural Subspace-Based Reduced-Order Solver of Deformable Simulation by Lipschitz Optimization"
 authors:
-  - Aoran Lyu
-  - Shixian Zhao
-  - Chuhua Xian
-  - Zhihao Cen
-  - Hongmin Cai
-  - Guoxin Fang
-track: "Journal"
-source: arxiv
+  - "Aoran Lyu"
+  - "Shixian Zhao"
+  - "Chuhua Xian"
+  - "Zhihao Cen"
+  - "Hongmin Cai"
+  - "Guoxin Fang"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - South China University of Technology
-  - The Chinese University of Hong Kong
-  - The University of Manchester
+  - "South China University of Technology"
+  - "The Chinese University of Hong Kong"
+  - "The University of Manchester"
 tags:
-  - Deformable Simulation
-  - Model Reduction
-  - Neural Subspace
-  - Lipschitz Optimization
-  - Reduced Order Solver
+  - "Deformable Simulation"
+  - "Model Reduction"
+  - "Neural Subspace"
+  - "Lipschitz Optimization"
+  - "Reduced Order Solver"
 links:
   paper: "https://doi.org/10.1145/3687961"
   project: "https://lip-neural-subspace.github.io/"

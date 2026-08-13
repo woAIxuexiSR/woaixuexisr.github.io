@@ -1,24 +1,24 @@
 ---
 title: "SZ Sequences: Binary-Based (0, 2^q)-Sequences"
 authors:
-  - Abdalla G. M. Ahmed
-  - Matt Pharr
-  - Victor Ostromoukhov
-  - Hui Huang
-category: Rendering
-track: Journal
-source: arxiv
-institution: Shenzhen University
+  - "Abdalla G. M. Ahmed"
+  - "Matt Pharr"
+  - "Victor Ostromoukhov"
+  - "Hui Huang"
+category: "Rendering"
+track: "Journal"
+source: "arxiv"
+institution: "Shenzhen University"
 tags:
-  - Low Discrepancy Sequences
-  - Quasi Monte Carlo
-  - Sampling
-  - Rendering
-  - Generator Matrices
-  - Sobol Sequences
+  - "Low Discrepancy Sequences"
+  - "Quasi Monte Carlo"
+  - "Sampling"
+  - "Rendering"
+  - "Generator Matrices"
+  - "Sobol Sequences"
 links:
-  paper: https://doi.org/10.1145/3763272
-  project: https://research.nvidia.com/labs/rtr/publication/ahmed2025/
+  paper: "https://doi.org/10.1145/3763272"
+  project: "https://research.nvidia.com/labs/rtr/publication/ahmed2025/"
 ---
 
 ## 一句话总结

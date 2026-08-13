@@ -1,22 +1,22 @@
 ---
-title: Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering
+title: "Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering"
 authors:
-  - Hai-Long Qin
-  - Sixian Wang
-  - Guo Lu
-  - Jincheng Dai
-category: Rendering
-track: Conference
-source: arxiv
-institution: Beijing University of Posts and Telecommunications
+  - "Hai-Long Qin"
+  - "Sixian Wang"
+  - "Guo Lu"
+  - "Jincheng Dai"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "Beijing University of Posts and Telecommunications"
 tags:
-  - Novel View Synthesis
-  - 3D Gaussian Splatting
-  - Dynamic Scene Rendering
-  - Hamiltonian Mechanics
-  - Deformation Field
+  - "Novel View Synthesis"
+  - "3D Gaussian Splatting"
+  - "Dynamic Scene Rendering"
+  - "Hamiltonian Mechanics"
+  - "Deformation Field"
 links:
-  paper: https://doi.org/10.1145/3757377.3764000
+  paper: "https://doi.org/10.1145/3757377.3764000"
 ---
 
 ## 一句话总结

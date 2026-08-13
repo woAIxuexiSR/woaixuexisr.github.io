@@ -1,22 +1,22 @@
 ---
 title: "FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters"
 authors:
-  - Minkwan Kim
-  - Yoonsang Lee
-category: Animation & Simulation
+  - "Minkwan Kim"
+  - "Yoonsang Lee"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: Hanyang University
+source: "arxiv"
+institution: "Hanyang University"
 tags:
-  - Motion-Free Learning
-  - Musculoskeletal Simulation
-  - Reinforcement Learning
-  - Character Animation
-  - Locomotion Control
-  - Latent Space
+  - "Motion-Free Learning"
+  - "Musculoskeletal Simulation"
+  - "Reinforcement Learning"
+  - "Character Animation"
+  - "Locomotion Control"
+  - "Latent Space"
 links:
-  paper: https://doi.org/10.1145/3757377.3764002
-  code: https://github.com/palkan21/FreeMusco
+  paper: "https://doi.org/10.1145/3757377.3764002"
+  code: "https://github.com/palkan21/FreeMusco"
 ---
 
 ## 一句话总结

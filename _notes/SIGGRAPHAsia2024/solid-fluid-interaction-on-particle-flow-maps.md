@@ -1,30 +1,30 @@
 ---
 title: "Solid-Fluid Interaction on Particle Flow Maps"
 authors:
-  - Duowen Chen
-  - Zhiqi Li
-  - Junwei Zhou
-  - Fan Feng
-  - Tao Du
-  - Bo Zhu
-track: "Journal"
-source: arxiv
+  - "Duowen Chen"
+  - "Zhiqi Li"
+  - "Junwei Zhou"
+  - "Fan Feng"
+  - "Tao Du"
+  - "Bo Zhu"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Georgia Institute of Technology
-  - Purdue University
-  - University of Michigan
-  - Dartmouth College
-  - Tsinghua University
-  - Shanghai Qi Zhi Institute
+  - "Georgia Institute of Technology"
+  - "Purdue University"
+  - "University of Michigan"
+  - "Dartmouth College"
+  - "Tsinghua University"
+  - "Shanghai Qi Zhi Institute"
 tags:
-  - Fluid Solid Interaction
-  - Particle Flow Map
-  - Impulse Gauge Fluid
-  - Vortex Dynamics
-  - Path Integral
-  - MPM
-  - IBM
+  - "Fluid Solid Interaction"
+  - "Particle Flow Map"
+  - "Impulse Gauge Fluid"
+  - "Vortex Dynamics"
+  - "Path Integral"
+  - "MPM"
+  - "IBM"
 links:
   paper: "https://doi.org/10.1145/3687959"
 ---

@@ -1,26 +1,26 @@
 ---
 title: "Differentiable Geometric Acoustic Path Tracing using Time-Resolved Path Replay Backpropagation"
 authors:
-  - Ugo Paavo Finnendahl
-  - Markus Worchel
-  - Tobias Jüterbock
-  - Daniel Wujecki
-  - Fabian Brinkmann
-  - Stefan Weinzierl
-  - Marc Alexa
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: TU Berlin
+  - "Ugo Paavo Finnendahl"
+  - "Markus Worchel"
+  - "Tobias Jüterbock"
+  - "Daniel Wujecki"
+  - "Fabian Brinkmann"
+  - "Stefan Weinzierl"
+  - "Marc Alexa"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "TU Berlin"
 tags:
-  - Differentiable Rendering
-  - Geometric Acoustics
-  - Path Tracing
-  - Path Replay Backpropagation
-  - Physically-Based Simulation
-  - Inverse Rendering
-  - Room Acoustics
-  - Acoustic Optimization
+  - "Differentiable Rendering"
+  - "Geometric Acoustics"
+  - "Path Tracing"
+  - "Path Replay Backpropagation"
+  - "Physically-Based Simulation"
+  - "Inverse Rendering"
+  - "Room Acoustics"
+  - "Acoustic Optimization"
 links:
   paper: "https://doi.org/10.1145/3730900"
   project: "https://www.tu.berlin/en/ak/research/projects/differentiable-acoustic-path-tracing"

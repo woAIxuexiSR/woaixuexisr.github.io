@@ -1,24 +1,24 @@
 ---
 title: "Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion"
 authors:
-  - Wang Zhao
-  - Yan-Pei Cao
-  - Jiale Xu
-  - Yuejiang Dong
-  - Ying Shan
-category: Neural & Generative
+  - "Wang Zhao"
+  - "Yan-Pei Cao"
+  - "Jiale Xu"
+  - "Yuejiang Dong"
+  - "Ying Shan"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Tencent ARC Lab
+source: "arxiv"
+institution: "Tencent ARC Lab"
 tags:
-  - 3D Part Assembly
-  - Diffusion Model
-  - Point Cloud
-  - 3D Generation
-  - Anchor Points
+  - "3D Part Assembly"
+  - "Diffusion Model"
+  - "Point Cloud"
+  - "3D Generation"
+  - "Anchor Points"
 links:
-  paper: https://doi.org/10.1145/3757377.3763972
-  project: https://assembler3d.github.io
+  paper: "https://doi.org/10.1145/3757377.3763972"
+  project: "https://assembler3d.github.io"
 ---
 
 ## 一句话总结

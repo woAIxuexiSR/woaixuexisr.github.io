@@ -1,26 +1,26 @@
 ---
 title: "Coherent Optical Modems for Full-Wavefield Lidar"
 authors:
-  - Parsa Mirdehghan
-  - Brandon Buscaino
-  - Maxx Wu
-  - Doug Charlton
-  - Mohammad E. Mousa-Pasandi
-  - Kiriakos N. Kutulakos
-  - David B. Lindell
-category: Reconstruction
-track: Conference
-source: author-page
+  - "Parsa Mirdehghan"
+  - "Brandon Buscaino"
+  - "Maxx Wu"
+  - "Doug Charlton"
+  - "Mohammad E. Mousa-Pasandi"
+  - "Kiriakos N. Kutulakos"
+  - "David B. Lindell"
+category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - University of Toronto
-  - Ciena Corporation
+  - "University of Toronto"
+  - "Ciena Corporation"
 tags:
-  - Coherent LiDAR
-  - Coherent Optical Modem
-  - 3D Imaging
-  - Doppler Velocimetry
-  - Polarization Imaging
-  - RMCW LiDAR
+  - "Coherent LiDAR"
+  - "Coherent Optical Modem"
+  - "3D Imaging"
+  - "Doppler Velocimetry"
+  - "Polarization Imaging"
+  - "RMCW LiDAR"
 links:
   paper: "https://doi.org/10.1145/3680528.3687663"
 ---

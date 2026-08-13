@@ -1,22 +1,22 @@
 ---
 title: "InstanceGen: Image Generation with Instance-level Instructions"
 authors:
-  - Etai Sella
-  - Yanir Kleiman
-  - Hadar Averbuch-Elor
-category: Neural & Generative
-track: Conference
-source: arxiv
+  - "Etai Sella"
+  - "Yanir Kleiman"
+  - "Hadar Averbuch-Elor"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tel Aviv University
-  - Meta
-  - Cornell University
+  - "Tel Aviv University"
+  - "Meta"
+  - "Cornell University"
 tags:
-  - Diffusion Model
-  - Text-to-Image
-  - Layout Control
-  - Attention Guidance
-  - Large Language Model
+  - "Diffusion Model"
+  - "Text-to-Image"
+  - "Layout Control"
+  - "Attention Guidance"
+  - "Large Language Model"
 links:
   paper: "https://doi.org/10.1145/3721238.3730613"
 ---

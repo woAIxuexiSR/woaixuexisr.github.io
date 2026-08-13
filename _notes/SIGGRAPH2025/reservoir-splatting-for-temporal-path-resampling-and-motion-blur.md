@@ -1,25 +1,25 @@
 ---
 title: "Reservoir Splatting for Temporal Path Resampling and Motion Blur"
 authors:
-  - Jeffrey Liu
-  - Daqi Lin
-  - Markus Kettunen
-  - Chris Wyman
-  - Ravi Ramamoorthi
+  - "Jeffrey Liu"
+  - "Daqi Lin"
+  - "Markus Kettunen"
+  - "Chris Wyman"
+  - "Ravi Ramamoorthi"
+category: "Rendering"
 track: "Conference"
-source: author-page
-category: Rendering
+source: "author-page"
 institution:
-  - NVIDIA
-  - University of Illinois Urbana-Champaign
-  - UC San Diego
+  - "NVIDIA"
+  - "University of Illinois Urbana-Champaign"
+  - "UC San Diego"
 tags:
-  - ReSTIR
-  - Path Tracing
-  - Motion Blur
-  - Depth Of Field
-  - Real-Time Rendering
-  - Importance Sampling
+  - "ReSTIR"
+  - "Path Tracing"
+  - "Motion Blur"
+  - "Depth Of Field"
+  - "Real-Time Rendering"
+  - "Importance Sampling"
 links:
   paper: "https://doi.org/10.1145/3721238.3730646"
   project: "https://research.nvidia.com/labs/rtr/publication/liu2025splatting/"

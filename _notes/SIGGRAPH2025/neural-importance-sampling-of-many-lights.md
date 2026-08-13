@@ -1,20 +1,20 @@
 ---
 title: "Neural Importance Sampling of Many Lights"
 authors:
-  - Pedro Figueirêdo
-  - Qihao He
-  - Steve Bako
-  - Nima Khademi Kalantari
-category: Rendering
-track: Conference
-source: arxiv
-institution: Texas A&M University
+  - "Pedro Figueirêdo"
+  - "Qihao He"
+  - "Steve Bako"
+  - "Nima Khademi Kalantari"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "Texas A&M University"
 tags:
-  - Many Lights Rendering
-  - Importance Sampling
-  - Monte Carlo Rendering
-  - Neural Networks
-  - Next Event Estimation
+  - "Many Lights Rendering"
+  - "Importance Sampling"
+  - "Monte Carlo Rendering"
+  - "Neural Networks"
+  - "Next Event Estimation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730754"
 ---

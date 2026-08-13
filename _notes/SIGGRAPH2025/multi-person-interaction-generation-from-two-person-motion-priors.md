@@ -1,20 +1,20 @@
 ---
 title: "Multi-Person Interaction Generation from Two-Person Motion Priors"
 authors:
-  - Wenning Xu
-  - Shiyu Fan
-  - Paul Henderson
-  - Edmond S. L. Ho
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: University of Glasgow
+  - "Wenning Xu"
+  - "Shiyu Fan"
+  - "Paul Henderson"
+  - "Edmond S. L. Ho"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "University of Glasgow"
 tags:
-  - Character Animation
-  - Motion Synthesis
-  - Diffusion Model
-  - Multi-Person Interaction
-  - Close Interaction
+  - "Character Animation"
+  - "Motion Synthesis"
+  - "Diffusion Model"
+  - "Multi-Person Interaction"
+  - "Close Interaction"
 links:
   paper: "https://doi.org/10.1145/3721238.3730688"
 ---

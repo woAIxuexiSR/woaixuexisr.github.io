@@ -1,23 +1,22 @@
 ---
 title: "Portrait Video Editing Empowered by Multimodal Generative Priors"
 authors:
-  - Xuan Gao
-  - Haiyao Xiao
-  - Chenglai Zhong
-  - Shimin Hu
-  - Yudong Guo
-  - Juyong Zhang
-track: "Conference"
-source: arxiv
+  - "Xuan Gao"
+  - "Haiyao Xiao"
+  - "Chenglai Zhong"
+  - "Shimin Hu"
+  - "Yudong Guo"
+  - "Juyong Zhang"
 category: "Neural & Generative"
-institution:
-  - University of Science and Technology of China
+track: "Conference"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - 4D Portrait Reconstruction
-  - 3D Gaussian Splatting
-  - Video Editing
-  - Generative Priors
-  - Multimodal
+  - "4D Portrait Reconstruction"
+  - "3D Gaussian Splatting"
+  - "Video Editing"
+  - "Generative Priors"
+  - "Multimodal"
 links:
   paper: "https://doi.org/10.1145/3680528.3687601"
 ---

@@ -19,9 +19,9 @@ tags:
   - "Sketch Editing"
   - "Class-Agnostic Fine-Tuning"
 links:
-  paper: https://doi.org/10.1145/3721238.3730606
-  project: https://inklayer.github.io
-  code: https://inklayer.github.io
+  paper: "https://doi.org/10.1145/3721238.3730606"
+  project: "https://inklayer.github.io"
+  code: "https://inklayer.github.io"
 ---
 
 ## 一句话总结

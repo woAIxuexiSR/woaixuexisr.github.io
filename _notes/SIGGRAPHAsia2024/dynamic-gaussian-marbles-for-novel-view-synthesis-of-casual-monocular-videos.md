@@ -1,25 +1,25 @@
 ---
 title: "Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos"
 authors:
-  - Colton Stearns
-  - Adam W. Harley
-  - Mikaela Angelina Uy
-  - Florian Dubost
-  - Federico Tombari
-  - Gordon Wetzstein
-  - Leonidas J. Guibas
-category: Reconstruction
+  - "Colton Stearns"
+  - "Adam W. Harley"
+  - "Mikaela Angelina Uy"
+  - "Florian Dubost"
+  - "Federico Tombari"
+  - "Gordon Wetzstein"
+  - "Leonidas J. Guibas"
+category: "Reconstruction"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Stanford University
-  - Google
+  - "Stanford University"
+  - "Google"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Monocular Video
-  - Dynamic Scenes
-  - Point Tracking
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Monocular Video"
+  - "Dynamic Scenes"
+  - "Point Tracking"
 links:
   paper: "https://doi.org/10.1145/3680528.3687681"
 ---

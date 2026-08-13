@@ -1,26 +1,26 @@
 ---
 title: "DiffCSG: Differentiable CSG via Rasterization"
 authors:
-  - Haocheng Yuan
-  - Adrien Bousseau
-  - Hao Pan
-  - Chengquan Zhang
-  - Niloy J. Mitra
-  - Changjian Li
-category: Geometry & Modeling
-track: Conference
-source: arxiv
+  - "Haocheng Yuan"
+  - "Adrien Bousseau"
+  - "Hao Pan"
+  - "Chengquan Zhang"
+  - "Niloy J. Mitra"
+  - "Changjian Li"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - The University of Edinburgh
-  - Inria
-  - Microsoft Research Asia
-  - Nanjing University
-  - University College London
+  - "The University of Edinburgh"
+  - "Inria"
+  - "Microsoft Research Asia"
+  - "Nanjing University"
+  - "University College London"
 tags:
-  - Constructive Solid Geometry
-  - CAD
-  - Differentiable Rasterization
-  - Inverse Rendering
+  - "Constructive Solid Geometry"
+  - "CAD"
+  - "Differentiable Rasterization"
+  - "Inverse Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687608"
   project: "https://yyyyyhc.github.io/DiffCSG/"

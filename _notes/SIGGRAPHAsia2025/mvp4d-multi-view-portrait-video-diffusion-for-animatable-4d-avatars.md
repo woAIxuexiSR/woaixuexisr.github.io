@@ -1,23 +1,22 @@
 ---
 title: "MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars"
 authors:
-  - Felix Taubner
-  - Ruihang Zhang
-  - Mathieu Tuli
-  - Sherwin Bahmani
-  - David B. Lindell
+  - "Felix Taubner"
+  - "Ruihang Zhang"
+  - "Mathieu Tuli"
+  - "Sherwin Bahmani"
+  - "David B. Lindell"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - University of Toronto
+source: "arxiv"
+institution: "University of Toronto"
 tags:
-  - Video Diffusion Model
-  - 4D Avatar
-  - Multi-View Generation
-  - Diffusion Transformer
-  - Gaussian Splatting
-  - Portrait Animation
+  - "Video Diffusion Model"
+  - "4D Avatar"
+  - "Multi-View Generation"
+  - "Diffusion Transformer"
+  - "Gaussian Splatting"
+  - "Portrait Animation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763889"
   project: "https://felixtaubner.github.io/mvp4d/"

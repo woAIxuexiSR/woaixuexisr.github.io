@@ -1,26 +1,26 @@
 ---
-title: A Versatile Quaternion-Based Constrained Rigid Body Dynamics
+title: "A Versatile Quaternion-Based Constrained Rigid Body Dynamics"
 authors:
-  - Guirec Maloisel
-  - Ruben Grandia
-  - Christian Schumacher
-  - Espen Knoop
-  - Moritz Bächer
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: Disney Research
+  - "Guirec Maloisel"
+  - "Ruben Grandia"
+  - "Christian Schumacher"
+  - "Espen Knoop"
+  - "Moritz Bächer"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "Disney Research"
 tags:
-  - Rigid Body Dynamics
-  - Quaternion
-  - Kinematic Constraints
-  - Implicit Integration
-  - Differentiable Simulation
-  - Multibody Dynamics
-  - Lagrange Multipliers
-  - Mechanism Simulation
+  - "Rigid Body Dynamics"
+  - "Quaternion"
+  - "Kinematic Constraints"
+  - "Implicit Integration"
+  - "Differentiable Simulation"
+  - "Multibody Dynamics"
+  - "Lagrange Multipliers"
+  - "Mechanism Simulation"
 links:
-  paper: https://doi.org/10.1145/3730872
+  paper: "https://doi.org/10.1145/3730872"
 ---
 
 ## 一句话总结

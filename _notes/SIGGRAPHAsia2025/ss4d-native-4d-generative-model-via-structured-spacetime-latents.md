@@ -1,32 +1,32 @@
 ---
 title: "SS4D: Native 4D Generative Model via Structured Spacetime Latents"
 authors:
-  - Zhibing Li
-  - Mengchen Zhang
-  - Tong Wu
-  - Jing Tan
-  - Jiaqi Wang
-  - Dahua Lin
-category: Neural & Generative
-track: Journal
-source: arxiv
+  - "Zhibing Li"
+  - "Mengchen Zhang"
+  - "Tong Wu"
+  - "Jing Tan"
+  - "Jiaqi Wang"
+  - "Dahua Lin"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The Chinese University of Hong Kong
-  - Shanghai AI Laboratory
-  - Zhejiang University
-  - Stanford University
+  - "The Chinese University of Hong Kong"
+  - "Shanghai AI Laboratory"
+  - "Zhejiang University"
+  - "Stanford University"
 tags:
-  - 4D Generation
-  - 3D Generation
-  - Generative Model
-  - Spacetime Latents
-  - Temporal Consistency
-  - Monocular Video
-  - 3D Gaussians
+  - "4D Generation"
+  - "3D Generation"
+  - "Generative Model"
+  - "Spacetime Latents"
+  - "Temporal Consistency"
+  - "Monocular Video"
+  - "3D Gaussians"
 links:
-  paper: https://doi.org/10.1145/3763302
-  project: https://lizb6626.github.io/SS4D/
-  code: https://github.com/Lizb6626/SS4D/
+  paper: "https://doi.org/10.1145/3763302"
+  project: "https://lizb6626.github.io/SS4D/"
+  code: "https://github.com/Lizb6626/SS4D/"
 ---
 
 ## 一句话总结

@@ -1,25 +1,25 @@
 ---
 title: "PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image"
 authors:
-  - Pradyumna Yalandur Muralidhar
-  - Yuxuan Xue
-  - Xianghui Xie
-  - Margaret Kostyrko
-  - Gerard Pons-Moll
-category: Reconstruction
+  - "Pradyumna Yalandur Muralidhar"
+  - "Yuxuan Xue"
+  - "Xianghui Xie"
+  - "Margaret Kostyrko"
+  - "Gerard Pons-Moll"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: University of Tübingen
+source: "arxiv"
+institution: "University of Tübingen"
 tags:
-  - Human-Scene Interaction
-  - 3D Reconstruction
-  - SMPL-X
-  - Contact Estimation
-  - Monocular Depth
-  - Scene Understanding
+  - "Human-Scene Interaction"
+  - "3D Reconstruction"
+  - "SMPL-X"
+  - "Contact Estimation"
+  - "Monocular Depth"
+  - "Scene Understanding"
 links:
-  paper: https://doi.org/10.1145/3757377.3763862
-  project: https://yuxuan-xue.com/physic
+  paper: "https://doi.org/10.1145/3757377.3763862"
+  project: "https://yuxuan-xue.com/physic"
 ---
 
 ## 一句话总结

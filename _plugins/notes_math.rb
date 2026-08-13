@@ -65,12 +65,21 @@ module NotesMath
     spans.each_with_index do |span, index|
       marker = "#{PREFIX}#{index}#{SUFFIX}"
       open_d, close_d = span[:mode] == :display ? ["\\[", "\\]"] : ["\\(", "\\)"]
-      replacement = "#{open_d}#{span[:tex]}#{close_d}"
+      replacement = "#{open_d}#{escape_html(span[:tex])}#{close_d}"
       # Block form so backslashes in `replacement` are not treated as
       # regex back-references.
       output = output.sub(marker) { replacement }
     end
     output
+  end
+
+  # Escape `<`, `>`, `&` inside restored math to HTML entities. A bare `<` (e.g.
+  # `j<k` in `\prod_{0\le j<k}`) would otherwise be parsed as the start of an
+  # HTML tag, swallowing the rest of the formula and following text. The browser
+  # decodes these entities back to literal characters in the text node, and
+  # MathJax v3 reads that decoded textContent — so it still receives `<`/`>`/`&`.
+  def escape_html(tex)
+    tex.gsub("&", "&amp;").gsub("<", "&lt;").gsub(">", "&gt;")
   end
 
   def notes_doc?(doc)

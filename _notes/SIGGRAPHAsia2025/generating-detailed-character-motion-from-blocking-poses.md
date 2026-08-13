@@ -1,21 +1,20 @@
 ---
 title: "Generating Detailed Character Motion from Blocking Poses"
 authors:
-  - Purvi Goel
-  - Guy Tevet
-  - C. Karen Liu
-  - Kayvon Fatahalian
+  - "Purvi Goel"
+  - "Guy Tevet"
+  - "C. Karen Liu"
+  - "Kayvon Fatahalian"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution:
-  - Stanford University
+source: "arxiv"
+institution: "Stanford University"
 tags:
-  - Motion Synthesis
-  - Diffusion Model
-  - Character Animation
-  - Keyframe Animation
-  - Motion Inbetweening
+  - "Motion Synthesis"
+  - "Diffusion Model"
+  - "Character Animation"
+  - "Keyframe Animation"
+  - "Motion Inbetweening"
 links:
   paper: "https://doi.org/10.1145/3757377.3763874"
 ---

@@ -1,26 +1,26 @@
 ---
 title: "Generating 360° Video is What You Need For a 3D Scene"
 authors:
-  - Zhaoyang Zhang
-  - Yannick Hold-Geoffroy
-  - Miloš Hašan
-  - Ziwen Chen
-  - Fujun Luan
-  - Julie Dorsey
-  - Yiwei Hu
-track: "Conference"
-source: arxiv
+  - "Zhaoyang Zhang"
+  - "Yannick Hold-Geoffroy"
+  - "Miloš Hašan"
+  - "Ziwen Chen"
+  - "Fujun Luan"
+  - "Julie Dorsey"
+  - "Yiwei Hu"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Yale University
-  - Adobe Research
+  - "Yale University"
+  - "Adobe Research"
 tags:
-  - 360 Video Generation
-  - Diffusion Model
-  - 3D Scene Generation
-  - Gaussian Splatting
-  - Text To Video
-  - Panoramic Video
+  - "360 Video Generation"
+  - "Diffusion Model"
+  - "3D Scene Generation"
+  - "Gaussian Splatting"
+  - "Text To Video"
+  - "Panoramic Video"
 links:
   paper: "https://doi.org/10.1145/3757377.3763876"
   project: "https://graphics.cs.yale.edu/publications/generating-360-video-what-you-need-3d-scene"

@@ -1,25 +1,25 @@
 ---
 title: "ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling"
 authors:
-  - Deok-Kyeong Jang
-  - Dongseok Yang
-  - Deok-Yun Jang
-  - Byeoli Choi
-  - Sung-Hee Lee
-  - Donghoon Shin
-track: "Journal"
-source: arxiv
+  - "Deok-Kyeong Jang"
+  - "Dongseok Yang"
+  - "Deok-Yun Jang"
+  - "Byeoli Choi"
+  - "Sung-Hee Lee"
+  - "Donghoon Shin"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - MOVIN Inc.
-  - KAIST
+  - "MOVIN Inc."
+  - "KAIST"
 tags:
-  - Motion Capture
-  - LiDAR
-  - Point Cloud
-  - Motion Upsampling
-  - Transformer
-  - Character Animation
+  - "Motion Capture"
+  - "LiDAR"
+  - "Point Cloud"
+  - "Motion Upsampling"
+  - "Transformer"
+  - "Character Animation"
 links:
   paper: "https://doi.org/10.1145/3687991"
   project: "https://movin3d.github.io/ELMO_SIGASIA2024/"

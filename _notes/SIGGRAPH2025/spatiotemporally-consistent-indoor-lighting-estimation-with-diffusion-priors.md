@@ -1,21 +1,20 @@
 ---
 title: "Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors"
 authors:
-  - Mutian Tong
-  - Rundi Wu
-  - Changxi Zheng
+  - "Mutian Tong"
+  - "Rundi Wu"
+  - "Changxi Zheng"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-category: Rendering
-institution:
-  - Columbia University
+source: "arxiv"
+institution: "Columbia University"
 tags:
-  - Lighting Estimation
-  - Diffusion Model
-  - Inverse Rendering
-  - HDR
-  - Score Distillation
-  - Augmented Reality
+  - "Lighting Estimation"
+  - "Diffusion Model"
+  - "Inverse Rendering"
+  - "HDR"
+  - "Score Distillation"
+  - "Augmented Reality"
 links:
   paper: "https://doi.org/10.1145/3721238.3730749"
 ---

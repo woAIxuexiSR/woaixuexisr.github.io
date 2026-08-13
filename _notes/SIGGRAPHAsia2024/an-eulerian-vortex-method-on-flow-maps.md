@@ -1,28 +1,28 @@
 ---
 title: "An Eulerian Vortex Method on Flow Maps"
 authors:
-  - Sinan Wang
-  - Yitong Deng
-  - Molin Deng
-  - Hong-Xing Yu
-  - Junwei Zhou
-  - Duowen Chen
-  - Taku Komura
-  - Jiajun Wu
-  - Bo Zhu
-track: "Journal"
-source: arxiv
+  - "Sinan Wang"
+  - "Yitong Deng"
+  - "Molin Deng"
+  - "Hong-Xing Yu"
+  - "Junwei Zhou"
+  - "Duowen Chen"
+  - "Taku Komura"
+  - "Jiajun Wu"
+  - "Bo Zhu"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Georgia Institute of Technology
-  - Stanford University
-  - The University of Hong Kong
+  - "Georgia Institute of Technology"
+  - "Stanford University"
+  - "The University of Hong Kong"
 tags:
-  - Fluid Simulation
-  - Flow Map
-  - Vortex Method
-  - Eulerian
-  - Incompressible Flow
+  - "Fluid Simulation"
+  - "Flow Map"
+  - "Vortex Method"
+  - "Eulerian"
+  - "Incompressible Flow"
 links:
   paper: "https://doi.org/10.1145/3687996"
 ---

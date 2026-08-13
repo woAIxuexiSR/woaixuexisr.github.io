@@ -1,23 +1,23 @@
 ---
 title: "Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video"
 authors:
-  - Yarin Bekor
-  - Gal Michael Harari
-  - Or Perel
-  - Or Litany
-category: Animation & Simulation
+  - "Yarin Bekor"
+  - "Gal Michael Harari"
+  - "Or Perel"
+  - "Or Litany"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: Technion - Israel Institute of Technology
+source: "arxiv"
+institution: "Technion - Israel Institute of Technology"
 tags:
-  - 3D Motion Transfer
-  - 3D Gaussian Splatting
-  - Video Diffusion
-  - Motion Embedding
-  - 4D Reconstruction
+  - "3D Motion Transfer"
+  - "3D Gaussian Splatting"
+  - "Video Diffusion"
+  - "Motion Embedding"
+  - "4D Reconstruction"
 links:
-  paper: https://doi.org/10.1145/3757377.3763992
-  project: https://gsgd-motiontransfer.github.io
+  paper: "https://doi.org/10.1145/3757377.3763992"
+  project: "https://gsgd-motiontransfer.github.io"
 ---
 
 ## 一句话总结

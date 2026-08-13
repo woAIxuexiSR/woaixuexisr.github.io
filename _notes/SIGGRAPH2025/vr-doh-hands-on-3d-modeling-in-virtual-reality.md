@@ -1,26 +1,26 @@
 ---
 title: "VR-Doh: Hands-on 3D Modeling in Virtual Reality"
 authors:
-  - Zhaofeng Luo
-  - Zhitong Cui
-  - Shijian Luo
-  - Mengyu Chu
-  - Minchen Li
-category: HCI & XR
-track: Journal
-source: arxiv
-institution: Carnegie Mellon University
+  - "Zhaofeng Luo"
+  - "Zhitong Cui"
+  - "Shijian Luo"
+  - "Mengyu Chu"
+  - "Minchen Li"
+category: "HCI & XR"
+track: "Journal"
+source: "arxiv"
+institution: "Carnegie Mellon University"
 tags:
-  - Virtual Reality
-  - 3D Modeling
-  - Material Point Method
-  - Elastoplasticity Simulation
-  - Gaussian Splatting
-  - Hand Interaction
-  - Human-Computer Interaction
+  - "Virtual Reality"
+  - "3D Modeling"
+  - "Material Point Method"
+  - "Elastoplasticity Simulation"
+  - "Gaussian Splatting"
+  - "Hand Interaction"
+  - "Human-Computer Interaction"
 links:
-  paper: https://doi.org/10.1145/3731154
-  code: https://github.com/Simulation-Intelligence/VR-Doh
+  paper: "https://doi.org/10.1145/3731154"
+  code: "https://github.com/Simulation-Intelligence/VR-Doh"
 ---
 ## 一句话总结
 

@@ -1,21 +1,21 @@
 ---
 title: "Model See Model Do: Speech-Driven Facial Animation with Style Control"
 authors:
-  - Yifang Pan
-  - Karan Singh
-  - Luiz Gustavo Hafemann
+  - "Yifang Pan"
+  - "Karan Singh"
+  - "Luiz Gustavo Hafemann"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - University of Toronto
-  - Ubisoft La Forge
+  - "University of Toronto"
+  - "Ubisoft La Forge"
 tags:
-  - Facial Animation
-  - Speech Driven Animation
-  - Latent Diffusion Model
-  - Style Transfer
-  - Example Based Generation
+  - "Facial Animation"
+  - "Speech Driven Animation"
+  - "Latent Diffusion Model"
+  - "Style Transfer"
+  - "Example Based Generation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730672"
 ---

@@ -1,23 +1,23 @@
 ---
 title: "Vertex Features for Neural Global Illumination"
 authors:
-  - Rui Su
-  - Honghao Dong
-  - Haojie Jin
-  - Yisong Chen
-  - Guoping Wang
-  - Sheng Li
-category: Rendering
+  - "Rui Su"
+  - "Honghao Dong"
+  - "Haojie Jin"
+  - "Yisong Chen"
+  - "Guoping Wang"
+  - "Sheng Li"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Peking University
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Neural Rendering
-  - Global Illumination
-  - Neural Radiosity
-  - Feature Encoding
-  - Mesh Vertices
-  - GPU Memory Efficiency
+  - "Neural Rendering"
+  - "Global Illumination"
+  - "Neural Radiosity"
+  - "Feature Encoding"
+  - "Mesh Vertices"
+  - "GPU Memory Efficiency"
 links:
   paper: "https://doi.org/10.1145/3757377.3763826"
   project: "https://woaixuexisr.github.io/papers/neural-vertex-features"

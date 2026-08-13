@@ -1,22 +1,21 @@
 ---
 title: "Spatiotemporal Bilateral Gradient Filtering for Inverse Rendering"
 authors:
-  - Wesley Chang
-  - Xuanda Yang
-  - Yash Belhe
-  - Ravi Ramamoorthi
-  - Tzu-Mao Li
-track: "Conference"
-source: author-page
+  - "Wesley Chang"
+  - "Xuanda Yang"
+  - "Yash Belhe"
+  - "Ravi Ramamoorthi"
+  - "Tzu-Mao Li"
 category: "Rendering"
-institution:
-  - University of California San Diego
+track: "Conference"
+source: "author-page"
+institution: "University of California San Diego"
 tags:
-  - Differentiable Rendering
-  - Inverse Rendering
-  - Optimization
-  - Preconditioning
-  - Bilateral Filtering
+  - "Differentiable Rendering"
+  - "Inverse Rendering"
+  - "Optimization"
+  - "Preconditioning"
+  - "Bilateral Filtering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687606"
 ---

@@ -1,23 +1,23 @@
 ---
 title: "MotionFix: Text-Driven 3D Human Motion Editing"
 authors:
-  - Nikos Athanasiou
-  - Alpár Cseke
-  - Markos Diomataris
-  - Michael J. Black
-  - Gül Varol
+  - "Nikos Athanasiou"
+  - "Alpár Cseke"
+  - "Markos Diomataris"
+  - "Michael J. Black"
+  - "Gül Varol"
 category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Max Planck Institute for Intelligent Systems
-  - École des Ponts
+  - "Max Planck Institute for Intelligent Systems"
+  - "École des Ponts"
 tags:
-  - Motion Editing
-  - Text-Driven Generation
-  - Diffusion Model
-  - Human Motion
-  - Dataset
+  - "Motion Editing"
+  - "Text-Driven Generation"
+  - "Diffusion Model"
+  - "Human Motion"
+  - "Dataset"
 links:
   paper: "https://doi.org/10.1145/3680528.3687559"
 ---

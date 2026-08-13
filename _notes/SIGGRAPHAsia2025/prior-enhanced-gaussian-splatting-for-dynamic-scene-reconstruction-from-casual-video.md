@@ -1,21 +1,21 @@
 ---
 title: "Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video"
 authors:
-  - Meng-Li Shih
-  - Ying-Huan Chen
-  - Yu-Lun Liu
-  - Brian Curless
-category: Reconstruction
+  - "Meng-Li Shih"
+  - "Ying-Huan Chen"
+  - "Yu-Lun Liu"
+  - "Brian Curless"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: University of Washington
+source: "arxiv"
+institution: "University of Washington"
 tags:
-  - Dynamic Scene Reconstruction
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Monocular Video
-  - Point Tracking
-  - Depth Estimation
+  - "Dynamic Scene Reconstruction"
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Monocular Video"
+  - "Point Tracking"
+  - "Depth Estimation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763910"
   project: "https://priorenhancedgaussian.github.io/"

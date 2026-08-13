@@ -6,6 +6,7 @@ authors:
 category: "Geometry & Modeling"
 track: "Conference"
 source: "ACM"
+institution: "University of Edinburgh"
 tags:
   - "Directional Field"
   - "Discrete Differential Geometry"

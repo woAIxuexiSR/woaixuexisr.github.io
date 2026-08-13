@@ -1,26 +1,26 @@
 ---
 title: "FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model"
 authors:
-  - Feng Qiu
-  - Wei Zhang
-  - Chen Liu
-  - Rudong An
-  - Lincheng Li
-  - Yu Ding
-  - Changjie Fan
-  - Zhipeng Hu
-  - Xin Yu
-category: Animation & Simulation
+  - "Feng Qiu"
+  - "Wei Zhang"
+  - "Chen Liu"
+  - "Rudong An"
+  - "Lincheng Li"
+  - "Yu Ding"
+  - "Changjie Fan"
+  - "Zhipeng Hu"
+  - "Xin Yu"
+category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - NetEase Fuxi AI Lab
-  - The University of Queensland
+  - "NetEase Fuxi AI Lab"
+  - "The University of Queensland"
 tags:
-  - 3D Facial Animation Transfer
-  - Expression Representation
-  - Semi Supervised Learning
-  - Contrastive Learning
+  - "3D Facial Animation Transfer"
+  - "Expression Representation"
+  - "Semi Supervised Learning"
+  - "Contrastive Learning"
 links:
   paper: "https://doi.org/10.1145/3680528.3687669"
 ---

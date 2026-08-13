@@ -1,29 +1,29 @@
 ---
 title: "DifFRelight: Diffusion-Based Facial Performance Relighting"
 authors:
-  - Mingming He
-  - Pascal Clausen
-  - Ahmet Levent Taşel
-  - Li Ma
-  - Oliver Pilarski
-  - Wenqi Xian
-  - Laszlo Rikker
-  - Xueming Yu
-  - Ryan D. Burgert
-  - Ning Yu
-  - Paul E. Debevec
-category: Rendering
-track: Conference
-source: arxiv
-institution: Netflix Eyeline Studios
+  - "Mingming He"
+  - "Pascal Clausen"
+  - "Ahmet Levent Taşel"
+  - "Li Ma"
+  - "Oliver Pilarski"
+  - "Wenqi Xian"
+  - "Laszlo Rikker"
+  - "Xueming Yu"
+  - "Ryan D. Burgert"
+  - "Ning Yu"
+  - "Paul E. Debevec"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "Netflix Eyeline Studios"
 tags:
-  - Relighting
-  - Stable Diffusion
-  - Image-to-Image Translation
-  - Facial Performance
-  - OLAT
-  - 3D Gaussian Splatting
-  - HDRI
+  - "Relighting"
+  - "Stable Diffusion"
+  - "Image-to-Image Translation"
+  - "Facial Performance"
+  - "OLAT"
+  - "3D Gaussian Splatting"
+  - "HDRI"
 links:
   paper: "https://doi.org/10.1145/3680528.3687644"
 ---

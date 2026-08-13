@@ -1,26 +1,26 @@
 ---
 title: "Radiance Surfaces: Optimizing Surface Representations with a 5D Radiance Field Loss"
 authors:
-  - Ziyi Zhang
-  - Nicolas Roussel
-  - Thomas Müller
-  - Tizian Zeltner
-  - Merlin Nimier-David
-  - Fabrice Rousselle
-  - Wenzel Jakob
-track: "Conference"
-source: arxiv
+  - "Ziyi Zhang"
+  - "Nicolas Roussel"
+  - "Thomas Müller"
+  - "Tizian Zeltner"
+  - "Merlin Nimier-David"
+  - "Fabrice Rousselle"
+  - "Wenzel Jakob"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - EPFL
-  - NVIDIA
+  - "EPFL"
+  - "NVIDIA"
 tags:
-  - Surface Reconstruction
-  - Radiance Field
-  - Differentiable Rendering
-  - Novel View Synthesis
-  - NeRF
-  - Inverse Rendering
+  - "Surface Reconstruction"
+  - "Radiance Field"
+  - "Differentiable Rendering"
+  - "Novel View Synthesis"
+  - "NeRF"
+  - "Inverse Rendering"
 links:
   paper: "https://doi.org/10.1145/3721238.3730713"
 ---

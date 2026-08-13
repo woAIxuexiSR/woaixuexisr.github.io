@@ -1,24 +1,24 @@
 ---
 title: "Supra-threshold Contrast Perception in Augmented Reality"
 authors:
-  - Dongyeon Kim
-  - Maliha Ashraf
-  - Alexandre Chapiro
-  - Rafał K. Mantiuk
-category: HCI & XR
+  - "Dongyeon Kim"
+  - "Maliha Ashraf"
+  - "Alexandre Chapiro"
+  - "Rafał K. Mantiuk"
+category: "HCI & XR"
 track: "Conference"
-source: author-page
-institution: University of Cambridge
+source: "author-page"
+institution: "University of Cambridge"
 tags:
-  - Augmented Reality
-  - Contrast Perception
-  - Human Visual System
-  - Contrast Matching
-  - Auto-Brightness
+  - "Augmented Reality"
+  - "Contrast Perception"
+  - "Human Visual System"
+  - "Contrast Matching"
+  - "Auto-Brightness"
 links:
-  paper: https://doi.org/10.1145/3757377.3763824
-  project: https://www.cl.cam.ac.uk/research/rainbow/projects/ar_contrast/
-  code: https://github.com/gfxdisp/ar_contrast_perception
+  paper: "https://doi.org/10.1145/3757377.3763824"
+  project: "https://www.cl.cam.ac.uk/research/rainbow/projects/ar_contrast/"
+  code: "https://github.com/gfxdisp/ar_contrast_perception"
 ---
 
 ## 一句话总结

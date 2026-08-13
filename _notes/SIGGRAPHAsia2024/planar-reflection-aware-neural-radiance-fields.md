@@ -1,23 +1,23 @@
 ---
 title: "Planar Reflection-Aware Neural Radiance Fields"
 authors:
-  - Chen Gao
-  - Yipeng Wang
-  - Changil Kim
-  - Jia-Bin Huang
-  - Johannes Kopf
-category: Rendering
+  - "Chen Gao"
+  - "Yipeng Wang"
+  - "Changil Kim"
+  - "Jia-Bin Huang"
+  - "Johannes Kopf"
+category: "Rendering"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Meta
-  - University of Maryland
+  - "Meta"
+  - "University of Maryland"
 tags:
-  - NeRF
-  - Planar Reflection
-  - Novel View Synthesis
-  - Reflection Separation
-  - Geometry Reconstruction
+  - "NeRF"
+  - "Planar Reflection"
+  - "Novel View Synthesis"
+  - "Reflection Separation"
+  - "Geometry Reconstruction"
 links:
   paper: "https://doi.org/10.1145/3680528.3687560"
   project: "https://ra-nerf.github.io/"

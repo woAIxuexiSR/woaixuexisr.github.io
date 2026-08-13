@@ -1,22 +1,22 @@
 ---
 title: "LookUp3D: Data-Driven 3D Scanning"
 authors:
-  - Giancarlo Pereira
-  - Yidan Gao
-  - Yurii Piadyk
-  - David Fouhey
-  - Claudio T. Silva
-  - Daniele Panozzo
-category: Reconstruction
+  - "Giancarlo Pereira"
+  - "Yidan Gao"
+  - "Yurii Piadyk"
+  - "David Fouhey"
+  - "Claudio T. Silva"
+  - "Daniele Panozzo"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: New York University
+source: "arxiv"
+institution: "New York University"
 tags:
-  - Structured Light
-  - 3D Scanning
-  - High-Speed Capture
-  - Data-Driven Reconstruction
-  - Depth Sensing
+  - "Structured Light"
+  - "3D Scanning"
+  - "High-Speed Capture"
+  - "Data-Driven Reconstruction"
+  - "Depth Sensing"
 links:
   paper: "https://doi.org/10.1145/3757377.3763986"
 ---

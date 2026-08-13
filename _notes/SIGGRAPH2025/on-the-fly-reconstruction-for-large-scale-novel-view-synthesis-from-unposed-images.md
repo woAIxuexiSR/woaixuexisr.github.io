@@ -1,28 +1,28 @@
 ---
 title: "On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images"
 authors:
-  - Andreas Meuleman
-  - Ishaan N. Shah
-  - Alexandre Lanvin
-  - Bernhard Kerbl
-  - George Drettakis
-category: Reconstruction
-track: Journal
-source: arxiv
+  - "Andreas Meuleman"
+  - "Ishaan N. Shah"
+  - "Alexandre Lanvin"
+  - "Bernhard Kerbl"
+  - "George Drettakis"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Inria, Université Côte d'Azur
-  - TU Wien
+  - "Inria, Université Côte d'Azur"
+  - "TU Wien"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - On-the-fly Reconstruction
-  - Pose Estimation
-  - Bundle Adjustment
-  - Large-Scale Scenes
-  - SLAM
-  - Incremental Reconstruction
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "On-the-fly Reconstruction"
+  - "Pose Estimation"
+  - "Bundle Adjustment"
+  - "Large-Scale Scenes"
+  - "SLAM"
+  - "Incremental Reconstruction"
 links:
-  paper: https://doi.org/10.1145/3730913
+  paper: "https://doi.org/10.1145/3730913"
 ---
 
 ## 一句话总结

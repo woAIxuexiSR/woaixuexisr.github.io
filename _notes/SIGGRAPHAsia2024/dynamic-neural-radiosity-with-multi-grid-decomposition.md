@@ -1,24 +1,23 @@
 ---
 title: "Dynamic Neural Radiosity with Multi-grid Decomposition"
 authors:
-  - Rui Su
-  - Honghao Dong
-  - Jierui Ren
-  - Haojie Jin
-  - Yisong Chen
-  - Guoping Wang
-  - Sheng Li
+  - "Rui Su"
+  - "Honghao Dong"
+  - "Jierui Ren"
+  - "Haojie Jin"
+  - "Yisong Chen"
+  - "Guoping Wang"
+  - "Sheng Li"
+category: "Rendering"
 track: "Conference"
-source: author-page
-category: Rendering
-institution:
-  - Peking University
+source: "author-page"
+institution: "Peking University"
 tags:
-  - Neural Radiosity
-  - Global Illumination
-  - Dynamic Scenes
-  - Neural Rendering
-  - Real-Time Rendering
+  - "Neural Radiosity"
+  - "Global Illumination"
+  - "Dynamic Scenes"
+  - "Neural Rendering"
+  - "Real-Time Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687685"
   project: "https://woaixuexisr.github.io/papers/dynamic-neural-radiosity/"

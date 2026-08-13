@@ -1,22 +1,22 @@
 ---
 title: "Constructing Diffusion Avatar with Learnable Embeddings"
 authors:
-  - Xuan Gao
-  - Jingtao Zhou
-  - Dongyu Liu
-  - Yuqi Zhou
-  - Juyong Zhang
+  - "Xuan Gao"
+  - "Jingtao Zhou"
+  - "Dongyu Liu"
+  - "Yuqi Zhou"
+  - "Juyong Zhang"
 category: "Neural & Generative"
 track: "Conference"
 source: "arxiv"
 institution: "University of Science and Technology of China"
 tags:
-  - Diffusion Model
-  - Head Avatar
-  - Gaussian Splatting
-  - 3D Consistency
-  - Face Reenactment
-  - Synthetic Data
+  - "Diffusion Model"
+  - "Head Avatar"
+  - "Gaussian Splatting"
+  - "3D Consistency"
+  - "Face Reenactment"
+  - "Synthetic Data"
 links:
   paper: "https://doi.org/10.1145/3757377.3763953"
   project: "https://ustc3dv.github.io/Learn2Control/"

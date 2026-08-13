@@ -1,20 +1,19 @@
 ---
 title: "Pano2Room: Novel View Synthesis from a Single Indoor Panorama"
 authors:
-  - Guo Pu
-  - Yiming Zhao
-  - Zhouhui Lian
-category: Reconstruction
+  - "Guo Pu"
+  - "Yiming Zhao"
+  - "Zhouhui Lian"
+category: "Reconstruction"
 track: "Conference"
-source: author-page
-institution:
-  - Peking University
+source: "author-page"
+institution: "Peking University"
 tags:
-  - Novel View Synthesis
-  - 3D Gaussian Splatting
-  - Panorama
-  - Indoor Scene Reconstruction
-  - RGBD Inpainting
+  - "Novel View Synthesis"
+  - "3D Gaussian Splatting"
+  - "Panorama"
+  - "Indoor Scene Reconstruction"
+  - "RGBD Inpainting"
 links:
   paper: "https://doi.org/10.1145/3680528.3687616"
   code: "https://github.com/TrickyGo/Pano2Room"

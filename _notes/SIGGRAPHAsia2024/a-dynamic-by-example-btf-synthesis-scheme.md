@@ -1,23 +1,23 @@
 ---
 title: "A Dynamic By-example BTF Synthesis Scheme"
 authors:
-  - Zilin Xu
-  - Zahra Montazeri
-  - Beibei Wang
-  - Ling-Qi Yan
-track: "Conference"
-source: arxiv
+  - "Zilin Xu"
+  - "Zahra Montazeri"
+  - "Beibei Wang"
+  - "Ling-Qi Yan"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of California, Santa Barbara
-  - University of Manchester
-  - Nanjing University
+  - "University of California, Santa Barbara"
+  - "University of Manchester"
+  - "Nanjing University"
 tags:
-  - BTF
-  - Appearance Modeling
-  - Texture Synthesis
-  - Neural Dimensionality Decomposition
-  - Real-Time Rendering
+  - "BTF"
+  - "Appearance Modeling"
+  - "Texture Synthesis"
+  - "Neural Dimensionality Decomposition"
+  - "Real-Time Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687578"
 ---

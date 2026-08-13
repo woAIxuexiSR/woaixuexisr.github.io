@@ -1,21 +1,21 @@
 ---
 title: "TrailBlazer: Trajectory Control for Diffusion-Based Video Generation"
 authors:
-  - Wan-Duo Kurt Ma
-  - John P. Lewis
-  - W. Bastiaan Kleijn
-category: Neural & Generative
+  - "Wan-Duo Kurt Ma"
+  - "John P. Lewis"
+  - "W. Bastiaan Kleijn"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Victoria University of Wellington
-  - NVIDIA
+  - "Victoria University of Wellington"
+  - "NVIDIA"
 tags:
-  - Text-to-Video
-  - Trajectory Control
-  - Diffusion Model
-  - Attention Editing
-  - Training-Free
+  - "Text-to-Video"
+  - "Trajectory Control"
+  - "Diffusion Model"
+  - "Attention Editing"
+  - "Training-Free"
 links:
   paper: "https://doi.org/10.1145/3680528.3687652"
   project: "https://hohonu-vicml.github.io/Trailblazer.Page/"

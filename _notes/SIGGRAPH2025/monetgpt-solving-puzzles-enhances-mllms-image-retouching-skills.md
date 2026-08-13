@@ -1,25 +1,25 @@
 ---
 title: "MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills"
 authors:
-  - Niladri Shekhar Dutt
-  - Duygu Ceylan
-  - Niloy J. Mitra
-category: Image & Video
-track: Journal
-source: arxiv
-institution: University College London
+  - "Niladri Shekhar Dutt"
+  - "Duygu Ceylan"
+  - "Niloy J. Mitra"
+category: "Image & Video"
+track: "Journal"
+source: "arxiv"
+institution: "University College London"
 tags:
-  - Image Retouching
-  - MLLM
-  - Procedural Editing
-  - Visual Puzzles
-  - Skill Learning
-  - Interpretability
-  - Edit Sequence
+  - "Image Retouching"
+  - "MLLM"
+  - "Procedural Editing"
+  - "Visual Puzzles"
+  - "Skill Learning"
+  - "Interpretability"
+  - "Edit Sequence"
 links:
-  paper: https://doi.org/10.1145/3730926
-  project: https://monetgpt.github.io/
-  code: https://github.com/niladridutt/monetgpt
+  paper: "https://doi.org/10.1145/3730926"
+  project: "https://monetgpt.github.io/"
+  code: "https://github.com/niladridutt/monetgpt"
 ---
 
 ## 一句话总结

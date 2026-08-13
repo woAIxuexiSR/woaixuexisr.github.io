@@ -1,22 +1,22 @@
 ---
 title: "GS³: Efficient Relighting with Triple Gaussian Splatting"
 authors:
-  - Zoubin Bi
-  - Yixin Zeng
-  - Chong Zeng
-  - Fan Pei
-  - Xiang Feng
-  - Kun Zhou
-  - Hongzhi Wu
-category: Rendering
+  - "Zoubin Bi"
+  - "Yixin Zeng"
+  - "Chong Zeng"
+  - "Fan Pei"
+  - "Xiang Feng"
+  - "Kun Zhou"
+  - "Hongzhi Wu"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Zhejiang University
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - 3D Gaussian Splatting
-  - Relighting
-  - Reflectance
-  - Inverse Rendering
+  - "3D Gaussian Splatting"
+  - "Relighting"
+  - "Reflectance"
+  - "Inverse Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687576"
   project: "https://gsrelight.github.io/"

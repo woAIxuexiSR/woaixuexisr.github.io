@@ -1,33 +1,33 @@
 ---
 title: "Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation"
 authors:
-  - Xiaoming Zhu
-  - Xu Huang
-  - Qinghongbing Xie
-  - Zhi Deng
-  - Junsheng Yu
-  - Yirui Guan
-  - Zhongyuan Liu
-  - Lin Zhu
-  - Qijun Zhao
-  - Ligang Liu
-  - Long Zeng
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: Tsinghua University / Tencent
+  - "Xiaoming Zhu"
+  - "Xu Huang"
+  - "Qinghongbing Xie"
+  - "Zhi Deng"
+  - "Junsheng Yu"
+  - "Yirui Guan"
+  - "Zhongyuan Liu"
+  - "Lin Zhu"
+  - "Qijun Zhao"
+  - "Ligang Liu"
+  - "Long Zeng"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University / Tencent"
 tags:
-  - 3D Scene Layout Generation
-  - Image Generation Model
-  - Visual Foundation Model
-  - Pose Estimation
-  - Scene Graph
-  - Diffusion Model
-  - Asset Retrieval
+  - "3D Scene Layout Generation"
+  - "Image Generation Model"
+  - "Visual Foundation Model"
+  - "Pose Estimation"
+  - "Scene Graph"
+  - "Diffusion Model"
+  - "Asset Retrieval"
 links:
-  paper: https://doi.org/10.1145/3763353
-  project: https://github.com/HiHiAllen/Imaginarium
-  code: https://github.com/HiHiAllen/Imaginarium
+  paper: "https://doi.org/10.1145/3763353"
+  project: "https://github.com/HiHiAllen/Imaginarium"
+  code: "https://github.com/HiHiAllen/Imaginarium"
 ---
 
 ## 一句话总结

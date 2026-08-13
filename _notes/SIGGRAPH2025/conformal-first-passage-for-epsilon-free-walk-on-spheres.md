@@ -6,8 +6,7 @@ authors:
 category: "Rendering"
 track: "Journal"
 source: "author-page"
-institution:
-  - "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+institution: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
 tags:
   - "Monte Carlo"
   - "Walk On Spheres"

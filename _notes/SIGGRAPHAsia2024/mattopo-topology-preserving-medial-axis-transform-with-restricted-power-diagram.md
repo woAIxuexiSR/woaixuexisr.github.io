@@ -1,26 +1,26 @@
 ---
 title: "MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram"
 authors:
-  - Ningna Wang
-  - Hui Huang
-  - Shibo Song
-  - Bin Wang
-  - Wenping Wang
-  - Xiaohu Guo
-track: "Journal"
-source: arxiv
+  - "Ningna Wang"
+  - "Hui Huang"
+  - "Shibo Song"
+  - "Bin Wang"
+  - "Wenping Wang"
+  - "Xiaohu Guo"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - University of Texas at Dallas
-  - Shenzhen University
-  - Tsinghua University
-  - Texas A&M University
+  - "University of Texas at Dallas"
+  - "Shenzhen University"
+  - "Tsinghua University"
+  - "Texas A&M University"
 tags:
-  - Medial Axis Transform
-  - Topology Preservation
-  - Feature Preservation
-  - Restricted Power Diagram
-  - GPU
+  - "Medial Axis Transform"
+  - "Topology Preservation"
+  - "Feature Preservation"
+  - "Restricted Power Diagram"
+  - "GPU"
 links:
   paper: "https://doi.org/10.1145/3687763"
   code: "https://github.com/ningnawang/MATTopo"

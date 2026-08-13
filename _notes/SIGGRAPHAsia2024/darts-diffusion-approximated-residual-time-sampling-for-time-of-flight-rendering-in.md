@@ -1,21 +1,20 @@
 ---
 title: "DARTS: Diffusion Approximated Residual Time Sampling for Time-of-flight Rendering in Homogeneous Scattering Media"
 authors:
-  - Qianyue He
-  - Dongyu Du
-  - Haitian Jiang
-  - Xin Jin
-track: "Journal"
-source: arxiv
+  - "Qianyue He"
+  - "Dongyu Du"
+  - "Haitian Jiang"
+  - "Xin Jin"
 category: "Rendering"
-institution:
-  - Tsinghua University
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Transient Rendering
-  - Time-of-Flight
-  - Participating Media
-  - Importance Sampling
-  - Diffusion Approximation
+  - "Transient Rendering"
+  - "Time-of-Flight"
+  - "Participating Media"
+  - "Importance Sampling"
+  - "Diffusion Approximation"
 links:
   paper: "https://doi.org/10.1145/3687930"
 ---

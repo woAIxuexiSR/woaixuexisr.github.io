@@ -1,30 +1,30 @@
 ---
 title: "Efficient GPU Cloth Simulation with Non-distance Barriers and Subspace Reuse"
 authors:
-  - Lei Lan
-  - Zixuan Lu
-  - Jingyi Long
-  - Chun Yuan
-  - Xuan Li
-  - Xiaowei He
-  - Huamin Wang
-  - Chenfanfu Jiang
-  - Yin Yang
-track: "Journal"
-source: arxiv
+  - "Lei Lan"
+  - "Zixuan Lu"
+  - "Jingyi Long"
+  - "Chun Yuan"
+  - "Xuan Li"
+  - "Xiaowei He"
+  - "Huamin Wang"
+  - "Chenfanfu Jiang"
+  - "Yin Yang"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - University of Utah
-  - UCLA
-  - Institute of Software, Chinese Academy of Sciences
-  - Style3D Research
+  - "University of Utah"
+  - "UCLA"
+  - "Institute of Software, Chinese Academy of Sciences"
+  - "Style3D Research"
 tags:
-  - Cloth Simulation
-  - GPU
-  - Collision Detection
-  - Projective Dynamics
-  - Subspace Method
-  - Penetration Free
+  - "Cloth Simulation"
+  - "GPU"
+  - "Collision Detection"
+  - "Projective Dynamics"
+  - "Subspace Method"
+  - "Penetration Free"
 links:
   paper: "https://doi.org/10.1145/3687760"
 ---

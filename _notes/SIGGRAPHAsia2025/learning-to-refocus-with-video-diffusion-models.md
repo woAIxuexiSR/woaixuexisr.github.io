@@ -1,23 +1,23 @@
 ---
 title: "Learning to Refocus with Video Diffusion Models"
 authors:
-  - SaiKiran Tedla
-  - Zhoutong Zhang
-  - Xuaner Zhang
-  - Shumian Xin
-category: Neural & Generative
+  - "SaiKiran Tedla"
+  - "Zhoutong Zhang"
+  - "Xuaner Zhang"
+  - "Shumian Xin"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Adobe
+source: "arxiv"
+institution: "Adobe"
 tags:
-  - Diffusion Model
-  - Video Generation
-  - Refocusing
-  - Computational Photography
-  - Focal Stack
+  - "Diffusion Model"
+  - "Video Generation"
+  - "Refocusing"
+  - "Computational Photography"
+  - "Focal Stack"
 links:
-  paper: https://doi.org/10.1145/3757377.3763873
-  project: https://www.learn2refocus.github.io
+  paper: "https://doi.org/10.1145/3757377.3763873"
+  project: "https://www.learn2refocus.github.io"
 ---
 
 ## 一句话总结

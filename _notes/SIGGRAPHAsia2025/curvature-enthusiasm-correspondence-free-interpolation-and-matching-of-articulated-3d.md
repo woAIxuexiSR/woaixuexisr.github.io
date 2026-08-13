@@ -1,24 +1,27 @@
 ---
 title: "Curvature Enthusiasm: Correspondence-Free Interpolation and Matching of Articulated 3D Shapes using Compressed Normal Cycles"
 authors:
-  - Adam Hartshorne
-  - Allen Paul
-  - Tony Shardlow
-  - Neill D. F. Campbell
-category: Geometry & Modeling
+  - "Adam Hartshorne"
+  - "Allen Paul"
+  - "Tony Shardlow"
+  - "Neill D. F. Campbell"
+category: "Geometry & Modeling"
 track: "Journal"
-source: author-page
+source: "author-page"
+institution:
+  - "University of Bath"
+  - "University College London"
 tags:
-  - Shape Interpolation
-  - Shape Registration
-  - Articulated 3D Shapes
-  - Dense Correspondence
-  - Diffeomorphic Transformations
-  - Neural Ordinary Differential Equations
-  - Normal Cycles
-  - Geometric Measure Theory
-  - Dual Quaternions
-  - Constrained Optimization
+  - "Shape Interpolation"
+  - "Shape Registration"
+  - "Articulated 3D Shapes"
+  - "Dense Correspondence"
+  - "Diffeomorphic Transformations"
+  - "Neural Ordinary Differential Equations"
+  - "Normal Cycles"
+  - "Geometric Measure Theory"
+  - "Dual Quaternions"
+  - "Constrained Optimization"
 links:
   paper: "https://doi.org/10.1145/3763366"
   project: "https://curvature-enthusiasm.github.io/"

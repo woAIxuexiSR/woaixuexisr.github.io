@@ -1,33 +1,33 @@
 ---
 title: "3DPR: Single Image 3D Portrait Relighting with Generative Priors"
 authors:
-  - Pramod Rao
-  - Abhimitra Meka
-  - Xilong Zhou
-  - Gereon Fox
-  - Mallikarjun B R
-  - Fangneng Zhan
-  - Tim Weyrich
-  - Bernd Bickel
-  - Hanspeter Pfister
-  - Wojciech Matusik
-  - Thabo Beeler
-  - Mohamed Elgharib
-  - Marc Habermann
-  - Christian Theobalt
+  - "Pramod Rao"
+  - "Abhimitra Meka"
+  - "Xilong Zhou"
+  - "Gereon Fox"
+  - "Mallikarjun B R"
+  - "Fangneng Zhan"
+  - "Tim Weyrich"
+  - "Bernd Bickel"
+  - "Hanspeter Pfister"
+  - "Wojciech Matusik"
+  - "Thabo Beeler"
+  - "Mohamed Elgharib"
+  - "Marc Habermann"
+  - "Christian Theobalt"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Max Planck Institute for Informatics
-  - Google
+  - "Max Planck Institute for Informatics"
+  - "Google"
 tags:
-  - Portrait Relighting
-  - 3D Face
-  - Generative Prior
-  - Light Stage
-  - OLAT
-  - Novel View Synthesis
+  - "Portrait Relighting"
+  - "3D Face"
+  - "Generative Prior"
+  - "Light Stage"
+  - "OLAT"
+  - "Novel View Synthesis"
 links:
   paper: "https://doi.org/10.1145/3757377.3763962"
   project: "https://vcai.mpi-inf.mpg.de/projects/3dpr/"

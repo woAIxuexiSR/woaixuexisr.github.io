@@ -1,23 +1,28 @@
 ---
 title: "DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling"
 authors:
-  - Anindita Ghosh
-  - Bing Zhou
-  - Rishabh Dabral
-  - Jian Wang
-  - Vladislav Golyanik
-  - Christian Theobalt
-  - Philipp Slusallek
-  - Chuan Guo
-category: Animation & Simulation
-track: Conference
-source: arxiv
+  - "Anindita Ghosh"
+  - "Bing Zhou"
+  - "Rishabh Dabral"
+  - "Jian Wang"
+  - "Vladislav Golyanik"
+  - "Christian Theobalt"
+  - "Philipp Slusallek"
+  - "Chuan Guo"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution:
+  - "Max Planck Institute for Informatics"
+  - "DFKI"
+  - "Saarland University"
+  - "Snap Inc."
 tags:
-  - Motion Synthesis
-  - Music To Dance
-  - Two-Person Motion
-  - VQ-VAE
-  - Masked Transformer
+  - "Motion Synthesis"
+  - "Music To Dance"
+  - "Two-Person Motion"
+  - "VQ-VAE"
+  - "Masked Transformer"
 links:
   paper: "https://doi.org/10.1145/3721238.3730741"
   code: "https://github.com/anindita127/DuetGen"

@@ -1,27 +1,27 @@
 ---
 title: "X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents"
 authors:
-  - Guoxian Song
-  - Hongyi Xu
-  - Xiaochen Zhao
-  - You Xie
-  - Tianpei Gu
-  - Zenan Li
-  - Chenxu Zhang
-  - Linjie Luo
-category: Image & Video
+  - "Guoxian Song"
+  - "Hongyi Xu"
+  - "Xiaochen Zhao"
+  - "You Xie"
+  - "Tianpei Gu"
+  - "Zenan Li"
+  - "Chenxu Zhang"
+  - "Linjie Luo"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: ByteDance
+source: "arxiv"
+institution: "ByteDance"
 tags:
-  - Human Image Animation
-  - Motion Transfer
-  - Diffusion Model
-  - Latent Representation
-  - Identity Disentanglement
-  - Video Generation
+  - "Human Image Animation"
+  - "Motion Transfer"
+  - "Diffusion Model"
+  - "Latent Representation"
+  - "Identity Disentanglement"
+  - "Video Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763952
+  paper: "https://doi.org/10.1145/3757377.3763952"
 ---
 
 ## 一句话总结

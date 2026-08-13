@@ -1,23 +1,23 @@
 ---
 title: "SKEL-Betweener: a Neural Motion Rig for Interactive Motion Authoring"
 authors:
-  - Dhruv Agrawal
-  - Jakob Buhmann
-  - Dominik Borer
-  - Robert W. Sumner
-  - Martin Guay
-track: "Journal"
-source: author-page
+  - "Dhruv Agrawal"
+  - "Jakob Buhmann"
+  - "Dominik Borer"
+  - "Robert W. Sumner"
+  - "Martin Guay"
 category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
 institution:
-  - ETH Zürich
-  - DisneyResearch|Studios
+  - "ETH Zürich"
+  - "DisneyResearch|Studios"
 tags:
-  - Motion In-Betweening
-  - Neural Motion Rig
-  - Skeletal Graph Network
-  - Interactive Animation
-  - Motion Editing
+  - "Motion In-Betweening"
+  - "Neural Motion Rig"
+  - "Skeletal Graph Network"
+  - "Interactive Animation"
+  - "Motion Editing"
 links:
   paper: "https://doi.org/10.1145/3687941"
 ---

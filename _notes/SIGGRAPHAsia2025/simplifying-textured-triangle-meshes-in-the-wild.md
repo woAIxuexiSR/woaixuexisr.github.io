@@ -1,24 +1,24 @@
 ---
 title: "Simplifying Textured Triangle Meshes in the Wild"
 authors:
-  - Hsueh-Ti Derek Liu
-  - Xiaoting Zhang
-  - Cem Yuksel
-track: "Journal"
-source: arxiv
+  - "Hsueh-Ti Derek Liu"
+  - "Xiaoting Zhang"
+  - "Cem Yuksel"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Roblox
-  - University of Utah
+  - "Roblox"
+  - "University of Utah"
 tags:
-  - Geometry Processing
-  - Mesh Simplification
-  - Level Of Detail
-  - Quadric Error Metric
-  - Non Manifold Meshes
-  - Simplicial Complex
-  - Texture Transfer
-  - Edge Collapse
+  - "Geometry Processing"
+  - "Mesh Simplification"
+  - "Level Of Detail"
+  - "Quadric Error Metric"
+  - "Non Manifold Meshes"
+  - "Simplicial Complex"
+  - "Texture Transfer"
+  - "Edge Collapse"
 links:
   paper: "https://doi.org/10.1145/3763277"
 ---

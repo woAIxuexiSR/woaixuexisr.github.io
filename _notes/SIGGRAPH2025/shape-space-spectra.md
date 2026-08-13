@@ -1,28 +1,28 @@
 ---
-title: Shape Space Spectra
+title: "Shape Space Spectra"
 authors:
-  - Yue Chang
-  - Otman Benchekroun
-  - Maurizio M. Chiaramonte
-  - Peter Yichen Chen
-  - Eitan Grinspun
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: University of Toronto
+  - "Yue Chang"
+  - "Otman Benchekroun"
+  - "Maurizio M. Chiaramonte"
+  - "Peter Yichen Chen"
+  - "Eitan Grinspun"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "University of Toronto"
 tags:
-  - Reduced-Order Modeling
-  - Eigenanalysis
-  - Neural Fields
-  - Implicit Neural Representation
-  - Shape Space
-  - Differentiable Simulation
-  - Shape Optimization
-  - Modal Sound Synthesis
-  - Laplace Operator
+  - "Reduced-Order Modeling"
+  - "Eigenanalysis"
+  - "Neural Fields"
+  - "Implicit Neural Representation"
+  - "Shape Space"
+  - "Differentiable Simulation"
+  - "Shape Optimization"
+  - "Modal Sound Synthesis"
+  - "Laplace Operator"
 links:
-  paper: https://doi.org/10.1145/3731148
-  project: https://arxiv.org/abs/2408.10099
+  paper: "https://doi.org/10.1145/3731148"
+  project: "https://arxiv.org/abs/2408.10099"
 ---
 
 ## 一句话总结

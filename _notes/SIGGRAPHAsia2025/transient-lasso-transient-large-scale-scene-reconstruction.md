@@ -1,29 +1,29 @@
 ---
 title: "Transient LASSO: Transient Large-Scale Scene Reconstruction"
 authors:
-  - Dominik Scheuble
-  - Andrea Ramazzina
-  - Hanno Holzhüter
-  - Stefano Gasperini
-  - Steven Peters
-  - Federico Tombari
-  - Mario Bijelic
-  - Felix Heide
-track: "Conference"
-source: author-page
+  - "Dominik Scheuble"
+  - "Andrea Ramazzina"
+  - "Hanno Holzhüter"
+  - "Stefano Gasperini"
+  - "Steven Peters"
+  - "Federico Tombari"
+  - "Mario Bijelic"
+  - "Felix Heide"
 category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - Mercedes-Benz AG
-  - Technical University of Darmstadt
-  - Technical University of Munich
-  - Princeton University
+  - "Mercedes-Benz AG"
+  - "Technical University of Darmstadt"
+  - "Technical University of Munich"
+  - "Princeton University"
 tags:
-  - Transient Imaging
-  - LiDAR
-  - SPAD
-  - Neural Radiance Fields
-  - Scene Reconstruction
-  - Autonomous Driving
+  - "Transient Imaging"
+  - "LiDAR"
+  - "SPAD"
+  - "Neural Radiance Fields"
+  - "Scene Reconstruction"
+  - "Autonomous Driving"
 links:
   paper: "https://doi.org/10.1145/3757377.3763911"
   project: "https://light.princeton.edu/transient-lasso"

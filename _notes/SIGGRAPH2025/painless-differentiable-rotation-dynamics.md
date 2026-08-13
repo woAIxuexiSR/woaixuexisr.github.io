@@ -1,25 +1,25 @@
 ---
 title: "Painless Differentiable Rotation Dynamics"
 authors:
-  - Magí Romanyà-Serrasolsas
-  - Juan J. Casafranca
-  - Miguel A. Otaduy
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: Universidad Rey Juan Carlos
+  - "Magí Romanyà-Serrasolsas"
+  - "Juan J. Casafranca"
+  - "Miguel A. Otaduy"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "Universidad Rey Juan Carlos"
 tags:
-  - Rigid Body Dynamics
-  - Differentiable Simulation
-  - Lie Theory
-  - Rotation Derivatives
-  - Cosserat Rods
-  - Adjoint Method
-  - Incremental Potential
+  - "Rigid Body Dynamics"
+  - "Differentiable Simulation"
+  - "Lie Theory"
+  - "Rotation Derivatives"
+  - "Cosserat Rods"
+  - "Adjoint Method"
+  - "Incremental Potential"
 links:
-  paper: https://doi.org/10.1145/3730944
-  project: https://mslab.es/projects/Painless/
-  code: https://gitlab.com/mslab-urjc/mandos/-/tree/SIGG25
+  paper: "https://doi.org/10.1145/3730944"
+  project: "https://mslab.es/projects/Painless/"
+  code: "https://gitlab.com/mslab-urjc/mandos/-/tree/SIGG25"
 ---
 ## 一句话总结
 

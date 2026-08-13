@@ -1,22 +1,22 @@
 ---
 title: "PartUV: Part-Based UV Unwrapping of 3D Meshes"
 authors:
-  - Zhaoning Wang
-  - Xinyue Wei
-  - Ruoxi Shi
-  - Xiaoshuai Zhang
-  - Hao Su
-  - Minghua Liu
+  - "Zhaoning Wang"
+  - "Xinyue Wei"
+  - "Ruoxi Shi"
+  - "Xiaoshuai Zhang"
+  - "Hao Su"
+  - "Minghua Liu"
 category: "Geometry & Modeling"
 track: "Conference"
 source: "arxiv"
 institution: "Hillbot Inc."
 tags:
-  - UV Unwrapping
-  - Mesh Parameterization
-  - Part Decomposition
-  - 3D Meshes
-  - Texture Mapping
+  - "UV Unwrapping"
+  - "Mesh Parameterization"
+  - "Part Decomposition"
+  - "3D Meshes"
+  - "Texture Mapping"
 links:
   paper: "https://doi.org/10.1145/3757377.3763843"
   project: "https://www.zhaoningwang.com/PartUV"

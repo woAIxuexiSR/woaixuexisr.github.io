@@ -1,29 +1,29 @@
 ---
 title: "Meschers: Geometry Processing of Impossible Objects"
 authors:
-  - Ana Dodik
-  - Isabella Yu
-  - Kartik Chandra
-  - Jonathan Ragan-Kelley
-  - Joshua B. Tenenbaum
-  - Vincent Sitzmann
-  - Justin Solomon
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: MIT
+  - "Ana Dodik"
+  - "Isabella Yu"
+  - "Kartik Chandra"
+  - "Jonathan Ragan-Kelley"
+  - "Joshua B. Tenenbaum"
+  - "Vincent Sitzmann"
+  - "Justin Solomon"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "MIT"
 tags:
-  - Impossible Objects
-  - Mesh Representation
-  - Discrete Exterior Calculus
-  - Geometry Processing
-  - Inverse Rendering
-  - Hodge Decomposition
-  - Perception
-  - Escher
+  - "Impossible Objects"
+  - "Mesh Representation"
+  - "Discrete Exterior Calculus"
+  - "Geometry Processing"
+  - "Inverse Rendering"
+  - "Hodge Decomposition"
+  - "Perception"
+  - "Escher"
 links:
-  paper: https://doi.org/10.1145/3731422
-  project: https://arxiv.org/abs/2605.14960
+  paper: "https://doi.org/10.1145/3731422"
+  project: "https://arxiv.org/abs/2605.14960"
 ---
 
 ## 一句话总结

@@ -1,20 +1,23 @@
 ---
 title: "Frame-Free Representation of Polarized Light for Resolving Stokes Vector Singularities"
 authors:
-  - Shinyoung Yi
-  - Jiwoong Na
-  - Seungmin Hwang
-  - Inseung Hwang
-  - Min H. Kim
+  - "Shinyoung Yi"
+  - "Jiwoong Na"
+  - "Seungmin Hwang"
+  - "Inseung Hwang"
+  - "Min H. Kim"
+category: "Rendering"
 track: "Journal"
-source: ACM
-category: Rendering
+source: "ACM"
+institution:
+  - "KAIST"
+  - "Kyung Hee University"
 tags:
-  - Polarized Light
-  - Stokes Vector
-  - Polarization Rendering
-  - Reference Frame
-  - Light Transport
+  - "Polarized Light"
+  - "Stokes Vector"
+  - "Polarization Rendering"
+  - "Reference Frame"
+  - "Light Transport"
 links:
   paper: "https://doi.org/10.1145/3763276"
 ---

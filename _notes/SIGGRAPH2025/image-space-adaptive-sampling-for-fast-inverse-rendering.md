@@ -1,25 +1,25 @@
 ---
 title: "Image-space Adaptive Sampling for Fast Inverse Rendering"
 authors:
-  - Kai Yan
-  - Cheng Zhang
-  - Sébastien Speierer
-  - Guangyan Cai
-  - Yufeng Zhu
-  - Zhao Dong
-  - Shuang Zhao
-category: Rendering
+  - "Kai Yan"
+  - "Cheng Zhang"
+  - "Sébastien Speierer"
+  - "Guangyan Cai"
+  - "Yufeng Zhu"
+  - "Zhao Dong"
+  - "Shuang Zhao"
+category: "Rendering"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - University of California, Irvine
-  - Meta
+  - "University of California, Irvine"
+  - "Meta"
 tags:
-  - Inverse Rendering
-  - Differentiable Rendering
-  - Adaptive Sampling
-  - Variance Reduction
-  - Monte Carlo
+  - "Inverse Rendering"
+  - "Differentiable Rendering"
+  - "Adaptive Sampling"
+  - "Variance Reduction"
+  - "Monte Carlo"
 links:
   paper: "https://doi.org/10.1145/3721238.3730627"
   project: "https://kyan.ai/"

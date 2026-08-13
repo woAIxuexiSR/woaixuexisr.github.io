@@ -1,25 +1,23 @@
 ---
 title: "CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion"
 authors:
-  - Chenhao Ji
-  - Chaohui Yu
-  - Junyao Gao
-  - Fan Wang
-  - Cairong Zhao
-category: Neural & Generative
+  - "Chenhao Ji"
+  - "Chaohui Yu"
+  - "Junyao Gao"
+  - "Fan Wang"
+  - "Cairong Zhao"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Tongji University
+source: "arxiv"
+institution: "Tongji University"
 tags:
-  - Panoramic Video Generation
-  - Camera Control
-  - Diffusion Model
-  - Epipolar Geometry
-  - Plücker Embedding
+  - "Panoramic Video Generation"
+  - "Camera Control"
+  - "Diffusion Model"
+  - "Epipolar Geometry"
+  - "Plücker Embedding"
 links:
-  paper: https://doi.org/10.1145/3757377.3763990
-  project:
-  code:
+  paper: "https://doi.org/10.1145/3757377.3763990"
 ---
 
 ## 一句话总结

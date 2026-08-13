@@ -1,25 +1,25 @@
 ---
 title: "EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars"
 authors:
-  - Jianchun Chen
-  - Jian Wang
-  - Yinda Zhang
-  - Rohit Pandey
-  - Thabo Beeler
-  - Marc Habermann
-  - Christian Theobalt
-track: "Conference"
-source: arxiv
+  - "Jianchun Chen"
+  - "Jian Wang"
+  - "Yinda Zhang"
+  - "Rohit Pandey"
+  - "Thabo Beeler"
+  - "Marc Habermann"
+  - "Christian Theobalt"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - MPI for Informatics
-  - Google
+  - "MPI for Informatics"
+  - "Google"
 tags:
-  - Egocentric Capture
-  - Full Body Avatar
-  - 3D Gaussian Splatting
-  - Telepresence
-  - Performance Capture
+  - "Egocentric Capture"
+  - "Full Body Avatar"
+  - "3D Gaussian Splatting"
+  - "Telepresence"
+  - "Performance Capture"
 links:
   paper: "https://doi.org/10.1145/3680528.3687631"
 ---

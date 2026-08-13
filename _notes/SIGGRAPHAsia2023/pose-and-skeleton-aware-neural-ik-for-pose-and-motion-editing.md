@@ -1,24 +1,24 @@
 ---
-title: Pose and Skeleton-aware Neural IK for Pose and Motion Editing
+title: "Pose and Skeleton-aware Neural IK for Pose and Motion Editing"
 authors:
-  - Dhruv Agrawal
-  - Martin Guay
-  - Jakob Buhmann
-  - Dominik Borer
-  - Robert W. Sumner
-category: Animation & Simulation
-track: Conference
-source: author-page
-institution: DisneyResearch|Studios
+  - "Dhruv Agrawal"
+  - "Martin Guay"
+  - "Jakob Buhmann"
+  - "Dominik Borer"
+  - "Robert W. Sumner"
+category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
+institution: "DisneyResearch|Studios"
 tags:
-  - Inverse Kinematics
-  - Character Posing
-  - Graph Neural Network
-  - Transformer
-  - Motion Editing
+  - "Inverse Kinematics"
+  - "Character Posing"
+  - "Graph Neural Network"
+  - "Transformer"
+  - "Motion Editing"
 links:
-  paper: https://doi.org/10.1145/3610548.3618217
-  project: https://studios.disneyresearch.com/2023/12/11/pose-and-skeleton-aware-neural-ik-for-pose-and-motion-editing/
+  paper: "https://doi.org/10.1145/3610548.3618217"
+  project: "https://studios.disneyresearch.com/2023/12/11/pose-and-skeleton-aware-neural-ik-for-pose-and-motion-editing/"
 ---
 
 ## 一句话总结

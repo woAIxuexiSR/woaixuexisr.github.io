@@ -1,29 +1,29 @@
 ---
 title: "Interspatial Attention for Efficient 4D Human Video Generation"
 authors:
-  - Ruizhi Shao
-  - Yinghao Xu
-  - Yujun Shen
-  - Ceyuan Yang
-  - Yang Zheng
-  - Changan Chen
-  - Yebin Liu
-  - Gordon Wetzstein
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: Tsinghua University
+  - "Ruizhi Shao"
+  - "Yinghao Xu"
+  - "Yujun Shen"
+  - "Ceyuan Yang"
+  - "Yang Zheng"
+  - "Changan Chen"
+  - "Yebin Liu"
+  - "Gordon Wetzstein"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Human Video Generation
-  - Diffusion Transformer
-  - Cross Attention
-  - SMPL
-  - 4D Generation
-  - Variational Autoencoder
-  - Camera Control
+  - "Human Video Generation"
+  - "Diffusion Transformer"
+  - "Cross Attention"
+  - "SMPL"
+  - "4D Generation"
+  - "Variational Autoencoder"
+  - "Camera Control"
 links:
-  paper: https://doi.org/10.1145/3731165
-  project: https://dsaurus.github.io/isa4d/
+  paper: "https://doi.org/10.1145/3731165"
+  project: "https://dsaurus.github.io/isa4d/"
 ---
 ## 一句话总结
 

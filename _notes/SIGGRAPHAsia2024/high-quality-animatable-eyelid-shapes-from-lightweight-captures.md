@@ -1,19 +1,18 @@
 ---
 title: "High-quality Animatable Eyelid Shapes from Lightweight Captures"
 authors:
-  - Junfeng Lyu
-  - Feng Xu
-track: "Conference"
-source: author-page
+  - "Junfeng Lyu"
+  - "Feng Xu"
 category: "Reconstruction"
-institution:
-  - Tsinghua University
+track: "Conference"
+source: "author-page"
+institution: "Tsinghua University"
 tags:
-  - Eyelid Reconstruction
-  - Gaze-Driven Animation
-  - Neural SDF
-  - Dynamic Reconstruction
-  - Digital Human
+  - "Eyelid Reconstruction"
+  - "Gaze-Driven Animation"
+  - "Neural SDF"
+  - "Dynamic Reconstruction"
+  - "Digital Human"
 links:
   paper: "https://doi.org/10.1145/3680528.3687583"
 ---

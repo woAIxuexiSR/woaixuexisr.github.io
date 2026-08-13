@@ -1,24 +1,24 @@
 ---
 title: "Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images"
 authors:
-  - Zhi Ying
-  - Boxiang Rong
-  - Jingyu Wang
-  - Maoyuan Xu
-category: Neural & Generative
+  - "Zhi Ying"
+  - "Boxiang Rong"
+  - "Jingyu Wang"
+  - "Maoyuan Xu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Ubisoft La Forge
+source: "arxiv"
+institution: "Ubisoft La Forge"
 tags:
-  - PBR Material
-  - Diffusion Model
-  - SVBRDF
-  - Inverse Rendering
-  - Texture Synthesis
-  - Appearance Modeling
+  - "PBR Material"
+  - "Diffusion Model"
+  - "SVBRDF"
+  - "Inverse Rendering"
+  - "Texture Synthesis"
+  - "Appearance Modeling"
 links:
-  paper: https://doi.org/10.1145/3757377.3763848
-  code: https://github.com/ubisoft/ubisoft-laforge-chord
+  paper: "https://doi.org/10.1145/3757377.3763848"
+  code: "https://github.com/ubisoft/ubisoft-laforge-chord"
 ---
 
 ## 一句话总结

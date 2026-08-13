@@ -1,24 +1,24 @@
 ---
 title: "Single-Shot Facial Capture using Polarized RGB Sinusoidal Illumination"
 authors:
-  - Arvin Lin
-  - Abhijeet Ghosh
-category: Reconstruction
-track: Conference
-source: author-page
+  - "Arvin Lin"
+  - "Abhijeet Ghosh"
+category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - Imperial College London
-  - Lumirithmic
+  - "Imperial College London"
+  - "Lumirithmic"
 tags:
-  - Facial Appearance Capture
-  - Single-Shot Capture
-  - Polarized Illumination
-  - Reflectance Separation
-  - SVBRDF
-  - Photometric Normals
+  - "Facial Appearance Capture"
+  - "Single-Shot Capture"
+  - "Polarized Illumination"
+  - "Reflectance Separation"
+  - "SVBRDF"
+  - "Photometric Normals"
 links:
-  paper: https://doi.org/10.1145/3757377.3763942
-  project: https://wp.doc.ic.ac.uk/rgi/project/single-shot-facial-capture-using-polarized-rgb-sinusoidal-illumination/
+  paper: "https://doi.org/10.1145/3757377.3763942"
+  project: "https://wp.doc.ic.ac.uk/rgi/project/single-shot-facial-capture-using-polarized-rgb-sinusoidal-illumination/"
 ---
 
 ## 一句话总结

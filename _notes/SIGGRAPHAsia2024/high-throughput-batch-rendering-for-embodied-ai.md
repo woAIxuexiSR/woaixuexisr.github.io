@@ -1,22 +1,21 @@
 ---
 title: "High-Throughput Batch Rendering for Embodied AI"
 authors:
-  - Luc Guy Rosenzweig
-  - Brennan Shacklett
-  - Warren Xia
-  - Kayvon Fatahalian
-track: "Conference"
-source: author-page
+  - "Luc Guy Rosenzweig"
+  - "Brennan Shacklett"
+  - "Warren Xia"
+  - "Kayvon Fatahalian"
 category: "Rendering"
-institution:
-  - Stanford University
+track: "Conference"
+source: "author-page"
+institution: "Stanford University"
 tags:
-  - Batch Rendering
-  - Embodied AI
-  - Ray Tracing
-  - Rasterization
-  - GPU
-  - Reinforcement Learning
+  - "Batch Rendering"
+  - "Embodied AI"
+  - "Ray Tracing"
+  - "Rasterization"
+  - "GPU"
+  - "Reinforcement Learning"
 links:
   paper: "https://doi.org/10.1145/3680528.3687629"
   project: "https://madrona-engine.github.io/renderer.html"

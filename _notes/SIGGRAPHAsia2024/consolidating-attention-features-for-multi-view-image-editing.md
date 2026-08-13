@@ -1,24 +1,24 @@
 ---
 title: "Consolidating Attention Features for Multi-view Image Editing"
 authors:
-  - Or Patashnik
-  - Rinon Gal
-  - Daniel Cohen-Or
-  - Jun-Yan Zhu
-  - Fernando De la Torre
-track: "Conference"
-source: author-page
+  - "Or Patashnik"
+  - "Rinon Gal"
+  - "Daniel Cohen-Or"
+  - "Jun-Yan Zhu"
+  - "Fernando De la Torre"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - Tel Aviv University
-  - NVIDIA
-  - Carnegie Mellon University
+  - "Tel Aviv University"
+  - "NVIDIA"
+  - "Carnegie Mellon University"
 tags:
-  - Multi View Editing
-  - Diffusion Model
-  - Self Attention
-  - Neural Radiance Fields
-  - Geometric Editing
+  - "Multi View Editing"
+  - "Diffusion Model"
+  - "Self Attention"
+  - "Neural Radiance Fields"
+  - "Geometric Editing"
 links:
   paper: "https://doi.org/10.1145/3680528.3687611"
 ---

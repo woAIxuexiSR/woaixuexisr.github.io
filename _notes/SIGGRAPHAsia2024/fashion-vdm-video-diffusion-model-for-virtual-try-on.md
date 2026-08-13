@@ -1,25 +1,25 @@
 ---
 title: "Fashion-VDM: Video Diffusion Model for Virtual Try-On"
 authors:
-  - Johanna Suvi Karras
-  - Yingwei Li
-  - Nan Liu
-  - Luyang Zhu
-  - Innfarn Yoo
-  - Andreas Lugmayr
-  - Chris Lee
-  - Ira Kemelmacher-Shlizerman
-track: "Conference"
-source: arxiv
+  - "Johanna Suvi Karras"
+  - "Yingwei Li"
+  - "Nan Liu"
+  - "Luyang Zhu"
+  - "Innfarn Yoo"
+  - "Andreas Lugmayr"
+  - "Chris Lee"
+  - "Ira Kemelmacher-Shlizerman"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Google Research
-  - University of Washington
+  - "Google Research"
+  - "University of Washington"
 tags:
-  - Virtual Try on
-  - Video Synthesis
-  - Diffusion Model
-  - Video Diffusion
+  - "Virtual Try on"
+  - "Video Synthesis"
+  - "Diffusion Model"
+  - "Video Diffusion"
 links:
   paper: "https://doi.org/10.1145/3680528.3687623"
 ---

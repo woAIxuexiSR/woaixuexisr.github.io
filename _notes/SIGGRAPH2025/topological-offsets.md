@@ -1,23 +1,23 @@
 ---
 title: "Topological Offsets"
 authors:
-  - Daniel Zint
-  - Zhouyuan Chen
-  - Yifei Zhu
-  - Denis Zorin
-  - Teseo Schneider
-  - Daniele Panozzo
+  - "Daniel Zint"
+  - "Zhouyuan Chen"
+  - "Yifei Zhu"
+  - "Denis Zorin"
+  - "Teseo Schneider"
+  - "Daniele Panozzo"
 category: "Geometry & Modeling"
-track: Journal
+track: "Journal"
 source: "arxiv"
 institution: "New York University"
 tags:
-  - Surface Offsets
-  - Mesh Processing
-  - Topology
-  - Tetrahedral Meshing
-  - Robust Geometry
-  - Manifold Repair
+  - "Surface Offsets"
+  - "Mesh Processing"
+  - "Topology"
+  - "Tetrahedral Meshing"
+  - "Robust Geometry"
+  - "Manifold Repair"
 links:
   paper: "https://doi.org/10.1145/3731157"
   code: "https://github.com/wildmeshing/topological-offsets"

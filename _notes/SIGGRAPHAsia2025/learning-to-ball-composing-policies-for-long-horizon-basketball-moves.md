@@ -11,7 +11,7 @@ authors:
   - "C. Karen Liu"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
   - "Stanford University"
   - "University of California, Riverside"

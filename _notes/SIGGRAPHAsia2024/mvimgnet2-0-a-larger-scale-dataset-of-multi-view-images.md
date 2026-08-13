@@ -1,28 +1,28 @@
 ---
 title: "MVImgNet2.0: A Larger-scale Dataset of Multi-view Images"
 authors:
-  - Yushuang Wu
-  - Luyue Shi
-  - Haolin Liu
-  - Hongjie Liao
-  - Lingteng Qiu
-  - Weihao Yuan
-  - Xiaodong Gu
-  - Zilong Dong
-  - Shuguang Cui
-  - Xiaoguang Han
-track: "Journal"
-source: arxiv
+  - "Yushuang Wu"
+  - "Luyue Shi"
+  - "Haolin Liu"
+  - "Hongjie Liao"
+  - "Lingteng Qiu"
+  - "Weihao Yuan"
+  - "Xiaodong Gu"
+  - "Zilong Dong"
+  - "Shuguang Cui"
+  - "Xiaoguang Han"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The Chinese University of Hong Kong, Shenzhen
-  - Alibaba Group
+  - "The Chinese University of Hong Kong, Shenzhen"
+  - "Alibaba Group"
 tags:
-  - 3D Dataset
-  - Multi View Images
-  - 3D Reconstruction
-  - Large Reconstruction Model
-  - Point Cloud Annotation
+  - "3D Dataset"
+  - "Multi View Images"
+  - "3D Reconstruction"
+  - "Large Reconstruction Model"
+  - "Point Cloud Annotation"
 links:
   paper: "https://doi.org/10.1145/3687973"
 ---

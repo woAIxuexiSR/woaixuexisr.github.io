@@ -1,32 +1,32 @@
 ---
 title: "SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation"
 authors:
-  - Jingdong Zhang
-  - Weikai Chen
-  - Yuan Liu
-  - Jionghao Wang
-  - Zhengming Yu
-  - Zhuowen Shen
-  - Bo Yang
-  - Wenping Wang
-  - Xin Li
+  - "Jingdong Zhang"
+  - "Weikai Chen"
+  - "Yuan Liu"
+  - "Jionghao Wang"
+  - "Zhengming Yu"
+  - "Zhuowen Shen"
+  - "Bo Yang"
+  - "Wenping Wang"
+  - "Xin Li"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Texas A&M University
-  - LightSpeed Studios
-  - Hong Kong University of Science and Technology
-  - Waymo
+  - "Texas A&M University"
+  - "LightSpeed Studios"
+  - "Hong Kong University of Science and Technology"
+  - "Waymo"
 tags:
-  - Single Image 3D
-  - Shape Generation
-  - Spherical Projection
-  - Diffusion Model
-  - Representation Learning
+  - "Single Image 3D"
+  - "Shape Generation"
+  - "Spherical Projection"
+  - "Diffusion Model"
+  - "Representation Learning"
 links:
-  paper: https://doi.org/10.1145/3757377.3763959
-  project: https://arxiv.org/abs/2509.12721
+  paper: "https://doi.org/10.1145/3757377.3763959"
+  project: "https://arxiv.org/abs/2509.12721"
 ---
 
 ## 一句话总结

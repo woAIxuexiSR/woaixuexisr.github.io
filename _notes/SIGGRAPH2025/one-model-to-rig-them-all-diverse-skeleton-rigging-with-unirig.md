@@ -1,25 +1,25 @@
 ---
 title: "One Model to Rig Them All: Diverse Skeleton Rigging with UniRig"
 authors:
-  - Jia-Peng Zhang
-  - Cheng-Feng Pu
-  - Meng-Hao Guo
-  - Yan-Pei Cao
-  - Shi-Min Hu
+  - "Jia-Peng Zhang"
+  - "Cheng-Feng Pu"
+  - "Meng-Hao Guo"
+  - "Yan-Pei Cao"
+  - "Shi-Min Hu"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - VAST
+  - "Tsinghua University"
+  - "VAST"
 tags:
-  - Auto Rigging
-  - Autoregressive Model
-  - Skeleton Prediction
-  - Skinning Weight
-  - Cross Attention
-  - Point Cloud
-  - 3D Animation
+  - "Auto Rigging"
+  - "Autoregressive Model"
+  - "Skeleton Prediction"
+  - "Skinning Weight"
+  - "Cross Attention"
+  - "Point Cloud"
+  - "3D Animation"
 links:
   paper: "https://doi.org/10.1145/3730930"
   project: "https://zjp-shadow.github.io/works/UniRig/"

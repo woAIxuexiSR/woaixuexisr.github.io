@@ -1,24 +1,24 @@
 ---
 title: "Evaluating Visual Perception of Object Motion in Dynamic Environments"
 authors:
-  - Budmonde Duinkharjav
-  - Jenna Jiayi Kang
-  - Gavin S. P. Miller
-  - Chang Xiao
-  - Qi Sun
-track: "Journal"
-source: arxiv
+  - "Budmonde Duinkharjav"
+  - "Jenna Jiayi Kang"
+  - "Gavin S. P. Miller"
+  - "Chang Xiao"
+  - "Qi Sun"
 category: "HCI & XR"
+track: "Journal"
+source: "arxiv"
 institution:
-  - New York University
-  - Georgia Tech
-  - Adobe Research
+  - "New York University"
+  - "Georgia Tech"
+  - "Adobe Research"
 tags:
-  - Motion Perception
-  - Psychophysics
-  - Optical Flow
-  - Animation Design
-  - Camera Control
+  - "Motion Perception"
+  - "Psychophysics"
+  - "Optical Flow"
+  - "Animation Design"
+  - "Camera Control"
 links:
   paper: "https://doi.org/10.1145/3687912"
   code: "https://github.com/NYU-ICL/motion-estimation"

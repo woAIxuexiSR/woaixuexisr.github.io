@@ -1,25 +1,25 @@
 ---
 title: "SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation"
 authors:
-  - Mingze Sun
-  - Chen Guo
-  - Puhua Jiang
-  - Shiwei Mao
-  - Yurun Chen
-  - Ruqi Huang
-track: "Conference"
-source: arxiv
+  - "Mingze Sun"
+  - "Chen Guo"
+  - "Puhua Jiang"
+  - "Shiwei Mao"
+  - "Yurun Chen"
+  - "Ruqi Huang"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tsinghua Shenzhen International Graduate School
-  - Pengcheng Lab
+  - "Tsinghua Shenzhen International Graduate School"
+  - "Pengcheng Lab"
 tags:
-  - Shape Registration
-  - Dense Correspondence
-  - Diffusion Model
-  - Image Morphing
-  - Normalizing Flow
-  - 3D Gaussian Splatting
+  - "Shape Registration"
+  - "Dense Correspondence"
+  - "Diffusion Model"
+  - "Image Morphing"
+  - "Normalizing Flow"
+  - "3D Gaussian Splatting"
 links:
   paper: "https://doi.org/10.1145/3680528.3687567"
 ---

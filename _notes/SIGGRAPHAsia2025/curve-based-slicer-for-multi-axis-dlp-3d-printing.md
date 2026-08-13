@@ -1,28 +1,28 @@
 ---
 title: "Curve-Based Slicer for Multi-Axis DLP 3D Printing"
 authors:
-  - Chengkai Dai
-  - Tao Liu
-  - Dezhao Guo
-  - Binzhi Sun
-  - Guoxin Fang
-  - Yeung Yam
-  - Charlie C.L. Wang
-track: "Journal"
-source: arxiv
+  - "Chengkai Dai"
+  - "Tao Liu"
+  - "Dezhao Guo"
+  - "Binzhi Sun"
+  - "Guoxin Fang"
+  - "Yeung Yam"
+  - "Charlie C.L. Wang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Centre for Perceptual and Interactive Intelligence (CPII)
-  - The University of Manchester
-  - The Chinese University of Hong Kong
+  - "Centre for Perceptual and Interactive Intelligence (CPII)"
+  - "The University of Manchester"
+  - "The Chinese University of Hong Kong"
 tags:
-  - Computational Fabrication
-  - Multi-Axis 3D Printing
-  - Digital Light Processing
-  - Slicing
-  - Trajectory Optimization
-  - Bezier Curves
-  - Support-Free Printing
+  - "Computational Fabrication"
+  - "Multi-Axis 3D Printing"
+  - "Digital Light Processing"
+  - "Slicing"
+  - "Trajectory Optimization"
+  - "Bezier Curves"
+  - "Support-Free Printing"
 links:
   paper: "https://doi.org/10.1145/3763352"
   arxiv: "https://arxiv.org/abs/2509.00040"

@@ -1,30 +1,30 @@
 ---
 title: "Dense Server Design for Immersion Cooling"
 authors:
-  - Milin Kodnongbua
-  - Zachary Englhardt
-  - Ricardo Bianchini
-  - Rodrigo Fonseca
-  - Alvin R. Lebeck
-  - Daniel S. Berger
-  - Vikram Iyer
-  - Fiodar Kazhamiaka
-  - Adriana Schulz
-track: "Journal"
-source: author-page
+  - "Milin Kodnongbua"
+  - "Zachary Englhardt"
+  - "Ricardo Bianchini"
+  - "Rodrigo Fonseca"
+  - "Alvin R. Lebeck"
+  - "Daniel S. Berger"
+  - "Vikram Iyer"
+  - "Fiodar Kazhamiaka"
+  - "Adriana Schulz"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
 institution:
-  - University of Washington
-  - Microsoft
-  - Duke University
+  - "University of Washington"
+  - "Microsoft"
+  - "Duke University"
 tags:
-  - Computational Design
-  - Fabrication-Oriented Design
-  - Immersion Cooling
-  - Server Design
-  - Bin Packing
-  - Mixed Integer Programming
-  - Sustainability
+  - "Computational Design"
+  - "Fabrication-Oriented Design"
+  - "Immersion Cooling"
+  - "Server Design"
+  - "Bin Packing"
+  - "Mixed Integer Programming"
+  - "Sustainability"
 links:
   paper: "https://doi.org/10.1145/3687965"
   project: "https://homes.cs.washington.edu/~milink/dense-server/"

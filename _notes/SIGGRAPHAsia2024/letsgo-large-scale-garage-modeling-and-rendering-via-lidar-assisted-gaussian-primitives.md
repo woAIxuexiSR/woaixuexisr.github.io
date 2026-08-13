@@ -1,30 +1,30 @@
 ---
 title: "LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives"
 authors:
-  - Jiadi Cui
-  - Junming Cao
-  - Fuqiang Zhao
-  - Zhipeng He
-  - Yifan Chen
-  - Yuhui Zhong
-  - Lan Xu
-  - Yujiao Shi
-  - Yingliang Zhang
-  - Jingyi Yu
-track: "Journal"
-source: arxiv
+  - "Jiadi Cui"
+  - "Junming Cao"
+  - "Fuqiang Zhao"
+  - "Zhipeng He"
+  - "Yifan Chen"
+  - "Yuhui Zhong"
+  - "Lan Xu"
+  - "Yujiao Shi"
+  - "Yingliang Zhang"
+  - "Jingyi Yu"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - ShanghaiTech University
-  - Chinese Academy of Sciences
-  - DGene Digital Technology
+  - "ShanghaiTech University"
+  - "Chinese Academy of Sciences"
+  - "DGene Digital Technology"
 tags:
-  - 3D Gaussian Splatting
-  - LiDAR
-  - Large Scale Scene Reconstruction
-  - Level of Detail
-  - Novel View Synthesis
-  - Garage Dataset
+  - "3D Gaussian Splatting"
+  - "LiDAR"
+  - "Large Scale Scene Reconstruction"
+  - "Level of Detail"
+  - "Novel View Synthesis"
+  - "Garage Dataset"
 links:
   paper: "https://doi.org/10.1145/3687762"
 ---

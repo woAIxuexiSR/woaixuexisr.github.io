@@ -1,25 +1,25 @@
 ---
 title: "LAM: Large Avatar Model for One-shot Animatable Gaussian Head"
 authors:
-  - Yisheng He
-  - Xiaodong Gu
-  - Xiaodan Ye
-  - Chao Xu
-  - Zhengyi Zhao
-  - Yuan Dong
-  - Weihao Yuan
-  - Zilong Dong
-  - Liefeng Bo
-category: Reconstruction
-track: Conference
-source: arxiv
-institution: Alibaba Group
+  - "Yisheng He"
+  - "Xiaodong Gu"
+  - "Xiaodan Ye"
+  - "Chao Xu"
+  - "Zhengyi Zhao"
+  - "Yuan Dong"
+  - "Weihao Yuan"
+  - "Zilong Dong"
+  - "Liefeng Bo"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
+institution: "Alibaba Group"
 tags:
-  - Animatable Head Avatar
-  - 3D Gaussian Splatting
-  - One-shot Reconstruction
-  - Real-time Rendering
-  - FLAME
+  - "Animatable Head Avatar"
+  - "3D Gaussian Splatting"
+  - "One-shot Reconstruction"
+  - "Real-time Rendering"
+  - "FLAME"
 links:
   paper: "https://doi.org/10.1145/3721238.3730706"
   project: "https://aigc3d.github.io/projects/LAM/"

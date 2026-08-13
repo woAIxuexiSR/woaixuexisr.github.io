@@ -1,22 +1,21 @@
 ---
 title: "gDist: Efficient Distance Computation between 3D Meshes on GPU"
 authors:
-  - Peng Fan
-  - Wei Wang
-  - Ruofeng Tong
-  - Hailong Li
-  - Min Tang
-track: "Conference"
-source: arxiv
+  - "Peng Fan"
+  - "Wei Wang"
+  - "Ruofeng Tong"
+  - "Hailong Li"
+  - "Min Tang"
 category: "Geometry & Modeling"
-institution:
-  - Zhejiang University
+track: "Conference"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - GPU
-  - Distance Query
-  - Bounding Volume Hierarchy
-  - Collision Detection
-  - Parallel Algorithm
+  - "GPU"
+  - "Distance Query"
+  - "Bounding Volume Hierarchy"
+  - "Collision Detection"
+  - "Parallel Algorithm"
 links:
   paper: "https://doi.org/10.1145/3680528.3687619"
 ---

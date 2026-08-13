@@ -1,26 +1,26 @@
 ---
 title: "Can Any Model Be Fabricated? Inverse Operation Based Planning for Hybrid Additive-Subtractive Manufacturing"
 authors:
-  - Yongxue Chen
-  - Tao Liu
-  - Yuming Huang
-  - Weiming Wang
-  - Tianyu Zhang
-  - Kun Qian
-  - Zikang Shi
-  - Charlie C.L. Wang
+  - "Yongxue Chen"
+  - "Tao Liu"
+  - "Yuming Huang"
+  - "Weiming Wang"
+  - "Tianyu Zhang"
+  - "Kun Qian"
+  - "Zikang Shi"
+  - "Charlie C.L. Wang"
 category: "Geometry & Modeling"
 track: "Journal"
 source: "arxiv"
 institution: "The University of Manchester"
 tags:
-  - Hybrid Manufacturing
-  - Process Planning
-  - Additive Manufacturing
-  - Subtractive Manufacturing
-  - Inverse Operation
-  - Voxel Representation
-  - Fabrication
+  - "Hybrid Manufacturing"
+  - "Process Planning"
+  - "Additive Manufacturing"
+  - "Subtractive Manufacturing"
+  - "Inverse Operation"
+  - "Voxel Representation"
+  - "Fabrication"
 links:
   paper: "https://doi.org/10.1145/3763355"
   code: "https://github.com/Yongxue-Chen/hybManuAccEro"

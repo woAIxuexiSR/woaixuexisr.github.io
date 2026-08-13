@@ -1,26 +1,26 @@
 ---
 title: "Proteus-ID: ID-Consistent and Motion-Coherent Video Customization"
 authors:
-  - Guiyu Zhang
-  - Chen Shi
-  - Zijian Jiang
-  - Xunzhi Xiang
-  - Jingjing Qian
-  - Shaoshuai Shi
-  - Li Jiang
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: The Chinese University of Hong Kong, Shenzhen
+  - "Guiyu Zhang"
+  - "Chen Shi"
+  - "Zijian Jiang"
+  - "Xunzhi Xiang"
+  - "Jingjing Qian"
+  - "Shaoshuai Shi"
+  - "Li Jiang"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "The Chinese University of Hong Kong, Shenzhen"
 tags:
-  - Video Customization
-  - Diffusion Model
-  - Identity Preservation
-  - Motion Coherence
-  - Multimodal Fusion
+  - "Video Customization"
+  - "Diffusion Model"
+  - "Identity Preservation"
+  - "Motion Coherence"
+  - "Multimodal Fusion"
 links:
-  paper: https://doi.org/10.1145/3757377.3763949
-  project: https://grenoble-zhang.github.io/Proteus-ID/
+  paper: "https://doi.org/10.1145/3757377.3763949"
+  project: "https://grenoble-zhang.github.io/Proteus-ID/"
 ---
 
 ## 一句话总结

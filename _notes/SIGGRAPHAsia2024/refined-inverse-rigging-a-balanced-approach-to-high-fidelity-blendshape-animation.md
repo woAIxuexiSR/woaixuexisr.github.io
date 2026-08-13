@@ -1,23 +1,23 @@
 ---
 title: "Refined Inverse Rigging: A Balanced Approach to High-fidelity Blendshape Animation"
 authors:
-  - Stevo Rackovic
-  - Dusan Jakovetic
-  - Cláudia Soares
-track: "Conference"
-source: arxiv
+  - "Stevo Rackovic"
+  - "Dusan Jakovetic"
+  - "Cláudia Soares"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Instituto Superior Técnico
-  - NOVA School of Science and Technology
-  - University of Novi Sad
+  - "Instituto Superior Técnico"
+  - "NOVA School of Science and Technology"
+  - "University of Novi Sad"
 tags:
-  - Inverse Rigging
-  - Blendshape Animation
-  - Facial Animation
-  - Sparse Regularization
-  - Temporal Smoothing
-  - Coordinate Descent
+  - "Inverse Rigging"
+  - "Blendshape Animation"
+  - "Facial Animation"
+  - "Sparse Regularization"
+  - "Temporal Smoothing"
+  - "Coordinate Descent"
 links:
   paper: "https://doi.org/10.1145/3680528.3687670"
 ---

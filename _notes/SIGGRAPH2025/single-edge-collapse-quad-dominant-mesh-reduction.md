@@ -1,22 +1,22 @@
 ---
 title: "Single Edge Collapse Quad-Dominant Mesh Reduction"
 authors:
-  - Julian Knodt
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: LightSpeed Studios
+  - "Julian Knodt"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "LightSpeed Studios"
 tags:
-  - Mesh Reduction
-  - Mesh Simplification
-  - Quadric Error Metrics
-  - Quad-Dominant Mesh
-  - Level of Detail
-  - Edge Collapse
-  - Skinned Mesh
-  - Topology Preservation
+  - "Mesh Reduction"
+  - "Mesh Simplification"
+  - "Quadric Error Metrics"
+  - "Quad-Dominant Mesh"
+  - "Level of Detail"
+  - "Edge Collapse"
+  - "Skinned Mesh"
+  - "Topology Preservation"
 links:
-  paper: https://doi.org/10.1145/3731143
+  paper: "https://doi.org/10.1145/3731143"
 ---
 
 ## 一句话总结

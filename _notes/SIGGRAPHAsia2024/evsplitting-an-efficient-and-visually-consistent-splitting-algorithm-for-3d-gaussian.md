@@ -1,22 +1,22 @@
 ---
 title: "EVSplitting: An Efficient and Visually Consistent Splitting Algorithm for 3D Gaussian Splatting"
 authors:
-  - Qi-Yuan Feng
-  - Geng-Chen Cao
-  - Hao-Xiang Chen
-  - Qun-Ce Xu
-  - Tai-Jiang Mu
-  - Ralph R. Martin
-  - Shi-Min Hu
-category: Rendering
+  - "Qi-Yuan Feng"
+  - "Geng-Chen Cao"
+  - "Hao-Xiang Chen"
+  - "Qun-Ce Xu"
+  - "Tai-Jiang Mu"
+  - "Ralph R. Martin"
+  - "Shi-Min Hu"
+category: "Rendering"
 track: "Conference"
-source: author-page
-institution: Tsinghua University
+source: "author-page"
+institution: "Tsinghua University"
 tags:
-  - 3D Gaussian Splatting
-  - 3D Editing
-  - Point Cloud Extraction
-  - Explicit Representation
+  - "3D Gaussian Splatting"
+  - "3D Editing"
+  - "Point Cloud Extraction"
+  - "Explicit Representation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687592"
 ---

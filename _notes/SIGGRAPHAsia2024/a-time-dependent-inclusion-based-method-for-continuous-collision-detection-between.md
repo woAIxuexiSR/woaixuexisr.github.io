@@ -1,25 +1,25 @@
 ---
 title: "A Time-Dependent Inclusion-Based Method for Continuous Collision Detection between Parametric Surfaces"
 authors:
-  - Xuwen Chen
-  - Cheng Yu
-  - Xingyu Ni
-  - Mengyu Chu
-  - Bin Wang
-  - Baoquan Chen
-track: "Journal"
-source: author-page
+  - "Xuwen Chen"
+  - "Cheng Yu"
+  - "Xingyu Ni"
+  - "Mengyu Chu"
+  - "Bin Wang"
+  - "Baoquan Chen"
 category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
 institution:
-  - Peking University
-  - BIGAI
+  - "Peking University"
+  - "BIGAI"
 tags:
-  - Continuous Collision Detection
-  - Parametric Surface
-  - Interval Analysis
-  - Inclusion Function
-  - Physical Simulation
-  - Bezier Surface
+  - "Continuous Collision Detection"
+  - "Parametric Surface"
+  - "Interval Analysis"
+  - "Inclusion Function"
+  - "Physical Simulation"
+  - "Bezier Surface"
 links:
   paper: "https://doi.org/10.1145/3687960"
   code: "https://github.com/xw-c/TDIB-CCD"

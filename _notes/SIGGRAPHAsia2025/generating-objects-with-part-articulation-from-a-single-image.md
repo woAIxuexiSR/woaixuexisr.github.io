@@ -1,29 +1,29 @@
 ---
 title: "Generating Objects with Part-Articulation from a Single Image"
 authors:
-  - Ruijie Lu
-  - Yu Liu
-  - Jiaxiang Tang
-  - Junfeng Ni
-  - Yuxiang Wang
-  - Diwen Wan
-  - Gang Zeng
-  - Yixin Chen
-  - Siyuan Huang
+  - "Ruijie Lu"
+  - "Yu Liu"
+  - "Jiaxiang Tang"
+  - "Junfeng Ni"
+  - "Yuxiang Wang"
+  - "Diwen Wan"
+  - "Gang Zeng"
+  - "Yixin Chen"
+  - "Siyuan Huang"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Peking University
-  - Tsinghua University
-  - BIGAI
+  - "Peking University"
+  - "Tsinghua University"
+  - "BIGAI"
 tags:
-  - Articulated Object Generation
-  - Single Image to 3D
-  - Video Diffusion
-  - Part Segmentation
-  - Dual Quaternion
-  - Embodied AI
+  - "Articulated Object Generation"
+  - "Single Image to 3D"
+  - "Video Diffusion"
+  - "Part Segmentation"
+  - "Dual Quaternion"
+  - "Embodied AI"
 links:
   paper: "https://doi.org/10.1145/3757377.3763893"
   project: "https://dream-art-0.github.io/DreamArt/"

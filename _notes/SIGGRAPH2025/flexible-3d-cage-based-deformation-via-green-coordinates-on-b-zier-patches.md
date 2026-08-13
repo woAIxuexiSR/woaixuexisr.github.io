@@ -1,19 +1,18 @@
 ---
 title: "Flexible 3D Cage-based Deformation via Green Coordinates on Bézier Patches"
 authors:
-  - Dong Xiao
-  - Renjie Chen
+  - "Dong Xiao"
+  - "Renjie Chen"
 category: "Geometry & Modeling"
 track: "Conference"
-source: arxiv
-institution:
-  - University of Science and Technology of China
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - Cage-based Deformation
-  - Green Coordinates
-  - Bézier Surface
-  - Geometry Processing
-  - Shape Deformation
+  - "Cage-based Deformation"
+  - "Green Coordinates"
+  - "Bézier Surface"
+  - "Geometry Processing"
+  - "Shape Deformation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730630"
   code: "https://github.com/Submanifold/BezierGreen"

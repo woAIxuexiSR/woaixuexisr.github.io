@@ -1,26 +1,29 @@
 ---
 title: "Lifted Surfacing of Generalized Sweep Volumes"
 authors:
-  - Yiwen Ju
-  - Qingnan Zhou
-  - Xingyi Du
-  - Nathan Carr
-  - Tao Ju
+  - "Yiwen Ju"
+  - "Qingnan Zhou"
+  - "Xingyi Du"
+  - "Nathan Carr"
+  - "Tao Ju"
 category: "Geometry & Modeling"
 track: "Journal"
 source: "author-page"
+institution:
+  - "Washington University in St. Louis"
+  - "Adobe"
+tags:
+  - "Sweep Volume"
+  - "Implicit Surfaces"
+  - "Level Set Intersection"
+  - "Winding Number"
+  - "Mesh Arrangement"
+  - "Geometric Modeling"
+  - "Adaptive Grid"
 links:
   paper: "https://doi.org/10.1145/3763360"
   project: "https://jurwen.github.io/Swept-Volume-Page/"
   code: "https://github.com/Jurwen/Swept-Volume"
-tags:
-  - Sweep Volume
-  - Implicit Surfaces
-  - Level Set Intersection
-  - Winding Number
-  - Mesh Arrangement
-  - Geometric Modeling
-  - Adaptive Grid
 ---
 
 ## 问题背景

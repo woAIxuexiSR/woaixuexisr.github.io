@@ -1,28 +1,28 @@
 ---
 title: "Procedural Scene Programs for Open-Universe Scene Generation: LLM-Free Error Correction via Program Search"
 authors:
-  - Maxim Gumin
-  - Do Heon Han
-  - Seung Jean Yoo
-  - Aditya Ganeshan
-  - R. Kenny Jones
-  - Kailiang Fu
-  - Rio Aguina-Kang
-  - Stewart Morris
-  - Daniel Ritchie
-category: Neural & Generative
+  - "Maxim Gumin"
+  - "Do Heon Han"
+  - "Seung Jean Yoo"
+  - "Aditya Ganeshan"
+  - "R. Kenny Jones"
+  - "Kailiang Fu"
+  - "Rio Aguina-Kang"
+  - "Stewart Morris"
+  - "Daniel Ritchie"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Brown University
+source: "arxiv"
+institution: "Brown University"
 tags:
-  - Scene Synthesis
-  - Layout Generation
-  - Program Synthesis
-  - LLM
-  - Domain-Specific Language
-  - Error Correction
+  - "Scene Synthesis"
+  - "Layout Generation"
+  - "Program Synthesis"
+  - "LLM"
+  - "Domain-Specific Language"
+  - "Error Correction"
 links:
-  paper: https://doi.org/10.1145/3757377.3763930
+  paper: "https://doi.org/10.1145/3757377.3763930"
 ---
 
 ## 一句话总结

@@ -1,24 +1,24 @@
 ---
 title: "Multiple Importance Reweighting for Path Guiding"
 authors:
-  - Zhimin Fan
-  - Yiming Wang
-  - Chenxi Zhou
-  - Ling-Qi Yan
-  - Yanwen Guo
-  - Jie Guo
-category: Rendering
-track: Journal
-source: author-page
-institution: Nanjing University
+  - "Zhimin Fan"
+  - "Yiming Wang"
+  - "Chenxi Zhou"
+  - "Ling-Qi Yan"
+  - "Yanwen Guo"
+  - "Jie Guo"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "Nanjing University"
 tags:
-  - Path Guiding
-  - Multiple Importance Sampling
-  - Monte Carlo Rendering
-  - Variance Reduction
-  - Sample Reweighting
-  - Adaptive Importance Sampling
-  - Ray Tracing
+  - "Path Guiding"
+  - "Multiple Importance Sampling"
+  - "Monte Carlo Rendering"
+  - "Variance Reduction"
+  - "Sample Reweighting"
+  - "Adaptive Importance Sampling"
+  - "Ray Tracing"
 links:
   paper: "https://doi.org/10.1145/3731144"
   project: "https://zhiminfan.work/mi_reweight.html"

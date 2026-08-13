@@ -1,25 +1,25 @@
 ---
-title: Towards Garment Sewing Pattern Reconstruction from a Single Image
+title: "Towards Garment Sewing Pattern Reconstruction from a Single Image"
 authors:
-  - Lijuan Liu
-  - Xiangyu Xu
-  - Zhijie Lin
-  - Jiabin Liang
-  - Shuicheng Yan
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: Sea AI Lab
+  - "Lijuan Liu"
+  - "Xiangyu Xu"
+  - "Zhijie Lin"
+  - "Jiabin Liang"
+  - "Shuicheng Yan"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "Sea AI Lab"
 tags:
-  - Sewing Pattern
-  - Garment Reconstruction
-  - Transformer
-  - Synthetic Dataset
-  - Human Texture Synthesis
+  - "Sewing Pattern"
+  - "Garment Reconstruction"
+  - "Transformer"
+  - "Synthetic Dataset"
+  - "Human Texture Synthesis"
 links:
-  paper: https://doi.org/10.1145/3618319
-  project: https://sewformer.github.io
-  code: https://sewformer.github.io
+  paper: "https://doi.org/10.1145/3618319"
+  project: "https://sewformer.github.io"
+  code: "https://sewformer.github.io"
 ---
 
 ## 一句话总结

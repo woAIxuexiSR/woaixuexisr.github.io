@@ -1,26 +1,25 @@
 ---
 title: "Differentiable Light Transport with Gaussian Surfels via Adapted Radiosity for Efficient Relighting and Geometry Reconstruction"
 authors:
-  - Kaiwen Jiang
-  - Jia-Mu Sun
-  - Zilu Li
-  - Dan Wang
-  - Tzu-Mao Li
-  - Ravi Ramamoorthi
+  - "Kaiwen Jiang"
+  - "Jia-Mu Sun"
+  - "Zilu Li"
+  - "Dan Wang"
+  - "Tzu-Mao Li"
+  - "Ravi Ramamoorthi"
+category: "Rendering"
 track: "Journal"
-source: arxiv
-category: Rendering
-institution:
-  - University of California, San Diego
+source: "arxiv"
+institution: "University of California, San Diego"
 tags:
-  - Differentiable Rendering
-  - Global Illumination
-  - Radiosity
-  - Gaussian Surfels
-  - Inverse Rendering
-  - Relighting
-  - Geometry Reconstruction
-  - Spherical Harmonics
+  - "Differentiable Rendering"
+  - "Global Illumination"
+  - "Radiosity"
+  - "Gaussian Surfels"
+  - "Inverse Rendering"
+  - "Relighting"
+  - "Geometry Reconstruction"
+  - "Spherical Harmonics"
 links:
   paper: "https://doi.org/10.1145/3763305"
   project: "https://raymondjiangkw.github.io/radiositygs.github.io/"

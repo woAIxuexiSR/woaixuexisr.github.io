@@ -1,25 +1,25 @@
 ---
 title: "Inverse Tiling of 2D Finite Domains"
 authors:
-  - Rulin Chen
-  - Xuyang Ma
-  - Praveer Tewari
-  - Chi-Wing Fu
-  - Peng Song
-category: Geometry & Modeling
+  - "Rulin Chen"
+  - "Xuyang Ma"
+  - "Praveer Tewari"
+  - "Chi-Wing Fu"
+  - "Peng Song"
+category: "Geometry & Modeling"
 track: "Conference"
-source: author-page
-institution: Singapore University of Technology and Design
+source: "author-page"
+institution: "Singapore University of Technology and Design"
 tags:
-  - Tiling
-  - Polyomino Tiling
-  - Geometry Processing
-  - Computational Design
-  - 2D Finite Domains
+  - "Tiling"
+  - "Polyomino Tiling"
+  - "Geometry Processing"
+  - "Computational Design"
+  - "2D Finite Domains"
 links:
-  paper: https://doi.org/10.1145/3757377.3763834
-  project: https://sutd-cgl.github.io/supp/Publication/projects/2025-SIGAsia-InverseTiling/index.html
-  code: https://github.com/Linsanity81/InverseTiling
+  paper: "https://doi.org/10.1145/3757377.3763834"
+  project: "https://sutd-cgl.github.io/supp/Publication/projects/2025-SIGAsia-InverseTiling/index.html"
+  code: "https://github.com/Linsanity81/InverseTiling"
 ---
 
 ## 一句话总结

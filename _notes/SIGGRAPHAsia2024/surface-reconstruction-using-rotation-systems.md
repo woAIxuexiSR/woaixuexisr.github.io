@@ -1,24 +1,24 @@
 ---
 title: "Surface Reconstruction Using Rotation Systems"
 authors:
-  - Ruiqi Cui
-  - Emil Toftegaard Gæde
-  - Eva Rotenberg
-  - Leif Kobbelt
-  - J. Andreas Bærentzen
-track: "Journal"
-source: arxiv
+  - "Ruiqi Cui"
+  - "Emil Toftegaard Gæde"
+  - "Eva Rotenberg"
+  - "Leif Kobbelt"
+  - "J. Andreas Bærentzen"
 category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Technical University of Denmark
-  - RWTH Aachen University
+  - "Technical University of Denmark"
+  - "RWTH Aachen University"
 tags:
-  - Surface Reconstruction
-  - Point Cloud
-  - Triangle Mesh
-  - Rotation System
-  - Combinatorial
-  - Topology Control
+  - "Surface Reconstruction"
+  - "Point Cloud"
+  - "Triangle Mesh"
+  - "Rotation System"
+  - "Combinatorial"
+  - "Topology Control"
 links:
   paper: "https://doi.org/10.1145/3687956"
 ---

@@ -1,23 +1,22 @@
 ---
 title: "Viscous Vortex Dynamics on Surfaces"
 authors:
-  - Cuncheng Zhu
-  - Hang Yin
-  - Albert Chern
-track: "Journal"
-source: author-page
+  - "Cuncheng Zhu"
+  - "Hang Yin"
+  - "Albert Chern"
 category: "Animation & Simulation"
-institution:
-  - University of California San Diego
+track: "Journal"
+source: "author-page"
+institution: "University of California San Diego"
 tags:
-  - Fluid Simulation
-  - Vorticity Method
-  - Navier Stokes
-  - Curved Surfaces
-  - Gaussian Curvature
-  - Non Orientable Surfaces
-  - Boundary Conditions
-  - Kutta Condition
+  - "Fluid Simulation"
+  - "Vorticity Method"
+  - "Navier Stokes"
+  - "Curved Surfaces"
+  - "Gaussian Curvature"
+  - "Non Orientable Surfaces"
+  - "Boundary Conditions"
+  - "Kutta Condition"
 links:
   paper: "https://doi.org/10.1145/3763320"
   project: "https://cunchengzhu.github.io/project_pages/ViscousVortex2025.html"

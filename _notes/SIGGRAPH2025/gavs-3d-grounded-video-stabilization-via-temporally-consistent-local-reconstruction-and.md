@@ -1,21 +1,21 @@
 ---
 title: "GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering"
 authors:
-  - Zinuo You
-  - Stamatios Georgoulis
-  - Anpei Chen
-  - Siyu Tang
-  - Dengxin Dai
-category: Image & Video
+  - "Zinuo You"
+  - "Stamatios Georgoulis"
+  - "Anpei Chen"
+  - "Siyu Tang"
+  - "Dengxin Dai"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: ETH Zürich
+source: "arxiv"
+institution: "ETH Zürich"
 tags:
-  - Video Stabilization
-  - 3D Gaussian Splatting
-  - Test-Time Optimization
-  - Monocular Depth Estimation
-  - Novel View Synthesis
+  - "Video Stabilization"
+  - "3D Gaussian Splatting"
+  - "Test-Time Optimization"
+  - "Monocular Depth Estimation"
+  - "Novel View Synthesis"
 links:
   paper: "https://doi.org/10.1145/3721238.3730757"
 ---

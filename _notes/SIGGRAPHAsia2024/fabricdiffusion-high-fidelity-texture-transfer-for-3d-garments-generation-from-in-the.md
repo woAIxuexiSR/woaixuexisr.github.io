@@ -1,25 +1,25 @@
 ---
 title: "FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Images"
 authors:
-  - Cheng Zhang
-  - Yuanhao Wang
-  - Francisco Vicente Carrasco
-  - Chenglei Wu
-  - Jinlong Yang
-  - Thabo Beeler
-  - Fernando De la Torre
-track: "Conference"
-source: author-page
+  - "Cheng Zhang"
+  - "Yuanhao Wang"
+  - "Francisco Vicente Carrasco"
+  - "Chenglei Wu"
+  - "Jinlong Yang"
+  - "Thabo Beeler"
+  - "Fernando De la Torre"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - Carnegie Mellon University
-  - Google
+  - "Carnegie Mellon University"
+  - "Google"
 tags:
-  - Texture Transfer
-  - Diffusion Model
-  - 3D Garments
-  - PBR Material
-  - Synthetic Data
+  - "Texture Transfer"
+  - "Diffusion Model"
+  - "3D Garments"
+  - "PBR Material"
+  - "Synthetic Data"
 links:
   paper: "https://doi.org/10.1145/3680528.3687637"
   project: "https://humansensinglab.github.io/fabric-diffusion/"

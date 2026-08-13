@@ -1,33 +1,33 @@
 ---
 title: "Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation"
 authors:
-  - Tianyu Huang
-  - Wangguandong Zheng
-  - Tengfei Wang
-  - Yuhao Liu
-  - Zhenwei Wang
-  - Junta Wu
-  - Jie Jiang
-  - Hui Li
-  - Rynson W.H. Lau
-  - Wangmeng Zuo
-  - Chunchao Guo
-track: "Journal"
-source: arxiv
+  - "Tianyu Huang"
+  - "Wangguandong Zheng"
+  - "Tengfei Wang"
+  - "Yuhao Liu"
+  - "Zhenwei Wang"
+  - "Junta Wu"
+  - "Jie Jiang"
+  - "Hui Li"
+  - "Rynson W.H. Lau"
+  - "Wangmeng Zuo"
+  - "Chunchao Guo"
 category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Harbin Institute of Technology
-  - Southeast University
-  - Tencent Hunyuan
-  - City University of Hong Kong
+  - "Harbin Institute of Technology"
+  - "Southeast University"
+  - "Tencent Hunyuan"
+  - "City University of Hong Kong"
 tags:
-  - Video Diffusion
-  - 3D Scene Generation
-  - World Model
-  - RGB-D Generation
-  - Camera Control
-  - Point Cloud
-  - Auto Regressive Generation
+  - "Video Diffusion"
+  - "3D Scene Generation"
+  - "World Model"
+  - "RGB-D Generation"
+  - "Camera Control"
+  - "Point Cloud"
+  - "Auto Regressive Generation"
 links:
   paper: "https://doi.org/10.1145/3763330"
   project: "https://voyager-world.github.io"

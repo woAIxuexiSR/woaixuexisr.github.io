@@ -1,20 +1,20 @@
 ---
 title: "Design for Descent: What Makes a Shape Grammar Easy to Optimize?"
 authors:
-  - Milin Kodnongbua
-  - Zihan Jack Zhang
-  - Nicholas Sharp
-  - Adriana Schulz
+  - "Milin Kodnongbua"
+  - "Zihan Jack Zhang"
+  - "Nicholas Sharp"
+  - "Adriana Schulz"
 category: "Geometry & Modeling"
 track: "Conference"
-source: author-page
-institution: University of Washington
+source: "author-page"
+institution: "University of Washington"
 tags:
-  - Shape Grammar
-  - Procedural Modeling
-  - Gradient Descent
-  - Inverse Design
-  - Differentiable Rendering
+  - "Shape Grammar"
+  - "Procedural Modeling"
+  - "Gradient Descent"
+  - "Inverse Design"
+  - "Differentiable Rendering"
 links:
   paper: "https://doi.org/10.1145/3757377.3764004"
   project: "https://mkodnongbua.com/"

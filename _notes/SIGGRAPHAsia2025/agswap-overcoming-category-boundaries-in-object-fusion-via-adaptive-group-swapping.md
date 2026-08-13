@@ -1,23 +1,23 @@
 ---
 title: "AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping"
 authors:
-  - Zedong Zhang
-  - Ying Tai
-  - Jianjun Qian
-  - Jian Yang
-  - Jun Li
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Nanjing University of Science and Technology
+  - "Zedong Zhang"
+  - "Ying Tai"
+  - "Jianjun Qian"
+  - "Jian Yang"
+  - "Jun Li"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Nanjing University of Science and Technology"
 tags:
-  - Text To Image
-  - Diffusion Model
-  - Object Fusion
-  - Combinational Creativity
-  - Image Synthesis
+  - "Text To Image"
+  - "Diffusion Model"
+  - "Object Fusion"
+  - "Combinational Creativity"
+  - "Image Synthesis"
 links:
-  paper: https://doi.org/10.1145/3757377.3763944
+  paper: "https://doi.org/10.1145/3757377.3763944"
 ---
 
 ## 一句话总结

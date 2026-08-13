@@ -1,38 +1,38 @@
 ---
 title: "CrossGen: Learning and Generating Cross Fields for Quad Meshing"
 authors:
-  - Qiujie Dong
-  - Jiepeng Wang
-  - Rui Xu
-  - Cheng Lin
-  - Yuan Liu
-  - Shiqing Xin
-  - Zichun Zhong
-  - Xin Li
-  - Changhe Tu
-  - Taku Komura
-  - Leif Kobbelt
-  - Scott Schaefer
-  - Wenping Wang
-track: "Journal"
-source: arxiv
+  - "Qiujie Dong"
+  - "Jiepeng Wang"
+  - "Rui Xu"
+  - "Cheng Lin"
+  - "Yuan Liu"
+  - "Shiqing Xin"
+  - "Zichun Zhong"
+  - "Xin Li"
+  - "Changhe Tu"
+  - "Taku Komura"
+  - "Leif Kobbelt"
+  - "Scott Schaefer"
+  - "Wenping Wang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The University of Hong Kong
-  - Hong Kong University of Science and Technology
-  - Shandong University
-  - Wayne State University
-  - Texas A&M University
-  - RWTH Aachen University
+  - "The University of Hong Kong"
+  - "Hong Kong University of Science and Technology"
+  - "Shandong University"
+  - "Wayne State University"
+  - "Texas A&M University"
+  - "RWTH Aachen University"
 tags:
-  - Cross Fields
-  - Quad Meshing
-  - Geometry Processing
-  - Latent Space Representation
-  - Signed Distance Field
-  - Auto Encoder
-  - Diffusion Model
-  - Point Cloud
+  - "Cross Fields"
+  - "Quad Meshing"
+  - "Geometry Processing"
+  - "Latent Space Representation"
+  - "Signed Distance Field"
+  - "Auto Encoder"
+  - "Diffusion Model"
+  - "Point Cloud"
 links:
   paper: "https://doi.org/10.1145/3763299"
   project: "https://arxiv.org/abs/2506.07020"

@@ -1,21 +1,21 @@
 ---
 title: "EditDuet: A Multi-Agent System for Video Non-Linear Editing"
 authors:
-  - Marcelo Sandoval-Castañeda
-  - Bryan C. Russell
-  - Josef Sivic
-  - Gregory Shakhnarovich
-  - Fabian Caba Heilbron
+  - "Marcelo Sandoval-Castañeda"
+  - "Bryan C. Russell"
+  - "Josef Sivic"
+  - "Gregory Shakhnarovich"
+  - "Fabian Caba Heilbron"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "TTI-Chicago"
 tags:
-  - Video Editing
-  - Multi-Agent System
-  - LLM Agent
-  - Non-Linear Editing
-  - Iterative Refinement
+  - "Video Editing"
+  - "Multi-Agent System"
+  - "LLM Agent"
+  - "Non-Linear Editing"
+  - "Iterative Refinement"
 links:
   paper: "https://doi.org/10.1145/3721238.3730761"
 ---

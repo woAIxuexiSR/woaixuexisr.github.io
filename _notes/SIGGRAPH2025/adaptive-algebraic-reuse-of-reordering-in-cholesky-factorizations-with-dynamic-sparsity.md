@@ -1,26 +1,26 @@
 ---
-title: Adaptive Algebraic Reuse of Reordering in Cholesky Factorizations with Dynamic Sparsity Patterns
+title: "Adaptive Algebraic Reuse of Reordering in Cholesky Factorizations with Dynamic Sparsity Patterns"
 authors:
-  - Behrooz Zarebavani
-  - Danny M. Kaufman
-  - David I. W. Levin
-  - Maryam Mehri Dehnavi
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: University of Toronto
+  - "Behrooz Zarebavani"
+  - "Danny M. Kaufman"
+  - "David I. W. Levin"
+  - "Maryam Mehri Dehnavi"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "University of Toronto"
 tags:
-  - Sparse Cholesky Solver
-  - Fill-Reducing Ordering
-  - Symbolic Analysis
-  - Dynamic Sparsity
-  - Nested Dissection
-  - Computation Reuse
-  - Physics-Based Simulation
-  - Remeshing
+  - "Sparse Cholesky Solver"
+  - "Fill-Reducing Ordering"
+  - "Symbolic Analysis"
+  - "Dynamic Sparsity"
+  - "Nested Dissection"
+  - "Computation Reuse"
+  - "Physics-Based Simulation"
+  - "Remeshing"
 links:
-  paper: https://doi.org/10.1145/3731179
-  code: https://github.com/BehroozZare/Parth
+  paper: "https://doi.org/10.1145/3731179"
+  code: "https://github.com/BehroozZare/Parth"
 ---
 ## 一句话总结
 

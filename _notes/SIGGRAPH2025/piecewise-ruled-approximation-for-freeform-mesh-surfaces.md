@@ -1,27 +1,27 @@
 ---
 title: "Piecewise Ruled Approximation for Freeform Mesh Surfaces"
 authors:
-  - Yiling Pan
-  - Zhixin Xu
-  - Bin Wang
-  - Bailin Deng
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: Tsinghua University
+  - "Yiling Pan"
+  - "Zhixin Xu"
+  - "Bin Wang"
+  - "Bailin Deng"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Ruled Surface
-  - Surface Approximation
-  - Mesh Processing
-  - Geometry Processing
-  - Direction Field
-  - Group Sparsity
-  - Developable Surface
-  - Architectural Geometry
-  - Fabrication
+  - "Ruled Surface"
+  - "Surface Approximation"
+  - "Mesh Processing"
+  - "Geometry Processing"
+  - "Direction Field"
+  - "Group Sparsity"
+  - "Developable Surface"
+  - "Architectural Geometry"
+  - "Fabrication"
 links:
-  paper: https://doi.org/10.1145/3730866
-  project: https://arxiv.org/abs/2501.15258
+  paper: "https://doi.org/10.1145/3730866"
+  project: "https://arxiv.org/abs/2501.15258"
 ---
 
 ## 一句话总结

@@ -6,8 +6,7 @@ authors:
 category: "Rendering"
 track: "Conference"
 source: "ACM"
-institution:
-  - "Gwangju Institute of Science and Technology"
+institution: "Gwangju Institute of Science and Technology"
 tags:
   - "Inverse Rendering"
   - "Monte Carlo Rendering"

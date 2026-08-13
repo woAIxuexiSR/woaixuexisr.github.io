@@ -1,21 +1,21 @@
 ---
 title: "CageNet: A Meta-Framework for Learning on Wild Meshes"
 authors:
-  - Michal Edelstein
-  - Hsueh-Ti Derek Liu
-  - Mirela Ben-Chen
-category: Geometry & Modeling
-track: Conference
-source: arxiv
-institution: Technion – Israel Institute of Technology
+  - "Michal Edelstein"
+  - "Hsueh-Ti Derek Liu"
+  - "Mirela Ben-Chen"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
+institution: "Technion – Israel Institute of Technology"
 tags:
-  - Geometric Deep Learning
-  - Mesh Segmentation
-  - Skinning Weights
-  - Cage-Based Geometry
-  - Generalized Barycentric Coordinates
+  - "Geometric Deep Learning"
+  - "Mesh Segmentation"
+  - "Skinning Weights"
+  - "Cage-Based Geometry"
+  - "Generalized Barycentric Coordinates"
 links:
-  paper: https://doi.org/10.1145/3721238.3730654
+  paper: "https://doi.org/10.1145/3721238.3730654"
 ---
 
 ## 一句话总结

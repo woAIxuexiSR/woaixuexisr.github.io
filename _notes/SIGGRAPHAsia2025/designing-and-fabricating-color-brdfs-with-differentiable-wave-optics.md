@@ -1,29 +1,29 @@
 ---
 title: "Designing and Fabricating Color BRDFs with Differentiable Wave Optics"
 authors:
-  - Yixin Zeng
-  - Kiseok Choi
-  - Hadi Amata
-  - Kaizhang Kang
-  - Wolfgang Heidrich
-  - Hongzhi Wu
-  - Min H. Kim
-track: "Journal"
-source: author-page
+  - "Yixin Zeng"
+  - "Kiseok Choi"
+  - "Hadi Amata"
+  - "Kaizhang Kang"
+  - "Wolfgang Heidrich"
+  - "Hongzhi Wu"
+  - "Min H. Kim"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - KAIST
-  - KAUST
+  - "Zhejiang University"
+  - "KAIST"
+  - "KAUST"
 tags:
-  - Wave Optics
-  - BRDF Design
-  - BRDF Fabrication
-  - Reflectance Modeling
-  - Structural Color
-  - Differentiable Rendering
-  - Grayscale Lithography
-  - Iridescence
+  - "Wave Optics"
+  - "BRDF Design"
+  - "BRDF Fabrication"
+  - "Reflectance Modeling"
+  - "Structural Color"
+  - "Differentiable Rendering"
+  - "Grayscale Lithography"
+  - "Iridescence"
 links:
   paper: "https://doi.org/10.1145/3763275"
   project: "https://vclab.kaist.ac.kr/siggraphasia2025p1/"

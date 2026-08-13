@@ -1,19 +1,18 @@
 ---
 title: "Neural Garment Dynamic Super-Resolution"
 authors:
-  - Meng Zhang
-  - Jun Li
-track: "Conference"
-source: arxiv
+  - "Meng Zhang"
+  - "Jun Li"
 category: "Animation & Simulation"
-institution:
-  - Nanjing University of Science and Technology
+track: "Conference"
+source: "arxiv"
+institution: "Nanjing University of Science and Technology"
 tags:
-  - Garment Dynamics
-  - Super Resolution
-  - Wrinkle Detail
-  - Cloth Simulation
-  - Graph Neural Network
+  - "Garment Dynamics"
+  - "Super Resolution"
+  - "Wrinkle Detail"
+  - "Cloth Simulation"
+  - "Graph Neural Network"
 links:
   paper: "https://doi.org/10.1145/3680528.3687610"
 ---

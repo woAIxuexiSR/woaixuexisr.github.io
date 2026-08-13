@@ -1,22 +1,22 @@
 ---
 title: "AR-DAVID: Augmented Reality Display Artifact Video Dataset"
 authors:
-  - Alexandre Chapiro
-  - Dongyeon Kim
-  - Yuta Asano
-  - Rafał K. Mantiuk
-track: "Journal"
-source: author-page
+  - "Alexandre Chapiro"
+  - "Dongyeon Kim"
+  - "Yuta Asano"
+  - "Rafał K. Mantiuk"
 category: "HCI & XR"
+track: "Journal"
+source: "author-page"
 institution:
-  - University of Cambridge
-  - Meta
+  - "University of Cambridge"
+  - "Meta"
 tags:
-  - Augmented Reality
-  - Optical See Through
-  - Video Quality Assessment
-  - Perception
-  - Display Artifacts
+  - "Augmented Reality"
+  - "Optical See Through"
+  - "Video Quality Assessment"
+  - "Perception"
+  - "Display Artifacts"
 links:
   paper: "https://doi.org/10.1145/3687969"
   project: "https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/"

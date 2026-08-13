@@ -1,24 +1,24 @@
 ---
 title: "ForceGrip: Reference-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation"
 authors:
-  - DongHeun Han
-  - Byungmin Kim
-  - RoUn Lee
-  - KyeongMin Kim
-  - Hyoseok Hwang
-  - HyeongYeop Kang
+  - "DongHeun Han"
+  - "Byungmin Kim"
+  - "RoUn Lee"
+  - "KyeongMin Kim"
+  - "Hyoseok Hwang"
+  - "HyeongYeop Kang"
 category: "HCI & XR"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Kyung Hee University
-  - Korea University
+  - "Kyung Hee University"
+  - "Korea University"
 tags:
-  - Virtual Reality
-  - Hand Manipulation
-  - Curriculum Learning
-  - Reinforcement Learning
-  - Physics-Based Animation
+  - "Virtual Reality"
+  - "Hand Manipulation"
+  - "Curriculum Learning"
+  - "Reinforcement Learning"
+  - "Physics-Based Animation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730738"
   project: "https://han-dongheun.github.io/ForceGrip"

@@ -1,23 +1,23 @@
 ---
 title: "TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models"
 authors:
-  - Gilad Deutch
-  - Rinon Gal
-  - Daniel Garibi
-  - Or Patashnik
-  - Daniel Cohen-Or
-category: Image & Video
+  - "Gilad Deutch"
+  - "Rinon Gal"
+  - "Daniel Garibi"
+  - "Or Patashnik"
+  - "Daniel Cohen-Or"
+category: "Image & Video"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Tel-Aviv University
-  - NVIDIA
+  - "Tel-Aviv University"
+  - "NVIDIA"
 tags:
-  - Image Editing
-  - Diffusion Model
-  - Few Step Sampling
-  - Noise Inversion
-  - Text-Guided Editing
+  - "Image Editing"
+  - "Diffusion Model"
+  - "Few Step Sampling"
+  - "Noise Inversion"
+  - "Text-Guided Editing"
 links:
   paper: "https://doi.org/10.1145/3680528.3687612"
   project: "https://turboedit-paper.github.io/"

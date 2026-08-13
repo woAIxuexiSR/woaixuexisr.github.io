@@ -1,32 +1,32 @@
 ---
 title: "BlobCtrl: Taming Controllable Blob for Element-level Image Editing"
 authors:
-  - Yaowei Li
-  - Lingen Li
-  - Zhaoyang Zhang
-  - Xiaoyu Li
-  - Guangzhi Wang
-  - Hongxiang Li
-  - Xiaodong Cun
-  - Ying Shan
-  - Yuexian Zou
+  - "Yaowei Li"
+  - "Lingen Li"
+  - "Zhaoyang Zhang"
+  - "Xiaoyu Li"
+  - "Guangzhi Wang"
+  - "Hongxiang Li"
+  - "Xiaodong Cun"
+  - "Ying Shan"
+  - "Yuexian Zou"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Peking University
-  - The Chinese University of Hong Kong
-  - ARC Lab, Tencent
-  - The Hong Kong University of Science and Technology
-  - Great Bay University
+  - "Peking University"
+  - "The Chinese University of Hong Kong"
+  - "ARC Lab, Tencent"
+  - "The Hong Kong University of Science and Technology"
+  - "Great Bay University"
 tags:
-  - Image Editing
-  - Element-level Editing
-  - Blob Representation
-  - Diffusion Model
-  - Layout Appearance Disentanglement
-  - Self-supervised Learning
-  - Identity Preservation
+  - "Image Editing"
+  - "Element-level Editing"
+  - "Blob Representation"
+  - "Diffusion Model"
+  - "Layout Appearance Disentanglement"
+  - "Self-supervised Learning"
+  - "Identity Preservation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763897"
   project: "https://liyaowei-stu.github.io/project/BlobCtrl/"

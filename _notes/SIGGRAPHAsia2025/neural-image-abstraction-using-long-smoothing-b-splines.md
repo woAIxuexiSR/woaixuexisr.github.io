@@ -1,24 +1,29 @@
 ---
 title: "Neural Image Abstraction Using Long Smoothing B-Splines"
 authors:
-  - Daniel Berio
-  - Michael Stroh
-  - Sylvain Calinon
-  - Frederic Fol Leymarie
-  - Oliver Deussen
-  - Ariel Shamir
-category: Image & Video
+  - "Daniel Berio"
+  - "Michael Stroh"
+  - "Sylvain Calinon"
+  - "Frederic Fol Leymarie"
+  - "Oliver Deussen"
+  - "Ariel Shamir"
+category: "Image & Video"
 track: "Journal"
-source: arxiv
+source: "arxiv"
+institution:
+  - "University of London"
+  - "University of Konstanz"
+  - "Idiap Research Institute"
+  - "Reichman University"
 tags:
-  - Differentiable Vector Graphics
-  - B Splines
-  - Image Abstraction
-  - Vectorization
-  - Stroke Based Rendering
-  - Diffusion
-  - CLIP
-  - Text Stylization
+  - "Differentiable Vector Graphics"
+  - "B Splines"
+  - "Image Abstraction"
+  - "Vectorization"
+  - "Stroke Based Rendering"
+  - "Diffusion"
+  - "CLIP"
+  - "Text Stylization"
 links:
   paper: "https://doi.org/10.1145/3763345"
   project: "https://github.com/colormotor/calligraph"

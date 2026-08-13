@@ -1,25 +1,25 @@
 ---
 title: "MagicClay: Sculpting Meshes With Generative Neural Fields"
 authors:
-  - Amir Barda
-  - Vladimir G. Kim
-  - Noam Aigerman
-  - Amit Haim Bermano
-  - Thibault Groueix
-track: "Conference"
-source: arxiv
+  - "Amir Barda"
+  - "Vladimir G. Kim"
+  - "Noam Aigerman"
+  - "Amit Haim Bermano"
+  - "Thibault Groueix"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tel Aviv University
-  - Adobe Research
-  - Université de Montréal
+  - "Tel Aviv University"
+  - "Adobe Research"
+  - "Université de Montréal"
 tags:
-  - Text-to-3D
-  - Generative Modeling
-  - Mesh Sculpting
-  - SDF
-  - Score Distillation Sampling
-  - Hybrid Representation
+  - "Text-to-3D"
+  - "Generative Modeling"
+  - "Mesh Sculpting"
+  - "SDF"
+  - "Score Distillation Sampling"
+  - "Hybrid Representation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687627"
 ---

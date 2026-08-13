@@ -1,24 +1,24 @@
 ---
 title: "Text-guided Controllable Mesh Refinement for Interactive 3D Modeling"
 authors:
-  - Yun-Chun Chen
-  - Selena Ling
-  - Zhiqin Chen
-  - Vladimir G. Kim
-  - Matheus Gadelha
-  - Alec Jacobson
+  - "Yun-Chun Chen"
+  - "Selena Ling"
+  - "Zhiqin Chen"
+  - "Vladimir G. Kim"
+  - "Matheus Gadelha"
+  - "Alec Jacobson"
 category: "Geometry & Modeling"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - University of Toronto
-  - Adobe Research
+  - "University of Toronto"
+  - "Adobe Research"
 tags:
-  - Text-to-3D
-  - Mesh Refinement
-  - ControlNet
-  - Diffusion Model
-  - Interactive 3D Modeling
+  - "Text-to-3D"
+  - "Mesh Refinement"
+  - "ControlNet"
+  - "Diffusion Model"
+  - "Interactive 3D Modeling"
 links:
   paper: "https://doi.org/10.1145/3680528.3687630"
 ---

@@ -1,22 +1,22 @@
 ---
 title: "Text-based Animatable 3D Avatars with Morphable Model Alignment"
 authors:
-  - Yiqian Wu
-  - Malte Prinzler
-  - Xiaogang Jin
-  - Siyu Tang
+  - "Yiqian Wu"
+  - "Malte Prinzler"
+  - "Xiaogang Jin"
+  - "Siyu Tang"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - ETH Zürich
-  - Zhejiang University
+  - "ETH Zürich"
+  - "Zhejiang University"
 tags:
-  - 3D Gaussian Splatting
-  - Diffusion Model
-  - Text-to-3D
-  - Animatable Avatar
-  - ControlNet
+  - "3D Gaussian Splatting"
+  - "Diffusion Model"
+  - "Text-to-3D"
+  - "Animatable Avatar"
+  - "ControlNet"
 links:
   paper: "https://doi.org/10.1145/3721238.3730680"
   code: "https://github.com/oneThousand1000/AnimPortrait3D"

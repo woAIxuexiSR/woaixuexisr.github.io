@@ -1,23 +1,23 @@
 ---
 title: "Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation"
 authors:
-  - Yunxin Li
-  - Haoyuan Shi
-  - Baotian Hu
-  - Longyue Wang
-  - Jiashun Zhu
-  - Jinyi Xu
-  - Zhen Zhao
-  - Min Zhang
+  - "Yunxin Li"
+  - "Haoyuan Shi"
+  - "Baotian Hu"
+  - "Longyue Wang"
+  - "Jiashun Zhu"
+  - "Jinyi Xu"
+  - "Zhen Zhao"
+  - "Min Zhang"
 category: "Image & Video"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution: "Harbin Institute of Technology"
 tags:
-  - Animation Generation
-  - Large Multimodal Models
-  - Autonomous Agent
-  - Video Generation
+  - "Animation Generation"
+  - "Large Multimodal Models"
+  - "Autonomous Agent"
+  - "Video Generation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687688"
 ---

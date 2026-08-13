@@ -1,28 +1,28 @@
 ---
 title: "Neural Co-Optimization of Structural Topology, Manufacturable Layers, and Path Orientations for Fiber-Reinforced Composites"
 authors:
-  - Tao Liu
-  - Tianyu Zhang
-  - Yongxue Chen
-  - Weiming Wang
-  - Yu Jiang
-  - Yuming Huang
-  - Charlie C. L. Wang
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: The University of Manchester
+  - "Tao Liu"
+  - "Tianyu Zhang"
+  - "Yongxue Chen"
+  - "Weiming Wang"
+  - "Yu Jiang"
+  - "Yuming Huang"
+  - "Charlie C. L. Wang"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "The University of Manchester"
 tags:
-  - Topology Optimization
-  - Fiber-Reinforced Composites
-  - Multi-Axis 3D Printing
-  - Implicit Neural Fields
-  - Fiber Orientation
-  - Curved Layers
-  - Manufacturability Constraints
-  - Anisotropic Strength
-  - Hoffman Criterion
-  - Computational Fabrication
+  - "Topology Optimization"
+  - "Fiber-Reinforced Composites"
+  - "Multi-Axis 3D Printing"
+  - "Implicit Neural Fields"
+  - "Fiber Orientation"
+  - "Curved Layers"
+  - "Manufacturability Constraints"
+  - "Anisotropic Strength"
+  - "Hoffman Criterion"
+  - "Computational Fabrication"
 links:
   paper: "https://doi.org/10.1145/3730922"
 ---

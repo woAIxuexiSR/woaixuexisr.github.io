@@ -1,24 +1,24 @@
 ---
-title: Optimal Design of Robotic Character Kinematics
+title: "Optimal Design of Robotic Character Kinematics"
 authors:
-  - Guirec Maloisel
-  - Christian Schumacher
-  - Espen Knoop
-  - Ruben Grandia
-  - Moritz Bächer
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: Disney Research
+  - "Guirec Maloisel"
+  - "Christian Schumacher"
+  - "Espen Knoop"
+  - "Ruben Grandia"
+  - "Moritz Bächer"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "Disney Research"
 tags:
-  - Robotic Character
-  - Kinematic Design
-  - Optimal Control
-  - Dynamic Programming
-  - Mechanism Design
+  - "Robotic Character"
+  - "Kinematic Design"
+  - "Optimal Control"
+  - "Dynamic Programming"
+  - "Mechanism Design"
 links:
-  paper: https://doi.org/10.1145/3618404
-  project: https://la.disneyresearch.com/publication/optimal-robotic-kinematics/
+  paper: "https://doi.org/10.1145/3618404"
+  project: "https://la.disneyresearch.com/publication/optimal-robotic-kinematics/"
 ---
 
 ## 一句话总结

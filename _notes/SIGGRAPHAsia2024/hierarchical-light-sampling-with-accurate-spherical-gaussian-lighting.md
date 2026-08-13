@@ -1,22 +1,21 @@
 ---
 title: "Hierarchical Light Sampling with Accurate Spherical Gaussian Lighting"
 authors:
-  - Yusuke Tokuyoshi
-  - Sho Ikeda
-  - Paritosh Kulkarni
-  - Takahiro Harada
-track: "Conference"
-source: author-page
+  - "Yusuke Tokuyoshi"
+  - "Sho Ikeda"
+  - "Paritosh Kulkarni"
+  - "Takahiro Harada"
 category: "Rendering"
-institution:
-  - Advanced Micro Devices, Inc.
+track: "Conference"
+source: "author-page"
+institution: "Advanced Micro Devices, Inc."
 tags:
-  - Importance Sampling
-  - Many Lights
-  - Microfacet BRDF
-  - Spherical Gaussian
-  - NDF Filtering
-  - Path Tracing
+  - "Importance Sampling"
+  - "Many Lights"
+  - "Microfacet BRDF"
+  - "Spherical Gaussian"
+  - "NDF Filtering"
+  - "Path Tracing"
 links:
   paper: "https://doi.org/10.1145/3680528.3687647"
 ---

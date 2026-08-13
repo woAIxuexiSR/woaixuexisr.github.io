@@ -1,24 +1,24 @@
 ---
 title: "Hyperspectral Polarimetric BRDFs of Real-world Materials"
 authors:
-  - Yunseong Moon
-  - Ryota Maeda
-  - Suhyun Shin
-  - Inseung Hwang
-  - Youngchan Kim
-  - Min H. Kim
-  - Seung-Hwan Baek
-category: Rendering
+  - "Yunseong Moon"
+  - "Ryota Maeda"
+  - "Suhyun Shin"
+  - "Inseung Hwang"
+  - "Youngchan Kim"
+  - "Min H. Kim"
+  - "Seung-Hwan Baek"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: POSTECH
+source: "arxiv"
+institution: "POSTECH"
 tags:
-  - BRDF
-  - Polarization Imaging
-  - Hyperspectral Imaging
-  - Mueller Matrix
-  - Reflectance Modeling
-  - Physically Based Rendering
+  - "BRDF"
+  - "Polarization Imaging"
+  - "Hyperspectral Imaging"
+  - "Mueller Matrix"
+  - "Reflectance Modeling"
+  - "Physically Based Rendering"
 links:
   paper: "https://doi.org/10.1145/3757377.3763853"
   project: "https://yunseong0518.github.io/projects/hpBRDF/"

@@ -1,18 +1,18 @@
 ---
 title: "Colorful Diffuse Intrinsic Image Decomposition in the Wild"
 authors:
-  - Chris Careaga
-  - Yağız Aksoy
-track: "Journal"
-source: arxiv
+  - "Chris Careaga"
+  - "Yağız Aksoy"
 category: "Image & Video"
+track: "Journal"
+source: "arxiv"
 institution: "Simon Fraser University"
 tags:
-  - Intrinsic Image Decomposition
-  - Inverse Rendering
-  - Albedo Estimation
-  - Illumination Editing
-  - Highlight Removal
+  - "Intrinsic Image Decomposition"
+  - "Inverse Rendering"
+  - "Albedo Estimation"
+  - "Illumination Editing"
+  - "Highlight Removal"
 links:
   paper: "https://doi.org/10.1145/3687984"
 ---

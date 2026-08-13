@@ -1,27 +1,27 @@
 ---
 title: "TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores"
 authors:
-  - Zimu Liao
-  - Jifeng Ding
-  - Siwei Cui
-  - Ruixuan Gong
-  - Boni Hu
-  - Yi Wang
-  - Hengjie Li
-  - Hui Wang
-  - Xingcheng Zhang
-  - Rong Fu
-category: Rendering
+  - "Zimu Liao"
+  - "Jifeng Ding"
+  - "Siwei Cui"
+  - "Ruixuan Gong"
+  - "Boni Hu"
+  - "Yi Wang"
+  - "Hengjie Li"
+  - "Hui Wang"
+  - "Xingcheng Zhang"
+  - "Rong Fu"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Shanghai Artificial Intelligence Laboratory
+source: "arxiv"
+institution: "Shanghai Artificial Intelligence Laboratory"
 tags:
-  - 3D Gaussian Splatting
-  - Tensor Core
-  - Real-Time Rendering
-  - Rasterization
-  - Alpha Blending
-  - GPU Acceleration
+  - "3D Gaussian Splatting"
+  - "Tensor Core"
+  - "Real-Time Rendering"
+  - "Rasterization"
+  - "Alpha Blending"
+  - "GPU Acceleration"
 links:
   paper: "https://doi.org/10.1145/3757377.3764001"
   arxiv: "https://arxiv.org/abs/2505.24796"

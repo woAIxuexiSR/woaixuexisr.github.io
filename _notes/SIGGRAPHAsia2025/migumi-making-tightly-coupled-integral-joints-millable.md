@@ -1,24 +1,30 @@
 ---
 title: "MiGumi: Making Tightly Coupled Integral Joints Millable"
 authors:
-  - Aditya Ganeshan
-  - Kurt Fleischer
-  - Wenzel Jakob
-  - Ariel Shamir
-  - Daniel Ritchie
-  - Takeo Igarashi
-  - Maria Larsson
-category: Geometry & Modeling
-track: Journal
-source: arxiv
+  - "Aditya Ganeshan"
+  - "Kurt Fleischer"
+  - "Wenzel Jakob"
+  - "Ariel Shamir"
+  - "Daniel Ritchie"
+  - "Takeo Igarashi"
+  - "Maria Larsson"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution:
+  - "Brown University"
+  - "Pixar"
+  - "EPFL"
+  - "Reichman University"
+  - "University of Tokyo"
 tags:
-  - Integral Joints
-  - CNC Milling
-  - Computational Fabrication
-  - Geometry Processing
-  - Differentiable Optimization
-  - Woodworking
-  - Constructive Solid Geometry
+  - "Integral Joints"
+  - "CNC Milling"
+  - "Computational Fabrication"
+  - "Geometry Processing"
+  - "Differentiable Optimization"
+  - "Woodworking"
+  - "Constructive Solid Geometry"
 links:
   paper: "https://doi.org/10.1145/3763304"
   project: "https://bardofcodes.github.io/migumi"

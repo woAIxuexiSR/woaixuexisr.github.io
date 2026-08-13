@@ -1,25 +1,25 @@
 ---
 title: "Direct Manipulation of Procedural Implicit Surfaces"
 authors:
-  - Marzia Riso
-  - Élie Michel
-  - Axel Paris
-  - Valentin Deschaintre
-  - Mathieu Gaillard
-  - Fabio Pellacini
-track: "Journal"
-source: author-page
+  - "Marzia Riso"
+  - "Élie Michel"
+  - "Axel Paris"
+  - "Valentin Deschaintre"
+  - "Mathieu Gaillard"
+  - "Fabio Pellacini"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
 institution:
-  - Sapienza University of Rome
-  - Adobe
-  - University of Modena and Reggio Emilia
+  - "Sapienza University of Rome"
+  - "Adobe"
+  - "University of Modena and Reggio Emilia"
 tags:
-  - Implicit Surface
-  - Procedural Modeling
-  - Direct Manipulation
-  - Automatic Differentiation
-  - Interactive Editing
+  - "Implicit Surface"
+  - "Procedural Modeling"
+  - "Direct Manipulation"
+  - "Automatic Differentiation"
+  - "Interactive Editing"
 links:
   paper: "https://doi.org/10.1145/3687936"
   project: "https://eliemichel.github.io/SdfManipulation/"

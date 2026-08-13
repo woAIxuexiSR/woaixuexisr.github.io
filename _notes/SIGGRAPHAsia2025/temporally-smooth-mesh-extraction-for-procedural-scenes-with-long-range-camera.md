@@ -1,20 +1,20 @@
 ---
 title: "Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range Camera Trajectories using Spacetime Octrees"
 authors:
-  - Zeyu Ma
-  - Adam Finkelstein
-  - Jia Deng
-category: Geometry & Modeling
+  - "Zeyu Ma"
+  - "Adam Finkelstein"
+  - "Jia Deng"
+category: "Geometry & Modeling"
 track: "Conference"
-source: arxiv
-institution: Princeton University
+source: "arxiv"
+institution: "Princeton University"
 tags:
-  - Mesh Extraction
-  - Procedural Generation
-  - Level Of Detail
-  - Dual Contouring
-  - Spacetime Octree
-  - Temporal Coherence
+  - "Mesh Extraction"
+  - "Procedural Generation"
+  - "Level Of Detail"
+  - "Dual Contouring"
+  - "Spacetime Octree"
+  - "Temporal Coherence"
 links:
   paper: "https://doi.org/10.1145/3757377.3763832"
   code: "https://github.com/princeton-vl/BinocMesher"

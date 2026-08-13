@@ -1,24 +1,24 @@
 ---
-title: 'Sketching With Your Voice: "Non-Phonorealistic" Rendering of Sounds via Vocal Imitation'
+title: "Sketching With Your Voice: \"Non-Phonorealistic\" Rendering of Sounds via Vocal Imitation"
 authors:
-  - Matthew Caren
-  - Kartik Chandra
-  - Joshua B. Tenenbaum
-  - Jonathan Ragan-Kelley
-  - Karima Ma
-track: Conference
-source: arxiv
-category: Rendering
-institution: MIT
+  - "Matthew Caren"
+  - "Kartik Chandra"
+  - "Joshua B. Tenenbaum"
+  - "Jonathan Ragan-Kelley"
+  - "Karima Ma"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "MIT"
 tags:
-  - Non-Photorealistic Rendering
-  - Sound Synthesis
-  - Speech Simulation
-  - Cognitive Science
-  - Bayesian Modeling
-  - Pragmatic Reasoning
+  - "Non-Photorealistic Rendering"
+  - "Sound Synthesis"
+  - "Speech Simulation"
+  - "Cognitive Science"
+  - "Bayesian Modeling"
+  - "Pragmatic Reasoning"
 links:
-  paper: https://doi.org/10.1145/3680528.3687679
+  paper: "https://doi.org/10.1145/3680528.3687679"
 ---
 
 ## 一句话总结

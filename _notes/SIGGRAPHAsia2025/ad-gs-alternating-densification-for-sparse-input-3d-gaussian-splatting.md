@@ -1,23 +1,23 @@
 ---
 title: "AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting"
 authors:
-  - Gurutva Patle
-  - Nilay Girgaonkar
-  - Nagabhushan Somraj
-  - Rajiv Soundararajan
-category: Rendering
-track: Conference
-source: arxiv
-institution: Indian Institute of Science
+  - "Gurutva Patle"
+  - "Nilay Girgaonkar"
+  - "Nagabhushan Somraj"
+  - "Rajiv Soundararajan"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "Indian Institute of Science"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Sparse View Reconstruction
-  - Densification Control
-  - Depth Regularization
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Sparse View Reconstruction"
+  - "Densification Control"
+  - "Depth Regularization"
 links:
-  paper: https://doi.org/10.1145/3757377.3763993
-  project: https://gurutvapatle.github.io/publications/2025/ADGS.html
+  paper: "https://doi.org/10.1145/3757377.3763993"
+  project: "https://gurutvapatle.github.io/publications/2025/ADGS.html"
 ---
 
 ## 一句话总结

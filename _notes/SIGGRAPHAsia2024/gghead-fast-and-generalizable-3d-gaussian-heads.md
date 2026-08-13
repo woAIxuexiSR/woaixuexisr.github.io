@@ -1,22 +1,21 @@
 ---
 title: "GGHead: Fast and Generalizable 3D Gaussian Heads"
 authors:
-  - Tobias Kirschstein
-  - Simon Giebenhain
-  - Jiapeng Tang
-  - Markos Georgopoulos
-  - Matthias Nießner
-track: "Conference"
-source: arxiv
+  - "Tobias Kirschstein"
+  - "Simon Giebenhain"
+  - "Jiapeng Tang"
+  - "Markos Georgopoulos"
+  - "Matthias Nießner"
 category: "Neural & Generative"
-institution:
-  - Technical University of Munich
+track: "Conference"
+source: "arxiv"
+institution: "Technical University of Munich"
 tags:
-  - 3D GAN
-  - 3D Gaussian Splatting
-  - 3D Head Prior
-  - Generative Model
-  - UV Parameterization
+  - "3D GAN"
+  - "3D Gaussian Splatting"
+  - "3D Head Prior"
+  - "Generative Model"
+  - "UV Parameterization"
 links:
   paper: "https://doi.org/10.1145/3680528.3687686"
 ---

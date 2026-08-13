@@ -1,24 +1,24 @@
 ---
 title: "Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics"
 authors:
-  - Xinyu Yi
-  - Shaohua Pan
-  - Feng Xu
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: Tsinghua University
+  - "Xinyu Yi"
+  - "Shaohua Pan"
+  - "Feng Xu"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Inertial Sensors
-  - Human Pose Estimation
-  - Motion Capture
-  - Physics-based Optimization
-  - Global Motion Estimation
-  - Real-time
+  - "Inertial Sensors"
+  - "Human Pose Estimation"
+  - "Motion Capture"
+  - "Physics-based Optimization"
+  - "Global Motion Estimation"
+  - "Real-time"
 links:
-  paper: https://doi.org/10.1145/3730822
-  project: https://xinyu-yi.github.io/GlobalPose/
-  code: https://xinyu-yi.github.io/GlobalPose/
+  paper: "https://doi.org/10.1145/3730822"
+  project: "https://xinyu-yi.github.io/GlobalPose/"
+  code: "https://xinyu-yi.github.io/GlobalPose/"
 ---
 ## 一句话总结
 

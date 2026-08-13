@@ -1,30 +1,30 @@
 ---
 title: "Efficient Object Reconstruction with Differentiable Area Light Shading"
 authors:
-  - Yaoan Gao
-  - Jiamin Xu
-  - James Tompkin
-  - Qi Wang
-  - Zheng Dong
-  - Hujun Bao
-  - Yujun Shen
-  - Huamin Wang
-  - Changqing Zou
-  - Weiwei Xu
-track: "Conference"
-source: author-page
+  - "Yaoan Gao"
+  - "Jiamin Xu"
+  - "James Tompkin"
+  - "Qi Wang"
+  - "Zheng Dong"
+  - "Hujun Bao"
+  - "Yujun Shen"
+  - "Huamin Wang"
+  - "Changqing Zou"
+  - "Weiwei Xu"
 category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - Hangzhou Dianzi University
-  - Brown University
+  - "Zhejiang University"
+  - "Hangzhou Dianzi University"
+  - "Brown University"
 tags:
-  - Inverse Rendering
-  - Area Light
-  - Linearly Transformed Cosines
-  - SVBRDF Reconstruction
-  - Differentiable Rendering
-  - Relighting
+  - "Inverse Rendering"
+  - "Area Light"
+  - "Linearly Transformed Cosines"
+  - "SVBRDF Reconstruction"
+  - "Differentiable Rendering"
+  - "Relighting"
 links:
   paper: "https://doi.org/10.1145/3757377.3763865"
 ---

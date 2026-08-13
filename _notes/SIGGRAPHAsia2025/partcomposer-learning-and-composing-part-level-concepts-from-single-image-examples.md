@@ -1,22 +1,22 @@
 ---
 title: "PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples"
 authors:
-  - Junyu Liu
-  - R. Kenny Jones
-  - Daniel Ritchie
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Brown University
+  - "Junyu Liu"
+  - "R. Kenny Jones"
+  - "Daniel Ritchie"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Brown University"
 tags:
-  - Diffusion Model
-  - Concept Learning
-  - Mutual Information
-  - Image Generation
-  - Part Composition
+  - "Diffusion Model"
+  - "Concept Learning"
+  - "Mutual Information"
+  - "Image Generation"
+  - "Part Composition"
 links:
-  paper: https://doi.org/10.1145/3757377.3763947
-  code: https://github.com/Junyu-Liu-Nate/partcomposer
+  paper: "https://doi.org/10.1145/3757377.3763947"
+  code: "https://github.com/Junyu-Liu-Nate/partcomposer"
 ---
 
 ## 一句话总结

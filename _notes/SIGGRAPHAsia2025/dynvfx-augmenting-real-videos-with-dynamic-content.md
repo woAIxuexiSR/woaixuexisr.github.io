@@ -1,21 +1,21 @@
 ---
 title: "DynVFX: Augmenting Real Videos with Dynamic Content"
 authors:
-  - Danah Yatim
-  - Rafail Fridman
-  - Omer Bar-Tal
-  - Tali Dekel
-category: Neural & Generative
+  - "Danah Yatim"
+  - "Rafail Fridman"
+  - "Omer Bar-Tal"
+  - "Tali Dekel"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Weizmann Institute of Science
+source: "arxiv"
+institution: "Weizmann Institute of Science"
 tags:
-  - Text-to-Video
-  - Diffusion Model
-  - Video Editing
-  - Attention Manipulation
-  - Zero-Shot
-  - Vision-Language Model
+  - "Text-to-Video"
+  - "Diffusion Model"
+  - "Video Editing"
+  - "Attention Manipulation"
+  - "Zero-Shot"
+  - "Vision-Language Model"
 links:
   paper: "https://doi.org/10.1145/3757377.3764008"
   project: "https://dynvfx.github.io/"

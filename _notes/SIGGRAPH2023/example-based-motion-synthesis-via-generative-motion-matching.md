@@ -22,8 +22,8 @@ tags:
   - "Patch-Based Synthesis"
 links:
   paper: "https://doi.org/10.1145/3592395"
-  code: "https://github.com/wyysf-98/GenMM"
   project: "https://wyysf-98.github.io/GenMM/"
+  code: "https://github.com/wyysf-98/GenMM"
 ---
 
 ## 一句话总结

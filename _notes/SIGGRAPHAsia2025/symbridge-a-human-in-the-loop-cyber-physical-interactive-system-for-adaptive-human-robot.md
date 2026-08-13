@@ -1,35 +1,35 @@
 ---
 title: "SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis"
 authors:
-  - Haoran Chen
-  - Yiteng Xu
-  - Yiming Ren
-  - Yaoqin Ye
-  - Xinran Li
-  - Ning Ding
-  - Yuxuan Wu
-  - Yaoze Liu
-  - Peishan Cong
-  - Ziyi Wang
-  - Bushi Liu
-  - Yuhan Chen
-  - Zhiyang Dou
-  - Xiaokun Leng
-  - Manyi Li
-  - Yuexin Ma
-  - Changhe Tu
-category: HCI & XR
+  - "Haoran Chen"
+  - "Yiteng Xu"
+  - "Yiming Ren"
+  - "Yaoqin Ye"
+  - "Xinran Li"
+  - "Ning Ding"
+  - "Yuxuan Wu"
+  - "Yaoze Liu"
+  - "Peishan Cong"
+  - "Ziyi Wang"
+  - "Bushi Liu"
+  - "Yuhan Chen"
+  - "Zhiyang Dou"
+  - "Xiaokun Leng"
+  - "Manyi Li"
+  - "Yuexin Ma"
+  - "Changhe Tu"
+category: "HCI & XR"
 track: "Conference"
-source: arxiv
-institution: Shandong University
+source: "arxiv"
+institution: "Shandong University"
 tags:
-  - Human-Robot Interaction
-  - Augmented Reality
-  - Real-Time Motion Generation
-  - Human-in-the-Loop
-  - Affordance Prediction
+  - "Human-Robot Interaction"
+  - "Augmented Reality"
+  - "Real-Time Motion Generation"
+  - "Human-in-the-Loop"
+  - "Affordance Prediction"
 links:
-  paper: https://doi.org/10.1145/3757377.3763915
+  paper: "https://doi.org/10.1145/3757377.3763915"
 ---
 
 ## 一句话总结

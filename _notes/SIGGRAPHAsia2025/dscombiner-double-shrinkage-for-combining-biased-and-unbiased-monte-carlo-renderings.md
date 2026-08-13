@@ -1,27 +1,26 @@
 ---
 title: "DSCombiner: Double Shrinkage for Combining Biased and Unbiased Monte Carlo Renderings"
 authors:
-  - Chenxi Zhou
-  - Keheng Xu
-  - Mufan Guo
-  - Xianhao Yu
-  - Zhimin Fan
-  - Guihuan Feng
-  - Yanwen Guo
-  - Jie Guo
+  - "Chenxi Zhou"
+  - "Keheng Xu"
+  - "Mufan Guo"
+  - "Xianhao Yu"
+  - "Zhimin Fan"
+  - "Guihuan Feng"
+  - "Yanwen Guo"
+  - "Jie Guo"
+category: "Rendering"
 track: "Journal"
-source: author-page
-category: Rendering
-institution:
-  - State Key Lab for Novel Software Technology, Nanjing University
+source: "author-page"
+institution: "State Key Lab for Novel Software Technology, Nanjing University"
 tags:
-  - Monte Carlo Rendering
-  - Shrinkage Estimator
-  - Denoising
-  - Bias Variance Tradeoff
-  - Path Tracing
-  - Photon Mapping
-  - Bayesian Framework
+  - "Monte Carlo Rendering"
+  - "Shrinkage Estimator"
+  - "Denoising"
+  - "Bias Variance Tradeoff"
+  - "Path Tracing"
+  - "Photon Mapping"
+  - "Bayesian Framework"
 links:
   paper: "https://doi.org/10.1145/3763315"
   project: "https://zhiminfan.work/"

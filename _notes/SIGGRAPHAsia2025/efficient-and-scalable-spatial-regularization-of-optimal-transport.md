@@ -1,21 +1,20 @@
 ---
 title: "Efficient and Scalable Spatial Regularization of Optimal Transport"
 authors:
-  - Lucas Brifault
-  - David Cohen-Steiner
-  - Mathieu Desbrun
-track: "Conference"
-source: author-page
+  - "Lucas Brifault"
+  - "David Cohen-Steiner"
+  - "Mathieu Desbrun"
 category: "Geometry & Modeling"
-institution:
-  - Inria
+track: "Conference"
+source: "author-page"
+institution: "Inria"
 tags:
-  - Optimal Transport
-  - Shape Matching
-  - Non-Rigid Registration
-  - Convex Optimization
-  - ADMM
-  - Sinkhorn Algorithm
+  - "Optimal Transport"
+  - "Shape Matching"
+  - "Non-Rigid Registration"
+  - "Convex Optimization"
+  - "ADMM"
+  - "Sinkhorn Algorithm"
 links:
   paper: "https://doi.org/10.1145/3757377.3763976"
 ---

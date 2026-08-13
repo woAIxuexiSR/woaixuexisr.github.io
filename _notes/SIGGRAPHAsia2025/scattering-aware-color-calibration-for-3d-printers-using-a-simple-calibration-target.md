@@ -1,9 +1,9 @@
 ---
 title: "Scattering-Aware Color Calibration for 3D Printers Using a Simple Calibration Target"
 authors:
-  - Tomáš Iser
-  - Tobias Rittig
-  - Alexander Wilkie
+  - "Tomáš Iser"
+  - "Tobias Rittig"
+  - "Alexander Wilkie"
 category: "Rendering"
 track: "Journal"
 source: "ACM"

@@ -1,29 +1,29 @@
 ---
 title: "DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model"
 authors:
-  - Weiguang Zhang
-  - Huangcheng Lu
-  - Maizhen Ning
-  - Xiaowei Huang
-  - Wei Wang
-  - Kaizhu Huang
-  - Qiufeng Wang
+  - "Weiguang Zhang"
+  - "Huangcheng Lu"
+  - "Maizhen Ning"
+  - "Xiaowei Huang"
+  - "Wei Wang"
+  - "Kaizhu Huang"
+  - "Qiufeng Wang"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Xi'an Jiaotong-Liverpool University
-  - University of Liverpool
-  - Duke Kunshan University
+  - "Xi'an Jiaotong-Liverpool University"
+  - "University of Liverpool"
+  - "Duke Kunshan University"
 tags:
-  - Document Dewarping
-  - Diffusion Model
-  - Coordinate Mapping
-  - Generative Model
-  - Optical Character Recognition
+  - "Document Dewarping"
+  - "Diffusion Model"
+  - "Coordinate Mapping"
+  - "Generative Model"
+  - "Optical Character Recognition"
 links:
-  paper: https://doi.org/10.1145/3757377.3763913
-  code: https://github.com/hanquansanren/DvD
+  paper: "https://doi.org/10.1145/3757377.3763913"
+  code: "https://github.com/hanquansanren/DvD"
 ---
 
 ## 一句话总结

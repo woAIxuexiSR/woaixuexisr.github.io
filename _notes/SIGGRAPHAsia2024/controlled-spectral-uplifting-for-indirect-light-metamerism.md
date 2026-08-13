@@ -1,19 +1,18 @@
 ---
 title: "Controlled Spectral Uplifting for Indirect-Light-Metamerism"
 authors:
-  - Mark van de Ruit
-  - Elmar Eisemann
-track: "Conference"
-source: author-page
+  - "Mark van de Ruit"
+  - "Elmar Eisemann"
 category: "Rendering"
-institution:
-  - Delft University of Technology
+track: "Conference"
+source: "author-page"
+institution: "Delft University of Technology"
 tags:
-  - Spectral Rendering
-  - Spectral Uplifting
-  - Metamerism
-  - Reflectance Modeling
-  - Indirect Illumination
+  - "Spectral Rendering"
+  - "Spectral Uplifting"
+  - "Metamerism"
+  - "Reflectance Modeling"
+  - "Indirect Illumination"
 links:
   paper: "https://doi.org/10.1145/3680528.3687698"
 ---

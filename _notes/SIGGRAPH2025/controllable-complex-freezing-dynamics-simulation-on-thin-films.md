@@ -1,27 +1,27 @@
 ---
 title: "Controllable Complex Freezing Dynamics Simulation on Thin Films"
 authors:
-  - Yijie Liu
-  - Taiyuan Zhang
-  - Xiaoxiao Yan
-  - Nuoming Liu
-  - Bo Ren
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: Nankai University
+  - "Yijie Liu"
+  - "Taiyuan Zhang"
+  - "Xiaoxiao Yan"
+  - "Nuoming Liu"
+  - "Bo Ren"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "Nankai University"
 tags:
-  - Freezing Dynamics
-  - Thin Film Simulation
-  - Dendritic Crystal
-  - Marangoni Flow
-  - Eulerian-Lagrangian Method
-  - Phase Field
-  - Soap Bubble
-  - Artistic Control
+  - "Freezing Dynamics"
+  - "Thin Film Simulation"
+  - "Dendritic Crystal"
+  - "Marangoni Flow"
+  - "Eulerian-Lagrangian Method"
+  - "Phase Field"
+  - "Soap Bubble"
+  - "Artistic Control"
 links:
-  paper: https://doi.org/10.1145/3731170
-  project: https://taiyuan-zhang.github.io/
+  paper: "https://doi.org/10.1145/3731170"
+  project: "https://taiyuan-zhang.github.io/"
 ---
 
 ## 一句话总结

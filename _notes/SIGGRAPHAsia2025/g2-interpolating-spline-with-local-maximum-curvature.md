@@ -1,18 +1,18 @@
 ---
 title: "G² Interpolating Spline with Local Maximum Curvature"
 authors:
-  - Bowen Jiang
-  - Renjie Chen
-category: Geometry & Modeling
+  - "Bowen Jiang"
+  - "Renjie Chen"
+category: "Geometry & Modeling"
 track: "Journal"
-source: ACM
-institution: University of Science and Technology of China
+source: "ACM"
+institution: "University of Science and Technology of China"
 tags:
-  - Interpolating Spline
-  - Local Maximum Curvature
-  - Geometric Continuity
-  - Curve Modeling
-  - Computer Aided Geometric Design
+  - "Interpolating Spline"
+  - "Local Maximum Curvature"
+  - "Geometric Continuity"
+  - "Curve Modeling"
+  - "Computer Aided Geometric Design"
 links:
-  paper: https://doi.org/10.1145/3763316
+  paper: "https://doi.org/10.1145/3763316"
 ---

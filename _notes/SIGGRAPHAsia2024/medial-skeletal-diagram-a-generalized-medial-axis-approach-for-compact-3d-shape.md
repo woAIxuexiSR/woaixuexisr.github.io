@@ -1,20 +1,19 @@
 ---
 title: "Medial Skeletal Diagram: A Generalized Medial Axis Approach for Compact 3D Shape Representation"
 authors:
-  - Minghao Guo
-  - Bohan Wang
-  - Wojciech Matusik
-track: "Journal"
-source: arxiv
+  - "Minghao Guo"
+  - "Bohan Wang"
+  - "Wojciech Matusik"
 category: "Geometry & Modeling"
-institution:
-  - MIT
+track: "Journal"
+source: "arxiv"
+institution: "MIT"
 tags:
-  - Skeleton Representation
-  - Medial Axis Transform
-  - Geometry Representation
-  - Shape Analysis
-  - Mesh Reconstruction
+  - "Skeleton Representation"
+  - "Medial Axis Transform"
+  - "Geometry Representation"
+  - "Shape Analysis"
+  - "Mesh Reconstruction"
 links:
   paper: "https://doi.org/10.1145/3687964"
 ---

@@ -1,26 +1,25 @@
 ---
 title: "QUASAR: Quad-based Adaptive Streaming And Rendering"
 authors:
-  - Edward Lu
-  - Anthony Rowe
-category: Rendering
-track: Journal
-source: author-page
-institution:
-  - Carnegie Mellon University
+  - "Edward Lu"
+  - "Anthony Rowe"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "Carnegie Mellon University"
 tags:
-  - Remote Rendering
-  - Geometry Streaming
-  - Quad Proxy
-  - Temporal Compression
-  - Depth Peeling
-  - Latency Masking
-  - Virtual Reality
-  - Texture Atlas
+  - "Remote Rendering"
+  - "Geometry Streaming"
+  - "Quad Proxy"
+  - "Temporal Compression"
+  - "Depth Peeling"
+  - "Latency Masking"
+  - "Virtual Reality"
+  - "Texture Atlas"
 links:
-  paper: https://doi.org/10.1145/3731213
-  project: https://quasar-gfx.github.io/
-  code: https://github.com/quasar-gfx/QUASAR
+  paper: "https://doi.org/10.1145/3731213"
+  project: "https://quasar-gfx.github.io/"
+  code: "https://github.com/quasar-gfx/QUASAR"
 ---
 
 ## 一句话总结

@@ -1,26 +1,26 @@
 ---
 title: "Representing Long Volumetric Video with Temporal Gaussian Hierarchy"
 authors:
-  - Zhen Xu
-  - Yinghao Xu
-  - Zhiyuan Yu
-  - Sida Peng
-  - Jiaming Sun
-  - Hujun Bao
-  - Xiaowei Zhou
-track: "Journal"
-source: arxiv
+  - "Zhen Xu"
+  - "Yinghao Xu"
+  - "Zhiyuan Yu"
+  - "Sida Peng"
+  - "Jiaming Sun"
+  - "Hujun Bao"
+  - "Xiaowei Zhou"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - Stanford University
-  - Hong Kong University of Science and Technology
+  - "Zhejiang University"
+  - "Stanford University"
+  - "Hong Kong University of Science and Technology"
 tags:
-  - Volumetric Video
-  - Novel View Synthesis
-  - 3D Gaussian Splatting
-  - Neural Rendering
-  - Dynamic Scenes
+  - "Volumetric Video"
+  - "Novel View Synthesis"
+  - "3D Gaussian Splatting"
+  - "Neural Rendering"
+  - "Dynamic Scenes"
 links:
   paper: "https://doi.org/10.1145/3687919"
 ---

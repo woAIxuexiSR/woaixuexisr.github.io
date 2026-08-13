@@ -1,30 +1,30 @@
 ---
 title: "TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians"
 authors:
-  - Letian Huang
-  - Dongwei Ye
-  - Jialin Dan
-  - Chengzhi Tao
-  - Huiwen Liu
-  - Kun Zhou
-  - Bo Ren
-  - Yuanqi Li
-  - Yanwen Guo
-  - Jie Guo
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: Nanjing University
+  - "Letian Huang"
+  - "Dongwei Ye"
+  - "Jialin Dan"
+  - "Chengzhi Tao"
+  - "Huiwen Liu"
+  - "Kun Zhou"
+  - "Bo Ren"
+  - "Yuanqi Li"
+  - "Yanwen Guo"
+  - "Jie Guo"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "Nanjing University"
 tags:
-  - 3D Gaussian Splatting
-  - Transparent Objects
-  - Inverse Rendering
-  - Refraction
-  - Light Field Probes
-  - Deferred Shading
+  - "3D Gaussian Splatting"
+  - "Transparent Objects"
+  - "Inverse Rendering"
+  - "Refraction"
+  - "Light Field Probes"
+  - "Deferred Shading"
 links:
-  paper: https://doi.org/10.1145/3730892
-  project: https://arxiv.org/abs/2504.18768
+  paper: "https://doi.org/10.1145/3730892"
+  project: "https://arxiv.org/abs/2504.18768"
 ---
 ## 一句话总结
 

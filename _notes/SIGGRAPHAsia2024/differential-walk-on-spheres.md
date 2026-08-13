@@ -1,23 +1,23 @@
 ---
 title: "Differential Walk on Spheres"
 authors:
-  - Bailey Miller
-  - Rohan Sawhney
-  - Keenan Crane
-  - Ioannis Gkioulekas
-track: "Journal"
-source: arxiv
+  - "Bailey Miller"
+  - "Rohan Sawhney"
+  - "Keenan Crane"
+  - "Ioannis Gkioulekas"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Carnegie Mellon University
-  - NVIDIA
+  - "Carnegie Mellon University"
+  - "NVIDIA"
 tags:
-  - Walk on Spheres
-  - Monte Carlo
-  - Differentiable Simulation
-  - Shape Optimization
-  - Partial Differential Equation
-  - Inverse Problem
+  - "Walk on Spheres"
+  - "Monte Carlo"
+  - "Differentiable Simulation"
+  - "Shape Optimization"
+  - "Partial Differential Equation"
+  - "Inverse Problem"
 links:
   paper: "https://doi.org/10.1145/3687913"
 ---

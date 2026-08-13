@@ -1,24 +1,24 @@
 ---
 title: "FragmentDiff: A Diffusion Model for Fractured Object Assembly"
 authors:
-  - Qun-Ce Xu
-  - Hao-Xiang Chen
-  - Jiacheng Hua
-  - Xiaohua Zhan
-  - Yong-Liang Yang
-  - Tai-Jiang Mu
-category: Geometry & Modeling
+  - "Qun-Ce Xu"
+  - "Hao-Xiang Chen"
+  - "Jiacheng Hua"
+  - "Xiaohua Zhan"
+  - "Yong-Liang Yang"
+  - "Tai-Jiang Mu"
+category: "Geometry & Modeling"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Tsinghua University
-  - University of Bath
+  - "Tsinghua University"
+  - "University of Bath"
 tags:
-  - Fractured Object Assembly
-  - Diffusion Model
-  - Transformer
-  - 6-DoF Pose
-  - 3D Shape Reassembly
+  - "Fractured Object Assembly"
+  - "Diffusion Model"
+  - "Transformer"
+  - "6-DoF Pose"
+  - "3D Shape Reassembly"
 links:
   paper: "https://doi.org/10.1145/3680528.3687673"
 ---

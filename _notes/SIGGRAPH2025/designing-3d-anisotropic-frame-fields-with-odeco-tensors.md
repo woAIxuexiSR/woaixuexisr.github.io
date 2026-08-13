@@ -1,27 +1,27 @@
 ---
 title: "Designing 3D Anisotropic Frame Fields with Odeco Tensors"
 authors:
-  - Haikuan Zhu
-  - Hongbo Li
-  - Hsueh-Ti Derek Liu
-  - Wenping Wang
-  - Jing Hua
-  - Zichun Zhong
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: Wayne State University
+  - "Haikuan Zhu"
+  - "Hongbo Li"
+  - "Hsueh-Ti Derek Liu"
+  - "Wenping Wang"
+  - "Jing Hua"
+  - "Zichun Zhong"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "Wayne State University"
 tags:
-  - 3D Tensor Field Design
-  - Anisotropic Odeco Tensor
-  - Frame Field
-  - Volumetric Modeling
-  - Anisotropic Meshing
-  - Microstructure Design
-  - Spherical Harmonics
+  - "3D Tensor Field Design"
+  - "Anisotropic Odeco Tensor"
+  - "Frame Field"
+  - "Volumetric Modeling"
+  - "Anisotropic Meshing"
+  - "Microstructure Design"
+  - "Spherical Harmonics"
 links:
-  paper: https://doi.org/10.1145/3731181
-  project: https://arxiv.org/abs/2505.05639
+  paper: "https://doi.org/10.1145/3731181"
+  project: "https://arxiv.org/abs/2505.05639"
 ---
 
 ## 一句话总结

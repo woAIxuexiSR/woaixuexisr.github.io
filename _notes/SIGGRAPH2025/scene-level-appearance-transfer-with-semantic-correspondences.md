@@ -1,26 +1,26 @@
 ---
-title: Scene-Level Appearance Transfer with Semantic Correspondences
+title: "Scene-Level Appearance Transfer with Semantic Correspondences"
 authors:
-  - Liyuan Zhu
-  - Shengqu Cai
-  - Shengyu Huang
-  - Gordon Wetzstein
-  - Naji Khosravan
-  - Iro Armeni
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Stanford University
+  - "Liyuan Zhu"
+  - "Shengqu Cai"
+  - "Shengyu Huang"
+  - "Gordon Wetzstein"
+  - "Naji Khosravan"
+  - "Iro Armeni"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Stanford University"
 tags:
-  - Appearance Transfer
-  - Image Stylization
-  - Diffusion Model
-  - Semantic Correspondence
-  - Novel View Synthesis
+  - "Appearance Transfer"
+  - "Image Stylization"
+  - "Diffusion Model"
+  - "Semantic Correspondence"
+  - "Novel View Synthesis"
 links:
-  paper: https://doi.org/10.1145/3721238.3730655
-  project: https://restyle3d.github.io/
-  code: https://github.com/GradientSpaces/ReStyle3D
+  paper: "https://doi.org/10.1145/3721238.3730655"
+  project: "https://restyle3d.github.io/"
+  code: "https://github.com/GradientSpaces/ReStyle3D"
 ---
 
 ## 一句话总结

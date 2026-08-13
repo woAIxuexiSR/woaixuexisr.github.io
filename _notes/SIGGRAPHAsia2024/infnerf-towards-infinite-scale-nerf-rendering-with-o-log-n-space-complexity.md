@@ -1,24 +1,24 @@
 ---
 title: "InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity"
 authors:
-  - Jiabin Liang
-  - Lanqing Zhang
-  - Zhuoran Zhao
-  - Xiangyu Xu
-category: Rendering
-track: Conference
-source: arxiv
+  - "Jiabin Liang"
+  - "Lanqing Zhang"
+  - "Zhuoran Zhao"
+  - "Xiangyu Xu"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Sea AI Lab
-  - National University of Singapore
-  - Xi'an Jiaotong University
+  - "Sea AI Lab"
+  - "National University of Singapore"
+  - "Xi'an Jiaotong University"
 tags:
-  - Novel View Synthesis
-  - Radiance Fields
-  - Level of Detail
-  - Large Scale Scene
-  - Anti Aliasing
-  - Octree
+  - "Novel View Synthesis"
+  - "Radiance Fields"
+  - "Level of Detail"
+  - "Large Scale Scene"
+  - "Anti Aliasing"
+  - "Octree"
 links:
   paper: "https://doi.org/10.1145/3680528.3687646"
   project: "https://jiabinliang.github.io/InfNeRF.io/"

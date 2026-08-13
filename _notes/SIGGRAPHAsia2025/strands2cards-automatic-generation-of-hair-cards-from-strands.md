@@ -1,21 +1,20 @@
 ---
 title: "Strands2Cards: Automatic Generation of Hair Cards from Strands"
 authors:
-  - Kenji Tojo
-  - Liwen Hu
-  - Nobuyuki Umetani
-  - Hao Li
-track: "Conference"
-source: ACM
+  - "Kenji Tojo"
+  - "Liwen Hu"
+  - "Nobuyuki Umetani"
+  - "Hao Li"
 category: "Geometry & Modeling"
-institution:
-  - University of Tokyo
+track: "Conference"
+source: "ACM"
+institution: "University of Tokyo"
 tags:
-  - Hair Cards
-  - Strand-Based Hair
-  - Differentiable Rendering
-  - Real-Time Rendering
-  - Texture Generation
+  - "Hair Cards"
+  - "Strand-Based Hair"
+  - "Differentiable Rendering"
+  - "Real-Time Rendering"
+  - "Texture Generation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763864"
   project: "https://kenji-tojo.github.io/publications/strns2cards/"

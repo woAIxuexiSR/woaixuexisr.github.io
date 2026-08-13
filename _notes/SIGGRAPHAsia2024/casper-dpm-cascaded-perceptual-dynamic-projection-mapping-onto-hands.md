@@ -1,23 +1,23 @@
 ---
 title: "Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands"
 authors:
-  - Yotam Erel
-  - Or Kozlovsky-Mordenfeld
-  - Daisuke Iwai
-  - Kosuke Sato
-  - Amit H. Bermano
-track: "Conference"
-source: arxiv
+  - "Yotam Erel"
+  - "Or Kozlovsky-Mordenfeld"
+  - "Daisuke Iwai"
+  - "Kosuke Sato"
+  - "Amit H. Bermano"
 category: "HCI & XR"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tel Aviv University
-  - Osaka University
+  - "Tel Aviv University"
+  - "Osaka University"
 tags:
-  - Projection Mapping
-  - Dynamic Projection Mapping
-  - Perceptual Rendering
-  - Hand Tracking
-  - Augmented Reality
+  - "Projection Mapping"
+  - "Dynamic Projection Mapping"
+  - "Perceptual Rendering"
+  - "Hand Tracking"
+  - "Augmented Reality"
 links:
   paper: "https://doi.org/10.1145/3680528.3687624"
 ---

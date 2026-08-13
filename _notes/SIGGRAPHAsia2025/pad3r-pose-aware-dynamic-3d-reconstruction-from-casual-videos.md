@@ -1,25 +1,25 @@
 ---
 title: "PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos"
 authors:
-  - Ting-Hsuan Liao
-  - Haowen Liu
-  - Yiran Xu
-  - Songwei Ge
-  - Gengshan Yang
-  - Jia-Bin Huang
-category: Reconstruction
+  - "Ting-Hsuan Liao"
+  - "Haowen Liu"
+  - "Yiran Xu"
+  - "Songwei Ge"
+  - "Gengshan Yang"
+  - "Jia-Bin Huang"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: University of Maryland College Park
+source: "arxiv"
+institution: "University of Maryland College Park"
 tags:
-  - Dynamic 3D Reconstruction
-  - 3D Gaussian Splatting
-  - Monocular Video
-  - Camera Pose Estimation
-  - Generative Prior
+  - "Dynamic 3D Reconstruction"
+  - "3D Gaussian Splatting"
+  - "Monocular Video"
+  - "Camera Pose Estimation"
+  - "Generative Prior"
 links:
-  paper: https://doi.org/10.1145/3757377.3763836
-  project: https://pad3r.github.io
+  paper: "https://doi.org/10.1145/3757377.3763836"
+  project: "https://pad3r.github.io"
 ---
 
 ## 一句话总结

@@ -1,27 +1,27 @@
 ---
 title: "NeurCross: A Neural Approach to Computing Cross Fields for Quad Mesh Generation"
 authors:
-  - Qiujie Dong
-  - Huibiao Wen
-  - Rui Xu
-  - Shuang-Min Chen
-  - Jiaran Zhou
-  - Shiqing Xin
-  - Changhe Tu
-  - Taku Komura
-  - Wenping Wang
+  - "Qiujie Dong"
+  - "Huibiao Wen"
+  - "Rui Xu"
+  - "Shuang-Min Chen"
+  - "Jiaran Zhou"
+  - "Shiqing Xin"
+  - "Changhe Tu"
+  - "Taku Komura"
+  - "Wenping Wang"
 category: "Geometry & Modeling"
-track: Journal
+track: "Journal"
 source: "arxiv"
 institution: "Shandong University"
 tags:
-  - Quad Mesh Generation
-  - Cross Field
-  - Neural SDF
-  - Principal Curvature
-  - Self-Supervised Learning
-  - SIREN
-  - Shape Operator
+  - "Quad Mesh Generation"
+  - "Cross Field"
+  - "Neural SDF"
+  - "Principal Curvature"
+  - "Self-Supervised Learning"
+  - "SIREN"
+  - "Shape Operator"
 links:
   paper: "https://doi.org/10.1145/3731159"
 ---

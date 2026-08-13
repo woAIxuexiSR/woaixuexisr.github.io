@@ -1,25 +1,25 @@
 ---
 title: "Cora: Correspondence-aware image editing using few step diffusion"
 authors:
-  - Amirhossein Alimohammadi
-  - Aryan Mikaeili
-  - Sauradip Nag
-  - Negar Hassanpour
-  - Andrea Tagliasacchi
-  - Ali Mahdavi-Amiri
-category: Image & Video
-track: Conference
-source: arxiv
-institution: Simon Fraser University
+  - "Amirhossein Alimohammadi"
+  - "Aryan Mikaeili"
+  - "Sauradip Nag"
+  - "Negar Hassanpour"
+  - "Andrea Tagliasacchi"
+  - "Ali Mahdavi-Amiri"
+category: "Image & Video"
+track: "Conference"
+source: "arxiv"
+institution: "Simon Fraser University"
 tags:
-  - Image Editing
-  - Diffusion Model
-  - Semantic Correspondence
-  - Attention Interpolation
-  - Few-Step Diffusion
+  - "Image Editing"
+  - "Diffusion Model"
+  - "Semantic Correspondence"
+  - "Attention Interpolation"
+  - "Few-Step Diffusion"
 links:
-  paper: https://doi.org/10.1145/3721238.3730650
-  project: https://cora-edit.github.io/
+  paper: "https://doi.org/10.1145/3721238.3730650"
+  project: "https://cora-edit.github.io/"
 ---
 
 ## 一句话总结

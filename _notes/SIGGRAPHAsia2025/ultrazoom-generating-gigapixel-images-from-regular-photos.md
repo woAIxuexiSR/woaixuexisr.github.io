@@ -1,24 +1,24 @@
 ---
 title: "UltraZoom: Generating Gigapixel Images from Regular Photos"
 authors:
-  - Jingwei Ma
-  - Vivek Jayaram
-  - Brian Curless
-  - Ira Kemelmacher-Shlizerman
-  - Steven M. Seitz
-category: Image & Video
+  - "Jingwei Ma"
+  - "Vivek Jayaram"
+  - "Brian Curless"
+  - "Ira Kemelmacher-Shlizerman"
+  - "Steven M. Seitz"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: University of Washington
+source: "arxiv"
+institution: "University of Washington"
 tags:
-  - Super-Resolution
-  - Gigapixel Imaging
-  - Diffusion Model
-  - Reference-Based Super-Resolution
-  - Texture Synthesis
+  - "Super-Resolution"
+  - "Gigapixel Imaging"
+  - "Diffusion Model"
+  - "Reference-Based Super-Resolution"
+  - "Texture Synthesis"
 links:
-  paper: https://doi.org/10.1145/3757377.3763919
-  project: https://ultra-zoom.github.io
+  paper: "https://doi.org/10.1145/3757377.3763919"
+  project: "https://ultra-zoom.github.io"
 ---
 
 ## 一句话总结

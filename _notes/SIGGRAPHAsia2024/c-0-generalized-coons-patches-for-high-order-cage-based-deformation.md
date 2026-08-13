@@ -1,23 +1,22 @@
 ---
 title: "C^0 Generalized Coons Patches for High-order Cage-based Deformation"
 authors:
-  - Kaikai Qin
-  - Yunhao Zhou
-  - Chenhao Ying
-  - Yajuan Li
-  - Chongyang Deng
-track: "Journal"
-source: author-page
+  - "Kaikai Qin"
+  - "Yunhao Zhou"
+  - "Chenhao Ying"
+  - "Yajuan Li"
+  - "Chongyang Deng"
 category: "Geometry & Modeling"
-institution:
-  - Hangzhou Dianzi University
+track: "Journal"
+source: "author-page"
+institution: "Hangzhou Dianzi University"
 tags:
-  - Cage Based Deformation
-  - Transfinite Interpolation
-  - Coons Patch
-  - Generalized Barycentric Coordinates
-  - Free Form Deformation
-  - CAGD
+  - "Cage Based Deformation"
+  - "Transfinite Interpolation"
+  - "Coons Patch"
+  - "Generalized Barycentric Coordinates"
+  - "Free Form Deformation"
+  - "CAGD"
 links:
   paper: "https://doi.org/10.1145/3687972"
 ---

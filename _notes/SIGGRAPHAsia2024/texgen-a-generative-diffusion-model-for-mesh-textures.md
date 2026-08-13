@@ -1,29 +1,29 @@
 ---
 title: "TEXGen: a Generative Diffusion Model for Mesh Textures"
 authors:
-  - Xin Yu
-  - Ze Yuan
-  - Yuan-Chen Guo
-  - Ying-Tian Liu
-  - Jianhui Liu
-  - Yangguang Li
-  - Yan-Pei Cao
-  - Ding Liang
-  - Xiaojuan Qi
-track: "Journal"
-source: arxiv
+  - "Xin Yu"
+  - "Ze Yuan"
+  - "Yuan-Chen Guo"
+  - "Ying-Tian Liu"
+  - "Jianhui Liu"
+  - "Yangguang Li"
+  - "Yan-Pei Cao"
+  - "Ding Liang"
+  - "Xiaojuan Qi"
 category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The University of Hong Kong
-  - Beihang University
-  - VAST
-  - Tsinghua University
+  - "The University of Hong Kong"
+  - "Beihang University"
+  - "VAST"
+  - "Tsinghua University"
 tags:
-  - Texture Generation
-  - Diffusion Model
-  - UV Mapping
-  - 3D Generation
-  - Feed-Forward Model
+  - "Texture Generation"
+  - "Diffusion Model"
+  - "UV Mapping"
+  - "3D Generation"
+  - "Feed-Forward Model"
 links:
   paper: "https://doi.org/10.1145/3687909"
   project: "https://cvmi-lab.github.io/TEXGen/"

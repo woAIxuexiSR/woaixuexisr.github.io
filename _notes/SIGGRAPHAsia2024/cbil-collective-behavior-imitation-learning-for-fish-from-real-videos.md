@@ -1,28 +1,28 @@
 ---
 title: "CBIL: Collective Behavior Imitation Learning for Fish from Real Videos"
 authors:
-  - Yifan Wu
-  - Zhiyang Dou
-  - Yuko Ishiwaka
-  - Shun Ogawa
-  - Yuke Lou
-  - Wenping Wang
-  - Lingjie Liu
-  - Taku Komura
-track: "Journal"
-source: arxiv
+  - "Yifan Wu"
+  - "Zhiyang Dou"
+  - "Yuko Ishiwaka"
+  - "Shun Ogawa"
+  - "Yuke Lou"
+  - "Wenping Wang"
+  - "Lingjie Liu"
+  - "Taku Komura"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The University of Hong Kong
-  - University of Pennsylvania
-  - SoftBank Corp.
-  - Texas A&M University
+  - "The University of Hong Kong"
+  - "University of Pennsylvania"
+  - "SoftBank Corp."
+  - "Texas A&M University"
 tags:
-  - Collective Behavior
-  - Imitation Learning
-  - Fish Schooling Simulation
-  - Reinforcement Learning
-  - Video Representation Learning
+  - "Collective Behavior"
+  - "Imitation Learning"
+  - "Fish Schooling Simulation"
+  - "Reinforcement Learning"
+  - "Video Representation Learning"
 links:
   paper: "https://doi.org/10.1145/3687904"
 ---

@@ -1,25 +1,25 @@
 ---
 title: "Time-Gated Polarization for Active Non-Line-Of-Sight Imaging"
 authors:
-  - Oscar Pueyo-Ciutad
-  - Julio Marco
-  - Stephane Schertzer
-  - Frank Christnacher
-  - Martin Laurenzis
-  - Diego Gutierrez
-  - Albert Redo-Sanchez
-category: Reconstruction
-track: Conference
-source: author-page
+  - "Oscar Pueyo-Ciutad"
+  - "Julio Marco"
+  - "Stephane Schertzer"
+  - "Frank Christnacher"
+  - "Martin Laurenzis"
+  - "Diego Gutierrez"
+  - "Albert Redo-Sanchez"
+category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - Universidad de Zaragoza
-  - French-German Research Institute of Saint-Louis
+  - "Universidad de Zaragoza"
+  - "French-German Research Institute of Saint-Louis"
 tags:
-  - Non-Line-of-Sight Imaging
-  - Time-of-Flight Imaging
-  - Polarimetric Imaging
-  - Missing Cone Problem
-  - Computational Photography
+  - "Non-Line-of-Sight Imaging"
+  - "Time-of-Flight Imaging"
+  - "Polarimetric Imaging"
+  - "Missing Cone Problem"
+  - "Computational Photography"
 links:
   paper: "https://doi.org/10.1145/3680528.3687575"
 ---

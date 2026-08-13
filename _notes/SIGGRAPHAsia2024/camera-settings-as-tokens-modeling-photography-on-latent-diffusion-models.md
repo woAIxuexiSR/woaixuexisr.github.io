@@ -1,20 +1,19 @@
 ---
 title: "Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models"
 authors:
-  - I-Sheng Fang
-  - Yue-Hua Han
-  - Jun-Cheng Chen
-category: Neural & Generative
+  - "I-Sheng Fang"
+  - "Yue-Hua Han"
+  - "Jun-Cheng Chen"
+category: "Neural & Generative"
 track: "Conference"
-source: author-page
-institution:
-  - Academia Sinica
+source: "author-page"
+institution: "Academia Sinica"
 tags:
-  - Latent Diffusion Models
-  - Controllable Generation
-  - Camera Settings
-  - LoRA
-  - Computational Photography
+  - "Latent Diffusion Models"
+  - "Controllable Generation"
+  - "Camera Settings"
+  - "LoRA"
+  - "Computational Photography"
 links:
   paper: "https://doi.org/10.1145/3680528.3687635"
   project: "https://camera-settings-as-tokens.github.io/"

@@ -1,30 +1,30 @@
 ---
 title: "Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation"
 authors:
-  - Yue Ma
-  - Hongyu Liu
-  - Hongfa Wang
-  - Heng Pan
-  - Yingqing He
-  - Junkun Yuan
-  - Ailing Zeng
-  - Chengfei Cai
-  - Heung-Yeung Shum
-  - Wei Liu
-  - Qifeng Chen
-track: "Conference"
-source: arxiv
+  - "Yue Ma"
+  - "Hongyu Liu"
+  - "Hongfa Wang"
+  - "Heng Pan"
+  - "Yingqing He"
+  - "Junkun Yuan"
+  - "Ailing Zeng"
+  - "Chengfei Cai"
+  - "Heung-Yeung Shum"
+  - "Wei Liu"
+  - "Qifeng Chen"
 category: "Image & Video"
+track: "Conference"
+source: "arxiv"
 institution:
-  - HKUST
-  - Tencent
-  - Tsinghua University
+  - "HKUST"
+  - "Tencent"
+  - "Tsinghua University"
 tags:
-  - Portrait Animation
-  - Diffusion Model
-  - Facial Expression
-  - Landmark
-  - Video Generation
+  - "Portrait Animation"
+  - "Diffusion Model"
+  - "Facial Expression"
+  - "Landmark"
+  - "Video Generation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687587"
   project: "https://follow-your-emoji.github.io/"

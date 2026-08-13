@@ -1,25 +1,25 @@
 ---
 title: "An Impulse Ghost Fluid Method for Simulating Two-Phase Flows"
 authors:
-  - Yuchen Sun
-  - Linglai Chen
-  - Weiyuan Zeng
-  - Tao Du
-  - Shiying Xiong
-  - Bo Zhu
-track: "Journal"
-source: author-page
+  - "Yuchen Sun"
+  - "Linglai Chen"
+  - "Weiyuan Zeng"
+  - "Tao Du"
+  - "Shiying Xiong"
+  - "Bo Zhu"
 category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
 institution:
-  - Tsinghua University
-  - Georgia Institute of Technology
+  - "Tsinghua University"
+  - "Georgia Institute of Technology"
 tags:
-  - Two Phase Flow
-  - Ghost Fluid Method
-  - Flow Map
-  - Impulse Gauge
-  - Level Set
-  - Fluid Simulation
+  - "Two Phase Flow"
+  - "Ghost Fluid Method"
+  - "Flow Map"
+  - "Impulse Gauge"
+  - "Level Set"
+  - "Fluid Simulation"
 links:
   paper: "https://doi.org/10.1145/3687963"
 ---

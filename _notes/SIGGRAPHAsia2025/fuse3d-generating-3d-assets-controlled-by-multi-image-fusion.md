@@ -1,25 +1,25 @@
 ---
 title: "Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion"
 authors:
-  - Xuancheng Jin
-  - Rengan Xie
-  - Wenting Zheng
-  - Rui Wang
-  - Hujun Bao
-  - Yuchi Huo
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Zhejiang University
+  - "Xuancheng Jin"
+  - "Rengan Xie"
+  - "Wenting Zheng"
+  - "Rui Wang"
+  - "Hujun Bao"
+  - "Yuchi Huo"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Zhejiang University"
 tags:
-  - 3D Generation
-  - Diffusion Model
-  - Image Control
-  - Feature Fusion
-  - Attention Mechanism
+  - "3D Generation"
+  - "Diffusion Model"
+  - "Image Control"
+  - "Feature Fusion"
+  - "Attention Mechanism"
 links:
-  paper: https://doi.org/10.1145/3757377.3763943
-  project: https://jinnmnm.github.io/Fuse3d.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763943"
+  project: "https://jinnmnm.github.io/Fuse3d.github.io/"
 ---
 
 ## 一句话总结

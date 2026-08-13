@@ -1,25 +1,24 @@
 ---
 title: "One String to Pull Them All: Fast Assembly of Curved Structures from Flat Auxetic Linkages"
 authors:
-  - Akib Zaman
-  - Jacqueline Aslarus
-  - Jiaji Li
-  - Stefanie Mueller
-  - Mina Konaković Luković
-track: "Journal"
-source: author-page
+  - "Akib Zaman"
+  - "Jacqueline Aslarus"
+  - "Jiaji Li"
+  - "Stefanie Mueller"
+  - "Mina Konaković Luković"
 category: "Geometry & Modeling"
-institution:
-  - MIT CSAIL
+track: "Journal"
+source: "author-page"
+institution: "MIT CSAIL"
 tags:
-  - Computational Fabrication
-  - Deployable Structures
-  - Auxetic Linkages
-  - Metamaterials
-  - Inverse Design
-  - String Based Actuation
-  - Quad Kirigami
-  - Architectural Geometry
+  - "Computational Fabrication"
+  - "Deployable Structures"
+  - "Auxetic Linkages"
+  - "Metamaterials"
+  - "Inverse Design"
+  - "String Based Actuation"
+  - "Quad Kirigami"
+  - "Architectural Geometry"
 links:
   paper: "https://doi.org/10.1145/3763357"
   project: "https://onestringtopullthemall.github.io/"

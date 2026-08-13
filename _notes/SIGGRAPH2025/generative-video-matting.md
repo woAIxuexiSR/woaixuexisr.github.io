@@ -1,28 +1,28 @@
 ---
 title: "Generative Video Matting"
 authors:
-  - Yongtao Ge
-  - Kangyang Xie
-  - Guangkai Xu
-  - Li Ke
-  - Mingyu Liu
-  - Longtao Huang
-  - Hui Xue
-  - Hao Chen
-  - Chunhua Shen
+  - "Yongtao Ge"
+  - "Kangyang Xie"
+  - "Guangkai Xu"
+  - "Li Ke"
+  - "Mingyu Liu"
+  - "Longtao Huang"
+  - "Hui Xue"
+  - "Hao Chen"
+  - "Chunhua Shen"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - The University of Adelaide
-  - Zhejiang University
-  - Alibaba Group
+  - "The University of Adelaide"
+  - "Zhejiang University"
+  - "Alibaba Group"
 tags:
-  - Video Matting
-  - Diffusion Model
-  - Flow Matching
-  - Synthetic Dataset
-  - Alpha Matte
+  - "Video Matting"
+  - "Diffusion Model"
+  - "Flow Matching"
+  - "Synthetic Dataset"
+  - "Alpha Matte"
 links:
   paper: "https://doi.org/10.1145/3721238.3730642"
   code: "https://github.com/aim-uofa/GVM"

@@ -1,24 +1,24 @@
 ---
 title: "SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes"
 authors:
-  - Tianchang Shen
-  - Zhaoshuo Li
-  - Marc T. Law
-  - Matan Atzmon
-  - Sanja Fidler
-  - James Lucas
-  - Jun Gao
-  - Nicholas Sharp
-track: "Conference"
-source: arxiv
+  - "Tianchang Shen"
+  - "Zhaoshuo Li"
+  - "Marc T. Law"
+  - "Matan Atzmon"
+  - "Sanja Fidler"
+  - "James Lucas"
+  - "Jun Gao"
+  - "Nicholas Sharp"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution: "NVIDIA"
 tags:
-  - Mesh Generation
-  - 3D Machine Learning
-  - Halfedge Mesh
-  - Graph Representation
-  - Diffusion Model
+  - "Mesh Generation"
+  - "3D Machine Learning"
+  - "Halfedge Mesh"
+  - "Graph Representation"
+  - "Diffusion Model"
 links:
   paper: "https://doi.org/10.1145/3680528.3687634"
 ---

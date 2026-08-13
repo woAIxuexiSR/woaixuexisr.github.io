@@ -1,24 +1,23 @@
 ---
 title: "Mobius: Text to Seamless Looping Video Generation via Latent Shift"
 authors:
-  - Xiuli Bi
-  - Jianfei Yuan
-  - Bo Liu
-  - Yong Zhang
-  - Xiaodong Cun
-  - Chi-Man Pun
-  - Bin Xiao
+  - "Xiuli Bi"
+  - "Jianfei Yuan"
+  - "Bo Liu"
+  - "Yong Zhang"
+  - "Xiaodong Cun"
+  - "Chi-Man Pun"
+  - "Bin Xiao"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution:
-  - Chongqing University of Posts and Telecommunications
+source: "arxiv"
+institution: "Chongqing University of Posts and Telecommunications"
 tags:
-  - Video Generation
-  - Diffusion Model
-  - Looping Video
-  - Latent Shift
-  - Training Free
+  - "Video Generation"
+  - "Diffusion Model"
+  - "Looping Video"
+  - "Latent Shift"
+  - "Training Free"
 links:
   paper: "https://doi.org/10.1145/3721238.3730744"
   project: "https://mobius-diffusion.github.io/"

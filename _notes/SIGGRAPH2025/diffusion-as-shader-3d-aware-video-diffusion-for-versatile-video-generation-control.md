@@ -1,32 +1,32 @@
 ---
 title: "Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control"
 authors:
-  - Zekai Gu
-  - Rui Yan
-  - Jiahao Lu
-  - Peng Li
-  - Zhiyang Dou
-  - Chenyang Si
-  - Zhen Dong
-  - Qifeng Liu
-  - Cheng Lin
-  - Ziwei Liu
-  - Wenping Wang
-  - Yuan Liu
+  - "Zekai Gu"
+  - "Rui Yan"
+  - "Jiahao Lu"
+  - "Peng Li"
+  - "Zhiyang Dou"
+  - "Chenyang Si"
+  - "Zhen Dong"
+  - "Qifeng Liu"
+  - "Cheng Lin"
+  - "Ziwei Liu"
+  - "Wenping Wang"
+  - "Yuan Liu"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Hong Kong University of Science and Technology
-  - The University of Hong Kong
-  - Nanyang Technological University
+  - "Hong Kong University of Science and Technology"
+  - "The University of Hong Kong"
+  - "Nanyang Technological University"
 tags:
-  - Video Generation
-  - Diffusion Model
-  - Camera Control
-  - Motion Transfer
-  - Point Tracking
-  - Controllable Generation
+  - "Video Generation"
+  - "Diffusion Model"
+  - "Camera Control"
+  - "Motion Transfer"
+  - "Point Tracking"
+  - "Controllable Generation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730607"
   project: "https://igl-hkust.github.io/das/"

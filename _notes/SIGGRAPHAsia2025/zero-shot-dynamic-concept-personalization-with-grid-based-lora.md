@@ -1,28 +1,28 @@
 ---
-title: Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA
+title: "Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA"
 authors:
-  - Rameen Abdal
-  - Or Patashnik
-  - Ekaterina Deyneka
-  - Hao Chen
-  - Aliaksandr Siarohin
-  - Sergey Tulyakov
-  - Daniel Cohen-Or
-  - Kfir Aberman
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Snap Inc.
+  - "Rameen Abdal"
+  - "Or Patashnik"
+  - "Ekaterina Deyneka"
+  - "Hao Chen"
+  - "Aliaksandr Siarohin"
+  - "Sergey Tulyakov"
+  - "Daniel Cohen-Or"
+  - "Kfir Aberman"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Snap Inc."
 tags:
-  - Text-to-Video Generation
-  - Video Personalization
-  - LoRA
-  - Diffusion Model
-  - Zero-Shot Learning
-  - Video Editing
+  - "Text-to-Video Generation"
+  - "Video Personalization"
+  - "LoRA"
+  - "Diffusion Model"
+  - "Zero-Shot Learning"
+  - "Video Editing"
 links:
-  paper: https://doi.org/10.1145/3757377.3763987
-  project: https://snap-research.github.io/zero-shot-dynamic-concepts/
+  paper: "https://doi.org/10.1145/3757377.3763987"
+  project: "https://snap-research.github.io/zero-shot-dynamic-concepts/"
 ---
 
 ## 一句话总结

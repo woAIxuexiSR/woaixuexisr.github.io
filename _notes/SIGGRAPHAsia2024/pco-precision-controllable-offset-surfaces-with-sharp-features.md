@@ -1,27 +1,27 @@
 ---
 title: "PCO: Precision-Controllable Offset Surfaces with Sharp Features"
 authors:
-  - Lei Wang
-  - Xudong Wang
-  - Pengfei Wang
-  - Shuang-Min Chen
-  - Shiqing Xin
-  - Jiong Guo
-  - Wenping Wang
-  - Changhe Tu
-track: "Journal"
-source: author-page
+  - "Lei Wang"
+  - "Xudong Wang"
+  - "Pengfei Wang"
+  - "Shuang-Min Chen"
+  - "Shiqing Xin"
+  - "Jiong Guo"
+  - "Wenping Wang"
+  - "Changhe Tu"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
 institution:
-  - Shandong University
-  - Qingdao University of Science and Technology
-  - Texas A&M University
+  - "Shandong University"
+  - "Qingdao University of Science and Technology"
+  - "Texas A&M University"
 tags:
-  - Offset Surface
-  - Sharp Features
-  - Distance Field
-  - Geometry Processing
-  - Morphological Operation
+  - "Offset Surface"
+  - "Sharp Features"
+  - "Distance Field"
+  - "Geometry Processing"
+  - "Morphological Operation"
 links:
   paper: "https://doi.org/10.1145/3687920"
 ---

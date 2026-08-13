@@ -1,24 +1,24 @@
 ---
 title: "Claycode: Stylable and Deformable 2D Scannable Codes"
 authors:
-  - Marco Maida
-  - Alberto Crescini
-  - Marco Perronet
-  - Elena Camuffo
-category: HCI & XR
-track: Journal
-source: arxiv
-institution: Independent Researcher
+  - "Marco Maida"
+  - "Alberto Crescini"
+  - "Marco Perronet"
+  - "Elena Camuffo"
+category: "HCI & XR"
+track: "Journal"
+source: "arxiv"
+institution: "Independent Researcher"
 tags:
-  - Topological Encoding
-  - 2D Scannable Codes
-  - Stylization
-  - Topology Optimization
-  - Polygon Packing
-  - Computational Geometry
+  - "Topological Encoding"
+  - "2D Scannable Codes"
+  - "Stylization"
+  - "Topology Optimization"
+  - "Polygon Packing"
+  - "Computational Geometry"
 links:
-  paper: https://doi.org/10.1145/3730853
-  project: https://claycode.io
+  paper: "https://doi.org/10.1145/3730853"
+  project: "https://claycode.io"
 ---
 ## 一句话总结
 

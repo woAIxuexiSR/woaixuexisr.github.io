@@ -6,9 +6,8 @@ authors:
   - "Yoonsang Lee"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
-institution:
-  - "Hanyang University"
+source: "arxiv"
+institution: "Hanyang University"
 tags:
   - "Physics-Based Character Control"
   - "Reinforcement Learning"

@@ -1,26 +1,26 @@
 ---
 title: "Boosting 3D Object Generation through PBR Materials"
 authors:
-  - Yitong Wang
-  - Xudong Xu
-  - Li Ma
-  - Haoran Wang
-  - Bo Dai
-track: "Conference"
-source: arxiv
+  - "Yitong Wang"
+  - "Xudong Xu"
+  - "Li Ma"
+  - "Haoran Wang"
+  - "Bo Dai"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Fudan University
-  - Shanghai Artificial Intelligence Laboratory
-  - Netflix Eyeline Studios
-  - Shanghai Jiao Tong University
+  - "Fudan University"
+  - "Shanghai Artificial Intelligence Laboratory"
+  - "Netflix Eyeline Studios"
+  - "Shanghai Jiao Tong University"
 tags:
-  - PBR Materials
-  - Image-to-3D
-  - Stable Diffusion
-  - Albedo Estimation
-  - Normal Refinement
-  - Relighting
+  - "PBR Materials"
+  - "Image-to-3D"
+  - "Stable Diffusion"
+  - "Albedo Estimation"
+  - "Normal Refinement"
+  - "Relighting"
 links:
   paper: "https://doi.org/10.1145/3680528.3687676"
 ---

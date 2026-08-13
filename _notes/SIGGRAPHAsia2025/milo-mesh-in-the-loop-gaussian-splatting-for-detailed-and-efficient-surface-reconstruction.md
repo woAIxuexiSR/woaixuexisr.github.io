@@ -1,25 +1,25 @@
 ---
 title: "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction"
 authors:
-  - Antoine Guédon
-  - Diego Gomez
-  - Nissim Maruani
-  - Bingchen Gong
-  - George Drettakis
-  - Maks Ovsjanikov
-track: "Journal"
-source: author-page
+  - "Antoine Guédon"
+  - "Diego Gomez"
+  - "Nissim Maruani"
+  - "Bingchen Gong"
+  - "George Drettakis"
+  - "Maks Ovsjanikov"
 category: "Reconstruction"
+track: "Journal"
+source: "author-page"
 institution:
-  - École Polytechnique
-  - Inria, Université Côte d'Azur
+  - "École Polytechnique"
+  - "Inria, Université Côte d'Azur"
 tags:
-  - Gaussian Splatting
-  - Surface Reconstruction
-  - Differentiable Mesh Extraction
-  - Delaunay Triangulation
-  - Marching Tetrahedra
-  - Mesh In The Loop
+  - "Gaussian Splatting"
+  - "Surface Reconstruction"
+  - "Differentiable Mesh Extraction"
+  - "Delaunay Triangulation"
+  - "Marching Tetrahedra"
+  - "Mesh In The Loop"
 links:
   paper: "https://doi.org/10.1145/3763339"
   project: "https://anttwo.github.io/milo/"

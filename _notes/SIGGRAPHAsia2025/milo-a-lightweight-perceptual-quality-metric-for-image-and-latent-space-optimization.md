@@ -1,24 +1,23 @@
 ---
 title: "MILO: A Lightweight Perceptual Quality Metric for Image and Latent-Space Optimization"
 authors:
-  - Uğur Çoğalan
-  - Mojtaba Bemana
-  - Karol Myszkowski
-  - Hans-Peter Seidel
-  - Colin Groth
-track: "Journal"
-source: arxiv
+  - "Uğur Çoğalan"
+  - "Mojtaba Bemana"
+  - "Karol Myszkowski"
+  - "Hans-Peter Seidel"
+  - "Colin Groth"
 category: "Image & Video"
-institution:
-  - Max Planck Institute for Informatics
+track: "Journal"
+source: "arxiv"
+institution: "Max Planck Institute for Informatics"
 tags:
-  - Full Reference Image Quality Assessment
-  - Perceptual Metric
-  - Perceptual Loss
-  - Visual Masking
-  - Latent Space Optimization
-  - Curriculum Learning
-  - Diffusion Restoration
+  - "Full Reference Image Quality Assessment"
+  - "Perceptual Metric"
+  - "Perceptual Loss"
+  - "Visual Masking"
+  - "Latent Space Optimization"
+  - "Curriculum Learning"
+  - "Diffusion Restoration"
 links:
   paper: "https://doi.org/10.1145/3763340"
   project: "https://milo.mpi-inf.mpg.de/"

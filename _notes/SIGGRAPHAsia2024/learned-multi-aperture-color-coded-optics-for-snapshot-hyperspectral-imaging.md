@@ -1,28 +1,28 @@
 ---
 title: "Learned Multi-aperture Color-coded Optics for Snapshot Hyperspectral Imaging"
 authors:
-  - Zheng Shi
-  - Xiong Dun
-  - Haoyu Wei
-  - Siyu Dong
-  - Zhanshan Wang
-  - Xinbin Cheng
-  - Felix Heide
-  - Yifan Peng
-track: "Journal"
-source: author-page
+  - "Zheng Shi"
+  - "Xiong Dun"
+  - "Haoyu Wei"
+  - "Siyu Dong"
+  - "Zhanshan Wang"
+  - "Xinbin Cheng"
+  - "Felix Heide"
+  - "Yifan Peng"
 category: "Reconstruction"
+track: "Journal"
+source: "author-page"
 institution:
-  - Princeton University
-  - Tongji University
-  - The University of Hong Kong
+  - "Princeton University"
+  - "Tongji University"
+  - "The University of Hong Kong"
 tags:
-  - Computational Imaging
-  - Hyperspectral Imaging
-  - Snapshot Imaging
-  - Diffractive Optics
-  - End-to-End Optimization
-  - Joint Optics Design
+  - "Computational Imaging"
+  - "Hyperspectral Imaging"
+  - "Snapshot Imaging"
+  - "Diffractive Optics"
+  - "End-to-End Optimization"
+  - "Joint Optics Design"
 links:
   paper: "https://doi.org/10.1145/3687976"
   project: "https://light.princeton.edu/array-hsi/"

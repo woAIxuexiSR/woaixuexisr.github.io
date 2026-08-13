@@ -1,25 +1,25 @@
 ---
 title: "DiffTex: Differentiable Texturing for Architectural Proxy Models"
 authors:
-  - Weidan Xiong
-  - Yongli Wu
-  - Bochuan Zeng
-  - Jianwei Guo
-  - Dani Lischinski
-  - Daniel Cohen-Or
-  - Hui Huang
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: Shenzhen University
+  - "Weidan Xiong"
+  - "Yongli Wu"
+  - "Bochuan Zeng"
+  - "Jianwei Guo"
+  - "Dani Lischinski"
+  - "Daniel Cohen-Or"
+  - "Hui Huang"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "Shenzhen University"
 tags:
-  - Proxy Models
-  - Texture Reconstruction
-  - Differentiable Rendering
-  - Architectural Models
-  - Texture Mapping
-  - UV Map
-  - Photometric Consistency
+  - "Proxy Models"
+  - "Texture Reconstruction"
+  - "Differentiable Rendering"
+  - "Architectural Models"
+  - "Texture Mapping"
+  - "UV Map"
+  - "Photometric Consistency"
 links:
   paper: "https://doi.org/10.1145/3763312"
 ---

@@ -1,32 +1,32 @@
 ---
 title: "VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence"
 authors:
-  - Phong Tran
-  - Egor Zakharov
-  - Long-Nhat Ho
-  - Adilbek Karmanov
-  - Ariana Bermudez Venegas
-  - McLean Goldwhite
-  - Aviral Agarwal
-  - Liwen Hu
-  - Anh Tran
-  - Hao Li
+  - "Phong Tran"
+  - "Egor Zakharov"
+  - "Long-Nhat Ho"
+  - "Adilbek Karmanov"
+  - "Ariana Bermudez Venegas"
+  - "McLean Goldwhite"
+  - "Aviral Agarwal"
+  - "Liwen Hu"
+  - "Anh Tran"
+  - "Hao Li"
+category: "Neural & Generative"
 track: "Journal"
-source: author-page
-category: Neural & Generative
+source: "author-page"
 institution:
-  - Mohamed Bin Zayed University of Artificial Intelligence
-  - ETH Zurich
-  - Pinscreen
-  - VinAI Research
+  - "Mohamed Bin Zayed University of Artificial Intelligence"
+  - "ETH Zurich"
+  - "Pinscreen"
+  - "VinAI Research"
 tags:
-  - Head Reenactment
-  - Neural Radiance Fields
-  - VR Telepresence
-  - Facial Animation
-  - One-Shot
+  - "Head Reenactment"
+  - "Neural Radiance Fields"
+  - "VR Telepresence"
+  - "Facial Animation"
+  - "One-Shot"
 links:
-  paper: https://doi.org/10.1145/3687974
+  paper: "https://doi.org/10.1145/3687974"
 ---
 
 ## 一句话总结

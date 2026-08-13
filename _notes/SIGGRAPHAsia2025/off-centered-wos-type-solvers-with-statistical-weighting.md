@@ -1,23 +1,23 @@
 ---
 title: "Off-Centered WoS-Type Solvers with Statistical Weighting"
 authors:
-  - Anchang Bao
-  - Jie Xu
-  - Enya Shen
-  - Jianmin Wang
-category: Geometry & Modeling
+  - "Anchang Bao"
+  - "Jie Xu"
+  - "Enya Shen"
+  - "Jianmin Wang"
+category: "Geometry & Modeling"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - University of Electronic Science and Technology of China
+  - "Tsinghua University"
+  - "University of Electronic Science and Technology of China"
 tags:
-  - Monte Carlo PDE Solver
-  - Walk On Spheres
-  - Variance Reduction
-  - Statistical Weighting
-  - Screened Poisson Equation
-  - Geometry Processing
+  - "Monte Carlo PDE Solver"
+  - "Walk On Spheres"
+  - "Variance Reduction"
+  - "Statistical Weighting"
+  - "Screened Poisson Equation"
+  - "Geometry Processing"
 links:
   paper: "https://doi.org/10.1145/3757377.3763852"
 ---

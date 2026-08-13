@@ -1,26 +1,26 @@
 ---
 title: "RCTrans: Transparent Object Reconstruction in Natural Scene via Refractive Correspondence Estimation"
 authors:
-  - Fangzhou Gao
-  - Yuzhen Kang
-  - Lianghao Zhang
-  - Li Wang
-  - Qishen Wang
-  - Jiawan Zhang
-category: Reconstruction
-track: Conference
-source: author-page
-institution: Tianjin University
+  - "Fangzhou Gao"
+  - "Yuzhen Kang"
+  - "Lianghao Zhang"
+  - "Li Wang"
+  - "Qishen Wang"
+  - "Jiawan Zhang"
+category: "Reconstruction"
+track: "Conference"
+source: "author-page"
+institution: "Tianjin University"
 tags:
-  - Transparent Object
-  - 3D Reconstruction
-  - Correspondence Estimation
-  - Differentiable Rendering
-  - Refraction
+  - "Transparent Object"
+  - "3D Reconstruction"
+  - "Correspondence Estimation"
+  - "Differentiable Rendering"
+  - "Refraction"
 links:
-  paper: https://doi.org/10.1145/3757377.3763859
-  project: https://arkgao.github.io/RCTrans
-  code: https://github.com/arkgao/RCTrans
+  paper: "https://doi.org/10.1145/3757377.3763859"
+  project: "https://arkgao.github.io/RCTrans"
+  code: "https://github.com/arkgao/RCTrans"
 ---
 
 ## 一句话总结

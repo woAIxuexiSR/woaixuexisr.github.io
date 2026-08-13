@@ -1,23 +1,22 @@
 ---
 title: "AnyTop: Character Animation Diffusion with Any Topology"
 authors:
-  - Inbar Gat
-  - Sigal Raab
-  - Guy Tevet
-  - Yuval Reshef
-  - Amit Haim Bermano
-  - Daniel Cohen-Or
+  - "Inbar Gat"
+  - "Sigal Raab"
+  - "Guy Tevet"
+  - "Yuval Reshef"
+  - "Amit Haim Bermano"
+  - "Daniel Cohen-Or"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution:
-  - Tel Aviv University
+source: "arxiv"
+institution: "Tel Aviv University"
 tags:
-  - Character Animation
-  - Motion Synthesis
-  - Diffusion Model
-  - Skeleton Topology
-  - Graph Transformer
+  - "Character Animation"
+  - "Motion Synthesis"
+  - "Diffusion Model"
+  - "Skeleton Topology"
+  - "Graph Transformer"
 links:
   paper: "https://doi.org/10.1145/3721238.3730621"
   project: "https://anytop2025.github.io/Anytop-page"

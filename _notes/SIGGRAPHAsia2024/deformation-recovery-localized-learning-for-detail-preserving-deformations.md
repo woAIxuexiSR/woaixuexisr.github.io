@@ -1,25 +1,25 @@
 ---
 title: "Deformation Recovery: Localized Learning for Detail-Preserving Deformations"
 authors:
-  - Ramana Sundararaman
-  - Nicolas Donati
-  - Simone Melzi
-  - Etienne Corman
-  - Maks Ovsjanikov
-track: "Journal"
-source: arxiv
+  - "Ramana Sundararaman"
+  - "Nicolas Donati"
+  - "Simone Melzi"
+  - "Etienne Corman"
+  - "Maks Ovsjanikov"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - École Polytechnique
-  - Ansys
-  - University of Milano-Bicocca
-  - Université de Lorraine
+  - "École Polytechnique"
+  - "Ansys"
+  - "University of Milano-Bicocca"
+  - "Université de Lorraine"
 tags:
-  - Shape Deformation
-  - Shape Correspondence
-  - Spectral Geometry Processing
-  - Jacobian Field
-  - Neural Network
+  - "Shape Deformation"
+  - "Shape Correspondence"
+  - "Spectral Geometry Processing"
+  - "Jacobian Field"
+  - "Neural Network"
 links:
   paper: "https://doi.org/10.1145/3687968"
   code: "https://github.com/sentient07/LJN"

@@ -1,20 +1,23 @@
 ---
 title: "Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes"
 authors:
-  - Shai Krakovsky
-  - Gal Fiebelman
-  - Sagie Benaim
-  - Hadar Averbuch-Elor
-category: Neural & Generative
+  - "Shai Krakovsky"
+  - "Gal Fiebelman"
+  - "Sagie Benaim"
+  - "Hadar Averbuch-Elor"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
+institution:
+  - "Tel Aviv University"
+  - "Hebrew University of Jerusalem"
 tags:
-  - 3D Gaussian Splatting
-  - Language Embedding
-  - Open-Vocabulary Segmentation
-  - CLIP
-  - Feature Distillation
-  - Large-Scale Scenes
+  - "3D Gaussian Splatting"
+  - "Language Embedding"
+  - "Open-Vocabulary Segmentation"
+  - "CLIP"
+  - "Feature Distillation"
+  - "Large-Scale Scenes"
 links:
   paper: "https://doi.org/10.1145/3757377.3763973"
   project: "https://tau-vailab.github.io/Lang3D-XL/"

@@ -7,9 +7,8 @@ authors:
   - "Young Min Kim"
 category: "Animation & Simulation"
 track: "Conference"
-source: ACM
-institution:
-  - "Seoul National University"
+source: "ACM"
+institution: "Seoul National University"
 tags:
   - "Physics-Based Character Control"
   - "Motion Priors"

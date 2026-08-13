@@ -1,22 +1,22 @@
 ---
 title: "DrawingSpinUp: 3D Animation from Single Character Drawings"
 authors:
-  - Jie Zhou
-  - Chufeng Xiao
-  - Miu-Ling Lam
-  - Hongbo Fu
-track: "Conference"
-source: arxiv
+  - "Jie Zhou"
+  - "Chufeng Xiao"
+  - "Miu-Ling Lam"
+  - "Hongbo Fu"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - City University of Hong Kong
-  - Hong Kong University of Science and Technology
+  - "City University of Hong Kong"
+  - "Hong Kong University of Science and Technology"
 tags:
-  - Character Drawing
-  - 3D Animation
-  - Non-Photorealistic Rendering
-  - Style Transfer
-  - Image-to-3D
+  - "Character Drawing"
+  - "3D Animation"
+  - "Non-Photorealistic Rendering"
+  - "Style Transfer"
+  - "Image-to-3D"
 links:
   paper: "https://doi.org/10.1145/3680528.3687593"
 ---

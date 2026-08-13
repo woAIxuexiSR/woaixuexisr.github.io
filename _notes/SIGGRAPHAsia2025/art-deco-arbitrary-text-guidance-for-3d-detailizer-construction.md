@@ -1,29 +1,29 @@
 ---
 title: "ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction"
 authors:
-  - Qimin Chen
-  - Yuezhi Yang
-  - Wang Yifan
-  - Vladimir Kim
-  - Siddhartha Chaudhuri
-  - Hao Zhang
-  - Zhiqin Chen
+  - "Qimin Chen"
+  - "Yuezhi Yang"
+  - "Wang Yifan"
+  - "Vladimir Kim"
+  - "Siddhartha Chaudhuri"
+  - "Hao Zhang"
+  - "Zhiqin Chen"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Simon Fraser University
-  - Adobe Research
-  - University of Texas at Austin
+  - "Simon Fraser University"
+  - "Adobe Research"
+  - "University of Texas at Austin"
 tags:
-  - Text-to-3D
-  - Shape Detailization
-  - Score Distillation Sampling
-  - Diffusion Model
-  - 3D Generation
+  - "Text-to-3D"
+  - "Shape Detailization"
+  - "Score Distillation Sampling"
+  - "Diffusion Model"
+  - "3D Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763877
-  project: https://arxiv.org/abs/2505.20431
+  paper: "https://doi.org/10.1145/3757377.3763877"
+  project: "https://arxiv.org/abs/2505.20431"
 ---
 
 ## 一句话总结

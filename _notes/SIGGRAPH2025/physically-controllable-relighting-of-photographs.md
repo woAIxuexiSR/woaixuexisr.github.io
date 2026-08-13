@@ -1,22 +1,22 @@
 ---
 title: "Physically Controllable Relighting of Photographs"
 authors:
-  - Chris Careaga
-  - Yağız Aksoy
-category: Rendering
-track: Conference
-source: arxiv
-institution: Simon Fraser University
+  - "Chris Careaga"
+  - "Yağız Aksoy"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
+institution: "Simon Fraser University"
 tags:
-  - Image Relighting
-  - Physically Based Rendering
-  - Neural Rendering
-  - Differentiable Rendering
-  - Self-Supervised Learning
-  - Intrinsic Decomposition
+  - "Image Relighting"
+  - "Physically Based Rendering"
+  - "Neural Rendering"
+  - "Differentiable Rendering"
+  - "Self-Supervised Learning"
+  - "Intrinsic Decomposition"
 links:
-  paper: https://doi.org/10.1145/3721238.3730666
-  project: https://yaksoy.github.io/PhysicalRelighting/
+  paper: "https://doi.org/10.1145/3721238.3730666"
+  project: "https://yaksoy.github.io/PhysicalRelighting/"
 ---
 
 ## 一句话总结

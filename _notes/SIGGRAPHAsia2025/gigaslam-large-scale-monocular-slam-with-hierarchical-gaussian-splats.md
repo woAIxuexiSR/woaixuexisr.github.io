@@ -1,24 +1,24 @@
 ---
 title: "GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats"
 authors:
-  - Kai Deng
-  - Yigong Zhang
-  - Jian Yang
-  - Jin Xie
-category: Reconstruction
-track: Conference
-source: arxiv
-institution: Nankai University
+  - "Kai Deng"
+  - "Yigong Zhang"
+  - "Jian Yang"
+  - "Jin Xie"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
+institution: "Nankai University"
 tags:
-  - SLAM
-  - 3D Gaussian Splatting
-  - Monocular
-  - Loop Closure
-  - Level Of Detail
+  - "SLAM"
+  - "3D Gaussian Splatting"
+  - "Monocular"
+  - "Loop Closure"
+  - "Level Of Detail"
 links:
-  paper: https://doi.org/10.1145/3757377.3763932
-  project: https://github.com/DengKaiCQ/GigaSLAM
-  code: https://github.com/DengKaiCQ/GigaSLAM
+  paper: "https://doi.org/10.1145/3757377.3763932"
+  project: "https://github.com/DengKaiCQ/GigaSLAM"
+  code: "https://github.com/DengKaiCQ/GigaSLAM"
 ---
 
 ## 一句话总结

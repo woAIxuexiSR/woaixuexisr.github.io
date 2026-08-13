@@ -18,6 +18,6 @@ tags:
   - "Shape Optimization"
 links:
   paper: "https://doi.org/10.1145/3618386"
-  code: "https://github.com/DavidJourdan/shrink-morph"
   project: "https://hal.science/LORIA-ALGO/hal-04252044v1"
+  code: "https://github.com/DavidJourdan/shrink-morph"
 ---

@@ -1,24 +1,24 @@
 ---
 title: "Particle-Laden Fluid on Flow Maps"
 authors:
-  - Zhiqi Li
-  - Duowen Chen
-  - Candong Lin
-  - Jinyuan Liu
-  - Bo Zhu
-track: "Journal"
-source: arxiv
+  - "Zhiqi Li"
+  - "Duowen Chen"
+  - "Candong Lin"
+  - "Jinyuan Liu"
+  - "Bo Zhu"
 category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Georgia Institute of Technology
-  - Dartmouth College
+  - "Georgia Institute of Technology"
+  - "Dartmouth College"
 tags:
-  - Fluid Simulation
-  - Particle Laden Flow
-  - Particle Flow Map
-  - Path Integral
-  - Ink Diffusion
-  - Navier Stokes
+  - "Fluid Simulation"
+  - "Particle Laden Flow"
+  - "Particle Flow Map"
+  - "Path Integral"
+  - "Ink Diffusion"
+  - "Navier Stokes"
 links:
   paper: "https://doi.org/10.1145/3687916"
 ---

@@ -1,23 +1,22 @@
 ---
 title: "Inverse Rendering for Tomographic Volumetric Additive Manufacturing"
 authors:
-  - Baptiste Nicolet
-  - Felix Wechsler
-  - Jorge Madrid-Wolff
-  - Christophe Moser
-  - Wenzel Jakob
-track: "Journal"
-source: author-page
+  - "Baptiste Nicolet"
+  - "Felix Wechsler"
+  - "Jorge Madrid-Wolff"
+  - "Christophe Moser"
+  - "Wenzel Jakob"
 category: "Rendering"
-institution:
-  - EPFL
+track: "Journal"
+source: "author-page"
+institution: "EPFL"
 tags:
-  - Inverse Rendering
-  - Differentiable Rendering
-  - Additive Manufacturing
-  - Volumetric 3D Printing
-  - Scattering Media
-  - Radiative Transfer
+  - "Inverse Rendering"
+  - "Differentiable Rendering"
+  - "Additive Manufacturing"
+  - "Volumetric 3D Printing"
+  - "Scattering Media"
+  - "Radiative Transfer"
 links:
   paper: "https://doi.org/10.1145/3687924"
   code: "https://github.com/rgl-epfl/drtvam"

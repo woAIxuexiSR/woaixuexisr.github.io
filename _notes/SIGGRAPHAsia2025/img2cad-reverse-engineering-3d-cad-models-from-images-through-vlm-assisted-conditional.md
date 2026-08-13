@@ -1,34 +1,34 @@
 ---
 title: "Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization"
 authors:
-  - Yang You
-  - Mikaela Angelina Uy
-  - Jiaqi Han
-  - Rahul Thomas
-  - Haotong Zhang
-  - Yi Du
-  - Hansheng Chen
-  - Francis Engelmann
-  - Suya You
-  - Leonidas Guibas
-category: Reconstruction
-track: Conference
-source: arxiv
+  - "Yang You"
+  - "Mikaela Angelina Uy"
+  - "Jiaqi Han"
+  - "Rahul Thomas"
+  - "Haotong Zhang"
+  - "Yi Du"
+  - "Hansheng Chen"
+  - "Francis Engelmann"
+  - "Suya You"
+  - "Leonidas Guibas"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Stanford University
-  - NVIDIA
-  - Peking University
-  - DEVCOM Army Research Laboratory
+  - "Stanford University"
+  - "NVIDIA"
+  - "Peking University"
+  - "DEVCOM Army Research Laboratory"
 tags:
-  - Image To CAD
-  - Reverse Engineering
-  - VLM
-  - Flow Matching
-  - Conditional Factorization
-  - 3D Shape
+  - "Image To CAD"
+  - "Reverse Engineering"
+  - "VLM"
+  - "Flow Matching"
+  - "Conditional Factorization"
+  - "3D Shape"
 links:
-  paper: https://doi.org/10.1145/3757377.3763891
-  code: https://github.com/qq456cvb/Img2CAD
+  paper: "https://doi.org/10.1145/3757377.3763891"
+  code: "https://github.com/qq456cvb/Img2CAD"
 ---
 
 ## 一句话总结

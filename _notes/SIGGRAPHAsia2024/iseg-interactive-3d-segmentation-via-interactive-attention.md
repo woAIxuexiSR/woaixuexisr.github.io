@@ -1,24 +1,24 @@
 ---
 title: "iSeg: Interactive 3D Segmentation via Interactive Attention"
 authors:
-  - Itai Lang
-  - Fei Xu
-  - Dale Decatur
-  - Sudarshan Babu
-  - Rana Hanocka
-track: "Conference"
-source: arxiv
+  - "Itai Lang"
+  - "Fei Xu"
+  - "Dale Decatur"
+  - "Sudarshan Babu"
+  - "Rana Hanocka"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of Chicago
-  - Toyota Technological Institute at Chicago
+  - "University of Chicago"
+  - "Toyota Technological Institute at Chicago"
 tags:
-  - 3D Segmentation
-  - Interactive Segmentation
-  - Mesh Feature Field
-  - Attention
-  - Knowledge Distillation
-  - Differentiable Rendering
+  - "3D Segmentation"
+  - "Interactive Segmentation"
+  - "Mesh Feature Field"
+  - "Attention"
+  - "Knowledge Distillation"
+  - "Differentiable Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687605"
 ---

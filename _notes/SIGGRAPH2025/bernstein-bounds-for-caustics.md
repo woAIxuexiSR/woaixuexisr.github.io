@@ -1,27 +1,27 @@
 ---
 title: "Bernstein Bounds for Caustics"
 authors:
-  - Zhimin Fan
-  - Chen Wang
-  - Yiming Wang
-  - Boxuan Li
-  - Yuxuan Guo
-  - Ling-Qi Yan
-  - Yanwen Guo
-  - Jie Guo
-category: Rendering
-track: Journal
-source: arxiv
-institution: Nanjing University
+  - "Zhimin Fan"
+  - "Chen Wang"
+  - "Yiming Wang"
+  - "Boxuan Li"
+  - "Yuxuan Guo"
+  - "Ling-Qi Yan"
+  - "Yanwen Guo"
+  - "Jie Guo"
+category: "Rendering"
+track: "Journal"
+source: "arxiv"
+institution: "Nanjing University"
 tags:
-  - Caustics
-  - Specular Light Transport
-  - Bernstein Polynomials
-  - Rational Functions
-  - Bound-Driven Sampling
-  - Monte Carlo Rendering
-  - Variance Reduction
-  - Ray Tracing
+  - "Caustics"
+  - "Specular Light Transport"
+  - "Bernstein Polynomials"
+  - "Rational Functions"
+  - "Bound-Driven Sampling"
+  - "Monte Carlo Rendering"
+  - "Variance Reduction"
+  - "Ray Tracing"
 links:
   paper: "https://doi.org/10.1145/3731145"
   project: "https://zhiminfan.work/"

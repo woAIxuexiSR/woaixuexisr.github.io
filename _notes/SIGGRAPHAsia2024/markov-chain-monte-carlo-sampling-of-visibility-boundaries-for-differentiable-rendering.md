@@ -1,24 +1,24 @@
 ---
 title: "Markov-Chain Monte Carlo Sampling of Visibility Boundaries for Differentiable Rendering"
 authors:
-  - Peiyu Xu
-  - Sai Bangaru
-  - Tzu-Mao Li
-  - Shuang Zhao
+  - "Peiyu Xu"
+  - "Sai Bangaru"
+  - "Tzu-Mao Li"
+  - "Shuang Zhao"
 category: "Rendering"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - University of California Irvine
-  - MIT
-  - University of California San Diego
+  - "University of California Irvine"
+  - "MIT"
+  - "University of California San Diego"
 tags:
-  - Differentiable Rendering
-  - Boundary Path Integral
-  - Markov Chain Monte Carlo
-  - Langevin Monte Carlo
-  - Inverse Rendering
-  - Visibility
+  - "Differentiable Rendering"
+  - "Boundary Path Integral"
+  - "Markov Chain Monte Carlo"
+  - "Langevin Monte Carlo"
+  - "Inverse Rendering"
+  - "Visibility"
 links:
   paper: "https://doi.org/10.1145/3680528.3687622"
 ---

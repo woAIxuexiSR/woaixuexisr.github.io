@@ -1,24 +1,23 @@
 ---
 title: "UltraMeshRenderer: Efficient Structure and Management of GPU Out-of-core Memory for Real-time Rendering of Gigantic 3D Meshes"
 authors:
-  - Huadong Zhang
-  - Lizhou Cao
-  - Chao Peng
-category: Rendering
-track: Journal
-source: author-page
-institution:
-  - Rochester Institute of Technology
+  - "Huadong Zhang"
+  - "Lizhou Cao"
+  - "Chao Peng"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "Rochester Institute of Technology"
 tags:
-  - Out-of-Core Rendering
-  - Level of Detail
-  - GPU Memory Management
-  - Real-Time Rendering
-  - Massive Mesh Rendering
-  - Frame-to-Frame Coherence
-  - Memory Defragmentation
+  - "Out-of-Core Rendering"
+  - "Level of Detail"
+  - "GPU Memory Management"
+  - "Real-Time Rendering"
+  - "Massive Mesh Rendering"
+  - "Frame-to-Frame Coherence"
+  - "Memory Defragmentation"
 links:
-  paper: https://doi.org/10.1145/3731186
+  paper: "https://doi.org/10.1145/3731186"
 ---
 
 ## 一句话总结

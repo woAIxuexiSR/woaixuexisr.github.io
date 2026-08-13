@@ -1,22 +1,21 @@
 ---
 title: "Fovea Stacking: Imaging with Dynamic Localized Aberration Correction"
 authors:
-  - Shi Mao
-  - Yogeshwar Nath Mishra
-  - Wolfgang Heidrich
+  - "Shi Mao"
+  - "Yogeshwar Nath Mishra"
+  - "Wolfgang Heidrich"
+category: "Image & Video"
 track: "Journal"
-source: arxiv
-category: Image & Video
-institution:
-  - King Abdullah University of Science and Technology (KAUST)
+source: "arxiv"
+institution: "King Abdullah University of Science and Technology (KAUST)"
 tags:
-  - Computational Imaging
-  - Aberration Correction
-  - Differentiable Optics
-  - Deformable Phase Plate
-  - Image Fusion
-  - Foveated Imaging
-  - Extended Depth Of Field
+  - "Computational Imaging"
+  - "Aberration Correction"
+  - "Differentiable Optics"
+  - "Deformable Phase Plate"
+  - "Image Fusion"
+  - "Foveated Imaging"
+  - "Extended Depth Of Field"
 links:
   paper: "https://doi.org/10.1145/3763278"
 ---

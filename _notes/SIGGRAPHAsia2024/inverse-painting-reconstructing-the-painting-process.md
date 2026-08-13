@@ -1,20 +1,20 @@
 ---
 title: "Inverse Painting: Reconstructing The Painting Process"
 authors:
-  - Bowei Chen
-  - Yifan Wang
-  - Brian Curless
-  - Ira Kemelmacher-Shlizerman
-  - Steven M. Seitz
-track: "Conference"
-source: author-page
+  - "Bowei Chen"
+  - "Yifan Wang"
+  - "Brian Curless"
+  - "Ira Kemelmacher-Shlizerman"
+  - "Steven M. Seitz"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution: "University of Washington"
 tags:
-  - Diffusion Model
-  - Painting Process
-  - Autoregressive Generation
-  - Time Lapse Video
+  - "Diffusion Model"
+  - "Painting Process"
+  - "Autoregressive Generation"
+  - "Time Lapse Video"
 links:
   paper: "https://doi.org/10.1145/3680528.3687574"
   project: "https://inversepainting.github.io/"

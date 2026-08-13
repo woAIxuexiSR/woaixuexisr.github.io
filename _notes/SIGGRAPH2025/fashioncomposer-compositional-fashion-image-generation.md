@@ -1,26 +1,26 @@
 ---
 title: "FashionComposer: Compositional Fashion Image Generation"
 authors:
-  - Sihui Ji
-  - Yiyang Wang
-  - Xi Chen
-  - Xiaogang Xu
-  - Hao Luo
-  - Hengshuang Zhao
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: The University of Hong Kong
+  - "Sihui Ji"
+  - "Yiyang Wang"
+  - "Xi Chen"
+  - "Xiaogang Xu"
+  - "Hao Luo"
+  - "Hengshuang Zhao"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "The University of Hong Kong"
 tags:
-  - Fashion Image Generation
-  - Diffusion Model
-  - Virtual Try-On
-  - Multi-Modal Generation
-  - Attention Mechanism
-  - Image Customization
+  - "Fashion Image Generation"
+  - "Diffusion Model"
+  - "Virtual Try-On"
+  - "Multi-Modal Generation"
+  - "Attention Mechanism"
+  - "Image Customization"
 links:
-  paper: https://doi.org/10.1145/3721238.3730663
-  project: https://SihuiJi.github.io/FashionComposer-Page
+  paper: "https://doi.org/10.1145/3721238.3730663"
+  project: "https://SihuiJi.github.io/FashionComposer-Page"
 ---
 
 ## 一句话总结

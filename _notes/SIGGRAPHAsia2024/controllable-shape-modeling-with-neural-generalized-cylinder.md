@@ -1,23 +1,23 @@
 ---
 title: "Controllable Shape Modeling with Neural Generalized Cylinder"
 authors:
-  - Xiangyu Zhu
-  - Zhiqin Chen
-  - Ruizhen Hu
-  - Xiaoguang Han
-track: "Conference"
-source: arxiv
+  - "Xiangyu Zhu"
+  - "Zhiqin Chen"
+  - "Ruizhen Hu"
+  - "Xiaoguang Han"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution:
-  - The Chinese University of Hong Kong, Shenzhen
-  - Adobe Research
-  - Shenzhen University
+  - "The Chinese University of Hong Kong, Shenzhen"
+  - "Adobe Research"
+  - "Shenzhen University"
 tags:
-  - Generalized Cylinder
-  - Neural SDF
-  - Shape Deformation
-  - Shape Blending
-  - Implicit Representation
+  - "Generalized Cylinder"
+  - "Neural SDF"
+  - "Shape Deformation"
+  - "Shape Blending"
+  - "Implicit Representation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687617"
 ---

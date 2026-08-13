@@ -1,24 +1,24 @@
 ---
 title: "Social Agent: Mastering Dyadic Nonverbal Behavior Generation via Conversational LLM Agents"
 authors:
-  - Zeyi Zhang
-  - Yanju Zhou
-  - Heyuan Yao
-  - Tenglong Ao
-  - Xiaohang Zhan
-  - Libin Liu
+  - "Zeyi Zhang"
+  - "Yanju Zhou"
+  - "Heyuan Yao"
+  - "Tenglong Ao"
+  - "Xiaohang Zhan"
+  - "Libin Liu"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-category: Animation & Simulation
+source: "arxiv"
 institution:
-  - Peking University
-  - Tencent
+  - "Peking University"
+  - "Tencent"
 tags:
-  - Nonverbal Behavior
-  - Co-Speech Gesture
-  - LLM Agent
-  - Diffusion Model
-  - Dyadic Interaction
+  - "Nonverbal Behavior"
+  - "Co-Speech Gesture"
+  - "LLM Agent"
+  - "Diffusion Model"
+  - "Dyadic Interaction"
 links:
   paper: "https://doi.org/10.1145/3757377.3763879"
 ---

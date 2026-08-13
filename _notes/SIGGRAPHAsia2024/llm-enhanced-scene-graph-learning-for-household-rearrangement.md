@@ -1,26 +1,26 @@
 ---
 title: "LLM-enhanced Scene Graph Learning for Household Rearrangement"
 authors:
-  - Wenhao Li
-  - Zhiyuan Yu
-  - Qijin She
-  - Zhinan Yu
-  - Yuqing Lan
-  - Chenyang Zhu
-  - Ruizhen Hu
-  - Kai Xu
+  - "Wenhao Li"
+  - "Zhiyuan Yu"
+  - "Qijin She"
+  - "Zhinan Yu"
+  - "Yuqing Lan"
+  - "Chenyang Zhu"
+  - "Ruizhen Hu"
+  - "Kai Xu"
 category: "Neural & Generative"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - National University of Defense Technology
-  - Shenzhen University
+  - "National University of Defense Technology"
+  - "Shenzhen University"
 tags:
-  - Scene Graph
-  - Large Language Model
-  - Affordance
-  - Household Rearrangement
-  - Embodied AI
+  - "Scene Graph"
+  - "Large Language Model"
+  - "Affordance"
+  - "Household Rearrangement"
+  - "Embodied AI"
 links:
   paper: "https://doi.org/10.1145/3680528.3687607"
 ---

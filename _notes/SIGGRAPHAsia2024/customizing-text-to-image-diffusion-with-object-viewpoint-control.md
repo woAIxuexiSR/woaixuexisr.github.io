@@ -1,24 +1,24 @@
 ---
 title: "Customizing Text-to-Image Diffusion with Object Viewpoint Control"
 authors:
-  - Nupur Kumari
-  - Grace Su
-  - Richard Zhang
-  - Taesung Park
-  - Eli Shechtman
-  - Jun-Yan Zhu
-category: Neural & Generative
+  - "Nupur Kumari"
+  - "Grace Su"
+  - "Richard Zhang"
+  - "Taesung Park"
+  - "Eli Shechtman"
+  - "Jun-Yan Zhu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Carnegie Mellon University
-  - Adobe Research
+  - "Carnegie Mellon University"
+  - "Adobe Research"
 tags:
-  - Diffusion Model
-  - Model Customization
-  - Viewpoint Control
-  - NeRF
-  - Text-to-Image
+  - "Diffusion Model"
+  - "Model Customization"
+  - "Viewpoint Control"
+  - "NeRF"
+  - "Text-to-Image"
 links:
   paper: "https://doi.org/10.1145/3680528.3687564"
   project: "https://customdiffusion360.github.io/"

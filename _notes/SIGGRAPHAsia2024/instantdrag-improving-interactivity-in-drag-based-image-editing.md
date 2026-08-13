@@ -1,21 +1,21 @@
 ---
 title: "InstantDrag: Improving Interactivity in Drag-based Image Editing"
 authors:
-  - Joonghyuk Shin
-  - Daehyeon Choi
-  - Jaesik Park
-track: "Conference"
-source: author-page
+  - "Joonghyuk Shin"
+  - "Daehyeon Choi"
+  - "Jaesik Park"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - Seoul National University
-  - POSTECH
+  - "Seoul National University"
+  - "POSTECH"
 tags:
-  - Drag-based Editing
-  - Image Editing
-  - Diffusion Model
-  - Optical Flow
-  - GAN
+  - "Drag-based Editing"
+  - "Image Editing"
+  - "Diffusion Model"
+  - "Optical Flow"
+  - "GAN"
 links:
   paper: "https://doi.org/10.1145/3680528.3687668"
 ---

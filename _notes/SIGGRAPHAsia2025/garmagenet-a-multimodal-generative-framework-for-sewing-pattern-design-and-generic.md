@@ -1,25 +1,25 @@
 ---
 title: "GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling"
 authors:
-  - Siran Li
-  - Ruiyang Liu
-  - Chen Liu
-  - Zhendong Wang
-  - Gaofeng He
-  - Yong-Lu Li
-  - Xiaogang Jin
-  - Huamin Wang
+  - "Siran Li"
+  - "Ruiyang Liu"
+  - "Chen Liu"
+  - "Zhendong Wang"
+  - "Gaofeng He"
+  - "Yong-Lu Li"
+  - "Xiaogang Jin"
+  - "Huamin Wang"
 category: "Neural & Generative"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution: "Style3D Research / Zhejiang University"
 tags:
-  - Garment Modeling
-  - Sewing Pattern Generation
-  - Latent Diffusion
-  - Geometry Image
-  - Multimodal Generation
-  - Garment Dataset
+  - "Garment Modeling"
+  - "Sewing Pattern Generation"
+  - "Latent Diffusion"
+  - "Geometry Image"
+  - "Multimodal Generation"
+  - "Garment Dataset"
 links:
   paper: "https://doi.org/10.1145/3763271"
   project: "https://style3d.github.io/garmagenet"

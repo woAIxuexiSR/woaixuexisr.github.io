@@ -1,26 +1,26 @@
 ---
 title: "NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections"
 authors:
-  - Dor Verbin
-  - Pratul P. Srinivasan
-  - Peter Hedman
-  - Ben Mildenhall
-  - Benjamin Attal
-  - Richard Szeliski
-  - Jonathan T. Barron
-category: Rendering
-track: Conference
-source: arxiv
+  - "Dor Verbin"
+  - "Pratul P. Srinivasan"
+  - "Peter Hedman"
+  - "Ben Mildenhall"
+  - "Benjamin Attal"
+  - "Richard Szeliski"
+  - "Jonathan T. Barron"
+category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Google
-  - Carnegie Mellon University
+  - "Google"
+  - "Carnegie Mellon University"
 tags:
-  - Novel View Synthesis
-  - Neural Radiance Fields
-  - Reflections
-  - Ray Tracing
-  - View-Dependent Appearance
-  - Anti Aliasing
+  - "Novel View Synthesis"
+  - "Neural Radiance Fields"
+  - "Reflections"
+  - "Ray Tracing"
+  - "View-Dependent Appearance"
+  - "Anti Aliasing"
 links:
   paper: "https://doi.org/10.1145/3680528.3687585"
   project: "https://nerf-casting.github.io"

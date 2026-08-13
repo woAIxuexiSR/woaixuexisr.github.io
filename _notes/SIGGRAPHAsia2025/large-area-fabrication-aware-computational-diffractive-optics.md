@@ -1,28 +1,28 @@
 ---
 title: "Large-Area Fabrication-aware Computational Diffractive Optics"
 authors:
-  - Kaixuan Wei
-  - Hector A. Jimenez-Romero
-  - Hadi Amata
-  - Jipeng Sun
-  - Qiang Fu
-  - Felix Heide
-  - Wolfgang Heidrich
-category: Rendering
+  - "Kaixuan Wei"
+  - "Hector A. Jimenez-Romero"
+  - "Hadi Amata"
+  - "Jipeng Sun"
+  - "Qiang Fu"
+  - "Felix Heide"
+  - "Wolfgang Heidrich"
+category: "Rendering"
 track: "Journal"
-source: arxiv
-institution: King Abdullah University of Science and Technology
+source: "arxiv"
+institution: "King Abdullah University of Science and Technology"
 tags:
-  - Computational Optics
-  - Diffractive Optical Elements
-  - Neural Lithography
-  - Differentiable Optics
-  - Holography
-  - Distributed Computing
+  - "Computational Optics"
+  - "Diffractive Optical Elements"
+  - "Neural Lithography"
+  - "Differentiable Optics"
+  - "Holography"
+  - "Distributed Computing"
 links:
-  paper: https://doi.org/10.1145/3763358
-  project: https://light.princeton.edu/fab_aware_optics
-  code: https://github.com/Vandermode/LAFA
+  paper: "https://doi.org/10.1145/3763358"
+  project: "https://light.princeton.edu/fab_aware_optics"
+  code: "https://github.com/Vandermode/LAFA"
 ---
 
 ## 一句话总结

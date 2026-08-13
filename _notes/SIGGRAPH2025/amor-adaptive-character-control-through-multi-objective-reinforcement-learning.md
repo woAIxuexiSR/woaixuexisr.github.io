@@ -9,7 +9,7 @@ authors:
   - "Moritz Bächer"
 category: "Animation & Simulation"
 track: "Conference"
-source: ACM
+source: "ACM"
 institution:
   - "Disney Research"
   - "Universidade Federal do Rio Grande do Sul"

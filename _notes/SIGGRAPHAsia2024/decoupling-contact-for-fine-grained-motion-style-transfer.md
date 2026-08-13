@@ -1,29 +1,29 @@
 ---
 title: "Decoupling Contact for Fine-Grained Motion Style Transfer"
 authors:
-  - Xiangjun Tang
-  - Linjun Wu
-  - He Wang
-  - Yiqian Wu
-  - Bo Hu
-  - Songnan Li
-  - Xu Gong
-  - Yuchen Liao
-  - Qilong Kou
-  - Xiaogang Jin
-track: "Conference"
-source: author-page
+  - "Xiangjun Tang"
+  - "Linjun Wu"
+  - "He Wang"
+  - "Yiqian Wu"
+  - "Bo Hu"
+  - "Songnan Li"
+  - "Xu Gong"
+  - "Yuchen Liao"
+  - "Qilong Kou"
+  - "Xiaogang Jin"
 category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - University College London
-  - Tencent
+  - "Zhejiang University"
+  - "University College London"
+  - "Tencent"
 tags:
-  - Motion Style Transfer
-  - Character Animation
-  - Contact Control
-  - Motion Manifold
-  - Transformer
+  - "Motion Style Transfer"
+  - "Character Animation"
+  - "Contact Control"
+  - "Motion Manifold"
+  - "Transformer"
 links:
   paper: "https://doi.org/10.1145/3680528.3687609"
 ---

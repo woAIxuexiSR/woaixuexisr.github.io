@@ -1,28 +1,28 @@
 ---
 title: "DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models"
 authors:
-  - Jing-En Jiang
-  - Hanxiao Wang
-  - Mingyang Zhao
-  - Dong-Ming Yan
-  - Shuangmin Chen
-  - Shiqing Xin
-  - Changhe Tu
-  - Wenping Wang
-category: Geometry & Modeling
-track: Journal
-source: author-page
-institution: Shandong University
+  - "Jing-En Jiang"
+  - "Hanxiao Wang"
+  - "Mingyang Zhao"
+  - "Dong-Ming Yan"
+  - "Shuangmin Chen"
+  - "Shiqing Xin"
+  - "Changhe Tu"
+  - "Wenping Wang"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "author-page"
+institution: "Shandong University"
 tags:
-  - CAD Model
-  - Fillet Removal
-  - Voronoi Diagram
-  - Feature Reconstruction
-  - Mesh Deformation
-  - Primitive Detection
+  - "CAD Model"
+  - "Fillet Removal"
+  - "Voronoi Diagram"
+  - "Feature Reconstruction"
+  - "Mesh Deformation"
+  - "Primitive Detection"
 links:
-  paper: https://doi.org/10.1145/3731166
-  code: https://github.com/xiaowuga/DeFillet
+  paper: "https://doi.org/10.1145/3731166"
+  code: "https://github.com/xiaowuga/DeFillet"
 ---
 ## 一句话总结
 

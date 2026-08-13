@@ -1,32 +1,32 @@
 ---
 title: "TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model"
 authors:
-  - Jiazhi Guan
-  - Quanwei Yang
-  - Kaisiyuan Wang
-  - Hang Zhou
-  - Shengyi He
-  - Zhiliang Xu
-  - Haocheng Feng
-  - Errui Ding
-  - Jingdong Wang
-  - Hongtao Xie
-  - Youjian Zhao
-  - Ziwei Liu
-track: "Conference"
-source: arxiv
+  - "Jiazhi Guan"
+  - "Quanwei Yang"
+  - "Kaisiyuan Wang"
+  - "Hang Zhou"
+  - "Shengyi He"
+  - "Zhiliang Xu"
+  - "Haocheng Feng"
+  - "Errui Ding"
+  - "Jingdong Wang"
+  - "Hongtao Xie"
+  - "Youjian Zhao"
+  - "Ziwei Liu"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - University of Science and Technology of China
-  - Baidu Inc.
-  - Nanyang Technological University
+  - "Tsinghua University"
+  - "University of Science and Technology of China"
+  - "Baidu Inc."
+  - "Nanyang Technological University"
 tags:
-  - 2D Avatar Reenactment
-  - Diffusion Model
-  - Video Synthesis
-  - Talking Avatar
-  - Motion Guidance
+  - "2D Avatar Reenactment"
+  - "Diffusion Model"
+  - "Video Synthesis"
+  - "Talking Avatar"
+  - "Motion Guidance"
 links:
   paper: "https://doi.org/10.1145/3680528.3687571"
 ---

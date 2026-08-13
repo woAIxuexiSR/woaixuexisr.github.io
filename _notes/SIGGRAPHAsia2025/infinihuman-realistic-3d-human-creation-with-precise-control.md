@@ -1,23 +1,23 @@
 ---
 title: "InfiniHuman: Realistic 3D Human Creation with Precise Control"
 authors:
-  - Yuxuan Xue
-  - Xianghui Xie
-  - Margaret Kostyrko
-  - Gerard Pons-Moll
-category: Neural & Generative
+  - "Yuxuan Xue"
+  - "Xianghui Xie"
+  - "Margaret Kostyrko"
+  - "Gerard Pons-Moll"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: University of Tübingen
+source: "arxiv"
+institution: "University of Tübingen"
 tags:
-  - 3D Human Generation
-  - Diffusion Model
-  - SMPL
-  - Foundation Model Distillation
-  - Avatar
+  - "3D Human Generation"
+  - "Diffusion Model"
+  - "SMPL"
+  - "Foundation Model Distillation"
+  - "Avatar"
 links:
-  paper: https://doi.org/10.1145/3757377.3763815
-  project: https://yuxuan-xue.com/infini-human
+  paper: "https://doi.org/10.1145/3757377.3763815"
+  project: "https://yuxuan-xue.com/infini-human"
 ---
 
 ## 一句话总结

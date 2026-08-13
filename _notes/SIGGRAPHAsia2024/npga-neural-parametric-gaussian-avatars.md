@@ -1,24 +1,24 @@
 ---
 title: "NPGA: Neural Parametric Gaussian Avatars"
 authors:
-  - Simon Giebenhain
-  - Tobias Kirschstein
-  - Martin Rünz
-  - Lourdes Agapito
-  - Matthias Nießner
-track: "Conference"
-source: arxiv
+  - "Simon Giebenhain"
+  - "Tobias Kirschstein"
+  - "Martin Rünz"
+  - "Lourdes Agapito"
+  - "Matthias Nießner"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Technical University of Munich
-  - Synthesia
-  - University College London
+  - "Technical University of Munich"
+  - "Synthesia"
+  - "University College London"
 tags:
-  - 3D Gaussian Splatting
-  - Head Avatar
-  - Neural Parametric Head Model
-  - Data-Driven Animation
-  - 3D Morphable Model
+  - "3D Gaussian Splatting"
+  - "Head Avatar"
+  - "Neural Parametric Head Model"
+  - "Data-Driven Animation"
+  - "3D Morphable Model"
 links:
   paper: "https://doi.org/10.1145/3680528.3687689"
 ---

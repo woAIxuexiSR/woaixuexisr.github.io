@@ -1,27 +1,27 @@
 ---
 title: "DreamID: High-Fidelity and Fast diffusion-based Face Swapping via Triplet ID Group Learning"
 authors:
-  - Fulong Ye
-  - Miao Hua
-  - Pengze Zhang
-  - Xinghui Li
-  - Qichao Sun
-  - Songtao Zhao
-  - Qian He
-  - Xinglong Wu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: ByteDance
+  - "Fulong Ye"
+  - "Miao Hua"
+  - "Pengze Zhang"
+  - "Xinghui Li"
+  - "Qichao Sun"
+  - "Songtao Zhao"
+  - "Qian He"
+  - "Xinglong Wu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "ByteDance"
 tags:
-  - Face Swapping
-  - Diffusion Model
-  - Identity Preservation
-  - Fast Inference
-  - Image Generation
+  - "Face Swapping"
+  - "Diffusion Model"
+  - "Identity Preservation"
+  - "Fast Inference"
+  - "Image Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763963
-  project: https://superhero-7.github.io/DreamID/
+  paper: "https://doi.org/10.1145/3757377.3763963"
+  project: "https://superhero-7.github.io/DreamID/"
 ---
 
 ## 一句话总结

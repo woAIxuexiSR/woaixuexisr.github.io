@@ -1,21 +1,21 @@
 ---
 title: "Facial Microscopic Structures Synthesis from a Single Unconstrained Image"
 authors:
-  - Youyang Du
-  - Lu Wang
-  - Beibei Wang
-track: "Conference"
-source: author-page
+  - "Youyang Du"
+  - "Lu Wang"
+  - "Beibei Wang"
 category: "Rendering"
+track: "Conference"
+source: "author-page"
 institution:
-  - Shandong University
-  - Nanjing University
+  - "Shandong University"
+  - "Nanjing University"
 tags:
-  - Facial Detail Synthesis
-  - Microstructure
-  - GNN
-  - Differentiable Simulation
-  - Inverse Rendering
+  - "Facial Detail Synthesis"
+  - "Microstructure"
+  - "GNN"
+  - "Differentiable Simulation"
+  - "Inverse Rendering"
 links:
   paper: "https://doi.org/10.1145/3721238.3730760"
   project: "https://icewired-yy.github.io/papers/face_micro_detail_synthesis/"

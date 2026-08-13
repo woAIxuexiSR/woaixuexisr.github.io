@@ -1,19 +1,18 @@
 ---
 title: "Content-aware Tile Generation using Exterior Boundary Inpainting"
 authors:
-  - Sam Sartor
-  - Pieter Peers
-track: "Journal"
-source: arxiv
+  - "Sam Sartor"
+  - "Pieter Peers"
 category: "Neural & Generative"
-institution:
-  - College of William & Mary
+track: "Journal"
+source: "arxiv"
+institution: "College of William & Mary"
 tags:
-  - Wang Tiles
-  - Diffusion Model
-  - Inpainting
-  - Texture Synthesis
-  - Tileable Textures
+  - "Wang Tiles"
+  - "Diffusion Model"
+  - "Inpainting"
+  - "Texture Synthesis"
+  - "Tileable Textures"
 links:
   paper: "https://doi.org/10.1145/3687981"
   code: "https://github.com/samsartor/content_aware_tiles"

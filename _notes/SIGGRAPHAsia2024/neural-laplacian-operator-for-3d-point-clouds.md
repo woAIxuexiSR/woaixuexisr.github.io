@@ -1,22 +1,21 @@
 ---
 title: "Neural Laplacian Operator for 3D Point Clouds"
 authors:
-  - Bo Pang
-  - Zhongtian Zheng
-  - Yilong Li
-  - Guoping Wang
-  - Peng-Shuai Wang
-track: "Journal"
-source: arxiv
+  - "Bo Pang"
+  - "Zhongtian Zheng"
+  - "Yilong Li"
+  - "Guoping Wang"
+  - "Peng-Shuai Wang"
 category: "Geometry & Modeling"
-institution:
-  - Peking University
+track: "Journal"
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Laplacian Operator
-  - Point Cloud
-  - Graph Neural Network
-  - Geometry Processing
-  - Spectral Analysis
+  - "Laplacian Operator"
+  - "Point Cloud"
+  - "Graph Neural Network"
+  - "Geometry Processing"
+  - "Spectral Analysis"
 links:
   paper: "https://doi.org/10.1145/3687901"
   code: "https://github.com/IntelligentGeometry/NeLo"

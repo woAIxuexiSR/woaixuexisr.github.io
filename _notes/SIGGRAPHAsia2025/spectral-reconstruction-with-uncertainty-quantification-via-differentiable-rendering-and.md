@@ -1,24 +1,23 @@
 ---
 title: "Spectral Reconstruction with Uncertainty Quantification via Differentiable Rendering and Null-Space Sampling"
 authors:
-  - Mengqi (Mandy) Xia
-  - Bai Xue
-  - Rachel Liang
-  - Holly Rushmeier
+  - "Mengqi (Mandy) Xia"
+  - "Bai Xue"
+  - "Rachel Liang"
+  - "Holly Rushmeier"
 category: "Rendering"
 track: "Conference"
-source: author-page
-institution:
-  - Yale University
+source: "author-page"
+institution: "Yale University"
 tags:
-  - Spectral Reconstruction
-  - Differentiable Rendering
-  - Uncertainty Quantification
-  - Null-Space Sampling
-  - Spectral Uplifting
+  - "Spectral Reconstruction"
+  - "Differentiable Rendering"
+  - "Uncertainty Quantification"
+  - "Null-Space Sampling"
+  - "Spectral Uplifting"
 links:
-  paper: https://doi.org/10.1145/3757377.3763918
-  project: https://graphics.cs.yale.edu/publications/spectral-reconstruction-uncertainty-quantification-differentiable-rendering-and-null
+  paper: "https://doi.org/10.1145/3757377.3763918"
+  project: "https://graphics.cs.yale.edu/publications/spectral-reconstruction-uncertainty-quantification-differentiable-rendering-and-null"
 ---
 
 ## 一句话总结

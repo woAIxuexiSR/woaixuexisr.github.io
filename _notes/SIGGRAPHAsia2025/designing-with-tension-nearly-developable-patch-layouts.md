@@ -1,22 +1,21 @@
 ---
 title: "Designing with Tension: Nearly-Developable Patch Layouts"
 authors:
-  - Anna Maria Eggler
-  - Nico Pietroni
-  - Pengbin Tang
-  - Michal Piovarci
-  - Bernd Bickel
+  - "Anna Maria Eggler"
+  - "Nico Pietroni"
+  - "Pengbin Tang"
+  - "Michal Piovarci"
+  - "Bernd Bickel"
 category: "Geometry & Modeling"
 track: "Conference"
 source: "author-page"
-institution:
-  - ETH Zürich
+institution: "ETH Zürich"
 tags:
-  - Architectural Geometry
-  - Tensile Structures
-  - Developable Surface
-  - Computational Fabrication
-  - Patch Layout
+  - "Architectural Geometry"
+  - "Tensile Structures"
+  - "Developable Surface"
+  - "Computational Fabrication"
+  - "Patch Layout"
 links:
   paper: "https://doi.org/10.1145/3757377.3763941"
 ---

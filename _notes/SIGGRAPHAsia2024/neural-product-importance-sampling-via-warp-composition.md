@@ -1,23 +1,23 @@
 ---
 title: "Neural Product Importance Sampling via Warp Composition"
 authors:
-  - Joey Litalien
-  - Miloš Hašan
-  - Fujun Luan
-  - Krishna Mullia
-  - Iliyan Georgiev
-track: "Conference"
-source: arxiv
+  - "Joey Litalien"
+  - "Miloš Hašan"
+  - "Fujun Luan"
+  - "Krishna Mullia"
+  - "Iliyan Georgiev"
 category: "Rendering"
+track: "Conference"
+source: "arxiv"
 institution:
-  - McGill University
-  - Adobe Research
+  - "McGill University"
+  - "Adobe Research"
 tags:
-  - Monte Carlo
-  - Importance Sampling
-  - Normalizing Flow
-  - Environment Lighting
-  - Real-Time Rendering
+  - "Monte Carlo"
+  - "Importance Sampling"
+  - "Normalizing Flow"
+  - "Environment Lighting"
+  - "Real-Time Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687566"
 ---

@@ -1,20 +1,19 @@
 ---
 title: "Teamwork: Collaborative Diffusion with Low-rank Coordination and Adaptation"
 authors:
-  - Sam Sartor
-  - Pieter Peers
+  - "Sam Sartor"
+  - "Pieter Peers"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - College of William & Mary
+source: "arxiv"
+institution: "College of William & Mary"
 tags:
-  - Diffusion Model
-  - LoRA
-  - Channel Expansion
-  - Inverse Rendering
-  - SVBRDF Estimation
-  - Intrinsic Image Decomposition
+  - "Diffusion Model"
+  - "LoRA"
+  - "Channel Expansion"
+  - "Inverse Rendering"
+  - "SVBRDF Estimation"
+  - "Intrinsic Image Decomposition"
 links:
   paper: "https://doi.org/10.1145/3757377.3763870"
   code: "https://github.com/samsartor/teamwork"

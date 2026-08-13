@@ -1,28 +1,28 @@
 ---
 title: "BANG: Dividing 3D Assets via Generative Exploded Dynamics"
 authors:
-  - Longwen Zhang
-  - Qixuan Zhang
-  - Haoran Jiang
-  - Yinuo Bai
-  - Wei Yang
-  - Lan Xu
-  - Jingyi Yu
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: ShanghaiTech University
+  - "Longwen Zhang"
+  - "Qixuan Zhang"
+  - "Haoran Jiang"
+  - "Yinuo Bai"
+  - "Wei Yang"
+  - "Lan Xu"
+  - "Jingyi Yu"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "ShanghaiTech University"
 tags:
-  - 3D Generation
-  - Part-Level Decomposition
-  - Exploded View
-  - Latent Diffusion Model
-  - Generative Exploded Dynamics
-  - SDF
-  - 3D Printing
+  - "3D Generation"
+  - "Part-Level Decomposition"
+  - "Exploded View"
+  - "Latent Diffusion Model"
+  - "Generative Exploded Dynamics"
+  - "SDF"
+  - "3D Printing"
 links:
-  paper: https://doi.org/10.1145/3730840
-  project: https://arxiv.org/abs/2507.21493
+  paper: "https://doi.org/10.1145/3730840"
+  project: "https://arxiv.org/abs/2507.21493"
 ---
 
 ## 一句话总结

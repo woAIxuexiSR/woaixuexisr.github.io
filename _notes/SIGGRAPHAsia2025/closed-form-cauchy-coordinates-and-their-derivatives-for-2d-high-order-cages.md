@@ -1,23 +1,22 @@
 ---
 title: "Closed-form Cauchy Coordinates and Their Derivatives for 2D High-order Cages"
 authors:
-  - Shibo Liu
-  - Ligang Liu
-  - Xiao-Ming Fu
-category: Geometry & Modeling
-track: Conference
-source: arxiv
-institution:
-  - University of Science and Technology of China
+  - "Shibo Liu"
+  - "Ligang Liu"
+  - "Xiao-Ming Fu"
+category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - Cage Based Deformation
-  - Cauchy Coordinates
-  - Conformal Mapping
-  - High-order Cages
-  - Bezier Curves
-  - Residue Theorem
+  - "Cage Based Deformation"
+  - "Cauchy Coordinates"
+  - "Conformal Mapping"
+  - "High-order Cages"
+  - "Bezier Curves"
+  - "Residue Theorem"
 links:
-  paper: https://doi.org/10.1145/3757377.3763886
+  paper: "https://doi.org/10.1145/3757377.3763886"
 ---
 
 ## 一句话总结

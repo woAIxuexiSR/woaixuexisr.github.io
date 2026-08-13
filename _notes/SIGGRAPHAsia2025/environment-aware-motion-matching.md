@@ -1,24 +1,24 @@
 ---
 title: "Environment-aware Motion Matching"
 authors:
-  - Jose Luis Ponton
-  - Sheldon Andrews
-  - Carlos Andujar
-  - Nuria Pelechano
-category: Animation & Simulation
+  - "Jose Luis Ponton"
+  - "Sheldon Andrews"
+  - "Carlos Andujar"
+  - "Nuria Pelechano"
+category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
-institution: Universitat Politècnica de Catalunya
+source: "arxiv"
+institution: "Universitat Politècnica de Catalunya"
 tags:
-  - Character Animation
-  - Motion Matching
-  - Crowd Animation
-  - Collision Avoidance
-  - Real-Time Animation
+  - "Character Animation"
+  - "Motion Matching"
+  - "Crowd Animation"
+  - "Collision Avoidance"
+  - "Real-Time Animation"
 links:
-  paper: https://doi.org/10.1145/3763334
-  project: https://upc-virvig.github.io/Environment-aware-Motion-Matching
-  code: https://upc-virvig.github.io/Environment-aware-Motion-Matching
+  paper: "https://doi.org/10.1145/3763334"
+  project: "https://upc-virvig.github.io/Environment-aware-Motion-Matching"
+  code: "https://upc-virvig.github.io/Environment-aware-Motion-Matching"
 ---
 
 ## 一句话总结

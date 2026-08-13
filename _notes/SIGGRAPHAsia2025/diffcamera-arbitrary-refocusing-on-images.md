@@ -1,23 +1,23 @@
 ---
 title: "DiffCamera: Arbitrary Refocusing on Images"
 authors:
-  - Yiyang Wang
-  - Xi Chen
-  - Xiaogang Xu
-  - Yu Liu
-  - Hengshuang Zhao
-category: Image & Video
+  - "Yiyang Wang"
+  - "Xi Chen"
+  - "Xiaogang Xu"
+  - "Yu Liu"
+  - "Hengshuang Zhao"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: The University of Hong Kong
+source: "arxiv"
+institution: "The University of Hong Kong"
 tags:
-  - Image Editing
-  - Depth Of Field
-  - Diffusion Transformer
-  - Bokeh
-  - Rectified Flow
+  - "Image Editing"
+  - "Depth Of Field"
+  - "Diffusion Transformer"
+  - "Bokeh"
+  - "Rectified Flow"
 links:
-  paper: https://doi.org/10.1145/3757377.3763827
+  paper: "https://doi.org/10.1145/3757377.3763827"
 ---
 
 ## 一句话总结

@@ -1,26 +1,26 @@
 ---
 title: "End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model"
 authors:
-  - Xinge Yang
-  - Matheus Souza
-  - Kunyi Wang
-  - Praneeth Chakravarthula
-  - Qiang Fu
-  - Wolfgang Heidrich
-track: "Conference"
-source: author-page
+  - "Xinge Yang"
+  - "Matheus Souza"
+  - "Kunyi Wang"
+  - "Praneeth Chakravarthula"
+  - "Qiang Fu"
+  - "Wolfgang Heidrich"
 category: "Reconstruction"
+track: "Conference"
+source: "author-page"
 institution:
-  - KAUST
-  - UBC
-  - UNC
+  - "KAUST"
+  - "UBC"
+  - "UNC"
 tags:
-  - Computational Imaging
-  - End-to-End Optics Design
-  - Diffractive Optical Element
-  - Differentiable Ray Tracing
-  - Wave Optics
-  - Aberration Correction
+  - "Computational Imaging"
+  - "End-to-End Optics Design"
+  - "Diffractive Optical Element"
+  - "Differentiable Ray Tracing"
+  - "Wave Optics"
+  - "Aberration Correction"
 links:
   paper: "https://doi.org/10.1145/3680528.3687640"
 ---

@@ -1,22 +1,21 @@
 ---
 title: "ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents"
 authors:
-  - Honghua Chen
-  - Yushi Lan
-  - Yongwei Chen
-  - Xingang Pan
+  - "Honghua Chen"
+  - "Yushi Lan"
+  - "Yongwei Chen"
+  - "Xingang Pan"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - Nanyang Technological University
+source: "arxiv"
+institution: "Nanyang Technological University"
 tags:
-  - Articulated 3D Object
-  - Latent Diffusion Model
-  - 3D Gaussian Splatting
-  - Structured Latents
-  - Generative Model
-  - Part Articulation
+  - "Articulated 3D Object"
+  - "Latent Diffusion Model"
+  - "3D Gaussian Splatting"
+  - "Structured Latents"
+  - "Generative Model"
+  - "Part Articulation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763922"
   project: "https://chenhonghua.github.io/MyProjects/ArtiLatent/"

@@ -1,20 +1,19 @@
 ---
 title: "Neural Differential Appearance Equations"
 authors:
-  - Chen Liu
-  - Tobias Ritschel
-track: "Journal"
-source: arxiv
+  - "Chen Liu"
+  - "Tobias Ritschel"
 category: "Neural & Generative"
-institution:
-  - University College London
+track: "Journal"
+source: "arxiv"
+institution: "University College London"
 tags:
-  - Dynamic Texture
-  - Material Appearance
-  - Neural ODE
-  - SVBRDF
-  - Differentiable Rendering
-  - Generative Model
+  - "Dynamic Texture"
+  - "Material Appearance"
+  - "Neural ODE"
+  - "SVBRDF"
+  - "Differentiable Rendering"
+  - "Generative Model"
 links:
   paper: "https://doi.org/10.1145/3687900"
 ---

@@ -1,24 +1,24 @@
 ---
 title: "Predicting Fabric Appearance Through Thread Scattering and Inversion"
 authors:
-  - Mengqi (Mandy) Xia
-  - Zhaoyang Zhang
-  - Sumit Chaturvedi
-  - Yutong Yi
-  - Rundong Wu
-  - Holly E. Rushmeier
-  - Julie Dorsey
-category: Rendering
-track: Journal
+  - "Mengqi (Mandy) Xia"
+  - "Zhaoyang Zhang"
+  - "Sumit Chaturvedi"
+  - "Yutong Yi"
+  - "Rundong Wu"
+  - "Holly E. Rushmeier"
+  - "Julie Dorsey"
+category: "Rendering"
+track: "Journal"
 source: "author-page"
-institution: Yale University
+institution: "Yale University"
 tags:
-  - Cloth Rendering
-  - Fiber Scattering
-  - Differentiable Rendering
-  - Appearance Modeling
-  - Inverse Rendering
-  - Woven Fabric
+  - "Cloth Rendering"
+  - "Fiber Scattering"
+  - "Differentiable Rendering"
+  - "Appearance Modeling"
+  - "Inverse Rendering"
+  - "Woven Fabric"
 links:
   paper: "https://doi.org/10.1145/3731178"
   project: "https://graphics.cs.yale.edu/publications/predicting-fabric-appearance-through-thread-scattering-and-inversion"

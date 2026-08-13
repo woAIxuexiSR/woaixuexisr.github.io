@@ -1,22 +1,22 @@
 ---
 title: "Improving Curl Noise"
 authors:
-  - J. Andreas Bærentzen
-  - Jonàs Martínez
-  - Jeppe Revall Frisvad
-  - Sylvain Lefebvre
-category: Animation & Simulation
+  - "J. Andreas Bærentzen"
+  - "Jonàs Martínez"
+  - "Jeppe Revall Frisvad"
+  - "Sylvain Lefebvre"
+category: "Animation & Simulation"
 track: "Conference"
-source: author-page
-institution: Technical University of Denmark
+source: "author-page"
+institution: "Technical University of Denmark"
 tags:
-  - Curl Noise
-  - Divergence-Free Fields
-  - Procedural Noise
-  - Vector Fields
-  - Blue Noise Sampling
+  - "Curl Noise"
+  - "Divergence-Free Fields"
+  - "Procedural Noise"
+  - "Vector Fields"
+  - "Blue Noise Sampling"
 links:
-  paper: https://doi.org/10.1145/3757377.3763980
+  paper: "https://doi.org/10.1145/3757377.3763980"
 ---
 
 ## 一句话总结

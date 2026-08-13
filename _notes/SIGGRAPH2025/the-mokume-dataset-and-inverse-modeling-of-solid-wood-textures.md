@@ -1,32 +1,31 @@
 ---
 title: "The Mokume Dataset and Inverse Modeling of Solid Wood Textures"
 authors:
-  - Maria Larsson
-  - Hodaka Yamaguchi
-  - Ehsan Pajouheshgar
-  - I-Chao Shen
-  - Kenji Tojo
-  - Chia-Ming Chang
-  - Lars Hansson
-  - Olof Broman
-  - Takashi Ijiri
-  - Ariel Shamir
-  - Wenzel Jakob
-  - Takeo Igarashi
+  - "Maria Larsson"
+  - "Hodaka Yamaguchi"
+  - "Ehsan Pajouheshgar"
+  - "I-Chao Shen"
+  - "Kenji Tojo"
+  - "Chia-Ming Chang"
+  - "Lars Hansson"
+  - "Olof Broman"
+  - "Takashi Ijiri"
+  - "Ariel Shamir"
+  - "Wenzel Jakob"
+  - "Takeo Igarashi"
 category: "Reconstruction"
 track: "Journal"
-source: ACM
-institution:
-  - The University of Tokyo
+source: "ACM"
+institution: "The University of Tokyo"
 tags:
-  - Wood Texture
-  - Inverse Modeling
-  - Procedural Texture
-  - Neural Cellular Automata
-  - Appearance Modeling
-  - Volumetric Texture
-  - Solid Texturing
-  - Dataset
+  - "Wood Texture"
+  - "Inverse Modeling"
+  - "Procedural Texture"
+  - "Neural Cellular Automata"
+  - "Appearance Modeling"
+  - "Volumetric Texture"
+  - "Solid Texturing"
+  - "Dataset"
 links:
   paper: "https://doi.org/10.1145/3730874"
   project: "https://mokumeproject.github.io/"

@@ -1,33 +1,33 @@
 ---
 title: "Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Volumetric Performance Captures"
 authors:
-  - Yuancheng Xu
-  - Wenqi Xian
-  - Li Ma
-  - Julien Philip
-  - Ahmet Levent Taşel
-  - Yiwei Zhao
-  - Ryan Burgert
-  - Mingming He
-  - Oliver Hermann
-  - Oliver Pilarski
-  - Rahul Garg
-  - Paul Debevec
-  - Ning Yu
-category: Neural & Generative
+  - "Yuancheng Xu"
+  - "Wenqi Xian"
+  - "Li Ma"
+  - "Julien Philip"
+  - "Ahmet Levent Taşel"
+  - "Yiwei Zhao"
+  - "Ryan Burgert"
+  - "Mingming He"
+  - "Oliver Hermann"
+  - "Oliver Pilarski"
+  - "Rahul Garg"
+  - "Paul Debevec"
+  - "Ning Yu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Eyeline Labs
+source: "arxiv"
+institution: "Eyeline Labs"
 tags:
-  - Video Generation
-  - Camera Control
-  - Diffusion Model
-  - Identity Preservation
-  - 4D Gaussian Splatting
-  - Virtual Production
+  - "Video Generation"
+  - "Camera Control"
+  - "Diffusion Model"
+  - "Identity Preservation"
+  - "4D Gaussian Splatting"
+  - "Virtual Production"
 links:
-  paper: https://doi.org/10.1145/3757377.3763888
-  project: https://eyeline-labs.github.io/Virtually-Being/
+  paper: "https://doi.org/10.1145/3757377.3763888"
+  project: "https://eyeline-labs.github.io/Virtually-Being/"
 ---
 
 ## 一句话总结

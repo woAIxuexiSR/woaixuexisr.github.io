@@ -1,31 +1,31 @@
 ---
 title: "Topology-Aware Optimization of Gaussian Primitives for Human-Centric Volumetric Videos"
 authors:
-  - Yuheng Jiang
-  - Chengcheng Guo
-  - Yize Wu
-  - Yu Hong
-  - Shengkun Zhu
-  - Zhehao Shen
-  - Yingliang Zhang
-  - Shaohui Jiao
-  - Zhuo Su
-  - Lan Xu
-  - Marc Habermann
-  - Christian Theobalt
-track: "Conference"
-source: arxiv
+  - "Yuheng Jiang"
+  - "Chengcheng Guo"
+  - "Yize Wu"
+  - "Yu Hong"
+  - "Shengkun Zhu"
+  - "Zhehao Shen"
+  - "Yingliang Zhang"
+  - "Shaohui Jiao"
+  - "Zhuo Su"
+  - "Lan Xu"
+  - "Marc Habermann"
+  - "Christian Theobalt"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - ShanghaiTech University
-  - Max Planck Institute for Informatics
+  - "ShanghaiTech University"
+  - "Max Planck Institute for Informatics"
 tags:
-  - Volumetric Video
-  - 3D Gaussian Splatting
-  - Human Performance Capture
-  - Dynamic Reconstruction
-  - Topology Change
-  - Compression
+  - "Volumetric Video"
+  - "3D Gaussian Splatting"
+  - "Human Performance Capture"
+  - "Dynamic Reconstruction"
+  - "Topology Change"
+  - "Compression"
 links:
   paper: "https://doi.org/10.1145/3757377.3763975"
   project: "https://guochch.github.io/TaoGS/"

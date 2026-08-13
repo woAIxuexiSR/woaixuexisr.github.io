@@ -1,28 +1,28 @@
 ---
 title: "Correct your balance heuristic: Optimizing balance-style multiple importance sampling weights"
 authors:
-  - Qingqin Hua
-  - Pascal Grittmann
-  - Philipp Slusallek
-category: Rendering
-track: Journal
-source: author-page
-institution: Saarland University
+  - "Qingqin Hua"
+  - "Pascal Grittmann"
+  - "Philipp Slusallek"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "Saarland University"
 tags:
-  - Multiple Importance Sampling
-  - MIS
-  - Monte Carlo Rendering
-  - Ray Tracing
-  - Global Illumination
-  - Balance Heuristic
-  - Variance Reduction
-  - Bidirectional Path Tracing
-  - VCM
-  - Resampled Importance Sampling
+  - "Multiple Importance Sampling"
+  - "MIS"
+  - "Monte Carlo Rendering"
+  - "Ray Tracing"
+  - "Global Illumination"
+  - "Balance Heuristic"
+  - "Variance Reduction"
+  - "Bidirectional Path Tracing"
+  - "VCM"
+  - "Resampled Importance Sampling"
 links:
-  paper: https://doi.org/10.1145/3730819
-  project: https://qingqin-hua.com/publication/2025-correct-balance/
-  code: https://github.com/qingqhua/Correct-your-balance-heuristic
+  paper: "https://doi.org/10.1145/3730819"
+  project: "https://qingqin-hua.com/publication/2025-correct-balance/"
+  code: "https://github.com/qingqhua/Correct-your-balance-heuristic"
 ---
 
 ## 一句话总结

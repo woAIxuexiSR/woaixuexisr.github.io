@@ -1,28 +1,28 @@
 ---
 title: "Kinetic Free-Surface Flows and Foams with Sharp Interfaces"
 authors:
-  - Haoxiang Wang
-  - Kui Wu
-  - Hui Qiao
-  - Mathieu Desbrun
-  - Wei Li
-category: Animation & Simulation
+  - "Haoxiang Wang"
+  - "Kui Wu"
+  - "Hui Qiao"
+  - "Mathieu Desbrun"
+  - "Wei Li"
+category: "Animation & Simulation"
 track: "Journal"
-source: author-page
-institution: Tsinghua University / Lightspeed / Inria–Ecole Polytechnique / Shanghai Jiao Tong University
+source: "author-page"
+institution: "Tsinghua University / Lightspeed / Inria–Ecole Polytechnique / Shanghai Jiao Tong University"
 tags:
-  - Lattice Boltzmann Method
-  - Free Surface Flow
-  - Fluid Simulation
-  - Foam
-  - Bubbles
-  - Two Phase Flow
-  - Fluid Solid Coupling
-  - Turbulence
+  - "Lattice Boltzmann Method"
+  - "Free Surface Flow"
+  - "Fluid Simulation"
+  - "Foam"
+  - "Bubbles"
+  - "Two Phase Flow"
+  - "Fluid Solid Coupling"
+  - "Turbulence"
 links:
-  paper: https://doi.org/10.1145/3763288
-  project: https://lwkobe.github.io/
-  code: https://github.com/qingxu-thu/Home-FSLBM
+  paper: "https://doi.org/10.1145/3763288"
+  project: "https://lwkobe.github.io/"
+  code: "https://github.com/qingxu-thu/Home-FSLBM"
 ---
 
 ## 一句话总结

@@ -5,7 +5,7 @@ authors:
   - "Xiaohong Jia"
 category: "Geometry & Modeling"
 track: "Journal"
-source: ACM
+source: "ACM"
 institution: "Chinese Academy of Sciences"
 tags:
   - "NURBS Surface"

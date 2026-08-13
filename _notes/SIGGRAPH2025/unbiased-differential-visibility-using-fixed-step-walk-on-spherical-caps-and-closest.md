@@ -1,29 +1,29 @@
 ---
 title: "Unbiased Differential Visibility Using Fixed-Step Walk-on-Spherical-Caps And Closest Silhouettes"
 authors:
-  - Lifan Wu
-  - Nathan Morrical
-  - Sai Praveen Bangaru
-  - Rohan Sawhney
-  - Shuang Zhao
-  - Chris Wyman
-  - Ravi Ramamoorthi
-  - Aaron E. Lefohn
-category: Rendering
-track: Journal
-source: author-page
-institution: NVIDIA
+  - "Lifan Wu"
+  - "Nathan Morrical"
+  - "Sai Praveen Bangaru"
+  - "Rohan Sawhney"
+  - "Shuang Zhao"
+  - "Chris Wyman"
+  - "Ravi Ramamoorthi"
+  - "Aaron E. Lefohn"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "NVIDIA"
 tags:
-  - Differentiable Rendering
-  - Differential Visibility
-  - Warped-Area Reparameterization
-  - Walk On Spheres
-  - Monte Carlo PDE Solver
-  - Closest Silhouette Query
+  - "Differentiable Rendering"
+  - "Differential Visibility"
+  - "Warped-Area Reparameterization"
+  - "Walk On Spheres"
+  - "Monte Carlo PDE Solver"
+  - "Closest Silhouette Query"
 links:
-  paper: https://doi.org/10.1145/3731174
-  project: https://research.nvidia.com/labs/prl/publication/wu2025diffvisibility/
-  code: https://research.nvidia.com/labs/prl/wu2025diffvisibility/diffvisibility.pdf
+  paper: "https://doi.org/10.1145/3731174"
+  project: "https://research.nvidia.com/labs/prl/publication/wu2025diffvisibility/"
+  code: "https://research.nvidia.com/labs/prl/wu2025diffvisibility/diffvisibility.pdf"
 ---
 
 ## 一句话总结

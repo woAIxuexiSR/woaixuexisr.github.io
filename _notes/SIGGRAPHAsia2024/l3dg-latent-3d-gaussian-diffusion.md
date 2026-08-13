@@ -1,24 +1,24 @@
 ---
 title: "L3DG: Latent 3D Gaussian Diffusion"
 authors:
-  - Barbara Roessle
-  - Norman Müller
-  - Lorenzo Porzi
-  - Samuel Rota Bulò
-  - Peter Kontschieder
-  - Angela Dai
-  - Matthias Nießner
-category: Neural & Generative
+  - "Barbara Roessle"
+  - "Norman Müller"
+  - "Lorenzo Porzi"
+  - "Samuel Rota Bulò"
+  - "Peter Kontschieder"
+  - "Angela Dai"
+  - "Matthias Nießner"
+category: "Neural & Generative"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - Technical University of Munich
-  - Meta Reality Labs Zurich
+  - "Technical University of Munich"
+  - "Meta Reality Labs Zurich"
 tags:
-  - 3D Gaussian Splatting
-  - Latent Diffusion
-  - VQ-VAE
-  - Generative 3D
+  - "3D Gaussian Splatting"
+  - "Latent Diffusion"
+  - "VQ-VAE"
+  - "Generative 3D"
 links:
   paper: "https://doi.org/10.1145/3680528.3687699"
 ---

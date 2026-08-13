@@ -1,25 +1,25 @@
 ---
 title: "Tiny is not small enough: High quality, low-resource facial animation models through hybrid knowledge distillation"
 authors:
-  - Zhen Han
-  - Mattias Teye
-  - Derek Yadgaroff
-  - Judith Bütepage
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: Electronic Arts
+  - "Zhen Han"
+  - "Mattias Teye"
+  - "Derek Yadgaroff"
+  - "Judith Bütepage"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "Electronic Arts"
 tags:
-  - Facial Animation
-  - Speech-Driven Animation
-  - Knowledge Distillation
-  - Pseudo Labeling
-  - Real-Time Animation
-  - On-Device Inference
-  - Lip Sync
+  - "Facial Animation"
+  - "Speech-Driven Animation"
+  - "Knowledge Distillation"
+  - "Pseudo Labeling"
+  - "Real-Time Animation"
+  - "On-Device Inference"
+  - "Lip Sync"
 links:
-  paper: https://doi.org/10.1145/3730929
-  project: https://electronicarts.github.io/tiny-voice2face/
+  paper: "https://doi.org/10.1145/3730929"
+  project: "https://electronicarts.github.io/tiny-voice2face/"
 ---
 
 ## 一句话总结

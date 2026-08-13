@@ -1,20 +1,20 @@
 ---
 title: "HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling"
 authors:
-  - Tobias Vontobel
-  - Seyedmorteza Sadat
-  - Farnood Salehi
-  - Romann Weber
-category: Neural & Generative
+  - "Tobias Vontobel"
+  - "Seyedmorteza Sadat"
+  - "Farnood Salehi"
+  - "Romann Weber"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: ETH Zurich
+source: "arxiv"
+institution: "ETH Zurich"
 tags:
-  - Diffusion Model
-  - High-Resolution Image Generation
-  - Wavelet Transform
-  - Training-Free
-  - Image Synthesis
+  - "Diffusion Model"
+  - "High-Resolution Image Generation"
+  - "Wavelet Transform"
+  - "Training-Free"
+  - "Image Synthesis"
 links:
   paper: "https://doi.org/10.1145/3757377.3763979"
 ---

@@ -1,21 +1,21 @@
 ---
 title: "Q3T Prisms: A Linear-Quadratic Solid Shell Element for Elastoplastic Surfaces"
 authors:
-  - Juan Sebastian Montes Maestre
-  - Stelian Coros
-  - Bernhard Thomaszewski
-track: "Conference"
-source: author-page
+  - "Juan Sebastian Montes Maestre"
+  - "Stelian Coros"
+  - "Bernhard Thomaszewski"
 category: "Animation & Simulation"
+track: "Conference"
+source: "author-page"
 institution:
-  - ETH Zürich
-  - Université de Montréal
+  - "ETH Zürich"
+  - "Université de Montréal"
 tags:
-  - Physical Simulation
-  - Finite Element Method
-  - Shell Element
-  - Elastoplasticity
-  - Thin Shell Deformation
+  - "Physical Simulation"
+  - "Finite Element Method"
+  - "Shell Element"
+  - "Elastoplasticity"
+  - "Thin Shell Deformation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687697"
 ---

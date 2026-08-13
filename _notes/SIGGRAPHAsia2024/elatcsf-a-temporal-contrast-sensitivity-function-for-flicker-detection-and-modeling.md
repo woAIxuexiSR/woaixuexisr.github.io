@@ -1,21 +1,21 @@
 ---
 title: "elaTCSF: A Temporal Contrast Sensitivity Function for Flicker Detection and Modeling Variable Refresh Rate Flicker"
 authors:
-  - Yancheng Cai
-  - Ali Bozorgian
-  - Maliha Ashraf
-  - Robert Wanat
-  - Rafal K. Mantiuk
-track: "Conference"
-source: author-page
+  - "Yancheng Cai"
+  - "Ali Bozorgian"
+  - "Maliha Ashraf"
+  - "Robert Wanat"
+  - "Rafal K. Mantiuk"
 category: "HCI & XR"
+track: "Conference"
+source: "author-page"
 institution: "University of Cambridge"
 tags:
-  - Flicker Detection
-  - Contrast Sensitivity
-  - Variable Refresh Rate
-  - Visual Perception
-  - Display
+  - "Flicker Detection"
+  - "Contrast Sensitivity"
+  - "Variable Refresh Rate"
+  - "Visual Perception"
+  - "Display"
 links:
   paper: "https://doi.org/10.1145/3680528.3687586"
 ---

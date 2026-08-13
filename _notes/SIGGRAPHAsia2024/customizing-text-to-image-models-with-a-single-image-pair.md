@@ -1,23 +1,23 @@
 ---
 title: "Customizing Text-to-Image Models with a Single Image Pair"
 authors:
-  - Maxwell Jones
-  - Sheng-Yu Wang
-  - Nupur Kumari
-  - David Bau
-  - Jun-Yan Zhu
-category: Neural & Generative
+  - "Maxwell Jones"
+  - "Sheng-Yu Wang"
+  - "Nupur Kumari"
+  - "David Bau"
+  - "Jun-Yan Zhu"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Carnegie Mellon University
-  - Northeastern University
+  - "Carnegie Mellon University"
+  - "Northeastern University"
 tags:
-  - Text-to-Image
-  - Diffusion Model
-  - Style Customization
-  - LoRA
-  - Style-Content Disentanglement
+  - "Text-to-Image"
+  - "Diffusion Model"
+  - "Style Customization"
+  - "LoRA"
+  - "Style-Content Disentanglement"
 links:
   paper: "https://doi.org/10.1145/3680528.3687642"
 ---

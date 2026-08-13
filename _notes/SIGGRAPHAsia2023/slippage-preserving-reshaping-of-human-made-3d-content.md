@@ -10,8 +10,7 @@ authors:
 category: "Geometry & Modeling"
 track: "Journal"
 source: "ACM"
-institution:
-  - "University of British Columbia"
+institution: "University of British Columbia"
 tags:
   - "Shape Editing"
   - "Slippage Preservation"

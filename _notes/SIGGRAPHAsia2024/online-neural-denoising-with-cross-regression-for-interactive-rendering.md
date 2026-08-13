@@ -1,23 +1,23 @@
 ---
 title: "Online Neural Denoising with Cross-Regression for Interactive Rendering"
 authors:
-  - Hajin Choi
-  - Seokpyo Hong
-  - Inwoo Ha
-  - Nahyup Kang
-  - Bochang Moon
-track: "Journal"
-source: author-page
+  - "Hajin Choi"
+  - "Seokpyo Hong"
+  - "Inwoo Ha"
+  - "Nahyup Kang"
+  - "Bochang Moon"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - Gwangju Institute of Science and Technology
-  - Samsung Advanced Institute of Technology
+  - "Gwangju Institute of Science and Technology"
+  - "Samsung Advanced Institute of Technology"
 tags:
-  - Monte Carlo Denoising
-  - Interactive Rendering
-  - Online Learning
-  - Cross Regression
-  - Self-Supervised Learning
+  - "Monte Carlo Denoising"
+  - "Interactive Rendering"
+  - "Online Learning"
+  - "Cross Regression"
+  - "Self-Supervised Learning"
 links:
   paper: "https://doi.org/10.1145/3687938"
   code: "https://github.com/CGLab-GIST/cross-denoiser"

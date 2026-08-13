@@ -1,24 +1,23 @@
 ---
 title: "Closed-Form Construction of Voronoi Diagrams with Star-Shaped Metrics"
 authors:
-  - Haoyang Zhou
-  - Logan Numerow
-  - Stelian Coros
-  - Bernhard Thomaszewski
-track: "Journal"
-source: author-page
+  - "Haoyang Zhou"
+  - "Logan Numerow"
+  - "Stelian Coros"
+  - "Bernhard Thomaszewski"
 category: "Geometry & Modeling"
-institution:
-  - ETH Zürich
+track: "Journal"
+source: "author-page"
+institution: "ETH Zürich"
 tags:
-  - Voronoi Diagram
-  - Star-Shaped Metric
-  - Tiling
-  - Pattern Generation
-  - Differentiable Geometry
-  - Mechanical Metamaterial
-  - Cellular Pattern
-  - Surface Patterning
+  - "Voronoi Diagram"
+  - "Star-Shaped Metric"
+  - "Tiling"
+  - "Pattern Generation"
+  - "Differentiable Geometry"
+  - "Mechanical Metamaterial"
+  - "Cellular Pattern"
+  - "Surface Patterning"
 links:
   paper: "https://doi.org/10.1145/3763296"
   project: "https://thomaszewski.com/projects/closed-form-construction-of-voronoi-diagrams-with-star-shape/index.html"

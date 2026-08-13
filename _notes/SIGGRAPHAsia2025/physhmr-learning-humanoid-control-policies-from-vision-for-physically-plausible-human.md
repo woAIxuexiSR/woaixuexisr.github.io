@@ -1,23 +1,23 @@
 ---
 title: "PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction"
 authors:
-  - Qiao Feng
-  - Yiming Huang
-  - Yufu Wang
-  - Jiatao Gu
-  - Lingjie Liu
-category: Reconstruction
+  - "Qiao Feng"
+  - "Yiming Huang"
+  - "Yufu Wang"
+  - "Jiatao Gu"
+  - "Lingjie Liu"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: University of Pennsylvania
+source: "arxiv"
+institution: "University of Pennsylvania"
 tags:
-  - Human Motion Reconstruction
-  - Humanoid Control
-  - Reinforcement Learning
-  - Physics Simulation
-  - Monocular Video
+  - "Human Motion Reconstruction"
+  - "Humanoid Control"
+  - "Reinforcement Learning"
+  - "Physics Simulation"
+  - "Monocular Video"
 links:
-  paper: https://doi.org/10.1145/3757377.3763951
+  paper: "https://doi.org/10.1145/3757377.3763951"
 ---
 
 ## 一句话总结

@@ -10,8 +10,7 @@ authors:
 category: "Rendering"
 track: "Journal"
 source: "ACM"
-institution:
-  - "Zhejiang University"
+institution: "Zhejiang University"
 tags:
   - "Monte Carlo Rendering"
   - "Neural Denoising"

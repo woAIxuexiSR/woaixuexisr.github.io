@@ -1,29 +1,29 @@
 ---
 title: "Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics"
 authors:
-  - Xuan Li
-  - Chang Yu
-  - Wenxin Du
-  - Ying Jiang
-  - Tianyi Xie
-  - Yunuo Chen
-  - Yin Yang
-  - Chenfanfu Jiang
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: University of California, Los Angeles
+  - "Xuan Li"
+  - "Chang Yu"
+  - "Wenxin Du"
+  - "Ying Jiang"
+  - "Tianyi Xie"
+  - "Yunuo Chen"
+  - "Yin Yang"
+  - "Chenfanfu Jiang"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "University of California, Los Angeles"
 tags:
-  - Garment Reconstruction
-  - Sewing Pattern
-  - Differentiable Simulation
-  - Single Image to 3D
-  - Multi-View Diffusion
-  - CIPC
-  - Cloth Simulation
+  - "Garment Reconstruction"
+  - "Sewing Pattern"
+  - "Differentiable Simulation"
+  - "Single Image to 3D"
+  - "Multi-View Diffusion"
+  - "CIPC"
+  - "Cloth Simulation"
 links:
-  paper: https://doi.org/10.1145/3731177
-  project: https://dress-1-to-3.github.io/
+  paper: "https://doi.org/10.1145/3731177"
+  project: "https://dress-1-to-3.github.io/"
 ---
 
 ## 一句话总结

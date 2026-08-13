@@ -1,24 +1,24 @@
 ---
 title: "FaçAID: A Transformer Model for Neuro-Symbolic Facade Reconstruction"
 authors:
-  - Aleksander Plocharski
-  - Jan Swidzinski
-  - Joanna Porter-Sobieraj
-  - Przemyslaw Musialski
-track: "Conference"
-source: arxiv
+  - "Aleksander Plocharski"
+  - "Jan Swidzinski"
+  - "Joanna Porter-Sobieraj"
+  - "Przemyslaw Musialski"
 category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Warsaw University of Technology
-  - IDEAS NCBR
-  - New Jersey Institute of Technology
+  - "Warsaw University of Technology"
+  - "IDEAS NCBR"
+  - "New Jersey Institute of Technology"
 tags:
-  - Neuro Symbolic
-  - Procedural Modeling
-  - Facade Reconstruction
-  - Transformer
-  - Split Grammar
-  - Inverse Procedural Modeling
+  - "Neuro Symbolic"
+  - "Procedural Modeling"
+  - "Facade Reconstruction"
+  - "Transformer"
+  - "Split Grammar"
+  - "Inverse Procedural Modeling"
 links:
   paper: "https://doi.org/10.1145/3680528.3687657"
 ---

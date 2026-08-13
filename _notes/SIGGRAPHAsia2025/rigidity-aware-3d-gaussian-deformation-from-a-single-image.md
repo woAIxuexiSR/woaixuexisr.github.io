@@ -1,21 +1,20 @@
 ---
 title: "Rigidity-Aware 3D Gaussian Deformation from a Single Image"
 authors:
-  - Jinhyeok Kim
-  - Jaehun Bang
-  - Seunghyun Seo
-  - Kyungdon Joo
+  - "Jinhyeok Kim"
+  - "Jaehun Bang"
+  - "Seunghyun Seo"
+  - "Kyungdon Joo"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-category: Reconstruction
-institution:
-  - UNIST
+source: "arxiv"
+institution: "UNIST"
 tags:
-  - 3D Gaussian Splatting
-  - Deformation
-  - Single Image
-  - Dynamic Reconstruction
-  - Rigid Segmentation
+  - "3D Gaussian Splatting"
+  - "Deformation"
+  - "Single Image"
+  - "Dynamic Reconstruction"
+  - "Rigid Segmentation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763937"
   project: "https://vision3d-lab.github.io/deformsplat"

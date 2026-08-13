@@ -12,8 +12,7 @@ authors:
 category: "Rendering"
 track: "Journal"
 source: "ACM"
-institution:
-  - "Google"
+institution: "Google"
 tags:
   - "Inverse Rendering"
   - "Translucent Appearance"

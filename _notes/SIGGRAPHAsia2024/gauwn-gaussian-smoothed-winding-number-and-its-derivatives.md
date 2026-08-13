@@ -1,22 +1,22 @@
 ---
 title: "GauWN: Gaussian-smoothed Winding Number and its Derivatives"
 authors:
-  - Haoran Sun
-  - Jingkai Wang
-  - Hujun Bao
-  - Jin Huang
-track: "Conference"
-source: author-page
+  - "Haoran Sun"
+  - "Jingkai Wang"
+  - "Hujun Bao"
+  - "Jin Huang"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "author-page"
 institution:
-  - Zhejiang University
-  - Shanghai Jiao Tong University
+  - "Zhejiang University"
+  - "Shanghai Jiao Tong University"
 tags:
-  - Winding Number
-  - Geometry Processing
-  - Differentiable
-  - Curve Modeling
-  - Implicit Field
+  - "Winding Number"
+  - "Geometry Processing"
+  - "Differentiable"
+  - "Curve Modeling"
+  - "Implicit Field"
 links:
   paper: "https://doi.org/10.1145/3680528.3687569"
 ---

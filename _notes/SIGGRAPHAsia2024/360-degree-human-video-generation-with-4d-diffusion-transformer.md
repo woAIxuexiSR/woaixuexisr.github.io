@@ -1,22 +1,21 @@
 ---
 title: "360-degree Human Video Generation with 4D Diffusion Transformer"
 authors:
-  - Ruizhi Shao
-  - Youxin Pang
-  - Zerong Zheng
-  - Jingxiang Sun
-  - Yebin Liu
-track: "Journal"
-source: arxiv
+  - "Ruizhi Shao"
+  - "Youxin Pang"
+  - "Zerong Zheng"
+  - "Jingxiang Sun"
+  - "Yebin Liu"
 category: "Neural & Generative"
-institution:
-  - Tsinghua University
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Human Video Generation
-  - Diffusion Transformer
-  - 4D Generation
-  - Multi View Consistency
-  - SMPL
+  - "Human Video Generation"
+  - "Diffusion Transformer"
+  - "4D Generation"
+  - "Multi View Consistency"
+  - "SMPL"
 links:
   paper: "https://doi.org/10.1145/3687980"
 ---

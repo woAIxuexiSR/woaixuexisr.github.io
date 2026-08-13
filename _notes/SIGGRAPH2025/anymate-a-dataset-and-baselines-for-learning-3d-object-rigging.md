@@ -1,24 +1,24 @@
 ---
 title: "Anymate: A Dataset and Baselines for Learning 3D Object Rigging"
 authors:
-  - Yufan Deng
-  - Yuhao Zhang
-  - Chen Geng
-  - Shangzhe Wu
-  - Jiajun Wu
+  - "Yufan Deng"
+  - "Yuhao Zhang"
+  - "Chen Geng"
+  - "Shangzhe Wu"
+  - "Jiajun Wu"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Stanford University
-  - University of Cambridge
+  - "Stanford University"
+  - "University of Cambridge"
 tags:
-  - Auto Rigging
-  - 3D Animation
-  - Skinning Weight
-  - Skeleton Prediction
-  - Point Cloud
-  - Transformer
+  - "Auto Rigging"
+  - "3D Animation"
+  - "Skinning Weight"
+  - "Skeleton Prediction"
+  - "Point Cloud"
+  - "Transformer"
 links:
   paper: "https://doi.org/10.1145/3721238.3730743"
   project: "https://anymate3d.github.io/"

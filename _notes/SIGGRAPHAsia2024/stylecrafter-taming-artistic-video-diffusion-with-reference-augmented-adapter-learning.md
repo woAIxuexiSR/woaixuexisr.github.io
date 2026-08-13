@@ -1,28 +1,28 @@
 ---
 title: "StyleCrafter: Taming Artistic Video Diffusion with Reference-Augmented Adapter Learning"
 authors:
-  - Gongye Liu
-  - Menghan Xia
-  - Yong Zhang
-  - Haoxin Chen
-  - Jinbo Xing
-  - Yibo Wang
-  - Xintao Wang
-  - Ying Shan
-  - Yujiu Yang
-track: "Journal"
-source: author-page
+  - "Gongye Liu"
+  - "Menghan Xia"
+  - "Yong Zhang"
+  - "Haoxin Chen"
+  - "Jinbo Xing"
+  - "Yibo Wang"
+  - "Xintao Wang"
+  - "Ying Shan"
+  - "Yujiu Yang"
 category: "Neural & Generative"
+track: "Journal"
+source: "author-page"
 institution:
-  - Tsinghua University
-  - Tencent AI Lab
-  - The Chinese University of Hong Kong
+  - "Tsinghua University"
+  - "Tencent AI Lab"
+  - "The Chinese University of Hong Kong"
 tags:
-  - Diffusion Model
-  - Stylized Generation
-  - Text-to-Video
-  - Style Adapter
-  - Content-Style Disentanglement
+  - "Diffusion Model"
+  - "Stylized Generation"
+  - "Text-to-Video"
+  - "Style Adapter"
+  - "Content-Style Disentanglement"
 links:
   paper: "https://doi.org/10.1145/3687975"
   project: "https://gongyeliu.github.io/StyleCrafter.github.io/"

@@ -1,24 +1,24 @@
 ---
 title: "Cirrus: Adaptive Hybrid Particle-Grid Flow Maps on GPU"
 authors:
-  - Mengdi Wang
-  - Fan Feng
-  - Junlin Li
-  - Bo Zhu
-track: "Journal"
-source: author-page
+  - "Mengdi Wang"
+  - "Fan Feng"
+  - "Junlin Li"
+  - "Bo Zhu"
 category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
 institution:
-  - Georgia Institute of Technology
-  - Dartmouth College
+  - "Georgia Institute of Technology"
+  - "Dartmouth College"
 tags:
-  - Fluid Simulation
-  - Flow Map Method
-  - Adaptive Grid
-  - Octree
-  - Eulerian-Lagrangian Method
-  - GPU Simulation
-  - Impulse Fluid
+  - "Fluid Simulation"
+  - "Flow Map Method"
+  - "Adaptive Grid"
+  - "Octree"
+  - "Eulerian-Lagrangian Method"
+  - "GPU Simulation"
+  - "Impulse Fluid"
 links:
   paper: "https://doi.org/10.1145/3731190"
   project: "https://wang-mengdi.github.io/proj/25-cirrus/"

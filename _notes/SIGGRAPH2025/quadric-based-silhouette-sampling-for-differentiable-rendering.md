@@ -1,26 +1,26 @@
 ---
 title: "Quadric-Based Silhouette Sampling for Differentiable Rendering"
 authors:
-  - Mariia Soroka
-  - Christoph Peters
-  - Steve Marschner
-category: Rendering
-track: Journal
-source: author-page
-institution: Cornell University
+  - "Mariia Soroka"
+  - "Christoph Peters"
+  - "Steve Marschner"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "Cornell University"
 tags:
-  - Differentiable Rendering
-  - Inverse Rendering
-  - Edge Sampling
-  - Silhouette Detection
-  - Boundary Integral
-  - Importance Sampling
-  - Projective Geometry
-  - Dual Quadrics
-  - Monte Carlo
-  - Path Tracing
-  - BVH
-  - LTC
+  - "Differentiable Rendering"
+  - "Inverse Rendering"
+  - "Edge Sampling"
+  - "Silhouette Detection"
+  - "Boundary Integral"
+  - "Importance Sampling"
+  - "Projective Geometry"
+  - "Dual Quadrics"
+  - "Monte Carlo"
+  - "Path Tracing"
+  - "BVH"
+  - "LTC"
 links:
   paper: "https://doi.org/10.1145/3731146"
   project: "https://mariasoroka.github.io/papers/EdgeSampling.html"

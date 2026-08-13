@@ -1,30 +1,30 @@
 ---
 title: "High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation"
 authors:
-  - Jiahao Cui
-  - Yan Chen
-  - Mingwang Xu
-  - Hanlin Shang
-  - Yuxuan Chen
-  - Yun Zhan
-  - Zilong Dong
-  - Yao Yao
-  - Jingdong Wang
-  - Siyu Zhu
-category: Image & Video
+  - "Jiahao Cui"
+  - "Yan Chen"
+  - "Mingwang Xu"
+  - "Hanlin Shang"
+  - "Yuxuan Chen"
+  - "Yun Zhan"
+  - "Zilong Dong"
+  - "Yao Yao"
+  - "Jingdong Wang"
+  - "Siyu Zhu"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: Fudan University
+source: "arxiv"
+institution: "Fudan University"
 tags:
-  - Portrait Animation
-  - Direct Preference Optimization
-  - Diffusion Model
-  - Audio-Driven
-  - Video Generation
+  - "Portrait Animation"
+  - "Direct Preference Optimization"
+  - "Diffusion Model"
+  - "Audio-Driven"
+  - "Video Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763914
-  project: https://github.com/fudan-generative-vision/hallo4
-  code: https://github.com/fudan-generative-vision/hallo4
+  paper: "https://doi.org/10.1145/3757377.3763914"
+  project: "https://github.com/fudan-generative-vision/hallo4"
+  code: "https://github.com/fudan-generative-vision/hallo4"
 ---
 
 ## 一句话总结

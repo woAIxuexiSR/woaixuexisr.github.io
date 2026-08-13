@@ -1,19 +1,18 @@
 ---
 title: "Learn to Create Simple LEGO Micro Buildings"
 authors:
-  - Jiahao Ge
-  - Mingjun Zhou
-  - Chi-Wing Fu
-track: "Journal"
-source: ACM
+  - "Jiahao Ge"
+  - "Mingjun Zhou"
+  - "Chi-Wing Fu"
 category: "Geometry & Modeling"
-institution:
-  - The Chinese University of Hong Kong
+track: "Journal"
+source: "ACM"
+institution: "The Chinese University of Hong Kong"
 tags:
-  - LEGO
-  - Computational Design
-  - Generative Model
-  - Fabrication
+  - "LEGO"
+  - "Computational Design"
+  - "Generative Model"
+  - "Fabrication"
 links:
   paper: "https://doi.org/10.1145/3687755"
 ---

@@ -12,6 +12,12 @@ authors:
 category: "Animation & Simulation"
 track: "Journal"
 source: "ACM"
+institution:
+  - "University of Utah"
+  - "LightSpeed Studios"
+  - "UCLA"
+  - "Style3D Research"
+  - "SoftBank Corp."
 tags:
   - "Cloth Simulation"
   - "Projective Dynamics"

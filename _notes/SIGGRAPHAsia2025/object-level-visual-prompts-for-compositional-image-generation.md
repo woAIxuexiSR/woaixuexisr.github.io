@@ -1,24 +1,24 @@
 ---
 title: "Object-level Visual Prompts for Compositional Image Generation"
 authors:
-  - Gaurav Parmar
-  - Or Patashnik
-  - Kuan-Chieh Wang
-  - Daniil Ostashev
-  - Srinivasa Narasimhan
-  - Jun-Yan Zhu
-  - Daniel Cohen-Or
-  - Kfir Aberman
+  - "Gaurav Parmar"
+  - "Or Patashnik"
+  - "Kuan-Chieh Wang"
+  - "Daniil Ostashev"
+  - "Srinivasa Narasimhan"
+  - "Jun-Yan Zhu"
+  - "Daniel Cohen-Or"
+  - "Kfir Aberman"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "Snap Research"
 tags:
-  - Diffusion Model
-  - Compositional Generation
-  - Visual Prompt
-  - Cross Attention
-  - Subject Personalization
+  - "Diffusion Model"
+  - "Compositional Generation"
+  - "Visual Prompt"
+  - "Cross Attention"
+  - "Subject Personalization"
 links:
   paper: "https://doi.org/10.1145/3757377.3763867"
   project: "https://snap-research.github.io/visual-composer/"

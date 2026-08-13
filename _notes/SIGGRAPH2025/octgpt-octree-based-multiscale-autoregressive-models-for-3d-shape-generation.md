@@ -1,21 +1,21 @@
 ---
 title: "OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation"
 authors:
-  - Si-Tong Wei
-  - Rui-Huan Wang
-  - Chuan-Zhi Zhou
-  - Baoquan Chen
-  - Peng-Shuai Wang
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Peking University
+  - "Si-Tong Wei"
+  - "Rui-Huan Wang"
+  - "Chuan-Zhi Zhou"
+  - "Baoquan Chen"
+  - "Peng-Shuai Wang"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Autoregressive Model
-  - 3D Shape Generation
-  - Octree
-  - Transformer
-  - VQVAE
+  - "Autoregressive Model"
+  - "3D Shape Generation"
+  - "Octree"
+  - "Transformer"
+  - "VQVAE"
 links:
   paper: "https://doi.org/10.1145/3721238.3730601"
   project: "https://github.com/octree-nn/octgpt"

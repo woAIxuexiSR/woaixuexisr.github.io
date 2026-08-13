@@ -1,24 +1,24 @@
 ---
 title: "Implicit Position-Based Fluids"
 authors:
-  - Elie Diaz
-  - Jerry Hsu
-  - Eisen Montalvo-Ruiz
-  - Chris Giles
-  - Cem Yuksel
-category: Animation & Simulation
+  - "Elie Diaz"
+  - "Jerry Hsu"
+  - "Eisen Montalvo-Ruiz"
+  - "Chris Giles"
+  - "Cem Yuksel"
+category: "Animation & Simulation"
 track: "Conference"
-source: author-page
-institution: University of Utah
+source: "author-page"
+institution: "University of Utah"
 tags:
-  - Fluid Simulation
-  - SPH
-  - Incompressible Fluids
-  - Position-Based Dynamics
-  - GPU Simulation
+  - "Fluid Simulation"
+  - "SPH"
+  - "Incompressible Fluids"
+  - "Position-Based Dynamics"
+  - "GPU Simulation"
 links:
-  paper: https://doi.org/10.1145/3757377.3764005
-  project: https://graphics.cs.utah.edu/research/projects/ipbf/
+  paper: "https://doi.org/10.1145/3757377.3764005"
+  project: "https://graphics.cs.utah.edu/research/projects/ipbf/"
 ---
 
 ## 一句话总结

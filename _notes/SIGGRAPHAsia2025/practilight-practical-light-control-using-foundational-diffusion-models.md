@@ -1,25 +1,25 @@
 ---
 title: "PractiLight: Practical Light Control Using Foundational Diffusion Models"
 authors:
-  - Yotam Erel
-  - Rishabh Dabral
-  - Vladislav Golyanik
-  - Amit H. Bermano
-  - Christian Theobalt
+  - "Yotam Erel"
+  - "Rishabh Dabral"
+  - "Vladislav Golyanik"
+  - "Amit H. Bermano"
+  - "Christian Theobalt"
+category: "Neural & Generative"
 track: "Journal"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Tel Aviv University
-  - Max Planck Institute for Informatics
+  - "Tel Aviv University"
+  - "Max Planck Institute for Informatics"
 tags:
-  - Relighting
-  - Diffusion Models
-  - Light Transport
-  - Classifier Guidance
-  - LoRA
-  - Self Attention
-  - Image Editing
+  - "Relighting"
+  - "Diffusion Models"
+  - "Light Transport"
+  - "Classifier Guidance"
+  - "LoRA"
+  - "Self Attention"
+  - "Image Editing"
 links:
   paper: "https://doi.org/10.1145/3763342"
   project: "https://yoterel.github.io/PractiLight-project-page/"

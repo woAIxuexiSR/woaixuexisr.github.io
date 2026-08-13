@@ -1,23 +1,22 @@
 ---
 title: "Capturing Non-Linear Human Perspective in Line Drawings"
 authors:
-  - Jinfan Yang
-  - Leo Foord-Kelcey
-  - Suzuran Takikawa
-  - Nicholas Vining
-  - Niloy Mitra
-  - Alla Sheffer
-track: "Conference"
-source: arxiv
+  - "Jinfan Yang"
+  - "Leo Foord-Kelcey"
+  - "Suzuran Takikawa"
+  - "Nicholas Vining"
+  - "Niloy Mitra"
+  - "Alla Sheffer"
 category: "Rendering"
-institution:
-  - University of British Columbia
+track: "Conference"
+source: "arxiv"
+institution: "University of British Columbia"
 tags:
-  - Line Drawing
-  - Human Perspective
-  - Non-Photorealistic Rendering
-  - Sketch Analysis
-  - Perspective Deviation
+  - "Line Drawing"
+  - "Human Perspective"
+  - "Non-Photorealistic Rendering"
+  - "Sketch Analysis"
+  - "Perspective Deviation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763902"
 ---

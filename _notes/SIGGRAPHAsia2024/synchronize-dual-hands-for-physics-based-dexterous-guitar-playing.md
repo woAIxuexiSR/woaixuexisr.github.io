@@ -1,19 +1,19 @@
 ---
 title: "Synchronize Dual Hands for Physics-Based Dexterous Guitar Playing"
 authors:
-  - Pei Xu
-  - Ruocheng Wang
-track: "Conference"
-source: arxiv
+  - "Pei Xu"
+  - "Ruocheng Wang"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution: "Stanford University"
 tags:
-  - Physical Simulation
-  - Dexterous Hand Control
-  - Reinforcement Learning
-  - Multi Agent Collaboration
-  - Character Animation
-  - Motion Synthesis
+  - "Physical Simulation"
+  - "Dexterous Hand Control"
+  - "Reinforcement Learning"
+  - "Multi Agent Collaboration"
+  - "Character Animation"
+  - "Motion Synthesis"
 links:
   paper: "https://doi.org/10.1145/3680528.3687692"
 ---

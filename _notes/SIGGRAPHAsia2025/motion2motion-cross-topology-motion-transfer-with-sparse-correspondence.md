@@ -1,29 +1,29 @@
 ---
 title: "Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence"
 authors:
-  - Ling-Hao Chen
-  - Yuhong Zhang
-  - Zixin Yin
-  - Zhiyang Dou
-  - Xin Chen
-  - Jingbo Wang
-  - Taku Komura
-  - Lei Zhang
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: Tsinghua University
+  - "Ling-Hao Chen"
+  - "Yuhong Zhang"
+  - "Zixin Yin"
+  - "Zhiyang Dou"
+  - "Xin Chen"
+  - "Jingbo Wang"
+  - "Taku Komura"
+  - "Lei Zhang"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Motion Transfer
-  - Cross-Topology
-  - Motion Matching
-  - Skeleton Retargeting
-  - Training-Free
-  - Character Animation
+  - "Motion Transfer"
+  - "Cross-Topology"
+  - "Motion Matching"
+  - "Skeleton Retargeting"
+  - "Training-Free"
+  - "Character Animation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763811
-  project: https://lhchen.top/Motion2Motion
-  code: https://github.com/LinghaoChan/Motion2Motion_codes
+  paper: "https://doi.org/10.1145/3757377.3763811"
+  project: "https://lhchen.top/Motion2Motion"
+  code: "https://github.com/LinghaoChan/Motion2Motion_codes"
 ---
 
 ## 一句话总结

@@ -1,25 +1,25 @@
 ---
 title: "Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy"
 authors:
-  - Letian Huang
-  - Jie Guo
-  - Jialin Dan
-  - Ruoyu Fu
-  - Shujie Wang
-  - Yuanqi Li
-  - Yanwen Guo
-category: Rendering
+  - "Letian Huang"
+  - "Jie Guo"
+  - "Jialin Dan"
+  - "Ruoyu Fu"
+  - "Shujie Wang"
+  - "Yuanqi Li"
+  - "Yanwen Guo"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Nanjing University
+source: "arxiv"
+institution: "Nanjing University"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Spectral Analysis
-  - Spectral Entropy
-  - Condition Number
-  - Anti-Aliasing
-  - Densification
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Spectral Analysis"
+  - "Spectral Entropy"
+  - "Condition Number"
+  - "Anti-Aliasing"
+  - "Densification"
 links:
   paper: "https://doi.org/10.1145/3757377.3763907"
   project: "https://letianhuang.github.io/"

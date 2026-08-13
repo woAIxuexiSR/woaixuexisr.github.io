@@ -1,31 +1,31 @@
 ---
 title: "4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture"
 authors:
-  - Yutian Chen
-  - Shi Guo
-  - Tianshuo Yang
-  - Lihe Ding
-  - Xiuyuan Yu
-  - Jinwei Gu
-  - Tianfan Xue
-category: Reconstruction
-track: Conference
-source: arxiv
+  - "Yutian Chen"
+  - "Shi Guo"
+  - "Tianshuo Yang"
+  - "Lihe Ding"
+  - "Xiuyuan Yu"
+  - "Jinwei Gu"
+  - "Tianfan Xue"
+category: "Reconstruction"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Shanghai AI Laboratory
-  - The Chinese University of Hong Kong
-  - The University of Hong Kong
-  - NVIDIA
+  - "Shanghai AI Laboratory"
+  - "The Chinese University of Hong Kong"
+  - "The University of Hong Kong"
+  - "NVIDIA"
 tags:
-  - 4D Reconstruction
-  - High Speed Scene
-  - Asynchronous Capture
-  - Video Diffusion Model
-  - 4D Gaussian Splatting
-  - Sparse View Reconstruction
+  - "4D Reconstruction"
+  - "High Speed Scene"
+  - "Asynchronous Capture"
+  - "Video Diffusion Model"
+  - "4D Gaussian Splatting"
+  - "Sparse View Reconstruction"
 links:
-  paper: https://doi.org/10.1145/3757377.3763908
-  project: https://openimaginglab.github.io/4DSloMo/
+  paper: "https://doi.org/10.1145/3757377.3763908"
+  project: "https://openimaginglab.github.io/4DSloMo/"
 ---
 
 ## 一句话总结

@@ -1,23 +1,22 @@
 ---
 title: "Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation"
 authors:
-  - Axel Sauer
-  - Frederic Boesel
-  - Tim Dockhorn
-  - Andreas Blattmann
-  - Patrick Esser
-  - Robin Rombach
-track: "Conference"
-source: arxiv
+  - "Axel Sauer"
+  - "Frederic Boesel"
+  - "Tim Dockhorn"
+  - "Andreas Blattmann"
+  - "Patrick Esser"
+  - "Robin Rombach"
 category: "Neural & Generative"
-institution:
-  - Stability AI
+track: "Conference"
+source: "arxiv"
+institution: "Stability AI"
 tags:
-  - Diffusion Distillation
-  - Adversarial Training
-  - Text-to-Image
-  - Few Step Sampling
-  - Latent Space
+  - "Diffusion Distillation"
+  - "Adversarial Training"
+  - "Text-to-Image"
+  - "Few Step Sampling"
+  - "Latent Space"
 links:
   paper: "https://doi.org/10.1145/3680528.3687625"
 ---

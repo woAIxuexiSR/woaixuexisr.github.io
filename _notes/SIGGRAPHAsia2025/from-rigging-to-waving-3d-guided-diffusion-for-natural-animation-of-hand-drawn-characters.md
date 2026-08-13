@@ -1,23 +1,23 @@
 ---
 title: "From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters"
 authors:
-  - Jie Zhou
-  - Linzi Qu
-  - Miu-Ling Lam
-  - Hongbo Fu
+  - "Jie Zhou"
+  - "Linzi Qu"
+  - "Miu-Ling Lam"
+  - "Hongbo Fu"
+category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
-category: Animation & Simulation
+source: "arxiv"
 institution:
-  - City University of Hong Kong
-  - Hong Kong University of Science and Technology
+  - "City University of Hong Kong"
+  - "Hong Kong University of Science and Technology"
 tags:
-  - Character Animation
-  - Video Diffusion Model
-  - Secondary Motion
-  - Skeletal Animation
-  - Hand-Drawn Character
-  - Non-Photorealistic Rendering
+  - "Character Animation"
+  - "Video Diffusion Model"
+  - "Secondary Motion"
+  - "Skeletal Animation"
+  - "Hand-Drawn Character"
+  - "Non-Photorealistic Rendering"
 links:
   paper: "https://doi.org/10.1145/3763280"
   code: "https://anonymous.4open.science/r/From-Rigging-to-Waving-405C"

@@ -1,24 +1,23 @@
 ---
 title: "End-to-end Optimization of Fluidic Lenses"
 authors:
-  - Mulun Na
-  - Héctor A. Jiménez-Romero
-  - Xinge Yang
-  - Jonathan Klein
-  - Dominik L. Michels
-  - Wolfgang Heidrich
-track: "Conference"
-source: author-page
+  - "Mulun Na"
+  - "Héctor A. Jiménez-Romero"
+  - "Xinge Yang"
+  - "Jonathan Klein"
+  - "Dominik L. Michels"
+  - "Wolfgang Heidrich"
 category: "Reconstruction"
-institution:
-  - KAUST
+track: "Conference"
+source: "author-page"
+institution: "KAUST"
 tags:
-  - Computational Imaging
-  - End-to-End Optics Design
-  - Fluidic Lens
-  - Differentiable Ray Tracing
-  - Fluid Dynamics
-  - Image Reconstruction Network
+  - "Computational Imaging"
+  - "End-to-End Optics Design"
+  - "Fluidic Lens"
+  - "Differentiable Ray Tracing"
+  - "Fluid Dynamics"
+  - "Image Reconstruction Network"
 links:
   paper: "https://doi.org/10.1145/3680528.3687584"
 ---

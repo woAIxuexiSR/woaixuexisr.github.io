@@ -11,7 +11,10 @@ authors:
   - "Rui Wang"
 category: "Rendering"
 track: "Conference"
-source: ACM
+source: "ACM"
+institution:
+  - "Zhejiang University"
+  - "Tencent"
 tags:
   - "Stereo Rendering"
   - "Frame Generation"

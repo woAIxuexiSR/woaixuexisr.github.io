@@ -1,29 +1,29 @@
 ---
 title: "Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering"
 authors:
-  - Zhongtian Zheng
-  - Tao Huang
-  - Haozhe Su
-  - Xueqi Ma
-  - Yuefan Shen
-  - Tongtong Wang
-  - Yin Yang
-  - Xifeng Gao
-  - Zherong Pan
-  - Kui Wu
-track: "Journal"
-source: arxiv
+  - "Zhongtian Zheng"
+  - "Tao Huang"
+  - "Haozhe Su"
+  - "Xueqi Ma"
+  - "Yuefan Shen"
+  - "Tongtong Wang"
+  - "Yin Yang"
+  - "Xifeng Gao"
+  - "Zherong Pan"
+  - "Kui Wu"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - LIGHTSPEED
-  - University of Utah
+  - "LIGHTSPEED"
+  - "University of Utah"
 tags:
-  - Hair
-  - Hair Card
-  - Differentiable Rendering
-  - Level Of Detail
-  - Real Time Rendering
-  - Shape Modeling
+  - "Hair"
+  - "Hair Card"
+  - "Differentiable Rendering"
+  - "Level Of Detail"
+  - "Real Time Rendering"
+  - "Shape Modeling"
 links:
   paper: "https://doi.org/10.1145/3763295"
 ---

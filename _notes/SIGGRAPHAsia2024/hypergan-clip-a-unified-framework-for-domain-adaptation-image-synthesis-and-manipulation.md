@@ -1,28 +1,28 @@
 ---
 title: "HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation"
 authors:
-  - Abdul Basit Anees
-  - Ahmet Canberk Baykal
-  - Muhammed Burak Kizil
-  - Duygu Ceylan
-  - Erkut Erdem
-  - Aykut Erdem
-track: "Conference"
-source: arxiv
+  - "Abdul Basit Anees"
+  - "Ahmet Canberk Baykal"
+  - "Muhammed Burak Kizil"
+  - "Duygu Ceylan"
+  - "Erkut Erdem"
+  - "Aykut Erdem"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Koç University
-  - University of Cambridge
-  - Adobe Research
-  - Hacettepe University
+  - "Koç University"
+  - "University of Cambridge"
+  - "Adobe Research"
+  - "Hacettepe University"
 tags:
-  - GAN
-  - StyleGAN
-  - CLIP
-  - Hypernetwork
-  - Domain Adaptation
-  - Image Synthesis
-  - Image Manipulation
+  - "GAN"
+  - "StyleGAN"
+  - "CLIP"
+  - "Hypernetwork"
+  - "Domain Adaptation"
+  - "Image Synthesis"
+  - "Image Manipulation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687613"
 ---

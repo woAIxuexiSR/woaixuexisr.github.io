@@ -1,23 +1,23 @@
 ---
 title: "Robot Motion Diffusion Model: Motion Generation for Robotic Characters"
 authors:
-  - Agon Serifi
-  - Ruben Grandia
-  - Espen Knoop
-  - Markus Gross
-  - Moritz Bächer
+  - "Agon Serifi"
+  - "Ruben Grandia"
+  - "Espen Knoop"
+  - "Markus Gross"
+  - "Moritz Bächer"
 category: "Animation & Simulation"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - ETH Zürich
-  - Disney Research
+  - "ETH Zürich"
+  - "Disney Research"
 tags:
-  - Motion Generation
-  - Diffusion Model
-  - Physics-Based Control
-  - Reinforcement Learning
-  - Humanoid Robot
+  - "Motion Generation"
+  - "Diffusion Model"
+  - "Physics-Based Control"
+  - "Reinforcement Learning"
+  - "Humanoid Robot"
 links:
   paper: "https://doi.org/10.1145/3680528.3687626"
 ---

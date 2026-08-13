@@ -1,24 +1,24 @@
 ---
 title: "Automated design of compound lenses with discrete-continuous optimization"
 authors:
-  - Arjun Teh
-  - Delio Vicini
-  - Bernd Bickel
-  - Ioannis Gkioulekas
-  - Matthew O'Toole
-category: Rendering
+  - "Arjun Teh"
+  - "Delio Vicini"
+  - "Bernd Bickel"
+  - "Ioannis Gkioulekas"
+  - "Matthew O'Toole"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Carnegie Mellon University
+source: "arxiv"
+institution: "Carnegie Mellon University"
 tags:
-  - Lens Design
-  - Differentiable Rendering
-  - MCMC
-  - Geometric Optics
-  - Ray Tracing
+  - "Lens Design"
+  - "Differentiable Rendering"
+  - "MCMC"
+  - "Geometric Optics"
+  - "Ray Tracing"
 links:
-  paper: https://doi.org/10.1145/3757377.3763850
-  project: https://imaging.cs.cmu.edu/automated_lens_design
+  paper: "https://doi.org/10.1145/3757377.3763850"
+  project: "https://imaging.cs.cmu.edu/automated_lens_design"
 ---
 
 ## 一句话总结

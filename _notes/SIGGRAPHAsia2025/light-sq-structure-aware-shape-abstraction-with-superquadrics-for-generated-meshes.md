@@ -1,41 +1,41 @@
 ---
 title: "Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes"
 authors:
-  - Yuhan Wang
-  - Weikai Chen
-  - Zeyu Hu
-  - Runze Zhang
-  - Yingda Yin
-  - Ruoyu Wu
-  - Keyang Luo
-  - Shengju Qian
-  - Yiyan Ma
-  - Hongyi Li
-  - Yuan Gao
-  - Yuhuan Zhou
-  - Hao Luo
-  - Wan Wang
-  - Xiaobin Shen
-  - Zhaowei Li
-  - Kuixin Zhu
-  - Chuanlang Hong
-  - Yueyue Wang
-  - Lijie Feng
-  - Xin Wang
-  - Chen Change Loy
-category: Geometry & Modeling
+  - "Yuhan Wang"
+  - "Weikai Chen"
+  - "Zeyu Hu"
+  - "Runze Zhang"
+  - "Yingda Yin"
+  - "Ruoyu Wu"
+  - "Keyang Luo"
+  - "Shengju Qian"
+  - "Yiyan Ma"
+  - "Hongyi Li"
+  - "Yuan Gao"
+  - "Yuhuan Zhou"
+  - "Hao Luo"
+  - "Wan Wang"
+  - "Xiaobin Shen"
+  - "Zhaowei Li"
+  - "Kuixin Zhu"
+  - "Chuanlang Hong"
+  - "Yueyue Wang"
+  - "Lijie Feng"
+  - "Xin Wang"
+  - "Chen Change Loy"
+category: "Geometry & Modeling"
 track: "Conference"
-source: arxiv
-institution: Nanyang Technological University
+source: "arxiv"
+institution: "Nanyang Technological University"
 tags:
-  - Shape Abstraction
-  - Superquadrics
-  - Signed Distance Field
-  - Primitive Decomposition
-  - 3D Generation
+  - "Shape Abstraction"
+  - "Superquadrics"
+  - "Signed Distance Field"
+  - "Primitive Decomposition"
+  - "3D Generation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763835
-  project: https://johann.wang/Light-SQ/
+  paper: "https://doi.org/10.1145/3757377.3763835"
+  project: "https://johann.wang/Light-SQ/"
 ---
 
 ## 一句话总结

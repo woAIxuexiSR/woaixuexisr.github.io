@@ -1,14 +1,27 @@
 ---
 title: "Audio Driven Real-Time Facial Animation for Social Telepresence"
-authors: [Jiye Lee, Chenghui Li, Linh Tran, Shih-En Wei, Jason Saragih, Alexander Richard, Hanbyul Joo, Shaojie Bai]
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: Seoul National University; Meta
-tags: [Audio-Driven Animation, Facial Animation, Diffusion Models, Real-Time, VR Telepresence]
+authors:
+  - "Jiye Lee"
+  - "Chenghui Li"
+  - "Linh Tran"
+  - "Shih-En Wei"
+  - "Jason Saragih"
+  - "Alexander Richard"
+  - "Hanbyul Joo"
+  - "Shaojie Bai"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "Seoul National University; Meta"
+tags:
+  - "Audio-Driven Animation"
+  - "Facial Animation"
+  - "Diffusion Models"
+  - "Real-Time"
+  - "VR Telepresence"
 links:
-  paper: https://doi.org/10.1145/3757377.3763854
-  project: https://jiyewise.github.io/projects/AudioRTA
+  paper: "https://doi.org/10.1145/3757377.3763854"
+  project: "https://jiyewise.github.io/projects/AudioRTA"
 ---
 
 ## 一句话总结

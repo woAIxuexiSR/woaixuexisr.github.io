@@ -1,28 +1,28 @@
 ---
 title: "An Adjoint Method for Differentiable Fluid Simulation on Flow Maps"
 authors:
-  - Zhiqi Li
-  - Jinjin He
-  - Barnabás Börcsök
-  - Taiyuan Zhang
-  - Duowen Chen
-  - Tao Du
-  - Ming C. Lin
-  - Greg Turk
-  - Bo Zhu
+  - "Zhiqi Li"
+  - "Jinjin He"
+  - "Barnabás Börcsök"
+  - "Taiyuan Zhang"
+  - "Duowen Chen"
+  - "Tao Du"
+  - "Ming C. Lin"
+  - "Greg Turk"
+  - "Bo Zhu"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Georgia Institute of Technology
-  - Dartmouth College
-  - University of Maryland
+  - "Georgia Institute of Technology"
+  - "Dartmouth College"
+  - "University of Maryland"
 tags:
-  - Fluid Simulation
-  - Differentiable Simulation
-  - Adjoint Method
-  - Flow Map
-  - Vortex Dynamics
+  - "Fluid Simulation"
+  - "Differentiable Simulation"
+  - "Adjoint Method"
+  - "Flow Map"
+  - "Vortex Dynamics"
 links:
   paper: "https://doi.org/10.1145/3757377.3763903"
 ---

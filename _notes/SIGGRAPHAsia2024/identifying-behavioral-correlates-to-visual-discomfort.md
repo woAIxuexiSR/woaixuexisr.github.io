@@ -1,27 +1,27 @@
 ---
 title: "Identifying Behavioral Correlates to Visual Discomfort"
 authors:
-  - David Tovar
-  - James Wilmott
-  - Xiuyun Wu
-  - Daniel Martin
-  - Michael J. Proulx
-  - Dave Lindberg
-  - Yang Zhao
-  - Olivier Mercier
-  - Phillip Guan
+  - "David Tovar"
+  - "James Wilmott"
+  - "Xiuyun Wu"
+  - "Daniel Martin"
+  - "Michael J. Proulx"
+  - "Dave Lindberg"
+  - "Yang Zhao"
+  - "Olivier Mercier"
+  - "Phillip Guan"
 category: "HCI & XR"
 track: "Journal"
-source: author-page
+source: "author-page"
 institution:
-  - Meta
-  - Universidad de Zaragoza
+  - "Meta"
+  - "Universidad de Zaragoza"
 tags:
-  - Virtual Reality
-  - Visually Induced Motion Sickness
-  - Pupil Swim
-  - Eye Tracking
-  - Representational Similarity Analysis
+  - "Virtual Reality"
+  - "Visually Induced Motion Sickness"
+  - "Pupil Swim"
+  - "Eye Tracking"
+  - "Representational Similarity Analysis"
 links:
   paper: "https://doi.org/10.1145/3687929"
 ---

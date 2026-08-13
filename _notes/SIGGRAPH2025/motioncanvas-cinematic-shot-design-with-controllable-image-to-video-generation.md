@@ -1,27 +1,27 @@
 ---
 title: "MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation"
 authors:
-  - Jinbo Xing
-  - Long Mai
-  - Cusuh Ham
-  - Jiahui Huang
-  - Aniruddha Mahapatra
-  - Chi-Wing Fu
-  - Tien-Tsin Wong
-  - Feng Liu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: The Chinese University of Hong Kong
+  - "Jinbo Xing"
+  - "Long Mai"
+  - "Cusuh Ham"
+  - "Jiahui Huang"
+  - "Aniruddha Mahapatra"
+  - "Chi-Wing Fu"
+  - "Tien-Tsin Wong"
+  - "Feng Liu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "The Chinese University of Hong Kong"
 tags:
-  - Image To Video Generation
-  - Video Diffusion Model
-  - Camera Motion Control
-  - Cinematic Shot Design
-  - Controllable Generation
+  - "Image To Video Generation"
+  - "Video Diffusion Model"
+  - "Camera Motion Control"
+  - "Cinematic Shot Design"
+  - "Controllable Generation"
 links:
-  paper: https://doi.org/10.1145/3721238.3730604
-  project: https://motion-canvas25.github.io/
+  paper: "https://doi.org/10.1145/3721238.3730604"
+  project: "https://motion-canvas25.github.io/"
 ---
 
 ## 一句话总结

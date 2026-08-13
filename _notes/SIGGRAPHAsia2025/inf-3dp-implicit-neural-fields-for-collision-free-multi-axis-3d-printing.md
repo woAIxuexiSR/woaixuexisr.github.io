@@ -1,28 +1,28 @@
 ---
 title: "INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing"
 authors:
-  - Jiasheng Qu
-  - Zhuo Huang
-  - Dezhao Guo
-  - Hailin Sun
-  - Aoran Lyu
-  - Chengkai Dai
-  - Yeung Yam
-  - Guoxin Fang
-track: "Journal"
-source: arxiv
+  - "Jiasheng Qu"
+  - "Zhuo Huang"
+  - "Dezhao Guo"
+  - "Hailin Sun"
+  - "Aoran Lyu"
+  - "Chengkai Dai"
+  - "Yeung Yam"
+  - "Guoxin Fang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The Chinese University of Hong Kong
-  - The University of Manchester
-  - Centre for Perceptual and Interactive Intelligence
+  - "The Chinese University of Hong Kong"
+  - "The University of Manchester"
+  - "Centre for Perceptual and Interactive Intelligence"
 tags:
-  - Multi Axis 3D Printing
-  - Implicit Neural Fields
-  - Toolpath Generation
-  - Collision Free Motion Planning
-  - Signed Distance Field
-  - Digital Fabrication
+  - "Multi Axis 3D Printing"
+  - "Implicit Neural Fields"
+  - "Toolpath Generation"
+  - "Collision Free Motion Planning"
+  - "Signed Distance Field"
+  - "Digital Fabrication"
 links:
   paper: "https://doi.org/10.1145/3763354"
   code: "https://github.com/Qjiasheng/INF-3DP"

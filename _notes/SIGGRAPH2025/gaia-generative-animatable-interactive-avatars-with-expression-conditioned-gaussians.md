@@ -1,35 +1,35 @@
 ---
 title: "GAIA: Generative Animatable Interactive Avatars with Expression-conditioned Gaussians"
 authors:
-  - Zhengming Yu
-  - Tianye Li
-  - Jingxiang Sun
-  - Omer Shapira
-  - Seonwook Park
-  - Michael Stengel
-  - Matthew A. Chan
-  - Xin Li
-  - Wenping Wang
-  - Koki Nagano
-  - Shalini De Mello
-category: Neural & Generative
-track: Conference
-source: author-page
+  - "Zhengming Yu"
+  - "Tianye Li"
+  - "Jingxiang Sun"
+  - "Omer Shapira"
+  - "Seonwook Park"
+  - "Michael Stengel"
+  - "Matthew A. Chan"
+  - "Xin Li"
+  - "Wenping Wang"
+  - "Koki Nagano"
+  - "Shalini De Mello"
+category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - NVIDIA
-  - Texas A&M University
-  - Tsinghua University
+  - "NVIDIA"
+  - "Texas A&M University"
+  - "Tsinghua University"
 tags:
-  - 3D Gaussian Splatting
-  - Generative Adversarial Network
-  - Head Avatar
-  - Facial Animation
-  - Novel View Synthesis
-  - 3D Morphable Model
+  - "3D Gaussian Splatting"
+  - "Generative Adversarial Network"
+  - "Head Avatar"
+  - "Facial Animation"
+  - "Novel View Synthesis"
+  - "3D Morphable Model"
 links:
-  paper: https://doi.org/10.1145/3721238.3730737
-  project: https://research.nvidia.com/labs/amri/projects/gaia/
-  code: https://github.com/nvlabs/gaia
+  paper: "https://doi.org/10.1145/3721238.3730737"
+  project: "https://research.nvidia.com/labs/amri/projects/gaia/"
+  code: "https://github.com/nvlabs/gaia"
 ---
 
 ## 一句话总结

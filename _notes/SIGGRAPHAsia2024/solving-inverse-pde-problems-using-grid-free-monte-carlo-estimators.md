@@ -1,19 +1,19 @@
 ---
 title: "Solving Inverse PDE Problems using Grid-Free Monte Carlo Estimators"
 authors:
-  - Ekrem Fatih Yilmazer
-  - Delio Vicini
-  - Wenzel Jakob
-track: "Journal"
-source: arxiv
+  - "Ekrem Fatih Yilmazer"
+  - "Delio Vicini"
+  - "Wenzel Jakob"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution: "EPFL"
 tags:
-  - Walk on Spheres
-  - Monte Carlo
-  - Differentiable Simulation
-  - Inverse Problems
-  - Path Replay Backpropagation
+  - "Walk on Spheres"
+  - "Monte Carlo"
+  - "Differentiable Simulation"
+  - "Inverse Problems"
+  - "Path Replay Backpropagation"
 links:
   paper: "https://doi.org/10.1145/3687990"
 ---

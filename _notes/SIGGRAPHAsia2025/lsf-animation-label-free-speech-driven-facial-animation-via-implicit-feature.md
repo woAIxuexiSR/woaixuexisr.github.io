@@ -1,26 +1,26 @@
 ---
 title: "LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation"
 authors:
-  - Xin Lu
-  - Chuanqing Zhuang
-  - Chenxi Jin
-  - Zhengda Lu
-  - Yiqun Wang
-  - Wu Liu
-  - Jun Xiao
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: University of Chinese Academy of Sciences
+  - "Xin Lu"
+  - "Chuanqing Zhuang"
+  - "Chenxi Jin"
+  - "Zhengda Lu"
+  - "Yiqun Wang"
+  - "Wu Liu"
+  - "Jun Xiao"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "University of Chinese Academy of Sciences"
 tags:
-  - Facial Animation
-  - Speech-Driven
-  - Feature Fusion
-  - Emotion
-  - 3D
+  - "Facial Animation"
+  - "Speech-Driven"
+  - "Feature Fusion"
+  - "Emotion"
+  - "3D"
 links:
-  paper: https://doi.org/10.1145/3757377.3763887
-  code: https://github.com/Dogter521/LSF-Animation
+  paper: "https://doi.org/10.1145/3757377.3763887"
+  code: "https://github.com/Dogter521/LSF-Animation"
 ---
 
 ## 一句话总结

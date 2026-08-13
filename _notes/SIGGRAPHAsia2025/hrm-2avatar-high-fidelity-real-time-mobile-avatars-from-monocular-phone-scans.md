@@ -1,28 +1,28 @@
 ---
 title: "HRM^2Avatar: High-Fidelity Real-Time Mobile Avatars from Monocular Phone Scans"
 authors:
-  - Chao Shi
-  - Shenghao Jia
-  - Jinhui Liu
-  - Yong Zhang
-  - Liangchao Zhu
-  - Zhonglei Yang
-  - Jinze Ma
-  - Chaoyue Niu
-  - Chengfei Lv
-category: Reconstruction
+  - "Chao Shi"
+  - "Shenghao Jia"
+  - "Jinhui Liu"
+  - "Yong Zhang"
+  - "Liangchao Zhu"
+  - "Zhonglei Yang"
+  - "Jinze Ma"
+  - "Chaoyue Niu"
+  - "Chengfei Lv"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: Alibaba Group
+source: "arxiv"
+institution: "Alibaba Group"
 tags:
-  - Avatar
-  - 3D Gaussian Splatting
-  - Monocular Reconstruction
-  - Mobile Rendering
-  - Real-Time Rendering
+  - "Avatar"
+  - "3D Gaussian Splatting"
+  - "Monocular Reconstruction"
+  - "Mobile Rendering"
+  - "Real-Time Rendering"
 links:
-  paper: https://doi.org/10.1145/3757377.3763894
-  project: https://acennr-engine.github.io/HRM2Avatar
+  paper: "https://doi.org/10.1145/3757377.3763894"
+  project: "https://acennr-engine.github.io/HRM2Avatar"
 ---
 
 ## 一句话总结

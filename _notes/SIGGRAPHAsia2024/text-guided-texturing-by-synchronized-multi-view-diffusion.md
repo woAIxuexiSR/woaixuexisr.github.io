@@ -1,23 +1,23 @@
 ---
 title: "Text-Guided Texturing by Synchronized Multi-View Diffusion"
 authors:
-  - Yuxin Liu
-  - Minshan Xie
-  - Hanyuan Liu
-  - Tien-Tsin Wong
-track: "Conference"
-source: author-page
+  - "Yuxin Liu"
+  - "Minshan Xie"
+  - "Hanyuan Liu"
+  - "Tien-Tsin Wong"
 category: "Neural & Generative"
+track: "Conference"
+source: "author-page"
 institution:
-  - The Chinese University of Hong Kong
-  - City University of Hong Kong
-  - Monash University
+  - "The Chinese University of Hong Kong"
+  - "City University of Hong Kong"
+  - "Monash University"
 tags:
-  - Texture Generation
-  - Diffusion Model
-  - Multi View Consistency
-  - Text-to-Texture
-  - Zero-Shot
+  - "Texture Generation"
+  - "Diffusion Model"
+  - "Multi View Consistency"
+  - "Text-to-Texture"
+  - "Zero-Shot"
 links:
   paper: "https://doi.org/10.1145/3680528.3687621"
 ---

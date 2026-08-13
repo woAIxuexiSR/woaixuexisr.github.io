@@ -1,31 +1,31 @@
 ---
 title: "Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation"
 authors:
-  - Yongzhen Hu
-  - Yihui Yang
-  - Haotong Lin
-  - Yifan Wang
-  - Junting Dong
-  - Yifu Deng
-  - Xinyu Zhu
-  - Fan Jia
-  - Hujun Bao
-  - Xiaowei Zhou
-  - Sida Peng
+  - "Yongzhen Hu"
+  - "Yihui Yang"
+  - "Haotong Lin"
+  - "Yifan Wang"
+  - "Junting Dong"
+  - "Yifu Deng"
+  - "Xinyu Zhu"
+  - "Fan Jia"
+  - "Hujun Bao"
+  - "Xiaowei Zhou"
+  - "Sida Peng"
+category: "Reconstruction"
 track: "Journal"
-source: arxiv
-category: Reconstruction
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - Ant Group
-  - Shanghai AI Lab
+  - "Zhejiang University"
+  - "Ant Group"
+  - "Shanghai AI Lab"
 tags:
-  - Dynamic Scene Reconstruction
-  - 4D Segmentation
-  - 3D Gaussian Splatting
-  - Contrastive Learning
-  - Neural Rendering
-  - Scene Editing
+  - "Dynamic Scene Reconstruction"
+  - "4D Segmentation"
+  - "3D Gaussian Splatting"
+  - "Contrastive Learning"
+  - "Neural Rendering"
+  - "Scene Editing"
 links:
   paper: "https://doi.org/10.1145/3763343"
 ---

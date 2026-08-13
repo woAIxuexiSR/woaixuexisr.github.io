@@ -1,23 +1,23 @@
 ---
 title: "Hand-Shadow Poser"
 authors:
-  - Hao Xu
-  - Yinqiao Wang
-  - Niloy J. Mitra
-  - Shuaicheng Liu
-  - Pheng-Ann Heng
-  - Chi-Wing Fu
+  - "Hao Xu"
+  - "Yinqiao Wang"
+  - "Niloy J. Mitra"
+  - "Shuaicheng Liu"
+  - "Pheng-Ann Heng"
+  - "Chi-Wing Fu"
 category: "Reconstruction"
-track: Journal
+track: "Journal"
 source: "arxiv"
 institution: "The Chinese University of Hong Kong"
 tags:
-  - Shadow Art
-  - 3D Hand Pose Estimation
-  - Computational Art Design
-  - Generative Models
-  - Differentiable Rendering
-  - MANO
+  - "Shadow Art"
+  - "3D Hand Pose Estimation"
+  - "Computational Art Design"
+  - "Generative Models"
+  - "Differentiable Rendering"
+  - "MANO"
 links:
   paper: "https://doi.org/10.1145/3730836"
   code: "https://github.com/hxwork/HandShadowPoser"

@@ -1,27 +1,27 @@
 ---
 title: "GenAnalysis: Joint Shape Analysis by Learning Man-Made Shape Generators with Deformation Regularizations"
 authors:
-  - Yuezhi Yang
-  - Haitao Yang
-  - Kiyohiro Nakayama
-  - Xiangru Huang
-  - Leonidas J. Guibas
-  - Qixing Huang
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: The University of Texas at Austin
+  - "Yuezhi Yang"
+  - "Haitao Yang"
+  - "Kiyohiro Nakayama"
+  - "Xiangru Huang"
+  - "Leonidas J. Guibas"
+  - "Qixing Huang"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "The University of Texas at Austin"
 tags:
-  - Shape Analysis
-  - Shape Correspondence
-  - Joint Shape Segmentation
-  - Implicit Shape Generator
-  - Deformation Regularization
-  - As-Affine-As-Possible
-  - ShapeNet
+  - "Shape Analysis"
+  - "Shape Correspondence"
+  - "Joint Shape Segmentation"
+  - "Implicit Shape Generator"
+  - "Deformation Regularization"
+  - "As-Affine-As-Possible"
+  - "ShapeNet"
 links:
-  paper: https://doi.org/10.1145/3731164
-  project: https://arxiv.org/abs/2503.00807
+  paper: "https://doi.org/10.1145/3731164"
+  project: "https://arxiv.org/abs/2503.00807"
 ---
 
 ## 一句话总结

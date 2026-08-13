@@ -1,20 +1,20 @@
 ---
 title: "Clustered Error Correction with Grouped 4D Gaussian Splatting"
 authors:
-  - Taeho Kang
-  - Jaeyeon Park
-  - Kyungjin Lee
-  - Youngki Lee
-category: Reconstruction
+  - "Taeho Kang"
+  - "Jaeyeon Park"
+  - "Kyungjin Lee"
+  - "Youngki Lee"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: Seoul National University
+source: "arxiv"
+institution: "Seoul National University"
 tags:
-  - 4D Gaussian Splatting
-  - Dynamic Scene Reconstruction
-  - Novel View Synthesis
-  - Error Correction
-  - Temporal Consistency
+  - "4D Gaussian Splatting"
+  - "Dynamic Scene Reconstruction"
+  - "Novel View Synthesis"
+  - "Error Correction"
+  - "Temporal Consistency"
 links:
   paper: "https://doi.org/10.1145/3757377.3763858"
   code: "https://github.com/tho-kn/cem-4dgs"

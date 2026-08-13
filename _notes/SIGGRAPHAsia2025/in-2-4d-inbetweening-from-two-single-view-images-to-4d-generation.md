@@ -1,22 +1,21 @@
 ---
 title: "In-2-4D: Inbetweening from Two Single-View Images to 4D Generation"
 authors:
-  - Sauradip Nag
-  - Daniel Cohen-Or
-  - Hao Zhang
-  - Ali Mahdavi-Amiri
+  - "Sauradip Nag"
+  - "Daniel Cohen-Or"
+  - "Hao Zhang"
+  - "Ali Mahdavi-Amiri"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
-institution:
-  - Simon Fraser University
+source: "arxiv"
+institution: "Simon Fraser University"
 tags:
-  - 4D Generation
-  - Motion Inbetweening
-  - Video Diffusion Model
-  - Gaussian Splatting
-  - Deformation Field
-  - Frame Interpolation
+  - "4D Generation"
+  - "Motion Inbetweening"
+  - "Video Diffusion Model"
+  - "Gaussian Splatting"
+  - "Deformation Field"
+  - "Frame Interpolation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763904"
   project: "https://in-2-4d.github.io/"

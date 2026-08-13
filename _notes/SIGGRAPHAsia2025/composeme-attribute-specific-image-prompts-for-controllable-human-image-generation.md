@@ -1,26 +1,26 @@
 ---
 title: "ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation"
 authors:
-  - Guocheng Gordon Qian
-  - Daniil Ostashev
-  - Egor Nemchinov
-  - Avihay Assouline
-  - Sergey Tulyakov
-  - Kuan-Chieh Jackson Wang
-  - Kfir Aberman
-category: Neural & Generative
+  - "Guocheng Gordon Qian"
+  - "Daniil Ostashev"
+  - "Egor Nemchinov"
+  - "Avihay Assouline"
+  - "Sergey Tulyakov"
+  - "Kuan-Chieh Jackson Wang"
+  - "Kfir Aberman"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Snap Inc.
+source: "arxiv"
+institution: "Snap Inc."
 tags:
-  - Diffusion Model
-  - Image Personalization
-  - Human Image Generation
-  - Attribute Disentanglement
-  - Image Prompt
+  - "Diffusion Model"
+  - "Image Personalization"
+  - "Human Image Generation"
+  - "Attribute Disentanglement"
+  - "Image Prompt"
 links:
-  paper: https://doi.org/10.1145/3757377.3763984
-  project: https://snap-research.github.io/composeme/
+  paper: "https://doi.org/10.1145/3757377.3763984"
+  project: "https://snap-research.github.io/composeme/"
 ---
 
 ## 一句话总结

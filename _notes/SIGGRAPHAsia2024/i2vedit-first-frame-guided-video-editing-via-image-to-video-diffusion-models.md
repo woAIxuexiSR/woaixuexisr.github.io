@@ -1,23 +1,23 @@
 ---
 title: "I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models"
 authors:
-  - Wenqi Ouyang
-  - Yi Dong
-  - Lei Yang
-  - Jianlou Si
-  - Xingang Pan
-track: "Conference"
-source: arxiv
+  - "Wenqi Ouyang"
+  - "Yi Dong"
+  - "Lei Yang"
+  - "Jianlou Si"
+  - "Xingang Pan"
 category: "Image & Video"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Nanyang Technological University
-  - SenseTime Research
+  - "Nanyang Technological University"
+  - "SenseTime Research"
 tags:
-  - Video Editing
-  - Image-to-Video
-  - Diffusion Model
-  - Attention Matching
-  - LoRA
+  - "Video Editing"
+  - "Image-to-Video"
+  - "Diffusion Model"
+  - "Attention Matching"
+  - "LoRA"
 links:
   paper: "https://doi.org/10.1145/3680528.3687656"
   project: "https://i2vedit.github.io/"

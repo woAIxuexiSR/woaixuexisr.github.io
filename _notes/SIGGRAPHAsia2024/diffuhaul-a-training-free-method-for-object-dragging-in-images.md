@@ -1,26 +1,26 @@
 ---
 title: "DiffUHaul: A Training-Free Method for Object Dragging in Images"
 authors:
-  - Omri Avrahami
-  - Rinon Gal
-  - Gal Chechik
-  - Ohad Fried
-  - Dani Lischinski
-  - Arash Vahdat
-  - Weili Nie
-category: Image & Video
+  - "Omri Avrahami"
+  - "Rinon Gal"
+  - "Gal Chechik"
+  - "Ohad Fried"
+  - "Dani Lischinski"
+  - "Arash Vahdat"
+  - "Weili Nie"
+category: "Image & Video"
 track: "Conference"
-source: author-page
+source: "author-page"
 institution:
-  - NVIDIA
-  - The Hebrew University of Jerusalem
-  - Tel Aviv University
-  - Reichman University
+  - "NVIDIA"
+  - "The Hebrew University of Jerusalem"
+  - "Tel Aviv University"
+  - "Reichman University"
 tags:
-  - Object Dragging
-  - Image Editing
-  - Diffusion Model
-  - Training-Free
+  - "Object Dragging"
+  - "Image Editing"
+  - "Diffusion Model"
+  - "Training-Free"
 links:
   paper: "https://doi.org/10.1145/3680528.3687590"
   project: "https://omriavrahami.com/diffuhaul/"

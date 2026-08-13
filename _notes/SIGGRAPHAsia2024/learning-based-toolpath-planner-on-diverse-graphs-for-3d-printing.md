@@ -1,33 +1,33 @@
 ---
 title: "Learning Based Toolpath Planner on Diverse Graphs for 3D Printing"
 authors:
-  - Yuming Huang
-  - Yuhu Guo
-  - Renbo Su
-  - Xingjian Han
-  - Junhao Ding
-  - Tianyu Zhang
-  - Tao Liu
-  - Weiming Wang
-  - Guoxin Fang
-  - Xu Song
-  - Emily Whiting
-  - Charlie C. L. Wang
-track: "Journal"
-source: arxiv
+  - "Yuming Huang"
+  - "Yuhu Guo"
+  - "Renbo Su"
+  - "Xingjian Han"
+  - "Junhao Ding"
+  - "Tianyu Zhang"
+  - "Tao Liu"
+  - "Weiming Wang"
+  - "Guoxin Fang"
+  - "Xu Song"
+  - "Emily Whiting"
+  - "Charlie C. L. Wang"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - The University of Manchester
-  - Boston University
-  - The Chinese University of Hong Kong
+  - "The University of Manchester"
+  - "Boston University"
+  - "The Chinese University of Hong Kong"
 tags:
-  - Toolpath Planning
-  - 3D Printing
-  - Reinforcement Learning
-  - Deep Q Network
-  - Wire Frame
-  - Continuous Fiber
-  - Metal Printing
+  - "Toolpath Planning"
+  - "3D Printing"
+  - "Reinforcement Learning"
+  - "Deep Q Network"
+  - "Wire Frame"
+  - "Continuous Fiber"
+  - "Metal Printing"
 links:
   paper: "https://doi.org/10.1145/3687933"
   project: "https://rl-toolpath-planner.github.io/"

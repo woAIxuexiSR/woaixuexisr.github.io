@@ -1,23 +1,22 @@
 ---
 title: "Splat and Replace: 3D Reconstruction with Repetitive Elements"
 authors:
-  - Nicolás Violante
-  - Andreas Meuleman
-  - Alban Gauthier
-  - Frédo Durand
-  - Thibault Groueix
-  - George Drettakis
-track: "Conference"
-source: arxiv
+  - "Nicolás Violante"
+  - "Andreas Meuleman"
+  - "Alban Gauthier"
+  - "Frédo Durand"
+  - "Thibault Groueix"
+  - "George Drettakis"
 category: "Reconstruction"
-institution:
-  - Inria
+track: "Conference"
+source: "arxiv"
+institution: "Inria"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - 3D Segmentation
-  - 3D Registration
-  - Repetitive Elements
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "3D Segmentation"
+  - "3D Registration"
+  - "Repetitive Elements"
 links:
   paper: "https://doi.org/10.1145/3721238.3730727"
   project: "https://repo-sam.inria.fr/nerphys/splat-and-replace"

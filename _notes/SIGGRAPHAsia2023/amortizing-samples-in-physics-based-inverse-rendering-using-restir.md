@@ -1,23 +1,23 @@
 ---
 title: "Amortizing Samples in Physics-Based Inverse Rendering Using ReSTIR"
 authors:
-  - Yu-Chen Wang
-  - Chris Wyman
-  - Lifan Wu
-  - Shuang Zhao
-category: Rendering
-track: Journal
-source: author-page
-institution: University of California, Irvine
+  - "Yu-Chen Wang"
+  - "Chris Wyman"
+  - "Lifan Wu"
+  - "Shuang Zhao"
+category: "Rendering"
+track: "Journal"
+source: "author-page"
+institution: "University of California, Irvine"
 tags:
-  - Inverse Rendering
-  - Differentiable Rendering
-  - ReSTIR
-  - Monte Carlo
-  - Importance Sampling
+  - "Inverse Rendering"
+  - "Differentiable Rendering"
+  - "ReSTIR"
+  - "Monte Carlo"
+  - "Importance Sampling"
 links:
-  paper: https://doi.org/10.1145/3618331
-  project: https://research.nvidia.com/labs/rtr/publication/wang2023amortizing/
+  paper: "https://doi.org/10.1145/3618331"
+  project: "https://research.nvidia.com/labs/rtr/publication/wang2023amortizing/"
 ---
 
 ## 一句话总结

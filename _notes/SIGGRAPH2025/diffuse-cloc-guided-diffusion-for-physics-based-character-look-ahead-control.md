@@ -11,7 +11,7 @@ authors:
   - "Farbod Farshidian"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
   - "RAI Institute"
   - "University of California, Berkeley"

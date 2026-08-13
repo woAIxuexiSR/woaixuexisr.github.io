@@ -1,26 +1,26 @@
 ---
 title: "Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer"
 authors:
-  - Sigal Raab
-  - Inbar Gat
-  - Nathan Sala
-  - Guy Tevet
-  - Rotem Shalev-Arkushin
-  - Ohad Fried
-  - Amit Haim Bermano
-  - Daniel Cohen-Or
-track: "Conference"
-source: arxiv
+  - "Sigal Raab"
+  - "Inbar Gat"
+  - "Nathan Sala"
+  - "Guy Tevet"
+  - "Rotem Shalev-Arkushin"
+  - "Ohad Fried"
+  - "Amit Haim Bermano"
+  - "Daniel Cohen-Or"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tel Aviv University
-  - Reichman University
+  - "Tel Aviv University"
+  - "Reichman University"
 tags:
-  - Motion Diffusion
-  - Motion Transfer
-  - Self Attention
-  - Zero-Shot Editing
-  - Human Motion Synthesis
+  - "Motion Diffusion"
+  - "Motion Transfer"
+  - "Self Attention"
+  - "Zero-Shot Editing"
+  - "Human Motion Synthesis"
 links:
   paper: "https://doi.org/10.1145/3680528.3687579"
 ---

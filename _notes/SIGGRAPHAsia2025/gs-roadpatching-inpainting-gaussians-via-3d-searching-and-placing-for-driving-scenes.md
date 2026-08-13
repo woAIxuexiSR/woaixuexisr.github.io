@@ -1,25 +1,25 @@
 ---
 title: "GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes"
 authors:
-  - Guo Chen
-  - Jiarun Liu
-  - Sicong Du
-  - Chenming Wu
-  - Deqi Li
-  - Shi-Sheng Huang
-  - Guofeng Zhang
-  - Sheng Yang
-category: Reconstruction
+  - "Guo Chen"
+  - "Jiarun Liu"
+  - "Sicong Du"
+  - "Chenming Wu"
+  - "Deqi Li"
+  - "Shi-Sheng Huang"
+  - "Guofeng Zhang"
+  - "Sheng Yang"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: Beijing Normal University
+source: "arxiv"
+institution: "Beijing Normal University"
 tags:
-  - 3D Gaussian Splatting
-  - Scene Inpainting
-  - Driving Scenes
-  - Patch Matching
-  - Object Removal
-  - Novel View Synthesis
+  - "3D Gaussian Splatting"
+  - "Scene Inpainting"
+  - "Driving Scenes"
+  - "Patch Matching"
+  - "Object Removal"
+  - "Novel View Synthesis"
 links:
   paper: "https://doi.org/10.1145/3757377.3763892"
   project: "https://shanzhaguoo.github.io/GS-RoadPatching/"

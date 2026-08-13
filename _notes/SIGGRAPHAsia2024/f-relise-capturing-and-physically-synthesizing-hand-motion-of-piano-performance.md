@@ -1,23 +1,22 @@
 ---
 title: "FürElise: Capturing and Physically Synthesizing Hand Motion of Piano Performance"
 authors:
-  - Ruocheng Wang
-  - Pei Xu
-  - Haochen Shi
-  - Elizabeth Schumann
-  - C. Karen Liu
-track: "Conference"
-source: arxiv
+  - "Ruocheng Wang"
+  - "Pei Xu"
+  - "Haochen Shi"
+  - "Elizabeth Schumann"
+  - "C. Karen Liu"
 category: "Animation & Simulation"
-institution:
-  - Stanford University
+track: "Conference"
+source: "arxiv"
+institution: "Stanford University"
 tags:
-  - Hand Animation
-  - Physical Simulation
-  - Reinforcement Learning
-  - Diffusion Model
-  - Motion Capture Dataset
-  - Dexterous Manipulation
+  - "Hand Animation"
+  - "Physical Simulation"
+  - "Reinforcement Learning"
+  - "Diffusion Model"
+  - "Motion Capture Dataset"
+  - "Dexterous Manipulation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687703"
 ---

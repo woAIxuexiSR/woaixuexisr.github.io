@@ -1,26 +1,26 @@
 ---
 title: "Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment"
 authors:
-  - Hewen Xiao
-  - Xiuping Liu
-  - Hang Zhao
-  - Jian Liu
-  - Kai Xu
+  - "Hewen Xiao"
+  - "Xiuping Liu"
+  - "Hang Zhao"
+  - "Jian Liu"
+  - "Kai Xu"
 category: "Animation & Simulation"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution:
-  - Dalian University of Technology
-  - Wuhan University
-  - Shenyang University of Technology
-  - National University of Defense Technology
+  - "Dalian University of Technology"
+  - "Wuhan University"
+  - "Shenyang University of Technology"
+  - "National University of Defense Technology"
 tags:
-  - Robotic Gripper Design
-  - Dexterous Grasping
-  - Reinforcement Learning
-  - In-hand Manipulation
-  - Curriculum Learning
-  - Sim-to-Real
+  - "Robotic Gripper Design"
+  - "Dexterous Grasping"
+  - "Reinforcement Learning"
+  - "In-hand Manipulation"
+  - "Curriculum Learning"
+  - "Sim-to-Real"
 links:
   paper: "https://doi.org/10.1145/3730880"
   project: "https://github.com/siggraph-pin-pression-gripper/pin-pression-gripper-video"

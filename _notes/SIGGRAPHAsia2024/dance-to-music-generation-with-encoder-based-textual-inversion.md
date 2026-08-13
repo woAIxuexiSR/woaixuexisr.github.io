@@ -1,29 +1,29 @@
 ---
 title: "Dance-to-Music Generation with Encoder-based Textual Inversion"
 authors:
-  - Sifei Li
-  - Weiming Dong
-  - Yuxin Zhang
-  - Fan Tang
-  - Chongyang Ma
-  - Oliver Deussen
-  - Tong-Yee Lee
-  - Changsheng Xu
-track: "Conference"
-source: arxiv
+  - "Sifei Li"
+  - "Weiming Dong"
+  - "Yuxin Zhang"
+  - "Fan Tang"
+  - "Chongyang Ma"
+  - "Oliver Deussen"
+  - "Tong-Yee Lee"
+  - "Changsheng Xu"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Institute of Automation, CAS
-  - University of Chinese Academy of Sciences
-  - Kuaishou Technology
-  - University of Konstanz
-  - National Cheng-Kung University
+  - "Institute of Automation, CAS"
+  - "University of Chinese Academy of Sciences"
+  - "Kuaishou Technology"
+  - "University of Konstanz"
+  - "National Cheng-Kung University"
 tags:
-  - Dance-to-Music
-  - Textual Inversion
-  - Diffusion Model
-  - Text-to-Music
-  - Rhythm
+  - "Dance-to-Music"
+  - "Textual Inversion"
+  - "Diffusion Model"
+  - "Text-to-Music"
+  - "Rhythm"
 links:
   paper: "https://doi.org/10.1145/3680528.3687562"
 ---

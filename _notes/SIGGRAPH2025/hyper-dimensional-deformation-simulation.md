@@ -1,19 +1,19 @@
 ---
 title: "Hyper-Dimensional Deformation Simulation"
 authors:
-  - Alvin Shi
-  - Haomiao Wu
-  - Theodore Kim
-category: Animation & Simulation
+  - "Alvin Shi"
+  - "Haomiao Wu"
+  - "Theodore Kim"
+category: "Animation & Simulation"
 track: "Conference"
-source: author-page
-institution: Yale University
+source: "author-page"
+institution: "Yale University"
 tags:
-  - Physical Simulation
-  - N-Dimensional Physics
-  - Collision Detection
-  - Hyperelasticity
-  - Finite Element Method
+  - "Physical Simulation"
+  - "N-Dimensional Physics"
+  - "Collision Detection"
+  - "Hyperelasticity"
+  - "Finite Element Method"
 links:
   paper: "https://doi.org/10.1145/3721238.3730730"
   project: "https://alvin.pizza/hyperdimensional-deformation/"

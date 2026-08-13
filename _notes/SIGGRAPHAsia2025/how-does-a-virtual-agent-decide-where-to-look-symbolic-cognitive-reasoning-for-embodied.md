@@ -1,21 +1,20 @@
 ---
 title: "How Does a Virtual Agent Decide Where to Look? Symbolic Cognitive Reasoning for Embodied Head Rotation"
 authors:
-  - Juyeong Hwang
-  - Seong-Eun Hong
-  - JaeYoung Seon
-  - HyeongYeop Kang
+  - "Juyeong Hwang"
+  - "Seong-Eun Hong"
+  - "JaeYoung Seon"
+  - "HyeongYeop Kang"
+category: "HCI & XR"
 track: "Conference"
-source: arxiv
-category: HCI & XR
-institution:
-  - Korea University
+source: "arxiv"
+institution: "Korea University"
 tags:
-  - Virtual Agents
-  - Head Motion Prediction
-  - Vision Language Model
-  - Cognitive Reasoning
-  - Virtual Reality
+  - "Virtual Agents"
+  - "Head Motion Prediction"
+  - "Vision Language Model"
+  - "Cognitive Reasoning"
+  - "Virtual Reality"
 links:
   paper: "https://doi.org/10.1145/3757377.3763849"
 ---

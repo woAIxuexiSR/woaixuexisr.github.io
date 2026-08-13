@@ -1,26 +1,26 @@
 ---
 title: "MyTimeMachine: Personalized Facial Age Transformation"
 authors:
-  - Luchao Qi
-  - Jiaye Wu
-  - Bang Gong
-  - Annie N. Wang
-  - David W. Jacobs
-  - Roni Sengupta
-category: Neural & Generative
-track: Journal
-source: arxiv
-institution: University of North Carolina at Chapel Hill
+  - "Luchao Qi"
+  - "Jiaye Wu"
+  - "Bang Gong"
+  - "Annie N. Wang"
+  - "David W. Jacobs"
+  - "Roni Sengupta"
+category: "Neural & Generative"
+track: "Journal"
+source: "arxiv"
+institution: "University of North Carolina at Chapel Hill"
 tags:
-  - Age Transformation
-  - Face Aging
-  - Personalization
-  - StyleGAN
-  - Generative Models
-  - Video Re-aging
-  - Identity Preservation
+  - "Age Transformation"
+  - "Face Aging"
+  - "Personalization"
+  - "StyleGAN"
+  - "Generative Models"
+  - "Video Re-aging"
+  - "Identity Preservation"
 links:
-  paper: https://doi.org/10.1145/3731172
+  paper: "https://doi.org/10.1145/3731172"
 ---
 ## 一句话总结
 

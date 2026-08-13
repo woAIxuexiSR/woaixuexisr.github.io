@@ -1,25 +1,25 @@
 ---
 title: "Neural Kinematic Bases for Fluids"
 authors:
-  - Yibo Liu
-  - Zhixin Fang
-  - Sune Darkner
-  - Noam Aigerman
-  - Kenny Erleben
-  - Paul Kry
-  - Teseo Schneider
-category: Animation & Simulation
+  - "Yibo Liu"
+  - "Zhixin Fang"
+  - "Sune Darkner"
+  - "Noam Aigerman"
+  - "Kenny Erleben"
+  - "Paul Kry"
+  - "Teseo Schneider"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution: University of Victoria
+source: "arxiv"
+institution: "University of Victoria"
 tags:
-  - Fluid Simulation
-  - Neural Basis
-  - Reduced Order Model
-  - Real-Time Animation
-  - Physics-Informed Neural Network
+  - "Fluid Simulation"
+  - "Neural Basis"
+  - "Reduced Order Model"
+  - "Real-Time Animation"
+  - "Physics-Informed Neural Network"
 links:
-  paper: https://doi.org/10.1145/3757377.3763925
+  paper: "https://doi.org/10.1145/3757377.3763925"
 ---
 
 ## 一句话总结

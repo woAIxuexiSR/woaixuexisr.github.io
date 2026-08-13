@@ -1,29 +1,29 @@
 ---
 title: "MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis"
 authors:
-  - Yihao Zhi
-  - Chenghong Li
-  - Hongjie Liao
-  - Xihe Yang
-  - Zhengwentai Sun
-  - Jiahao Chang
-  - Xiaodong Cun
-  - Wensen Feng
-  - Xiaoguang Han
-category: Neural & Generative
+  - "Yihao Zhi"
+  - "Chenghong Li"
+  - "Hongjie Liao"
+  - "Xihe Yang"
+  - "Zhengwentai Sun"
+  - "Jiahao Chang"
+  - "Xiaodong Cun"
+  - "Wensen Feng"
+  - "Xiaoguang Han"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: The Chinese University of Hong Kong, Shenzhen
+source: "arxiv"
+institution: "The Chinese University of Hong Kong, Shenzhen"
 tags:
-  - Novel View Synthesis
-  - Video Diffusion Model
-  - Human Synthesis
-  - Multi-View Generation
-  - Depth Warping
+  - "Novel View Synthesis"
+  - "Video Diffusion Model"
+  - "Human Synthesis"
+  - "Multi-View Generation"
+  - "Depth Warping"
 links:
-  paper: https://doi.org/10.1145/3757377.3763935
-  project: https://github.com/zyhbili/MV-Performer
-  code: https://github.com/zyhbili/MV-Performer
+  paper: "https://doi.org/10.1145/3757377.3763935"
+  project: "https://github.com/zyhbili/MV-Performer"
+  code: "https://github.com/zyhbili/MV-Performer"
 ---
 
 ## 一句话总结

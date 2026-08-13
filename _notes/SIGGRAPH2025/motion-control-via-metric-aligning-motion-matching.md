@@ -1,20 +1,19 @@
 ---
 title: "Motion Control via Metric-Aligning Motion Matching"
 authors:
-  - Naoki Agata
-  - Takeo Igarashi
-category: Animation & Simulation
+  - "Naoki Agata"
+  - "Takeo Igarashi"
+category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
-institution:
-  - The University of Tokyo
+source: "arxiv"
+institution: "The University of Tokyo"
 tags:
-  - Motion Control
-  - Motion Alignment
-  - Optimal Transport
-  - Gromov-Wasserstein
-  - Motion Matching
-  - Character Animation
+  - "Motion Control"
+  - "Motion Alignment"
+  - "Optimal Transport"
+  - "Gromov-Wasserstein"
+  - "Motion Matching"
+  - "Character Animation"
 links:
   paper: "https://doi.org/10.1145/3721238.3730665"
 ---

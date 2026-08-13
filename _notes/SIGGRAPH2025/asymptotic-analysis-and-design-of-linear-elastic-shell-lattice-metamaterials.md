@@ -1,23 +1,23 @@
 ---
 title: "Asymptotic analysis and design of linear elastic shell lattice metamaterials"
 authors:
-  - Di Zhang
-  - Ligang Liu
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: University of Science and Technology of China
+  - "Di Zhang"
+  - "Ligang Liu"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - TPMS
-  - Shell Lattice
-  - Metamaterial
-  - Asymptotic Analysis
-  - Shape Optimization
-  - Homogenization
-  - Linear Elasticity
+  - "TPMS"
+  - "Shell Lattice"
+  - "Metamaterial"
+  - "Asymptotic Analysis"
+  - "Shape Optimization"
+  - "Homogenization"
+  - "Linear Elasticity"
 links:
-  paper: https://doi.org/10.1145/3730888
-  code: https://github.com/lavenklau/minisurf
+  paper: "https://doi.org/10.1145/3730888"
+  code: "https://github.com/lavenklau/minisurf"
 ---
 ## 一句话总结
 

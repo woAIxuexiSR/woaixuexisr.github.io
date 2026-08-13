@@ -1,23 +1,23 @@
 ---
 title: "MARS: Multi-sample Allocation through Russian roulette and Splitting"
 authors:
-  - Joshua Meyer
-  - Alexander Rath
-  - Ömercan Yazici
-  - Philipp Slusallek
+  - "Joshua Meyer"
+  - "Alexander Rath"
+  - "Ömercan Yazici"
+  - "Philipp Slusallek"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-category: Rendering
+source: "arxiv"
 institution:
-  - Saarland University
-  - German Research Center for Artificial Intelligence (DFKI)
+  - "Saarland University"
+  - "German Research Center for Artificial Intelligence (DFKI)"
 tags:
-  - Monte Carlo Rendering
-  - Russian Roulette
-  - Splitting
-  - Multiple Importance Sampling
-  - Path Guiding
-  - Bidirectional Path Tracing
+  - "Monte Carlo Rendering"
+  - "Russian Roulette"
+  - "Splitting"
+  - "Multiple Importance Sampling"
+  - "Path Guiding"
+  - "Bidirectional Path Tracing"
 links:
   paper: "https://doi.org/10.1145/3680528.3687636"
   code: "https://github.com/woshicado/mars"

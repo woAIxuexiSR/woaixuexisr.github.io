@@ -1,25 +1,25 @@
 ---
 title: "Generating Past and Future in Digital Painting Processes"
 authors:
-  - Lvmin Zhang
-  - Chuan Yan
-  - Yuwei Guo
-  - Jinbo Xing
-  - Maneesh Agrawala
-category: Neural & Generative
-track: Journal
-source: author-page
-institution: Stanford University
+  - "Lvmin Zhang"
+  - "Chuan Yan"
+  - "Yuwei Guo"
+  - "Jinbo Xing"
+  - "Maneesh Agrawala"
+category: "Neural & Generative"
+track: "Journal"
+source: "author-page"
+institution: "Stanford University"
 tags:
-  - Diffusion Models
-  - Video Diffusion
-  - Digital Painting
-  - Drawing Process Generation
-  - Generative Models
-  - Interactive Creation
+  - "Diffusion Models"
+  - "Video Diffusion"
+  - "Digital Painting"
+  - "Drawing Process Generation"
+  - "Generative Models"
+  - "Interactive Creation"
 links:
-  paper: https://doi.org/10.1145/3731160
-  project: https://lllyasviel.github.io/paints_alter_web/
+  paper: "https://doi.org/10.1145/3731160"
+  project: "https://lllyasviel.github.io/paints_alter_web/"
 ---
 ## 一句话总结
 

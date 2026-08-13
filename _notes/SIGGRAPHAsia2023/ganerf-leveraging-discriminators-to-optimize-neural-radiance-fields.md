@@ -1,24 +1,24 @@
 ---
 title: "GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields"
 authors:
-  - Barbara Roessle
-  - Norman Müller
-  - Lorenzo Porzi
-  - Samuel Rota Bulò
-  - Peter Kontschieder
-  - Matthias Nießner
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: Technical University of Munich
+  - "Barbara Roessle"
+  - "Norman Müller"
+  - "Lorenzo Porzi"
+  - "Samuel Rota Bulò"
+  - "Peter Kontschieder"
+  - "Matthias Nießner"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "Technical University of Munich"
 tags:
-  - NeRF
-  - Novel View Synthesis
-  - Generative Adversarial Network
-  - Neural Rendering
-  - 3D Reconstruction
+  - "NeRF"
+  - "Novel View Synthesis"
+  - "Generative Adversarial Network"
+  - "Neural Rendering"
+  - "3D Reconstruction"
 links:
-  paper: https://doi.org/10.1145/3618402
+  paper: "https://doi.org/10.1145/3618402"
 ---
 
 ## 一句话总结

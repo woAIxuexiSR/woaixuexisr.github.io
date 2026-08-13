@@ -1,26 +1,26 @@
 ---
 title: "Fine-Grained Spatially Varying Material Selection in Images"
 authors:
-  - Julia Guerrero-Viu
-  - Michael Fischer
-  - Iliyan Georgiev
-  - Elena Garces
-  - Diego Gutierrez
-  - Belen Masia
-  - Valentin Deschaintre
+  - "Julia Guerrero-Viu"
+  - "Michael Fischer"
+  - "Iliyan Georgiev"
+  - "Elena Garces"
+  - "Diego Gutierrez"
+  - "Belen Masia"
+  - "Valentin Deschaintre"
+category: "Image & Video"
 track: "Journal"
-source: arxiv
-category: Image & Video
+source: "arxiv"
 institution:
-  - Universidad de Zaragoza - I3A
-  - Adobe Research
+  - "Universidad de Zaragoza - I3A"
+  - "Adobe Research"
 tags:
-  - Material Selection
-  - Image Editing
-  - Vision Transformer
-  - DINOv2
-  - Multi-Resolution Features
-  - Synthetic Dataset
+  - "Material Selection"
+  - "Image Editing"
+  - "Vision Transformer"
+  - "DINOv2"
+  - "Multi-Resolution Features"
+  - "Synthetic Dataset"
 links:
   paper: "https://doi.org/10.1145/3763332"
 ---

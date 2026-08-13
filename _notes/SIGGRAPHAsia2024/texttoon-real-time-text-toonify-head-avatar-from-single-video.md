@@ -1,23 +1,23 @@
 ---
 title: "TextToon: Real-Time Text Toonify Head Avatar from Single Video"
 authors:
-  - Luchuan Song
-  - Lele Chen
-  - Celong Liu
-  - Pinxin Liu
-  - Chenliang Xu
-track: "Conference"
-source: arxiv
+  - "Luchuan Song"
+  - "Lele Chen"
+  - "Celong Liu"
+  - "Pinxin Liu"
+  - "Chenliang Xu"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - University of Rochester
-  - Bytedance
+  - "University of Rochester"
+  - "Bytedance"
 tags:
-  - Head Avatar
-  - 3D Gaussian Splatting
-  - Text-to-Image
-  - Stylization
-  - Real-Time Rendering
+  - "Head Avatar"
+  - "3D Gaussian Splatting"
+  - "Text-to-Image"
+  - "Stylization"
+  - "Real-Time Rendering"
 links:
   paper: "https://doi.org/10.1145/3680528.3687632"
 ---

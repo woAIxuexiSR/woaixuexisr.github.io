@@ -1,28 +1,28 @@
 ---
 title: "Trust-Region Eigenvalue Filtering for Projected Newton"
 authors:
-  - Honglin Chen
-  - Hsueh-Ti Derek Liu
-  - Alec Jacobson
-  - David I. W. Levin
-  - Changxi Zheng
-track: "Conference"
-source: arxiv
+  - "Honglin Chen"
+  - "Hsueh-Ti Derek Liu"
+  - "Alec Jacobson"
+  - "David I. W. Levin"
+  - "Changxi Zheng"
 category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Columbia University
-  - Roblox
-  - University of British Columbia
-  - University of Toronto
-  - Adobe Research
-  - NVIDIA
+  - "Columbia University"
+  - "Roblox"
+  - "University of British Columbia"
+  - "University of Toronto"
+  - "Adobe Research"
+  - "NVIDIA"
 tags:
-  - Projected Newton
-  - Trust Region
-  - Neo-Hookean
-  - Hyperelastic Simulation
-  - Eigenvalue Filtering
-  - Quasistatic Simulation
+  - "Projected Newton"
+  - "Trust Region"
+  - "Neo-Hookean"
+  - "Hyperelastic Simulation"
+  - "Eigenvalue Filtering"
+  - "Quasistatic Simulation"
 links:
   paper: "https://doi.org/10.1145/3680528.3687650"
 ---

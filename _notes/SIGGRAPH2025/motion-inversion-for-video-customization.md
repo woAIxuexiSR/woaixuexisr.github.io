@@ -1,28 +1,28 @@
 ---
 title: "Motion Inversion for Video Customization"
 authors:
-  - Luozhou Wang
-  - Ziyang Mai
-  - Guibao Shen
-  - Yixun Liang
-  - Xin Tao
-  - Pengfei Wan
-  - Di Zhang
-  - Yijun Li
-  - Ying-Cong Chen
+  - "Luozhou Wang"
+  - "Ziyang Mai"
+  - "Guibao Shen"
+  - "Yixun Liang"
+  - "Xin Tao"
+  - "Pengfei Wan"
+  - "Di Zhang"
+  - "Yijun Li"
+  - "Ying-Cong Chen"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - HKUST(GZ)
-  - Kuaishou Technology
-  - Adobe Research
+  - "HKUST(GZ)"
+  - "Kuaishou Technology"
+  - "Adobe Research"
 tags:
-  - Motion Customization
-  - Video Generation
-  - Diffusion Model
-  - Textual Inversion
-  - Temporal Attention
+  - "Motion Customization"
+  - "Video Generation"
+  - "Diffusion Model"
+  - "Textual Inversion"
+  - "Temporal Attention"
 links:
   paper: "https://doi.org/10.1145/3721238.3730735"
 ---

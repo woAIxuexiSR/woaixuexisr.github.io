@@ -1,27 +1,27 @@
 ---
 title: "3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes"
 authors:
-  - Nicolas Moënne-Loccoz
-  - Ashkan Mirzaei
-  - Or Perel
-  - Riccardo de Lutio
-  - Janick Martinez Esturo
-  - Gavriel State
-  - Sanja Fidler
-  - Nicholas Sharp
-  - Zan Gojcic
+  - "Nicolas Moënne-Loccoz"
+  - "Ashkan Mirzaei"
+  - "Or Perel"
+  - "Riccardo de Lutio"
+  - "Janick Martinez Esturo"
+  - "Gavriel State"
+  - "Sanja Fidler"
+  - "Nicholas Sharp"
+  - "Zan Gojcic"
+category: "Rendering"
 track: "Journal"
-source: arxiv
-category: Rendering
+source: "arxiv"
 institution:
-  - NVIDIA
-  - University of Toronto
+  - "NVIDIA"
+  - "University of Toronto"
 tags:
-  - Radiance Fields
-  - 3D Gaussian Splatting
-  - Ray Tracing
-  - Novel View Synthesis
-  - Differentiable Rendering
+  - "Radiance Fields"
+  - "3D Gaussian Splatting"
+  - "Ray Tracing"
+  - "Novel View Synthesis"
+  - "Differentiable Rendering"
 links:
   paper: "https://doi.org/10.1145/3687934"
   project: "https://gaussiantracer.github.io"

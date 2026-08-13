@@ -1,27 +1,27 @@
 ---
 title: "3D-Fixup: Advancing Photo Editing with 3D Priors"
 authors:
-  - Yen-Chi Cheng
-  - Krishna Kumar Singh
-  - Jae Shin Yoon
-  - Alexander G. Schwing
-  - Liang-Yan Gui
-  - Matheus Gadelha
-  - Paul Guerrero
-  - Nanxuan Zhao
-category: Image & Video
-track: Conference
-source: arxiv
-institution: University of Illinois Urbana-Champaign
+  - "Yen-Chi Cheng"
+  - "Krishna Kumar Singh"
+  - "Jae Shin Yoon"
+  - "Alexander G. Schwing"
+  - "Liang-Yan Gui"
+  - "Matheus Gadelha"
+  - "Paul Guerrero"
+  - "Nanxuan Zhao"
+category: "Image & Video"
+track: "Conference"
+source: "arxiv"
+institution: "University of Illinois Urbana-Champaign"
 tags:
-  - Image Editing
-  - 3D-Aware Editing
-  - Diffusion Model
-  - Image-to-3D
-  - 3D Priors
+  - "Image Editing"
+  - "3D-Aware Editing"
+  - "Diffusion Model"
+  - "Image-to-3D"
+  - "3D Priors"
 links:
-  paper: https://doi.org/10.1145/3721238.3730695
-  project: https://3dfixup.github.io/
+  paper: "https://doi.org/10.1145/3721238.3730695"
+  project: "https://3dfixup.github.io/"
 ---
 
 ## 一句话总结

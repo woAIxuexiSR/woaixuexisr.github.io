@@ -1,29 +1,29 @@
 ---
 title: "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians"
 authors:
-  - Weihang Liu
-  - Yuhui Zhong
-  - Yuke Li
-  - Xi Chen
-  - Jiadi Cui
-  - Honglong Zhang
-  - Lan Xu
-  - Xin Lou
-  - Yujiao Shi
-  - Jingyi Yu
-  - Yingliang Zhang
-category: Rendering
+  - "Weihang Liu"
+  - "Yuhui Zhong"
+  - "Yuke Li"
+  - "Xi Chen"
+  - "Jiadi Cui"
+  - "Honglong Zhang"
+  - "Lan Xu"
+  - "Xin Lou"
+  - "Yujiao Shi"
+  - "Jingyi Yu"
+  - "Yingliang Zhang"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: ShanghaiTech University
+source: "arxiv"
+institution: "ShanghaiTech University"
 tags:
-  - 3D Gaussian Splatting
-  - Urban Scene Rendering
-  - Proxy Mesh
-  - Hybrid Representation
-  - Real-Time Rendering
-  - Aerial Imagery
-  - Level Of Detail
+  - "3D Gaussian Splatting"
+  - "Urban Scene Rendering"
+  - "Proxy Mesh"
+  - "Hybrid Representation"
+  - "Real-Time Rendering"
+  - "Aerial Imagery"
+  - "Level Of Detail"
 links:
   paper: "https://doi.org/10.1145/3757377.3763866"
   project: "https://citygo-weihang.github.io/page/"

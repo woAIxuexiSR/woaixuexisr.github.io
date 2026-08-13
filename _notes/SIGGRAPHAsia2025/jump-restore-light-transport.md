@@ -1,24 +1,24 @@
 ---
 title: "Jump Restore Light Transport"
 authors:
-  - Sascha Holl
-  - Gurprit Singh
-  - Hans-Peter Seidel
+  - "Sascha Holl"
+  - "Gurprit Singh"
+  - "Hans-Peter Seidel"
+category: "Rendering"
 track: "Journal"
-source: arxiv
-category: Rendering
+source: "arxiv"
 institution:
-  - Max Planck Institute for Informatics
-  - Saarland University
-  - Advanced Micro Devices (AMD)
+  - "Max Planck Institute for Informatics"
+  - "Saarland University"
+  - "Advanced Micro Devices (AMD)"
 tags:
-  - Markov Chain Monte Carlo
-  - Light Transport Simulation
-  - Metropolis Hastings
-  - Continuous Time Markov Process
-  - Regeneration
-  - Global Discovery
-  - Rendering
+  - "Markov Chain Monte Carlo"
+  - "Light Transport Simulation"
+  - "Metropolis Hastings"
+  - "Continuous Time Markov Process"
+  - "Regeneration"
+  - "Global Discovery"
+  - "Rendering"
 links:
   paper: "https://doi.org/10.1145/3763286"
   project: "https://restore-light-transport.mpi-inf.mpg.de/"

@@ -1,31 +1,31 @@
 ---
 title: "In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation"
 authors:
-  - Yu Xu
-  - Fan Tang
-  - You Wu
-  - Lin Gao
-  - Oliver Deussen
-  - Hongbin Yan
-  - Jintao Li
-  - Juan Cao
-  - Tong-Yee Lee
+  - "Yu Xu"
+  - "Fan Tang"
+  - "You Wu"
+  - "Lin Gao"
+  - "Oliver Deussen"
+  - "Hongbin Yan"
+  - "Jintao Li"
+  - "Juan Cao"
+  - "Tong-Yee Lee"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-category: Neural & Generative
+source: "arxiv"
 institution:
-  - Institute of Computing Technology, Chinese Academy of Sciences
-  - University of Chinese Academy of Sciences
-  - University of Konstanz
-  - National Cheng-Kung University
+  - "Institute of Computing Technology, Chinese Academy of Sciences"
+  - "University of Chinese Academy of Sciences"
+  - "University of Konstanz"
+  - "National Cheng-Kung University"
 tags:
-  - Subject Insertion
-  - Image Customization
-  - In-Context Learning
-  - Diffusion Transformer
-  - Training-Free Editing
-  - Attention Manipulation
-  - Zero-Shot Generation
+  - "Subject Insertion"
+  - "Image Customization"
+  - "In-Context Learning"
+  - "Diffusion Transformer"
+  - "Training-Free Editing"
+  - "Attention Manipulation"
+  - "Zero-Shot Generation"
 links:
   paper: "https://doi.org/10.1145/3757377.3763820"
 ---

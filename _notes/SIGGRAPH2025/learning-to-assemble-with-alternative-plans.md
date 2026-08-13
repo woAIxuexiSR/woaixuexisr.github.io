@@ -1,29 +1,29 @@
 ---
 title: "Learning to Assemble with Alternative Plans"
 authors:
-  - Ziqi Wang
-  - Wenjun Liu
-  - Jingwen Wang
-  - Gabriel Vallat
-  - Fan Shi
-  - Stefana Parascho
-  - Maryam Kamgarpour
-category: Animation & Simulation
-track: Journal
-source: author-page
-institution: EPFL
+  - "Ziqi Wang"
+  - "Wenjun Liu"
+  - "Jingwen Wang"
+  - "Gabriel Vallat"
+  - "Fan Shi"
+  - "Stefana Parascho"
+  - "Maryam Kamgarpour"
+category: "Animation & Simulation"
+track: "Journal"
+source: "author-page"
+institution: "EPFL"
 tags:
-  - Assembly Sequence Planning
-  - Reinforcement Learning
-  - Robotic Assembly
-  - GPU-Accelerated Simulation
-  - Curriculum Learning
-  - Graph Attention Network
-  - Rigid Body Equilibrium
-  - Motion Planning
+  - "Assembly Sequence Planning"
+  - "Reinforcement Learning"
+  - "Robotic Assembly"
+  - "GPU-Accelerated Simulation"
+  - "Curriculum Learning"
+  - "Graph Attention Network"
+  - "Rigid Body Equilibrium"
+  - "Motion Planning"
 links:
-  paper: https://doi.org/10.1145/3730824
-  code: https://github.com/KIKI007/LearningToAssemble
+  paper: "https://doi.org/10.1145/3730824"
+  code: "https://github.com/KIKI007/LearningToAssemble"
 ---
 
 ## 一句话总结

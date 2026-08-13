@@ -1,20 +1,19 @@
 ---
 title: "Fast and Globally Consistent Normal Orientation based on the Winding Number Normal Consistency"
 authors:
-  - Siyou Lin
-  - Zuoqiang Shi
-  - Yebin Liu
-track: "Journal"
-source: arxiv
+  - "Siyou Lin"
+  - "Zuoqiang Shi"
+  - "Yebin Liu"
 category: "Geometry & Modeling"
-institution:
-  - Tsinghua University
+track: "Journal"
+source: "arxiv"
+institution: "Tsinghua University"
 tags:
-  - Normal Orientation
-  - Point Cloud
-  - Winding Number
-  - Surface Reconstruction
-  - Treecode
+  - "Normal Orientation"
+  - "Point Cloud"
+  - "Winding Number"
+  - "Surface Reconstruction"
+  - "Treecode"
 links:
   paper: "https://doi.org/10.1145/3687895"
   project: "https://jsnln.github.io/wnnc/index.html"

@@ -1,25 +1,25 @@
 ---
 title: "Differentiable Owen Scrambling"
 authors:
-  - Bastien Doignies
-  - David Coeurjolly
-  - Nicolas Bonneel
-  - Julie Digne
-  - Jean-Claude Iehl
-  - Victor Ostromoukhov
-track: "Journal"
-source: author-page
+  - "Bastien Doignies"
+  - "David Coeurjolly"
+  - "Nicolas Bonneel"
+  - "Julie Digne"
+  - "Jean-Claude Iehl"
+  - "Victor Ostromoukhov"
 category: "Rendering"
+track: "Journal"
+source: "author-page"
 institution:
-  - Université Claude Bernard Lyon 1
-  - CNRS
+  - "Université Claude Bernard Lyon 1"
+  - "CNRS"
 tags:
-  - Quasi Monte Carlo
-  - Owen Scrambling
-  - Low Discrepancy Sequence
-  - Sampling
-  - Automatic Differentiation
-  - Optimal Transport
+  - "Quasi Monte Carlo"
+  - "Owen Scrambling"
+  - "Low Discrepancy Sequence"
+  - "Sampling"
+  - "Automatic Differentiation"
+  - "Optimal Transport"
 links:
   paper: "https://doi.org/10.1145/3687764"
   code: "https://github.com/liris-origami/DifferentiableOwenScrambling"

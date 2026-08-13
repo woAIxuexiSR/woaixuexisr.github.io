@@ -1,23 +1,23 @@
 ---
 title: "Guiding-Based Importance Sampling for Walk on Stars"
 authors:
-  - Tianyu Huang
-  - Jingwang Ling
-  - Shuang Zhao
-  - Feng Xu
+  - "Tianyu Huang"
+  - "Jingwang Ling"
+  - "Shuang Zhao"
+  - "Feng Xu"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-category: Rendering
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - University of California, Irvine
+  - "Tsinghua University"
+  - "University of California, Irvine"
 tags:
-  - Monte Carlo PDE
-  - Walk On Stars
-  - Importance Sampling
-  - Path Guiding
-  - Variance Reduction
-  - Neural Field
+  - "Monte Carlo PDE"
+  - "Walk On Stars"
+  - "Importance Sampling"
+  - "Path Guiding"
+  - "Variance Reduction"
+  - "Neural Field"
 links:
   paper: "https://doi.org/10.1145/3721238.3730593"
 ---

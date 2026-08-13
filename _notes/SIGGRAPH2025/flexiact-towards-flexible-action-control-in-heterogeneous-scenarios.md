@@ -1,23 +1,23 @@
 ---
 title: "FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios"
 authors:
-  - Shiyi Zhang
-  - Junhao Zhuang
-  - Zhaoyang Zhang
-  - Ying Shan
-  - Yansong Tang
+  - "Shiyi Zhang"
+  - "Junhao Zhuang"
+  - "Zhaoyang Zhang"
+  - "Ying Shan"
+  - "Yansong Tang"
 category: "Image & Video"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - Tencent ARC Lab
+  - "Tsinghua University"
+  - "Tencent ARC Lab"
 tags:
-  - Action Transfer
-  - Video Generation
-  - Diffusion Model
-  - Image-to-Video
-  - Frequency-Aware Extraction
+  - "Action Transfer"
+  - "Video Generation"
+  - "Diffusion Model"
+  - "Image-to-Video"
+  - "Frequency-Aware Extraction"
 links:
   paper: "https://doi.org/10.1145/3721238.3730683"
 ---

@@ -1,19 +1,18 @@
 ---
 title: "Enhancing the Aesthetics of 3D Shapes via Reference-based Editing"
 authors:
-  - Minchan Chen
-  - Manfred Lau
-track: "Journal"
-source: author-page
+  - "Minchan Chen"
+  - "Manfred Lau"
 category: "Geometry & Modeling"
-institution:
-  - City University of Hong Kong
+track: "Journal"
+source: "author-page"
+institution: "City University of Hong Kong"
 tags:
-  - 3D Shape Aesthetics
-  - Reference-based Editing
-  - Neural Template
-  - Deformation
-  - Perception
+  - "3D Shape Aesthetics"
+  - "Reference-based Editing"
+  - "Neural Template"
+  - "Deformation"
+  - "Perception"
 links:
   paper: "https://doi.org/10.1145/3687954"
   project: "https://minchanchen.github.io/projects/enhancing_aesthetics.html"

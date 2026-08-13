@@ -5,7 +5,10 @@ authors:
   - "Daniel Holden"
 category: "Animation & Simulation"
 track: "Journal"
-source: ACM
+source: "ACM"
+institution:
+  - "Epic Games"
+  - "University of British Columbia"
 tags:
   - "Character Animation"
   - "Interactive Control"

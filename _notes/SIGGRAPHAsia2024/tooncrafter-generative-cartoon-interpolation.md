@@ -1,26 +1,26 @@
 ---
 title: "ToonCrafter: Generative Cartoon Interpolation"
 authors:
-  - Jinbo Xing
-  - Hanyuan Liu
-  - Menghan Xia
-  - Yong Zhang
-  - Xintao Wang
-  - Ying Shan
-  - Tien-Tsin Wong
+  - "Jinbo Xing"
+  - "Hanyuan Liu"
+  - "Menghan Xia"
+  - "Yong Zhang"
+  - "Xintao Wang"
+  - "Ying Shan"
+  - "Tien-Tsin Wong"
 category: "Neural & Generative"
 track: "Journal"
-source: author-page
+source: "author-page"
 institution:
-  - CUHK
-  - CityU
-  - Tencent AI Lab
+  - "CUHK"
+  - "CityU"
+  - "Tencent AI Lab"
 tags:
-  - Cartoon Interpolation
-  - Video Diffusion
-  - Image-to-Video
-  - Domain Adaptation
-  - Sketch Control
+  - "Cartoon Interpolation"
+  - "Video Diffusion"
+  - "Image-to-Video"
+  - "Domain Adaptation"
+  - "Sketch Control"
 links:
   paper: "https://doi.org/10.1145/3687761"
   project: "https://doubiiu.github.io/projects/ToonCrafter"

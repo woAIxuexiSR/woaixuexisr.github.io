@@ -1,23 +1,22 @@
 ---
 title: "ParSEL: Parameterized Shape Editing with Language"
 authors:
-  - Aditya Ganeshan
-  - Ryan Y. Huang
-  - Xianghao Xu
-  - R. Kenny Jones
-  - Daniel Ritchie
-track: "Journal"
-source: arxiv
+  - "Aditya Ganeshan"
+  - "Ryan Y. Huang"
+  - "Xianghao Xu"
+  - "R. Kenny Jones"
+  - "Daniel Ritchie"
 category: "Geometry & Modeling"
-institution:
-  - Brown University
+track: "Journal"
+source: "arxiv"
+institution: "Brown University"
 tags:
-  - Shape Editing
-  - Parametric Editing
-  - Large Language Model
-  - Computer Algebra Systems
-  - Neuro Symbolic
-  - Program Synthesis
+  - "Shape Editing"
+  - "Parametric Editing"
+  - "Large Language Model"
+  - "Computer Algebra Systems"
+  - "Neuro Symbolic"
+  - "Program Synthesis"
 links:
   paper: "https://doi.org/10.1145/3687922"
 ---

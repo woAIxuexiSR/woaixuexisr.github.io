@@ -1,29 +1,29 @@
 ---
 title: "VidPanos: Generative Panoramic Videos from Casual Panning Videos"
 authors:
-  - Jingwei Ma
-  - Erika Lu
-  - Roni Paiss
-  - Shiran Zada
-  - Aleksander Holynski
-  - Tali Dekel
-  - Brian Curless
-  - Michael Rubinstein
-  - Forrester Cole
-track: "Conference"
-source: arxiv
+  - "Jingwei Ma"
+  - "Erika Lu"
+  - "Roni Paiss"
+  - "Shiran Zada"
+  - "Aleksander Holynski"
+  - "Tali Dekel"
+  - "Brian Curless"
+  - "Michael Rubinstein"
+  - "Forrester Cole"
 category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Google DeepMind
-  - University of Washington
-  - UC Berkeley
-  - Weizmann Institute of Science
+  - "Google DeepMind"
+  - "University of Washington"
+  - "UC Berkeley"
+  - "Weizmann Institute of Science"
 tags:
-  - Video Panorama
-  - Video Completion
-  - Spatio-Temporal Extrapolation
-  - Generative Video Model
-  - Diffusion Model
+  - "Video Panorama"
+  - "Video Completion"
+  - "Spatio-Temporal Extrapolation"
+  - "Generative Video Model"
+  - "Diffusion Model"
 links:
   paper: "https://doi.org/10.1145/3680528.3687664"
 ---

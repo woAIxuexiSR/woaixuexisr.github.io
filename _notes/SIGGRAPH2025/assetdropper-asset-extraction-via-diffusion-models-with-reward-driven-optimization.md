@@ -1,26 +1,26 @@
 ---
 title: "AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization"
 authors:
-  - Lanjiong Li
-  - Guanhua Zhao
-  - Lingting Zhu
-  - Zeyu Cai
-  - Lequan Yu
-  - Jian Zhang
-  - Zeyu Wang
+  - "Lanjiong Li"
+  - "Guanhua Zhao"
+  - "Lingting Zhu"
+  - "Zeyu Cai"
+  - "Lequan Yu"
+  - "Jian Zhang"
+  - "Zeyu Wang"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - The Hong Kong University of Science and Technology
-  - Peking University
-  - The University of Hong Kong
+  - "The Hong Kong University of Science and Technology"
+  - "Peking University"
+  - "The University of Hong Kong"
 tags:
-  - Diffusion Model
-  - Asset Extraction
-  - Reward Model
-  - Synthetic Dataset
-  - Virtual Try-On
+  - "Diffusion Model"
+  - "Asset Extraction"
+  - "Reward Model"
+  - "Synthetic Dataset"
+  - "Virtual Try-On"
 links:
   paper: "https://doi.org/10.1145/3721238.3730731"
   project: "https://assetdropper.github.io/"

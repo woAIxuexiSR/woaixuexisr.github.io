@@ -1,31 +1,31 @@
 ---
 title: "CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling"
 authors:
-  - Yuze He
-  - Yanning Zhou
-  - Wang Zhao
-  - Jingwen Ye
-  - Yushi Bai
-  - Kaiwen Xiao
-  - Yong-Jin Liu
-  - Zhongqian Sun
-  - Wei Yang
-category: Neural & Generative
-track: Conference
-source: arxiv
+  - "Yuze He"
+  - "Yanning Zhou"
+  - "Wang Zhao"
+  - "Jingwen Ye"
+  - "Yushi Bai"
+  - "Kaiwen Xiao"
+  - "Yong-Jin Liu"
+  - "Zhongqian Sun"
+  - "Wei Yang"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - Tencent AIPD
+  - "Tsinghua University"
+  - "Tencent AIPD"
 tags:
-  - Anime Hairstyle
-  - 3D Hair Modeling
-  - Autoregressive Transformer
-  - Parametric Representation
-  - Generative Model
-  - Control Points
+  - "Anime Hairstyle"
+  - "3D Hair Modeling"
+  - "Autoregressive Transformer"
+  - "Parametric Representation"
+  - "Generative Model"
+  - "Control Points"
 links:
-  paper: https://doi.org/10.1145/3757377.3763912
-  project: https://hyzcluster.github.io/charm
+  paper: "https://doi.org/10.1145/3757377.3763912"
+  project: "https://hyzcluster.github.io/charm"
 ---
 
 ## 一句话总结

@@ -1,24 +1,24 @@
 ---
 title: "Animus3D: Text-driven 3D Animation via Motion Score Distillation"
 authors:
-  - Qi Sun
-  - Can Wang
-  - Jiaxiang Shang
-  - Wensen Feng
-  - Jing Liao
-category: Animation & Simulation
-track: Conference
-source: arxiv
-institution: City University of Hong Kong
+  - "Qi Sun"
+  - "Can Wang"
+  - "Jiaxiang Shang"
+  - "Wensen Feng"
+  - "Jing Liao"
+category: "Animation & Simulation"
+track: "Conference"
+source: "arxiv"
+institution: "City University of Hong Kong"
 tags:
-  - 3D Animation
-  - Score Distillation
-  - Video Diffusion
-  - Motion Field
-  - Gaussian Splatting
+  - "3D Animation"
+  - "Score Distillation"
+  - "Video Diffusion"
+  - "Motion Field"
+  - "Gaussian Splatting"
 links:
-  paper: https://doi.org/10.1145/3757377.3763916
-  project: https://qiisun.github.io/animus3d_page
+  paper: "https://doi.org/10.1145/3757377.3763916"
+  project: "https://qiisun.github.io/animus3d_page"
 ---
 
 ## 一句话总结

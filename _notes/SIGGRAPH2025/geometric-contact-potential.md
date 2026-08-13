@@ -1,24 +1,24 @@
 ---
 title: "Geometric Contact Potential"
 authors:
-  - Zizhou Huang
-  - Maxwell Paik
-  - Zachary Ferguson
-  - Daniele Panozzo
-  - Denis Zorin
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: New York University
+  - "Zizhou Huang"
+  - "Maxwell Paik"
+  - "Zachary Ferguson"
+  - "Daniele Panozzo"
+  - "Denis Zorin"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "New York University"
 tags:
-  - Contact Simulation
-  - Barrier Potential
-  - Finite Element Method
-  - Elastodynamics
-  - Frictional Contact
-  - Piecewise Smooth Surfaces
+  - "Contact Simulation"
+  - "Barrier Potential"
+  - "Finite Element Method"
+  - "Elastodynamics"
+  - "Frictional Contact"
+  - "Piecewise Smooth Surfaces"
 links:
-  paper: https://doi.org/10.1145/3731142
+  paper: "https://doi.org/10.1145/3731142"
 ---
 
 ## 一句话总结

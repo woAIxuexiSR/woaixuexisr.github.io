@@ -1,25 +1,25 @@
 ---
 title: "TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization"
 authors:
-  - Alexandre Binninger
-  - Ruben Wiersma
-  - Philipp Herholz
-  - Olga Sorkine-Hornung
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: ETH Zurich
+  - "Alexandre Binninger"
+  - "Ruben Wiersma"
+  - "Philipp Herholz"
+  - "Olga Sorkine-Hornung"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "ETH Zurich"
 tags:
-  - Isosurface Extraction
-  - Mesh Optimization
-  - Delaunay Triangulation
-  - Marching Tetrahedra
-  - Differentiable Rendering
-  - Multi-View Reconstruction
-  - Mesh Compression
+  - "Isosurface Extraction"
+  - "Mesh Optimization"
+  - "Delaunay Triangulation"
+  - "Marching Tetrahedra"
+  - "Differentiable Rendering"
+  - "Multi-View Reconstruction"
+  - "Mesh Compression"
 links:
-  paper: https://doi.org/10.1145/3730851
-  code: https://github.com/AlexandreBinninger/TetWeave
+  paper: "https://doi.org/10.1145/3730851"
+  code: "https://github.com/AlexandreBinninger/TetWeave"
 ---
 
 ## 一句话总结

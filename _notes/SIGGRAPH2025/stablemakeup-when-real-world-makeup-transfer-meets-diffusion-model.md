@@ -1,23 +1,23 @@
 ---
 title: "StableMakeup: When Real-World Makeup Transfer Meets Diffusion Model"
 authors:
-  - Yuxuan Zhang
-  - Yirui Yuan
-  - Yiren Song
-  - Jiaming Liu
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: Shanghai Jiao Tong University
+  - "Yuxuan Zhang"
+  - "Yirui Yuan"
+  - "Yiren Song"
+  - "Jiaming Liu"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "Shanghai Jiao Tong University"
 tags:
-  - Makeup Transfer
-  - Diffusion Model
-  - Image Generation
-  - Cross Attention
-  - Face Parsing
+  - "Makeup Transfer"
+  - "Diffusion Model"
+  - "Image Generation"
+  - "Cross Attention"
+  - "Face Parsing"
 links:
-  paper: https://doi.org/10.1145/3721238.3730702
-  code: https://github.com/Xiaojiu-z/Stable-Makeup
+  paper: "https://doi.org/10.1145/3721238.3730702"
+  code: "https://github.com/Xiaojiu-z/Stable-Makeup"
 ---
 
 ## 一句话总结

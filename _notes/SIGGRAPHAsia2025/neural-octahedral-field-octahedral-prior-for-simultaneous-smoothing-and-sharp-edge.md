@@ -1,23 +1,23 @@
 ---
 title: "Neural Octahedral Field: Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization"
 authors:
-  - Ruichen Zheng
-  - Tao Yu
-  - Ruizhen Hu
-track: "Journal"
-source: arxiv
+  - "Ruichen Zheng"
+  - "Tao Yu"
+  - "Ruizhen Hu"
 category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Tsinghua University
-  - Shenzhen University
+  - "Tsinghua University"
+  - "Shenzhen University"
 tags:
-  - Surface Reconstruction
-  - Point Cloud
-  - Neural Implicit Representation
-  - Signed Distance Field
-  - Octahedral Frame Field
-  - Sharp Edge Preservation
-  - Denoising
+  - "Surface Reconstruction"
+  - "Point Cloud"
+  - "Neural Implicit Representation"
+  - "Signed Distance Field"
+  - "Octahedral Frame Field"
+  - "Sharp Edge Preservation"
+  - "Denoising"
 links:
   paper: "https://doi.org/10.1145/3763362"
   code: "https://github.com/Ankbzpx/frame-field"

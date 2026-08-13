@@ -1,26 +1,26 @@
 ---
 title: "GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations"
 authors:
-  - Kartik Teotia
-  - Hyeongwoo Kim
-  - Pablo Garrido
-  - Marc Habermann
-  - Mohamed A. Elgharib
-  - Christian Theobalt
-track: "Journal"
-source: arxiv
+  - "Kartik Teotia"
+  - "Hyeongwoo Kim"
+  - "Pablo Garrido"
+  - "Marc Habermann"
+  - "Mohamed A. Elgharib"
+  - "Christian Theobalt"
 category: "Rendering"
+track: "Journal"
+source: "arxiv"
 institution:
-  - Max Planck Institute for Informatics
-  - Imperial College London
-  - Flawless AI
+  - "Max Planck Institute for Informatics"
+  - "Imperial College London"
+  - "Flawless AI"
 tags:
-  - 3D Gaussian Splatting
-  - Head Avatar
-  - Volumetric Rendering
-  - Neural Rendering
-  - Real-Time Rendering
-  - Coarse-to-Fine
+  - "3D Gaussian Splatting"
+  - "Head Avatar"
+  - "Volumetric Rendering"
+  - "Neural Rendering"
+  - "Real-Time Rendering"
+  - "Coarse-to-Fine"
 links:
   paper: "https://doi.org/10.1145/3687927"
 ---

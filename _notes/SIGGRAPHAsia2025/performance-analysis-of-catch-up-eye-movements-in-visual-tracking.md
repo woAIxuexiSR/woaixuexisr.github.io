@@ -1,20 +1,20 @@
 ---
 title: "Performance Analysis of Catch-Up Eye Movements in Visual Tracking"
 authors:
-  - Jenna Kang
-  - Budmonde Duinkharjav
-  - Niall L. Williams
-  - Qi Sun
-category: HCI & XR
+  - "Jenna Kang"
+  - "Budmonde Duinkharjav"
+  - "Niall L. Williams"
+  - "Qi Sun"
+category: "HCI & XR"
 track: "Conference"
-source: author-page
-institution: New York University
+source: "author-page"
+institution: "New York University"
 tags:
-  - Eye Movement
-  - Visual Tracking
-  - Perceptual Graphics
-  - Psychophysics
-  - Gaze Latency
+  - "Eye Movement"
+  - "Visual Tracking"
+  - "Perceptual Graphics"
+  - "Psychophysics"
+  - "Gaze Latency"
 links:
   paper: "https://doi.org/10.1145/3757377.3763837"
   project: "https://jennakangg.github.io/"

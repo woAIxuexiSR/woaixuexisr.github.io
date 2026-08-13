@@ -1,18 +1,18 @@
 ---
 title: "Occupancy-Based Dual Contouring"
 authors:
-  - Jisung Hwang
-  - Minhyuk Sung
-track: "Conference"
-source: arxiv
+  - "Jisung Hwang"
+  - "Minhyuk Sung"
 category: "Geometry & Modeling"
+track: "Conference"
+source: "arxiv"
 institution: "KAIST"
 tags:
-  - Dual Contouring
-  - Marching Cubes
-  - Occupancy Function
-  - Isosurface Extraction
-  - Mesh Reconstruction
+  - "Dual Contouring"
+  - "Marching Cubes"
+  - "Occupancy Function"
+  - "Isosurface Extraction"
+  - "Mesh Reconstruction"
 links:
   paper: "https://doi.org/10.1145/3680528.3687581"
 ---

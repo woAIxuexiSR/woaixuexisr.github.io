@@ -1,28 +1,28 @@
 ---
 title: "The Aging Multiverse: Generating Condition-Aware Facial Aging Tree via Training-Free Diffusion"
 authors:
-  - Bang Gong
-  - Luchao Qi
-  - Jiaye Wu
-  - Zhicheng Fu
-  - Chunbo Song
-  - David W. Jacobs
-  - John Nicholson
-  - Roni Sengupta
-category: Neural & Generative
-track: Conference
-source: arxiv
-institution: UNC Chapel Hill
+  - "Bang Gong"
+  - "Luchao Qi"
+  - "Jiaye Wu"
+  - "Zhicheng Fu"
+  - "Chunbo Song"
+  - "David W. Jacobs"
+  - "John Nicholson"
+  - "Roni Sengupta"
+category: "Neural & Generative"
+track: "Conference"
+source: "arxiv"
+institution: "UNC Chapel Hill"
 tags:
-  - Facial Aging
-  - Training-Free Diffusion
-  - Image Editing
-  - Rectified Flow
-  - Attention Control
-  - Identity Preservation
+  - "Facial Aging"
+  - "Training-Free Diffusion"
+  - "Image Editing"
+  - "Rectified Flow"
+  - "Attention Control"
+  - "Identity Preservation"
 links:
-  paper: https://doi.org/10.1145/3757377.3763988
-  project: https://agingmultiverse.github.io/
+  paper: "https://doi.org/10.1145/3757377.3763988"
+  project: "https://agingmultiverse.github.io/"
 ---
 
 ## 一句话总结

@@ -1,21 +1,20 @@
 ---
 title: "PDP: Physics-Based Character Animation via Diffusion Policy"
 authors:
-  - Takara Everest Truong
-  - Michael Piseno
-  - Zhaoming Xie
-  - C. Karen Liu
-track: "Conference"
-source: arxiv
+  - "Takara Everest Truong"
+  - "Michael Piseno"
+  - "Zhaoming Xie"
+  - "C. Karen Liu"
 category: "Animation & Simulation"
-institution:
-  - Stanford University
+track: "Conference"
+source: "arxiv"
+institution: "Stanford University"
 tags:
-  - Character Animation
-  - Reinforcement Learning
-  - Diffusion Model
-  - Behavior Cloning
-  - Motion Tracking
+  - "Character Animation"
+  - "Reinforcement Learning"
+  - "Diffusion Model"
+  - "Behavior Cloning"
+  - "Motion Tracking"
 links:
   paper: "https://doi.org/10.1145/3680528.3687683"
 ---

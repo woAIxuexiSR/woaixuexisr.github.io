@@ -1,25 +1,25 @@
 ---
 title: "Taming 3DGS: High-Quality Radiance Fields with Limited Resources"
 authors:
-  - Saswat Subhajyoti Mallick
-  - Rahul Goel
-  - Bernhard Kerbl
-  - Markus Steinberger
-  - Francisco Vicente Carrasco
-  - Fernando De la Torre
-category: Rendering
+  - "Saswat Subhajyoti Mallick"
+  - "Rahul Goel"
+  - "Bernhard Kerbl"
+  - "Markus Steinberger"
+  - "Francisco Vicente Carrasco"
+  - "Fernando De la Torre"
+category: "Rendering"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Carnegie Mellon University
-  - Graz University of Technology
-  - International Institute of Information Technology, Hyderabad
+  - "Carnegie Mellon University"
+  - "Graz University of Technology"
+  - "International Institute of Information Technology, Hyderabad"
 tags:
-  - 3D Gaussian Splatting
-  - Novel View Synthesis
-  - Radiance Fields
-  - Densification
-  - Rasterization
+  - "3D Gaussian Splatting"
+  - "Novel View Synthesis"
+  - "Radiance Fields"
+  - "Densification"
+  - "Rasterization"
 links:
   paper: "https://doi.org/10.1145/3680528.3687694"
   code: "https://github.com/nullptr81/3dgs-accel"

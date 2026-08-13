@@ -1,19 +1,19 @@
 ---
 title: "AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius"
 authors:
-  - Xinzhe Wang
-  - Ran Yi
-  - Lizhuang Ma
-category: Rendering
+  - "Xinzhe Wang"
+  - "Ran Yi"
+  - "Lizhuang Ma"
+category: "Rendering"
 track: "Conference"
-source: arxiv
-institution: Shanghai Jiao Tong University
+source: "arxiv"
+institution: "Shanghai Jiao Tong University"
 tags:
-  - 3D Gaussian Splatting
-  - Real-Time Rendering
-  - Novel View Synthesis
-  - Rasterization
-  - Bounding Box
+  - "3D Gaussian Splatting"
+  - "Real-Time Rendering"
+  - "Novel View Synthesis"
+  - "Rasterization"
+  - "Bounding Box"
 links:
   paper: "https://doi.org/10.1145/3680528.3687675"
 ---

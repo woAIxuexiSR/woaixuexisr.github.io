@@ -1,22 +1,22 @@
 ---
 title: "Nested Attention: Semantic-aware Attention Values for Concept Personalization"
 authors:
-  - Or Patashnik
-  - Rinon Gal
-  - Daniil Ostashev
-  - Sergey Tulyakov
-  - Kfir Aberman
-  - Daniel Cohen-Or
+  - "Or Patashnik"
+  - "Rinon Gal"
+  - "Daniil Ostashev"
+  - "Sergey Tulyakov"
+  - "Kfir Aberman"
+  - "Daniel Cohen-Or"
 category: "Neural & Generative"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution: "Tel Aviv University"
 tags:
-  - Diffusion Model
-  - Concept Personalization
-  - Cross-Attention
-  - Identity Preservation
-  - Text-to-Image
+  - "Diffusion Model"
+  - "Concept Personalization"
+  - "Cross-Attention"
+  - "Identity Preservation"
+  - "Text-to-Image"
 links:
   paper: "https://doi.org/10.1145/3721238.3730634"
 ---

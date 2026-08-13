@@ -1,25 +1,25 @@
 ---
 title: "LARM: A Large Articulated Object Reconstruction Model"
 authors:
-  - Sylvia Yuan
-  - Ruoxi Shi
-  - Xinyue Wei
-  - Xiaoshuai Zhang
-  - Hao Su
-  - Minghua Liu
-category: Reconstruction
+  - "Sylvia Yuan"
+  - "Ruoxi Shi"
+  - "Xinyue Wei"
+  - "Xiaoshuai Zhang"
+  - "Hao Su"
+  - "Minghua Liu"
+category: "Reconstruction"
 track: "Conference"
-source: arxiv
-institution: University of California San Diego
+source: "arxiv"
+institution: "University of California San Diego"
 tags:
-  - Articulated Objects
-  - 3D Reconstruction
-  - Novel View Synthesis
-  - Feedforward Model
-  - Transformer
+  - "Articulated Objects"
+  - "3D Reconstruction"
+  - "Novel View Synthesis"
+  - "Feedforward Model"
+  - "Transformer"
 links:
-  paper: https://doi.org/10.1145/3757377.3763844
-  project: https://sylviayuan-sy.github.io/larm-site/
+  paper: "https://doi.org/10.1145/3757377.3763844"
+  project: "https://sylviayuan-sy.github.io/larm-site/"
 ---
 
 ## 一句话总结

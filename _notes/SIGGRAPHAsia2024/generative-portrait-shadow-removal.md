@@ -1,24 +1,23 @@
 ---
 title: "Generative Portrait Shadow Removal"
 authors:
-  - Jae Shin Yoon
-  - Zhixin Shu
-  - Mengwei Ren
-  - Cecilia Zhang
-  - Yannick Hold-Geoffroy
-  - Krishna Kumar Singh
-  - He Zhang
-track: "Journal"
-source: arxiv
+  - "Jae Shin Yoon"
+  - "Zhixin Shu"
+  - "Mengwei Ren"
+  - "Cecilia Zhang"
+  - "Yannick Hold-Geoffroy"
+  - "Krishna Kumar Singh"
+  - "He Zhang"
 category: "Neural & Generative"
-institution:
-  - Adobe
+track: "Journal"
+source: "arxiv"
+institution: "Adobe"
 tags:
-  - Portrait Shadow Removal
-  - Diffusion Model
-  - Illumination Harmonization
-  - Generative Enhancement
-  - Compositional Training
+  - "Portrait Shadow Removal"
+  - "Diffusion Model"
+  - "Illumination Harmonization"
+  - "Generative Enhancement"
+  - "Compositional Training"
 links:
   paper: "https://doi.org/10.1145/3687903"
 ---

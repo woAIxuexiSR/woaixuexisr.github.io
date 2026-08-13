@@ -1,24 +1,24 @@
 ---
 title: "The Granule-In-Cell Method for Simulating Sand–Water Mixtures"
 authors:
-  - Yizao Tang
-  - Yuechen Zhu
-  - Xingyu Ni
-  - Baoquan Chen
-category: Animation & Simulation
-track: Journal
-source: arxiv
-institution: Peking University
+  - "Yizao Tang"
+  - "Yuechen Zhu"
+  - "Xingyu Ni"
+  - "Baoquan Chen"
+category: "Animation & Simulation"
+track: "Journal"
+source: "arxiv"
+institution: "Peking University"
 tags:
-  - Granule Fluid Simulation
-  - PIC DEM Coupling
-  - Multiphase Flow
-  - Eulerian Lagrangian Coupling
-  - Sand Water Mixture
-  - Volume Conservation
+  - "Granule Fluid Simulation"
+  - "PIC DEM Coupling"
+  - "Multiphase Flow"
+  - "Eulerian Lagrangian Coupling"
+  - "Sand Water Mixture"
+  - "Volume Conservation"
 links:
-  paper: https://doi.org/10.1145/3763279
-  arxiv: https://arxiv.org/abs/2504.00745
+  paper: "https://doi.org/10.1145/3763279"
+  arxiv: "https://arxiv.org/abs/2504.00745"
 ---
 
 ## 问题背景

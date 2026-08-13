@@ -1,29 +1,29 @@
 ---
 title: "Elastic Locomotion with Mixed Second-order Differentiation"
 authors:
-  - Siyuan Shen
-  - Tianjia Shao
-  - Kun Zhou
-  - Chenfanfu Jiang
-  - Sheldon Andrews
-  - Victor B. Zordan
-  - Yin Yang
+  - "Siyuan Shen"
+  - "Tianjia Shao"
+  - "Kun Zhou"
+  - "Chenfanfu Jiang"
+  - "Sheldon Andrews"
+  - "Victor B. Zordan"
+  - "Yin Yang"
 category: "Animation & Simulation"
 track: "Conference"
-source: arxiv
+source: "arxiv"
 institution:
-  - Zhejiang University
-  - UCLA
-  - École de Technologie Supérieure
-  - Roblox
-  - University of Utah
+  - "Zhejiang University"
+  - "UCLA"
+  - "École de Technologie Supérieure"
+  - "Roblox"
+  - "University of Utah"
 tags:
-  - Elastic Locomotion
-  - Soft Body Control
-  - Inverse Simulation
-  - Complex-Step Finite Difference
-  - Automatic Differentiation
-  - Newton's Method
+  - "Elastic Locomotion"
+  - "Soft Body Control"
+  - "Inverse Simulation"
+  - "Complex-Step Finite Difference"
+  - "Automatic Differentiation"
+  - "Newton's Method"
 links:
   paper: "https://doi.org/10.1145/3721238.3730685"
 ---

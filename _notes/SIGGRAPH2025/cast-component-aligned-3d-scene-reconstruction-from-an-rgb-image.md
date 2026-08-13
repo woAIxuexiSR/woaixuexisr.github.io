@@ -1,31 +1,31 @@
 ---
 title: "CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image"
 authors:
-  - Kaixin Yao
-  - Longwen Zhang
-  - Xinhao Yan
-  - Yan Zeng
-  - Qixuan Zhang
-  - Wei Yang
-  - Lan Xu
-  - Jiayuan Gu
-  - Jingyi Yu
-category: Reconstruction
-track: Journal
-source: arxiv
-institution: ShanghaiTech University
+  - "Kaixin Yao"
+  - "Longwen Zhang"
+  - "Xinhao Yan"
+  - "Yan Zeng"
+  - "Qixuan Zhang"
+  - "Wei Yang"
+  - "Lan Xu"
+  - "Jiayuan Gu"
+  - "Jingyi Yu"
+category: "Reconstruction"
+track: "Journal"
+source: "arxiv"
+institution: "ShanghaiTech University"
 tags:
-  - Single Image Scene Reconstruction
-  - 3D Generation
-  - Open-Vocabulary Reconstruction
-  - Pose Alignment
-  - Physical Plausibility
-  - Occlusion-Aware Generation
-  - Latent Diffusion
-  - SDF
+  - "Single Image Scene Reconstruction"
+  - "3D Generation"
+  - "Open-Vocabulary Reconstruction"
+  - "Pose Alignment"
+  - "Physical Plausibility"
+  - "Occlusion-Aware Generation"
+  - "Latent Diffusion"
+  - "SDF"
 links:
-  paper: https://doi.org/10.1145/3730841
-  project: https://arxiv.org/abs/2502.12894
+  paper: "https://doi.org/10.1145/3730841"
+  project: "https://arxiv.org/abs/2502.12894"
 ---
 
 ## 一句话总结

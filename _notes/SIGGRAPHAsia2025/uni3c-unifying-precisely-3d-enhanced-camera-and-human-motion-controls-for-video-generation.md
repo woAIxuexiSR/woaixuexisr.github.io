@@ -1,28 +1,28 @@
 ---
 title: "Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation"
 authors:
-  - ChenJie Cao
-  - JingKai Zhou
-  - ShiKai Li
-  - JingYun Liang
-  - ChaoHui Yu
-  - Fan Wang
-  - Yanwei Fu
-  - XiangYang Xue
-category: Neural & Generative
+  - "ChenJie Cao"
+  - "JingKai Zhou"
+  - "ShiKai Li"
+  - "JingYun Liang"
+  - "ChaoHui Yu"
+  - "Fan Wang"
+  - "Yanwei Fu"
+  - "XiangYang Xue"
+category: "Neural & Generative"
 track: "Conference"
-source: arxiv
-institution: Alibaba DAMO Academy
+source: "arxiv"
+institution: "Alibaba DAMO Academy"
 tags:
-  - Video Generation
-  - Camera Control
-  - Human Animation
-  - Diffusion Model
-  - Point Cloud
-  - 3D Priors
+  - "Video Generation"
+  - "Camera Control"
+  - "Human Animation"
+  - "Diffusion Model"
+  - "Point Cloud"
+  - "3D Priors"
 links:
-  paper: https://doi.org/10.1145/3757377.3763842
-  code: https://github.com/alibaba-damo-academy/Uni3C
+  paper: "https://doi.org/10.1145/3757377.3763842"
+  code: "https://github.com/alibaba-damo-academy/Uni3C"
 ---
 
 ## 一句话总结

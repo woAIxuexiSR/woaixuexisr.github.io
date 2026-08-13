@@ -1,21 +1,21 @@
 ---
 title: "Shape-for-Motion: Precise and Consistent Video Editing With 3D Proxy"
 authors:
-  - Yuhao Liu
-  - Tengfei Wang
-  - Fang Liu
-  - Zhenwei Wang
-  - Rynson W.H. Lau
-category: Image & Video
+  - "Yuhao Liu"
+  - "Tengfei Wang"
+  - "Fang Liu"
+  - "Zhenwei Wang"
+  - "Rynson W.H. Lau"
+category: "Image & Video"
 track: "Conference"
-source: arxiv
-institution: City University of Hong Kong
+source: "arxiv"
+institution: "City University of Hong Kong"
 tags:
-  - Video Editing
-  - 3D Proxy
-  - Diffusion Model
-  - Mesh Reconstruction
-  - Gaussian Splatting
+  - "Video Editing"
+  - "3D Proxy"
+  - "Diffusion Model"
+  - "Mesh Reconstruction"
+  - "Gaussian Splatting"
 links:
   paper: "https://doi.org/10.1145/3757377.3763816"
   project: "https://shapeformotion.github.io"

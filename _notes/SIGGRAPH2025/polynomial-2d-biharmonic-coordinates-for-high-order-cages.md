@@ -1,25 +1,25 @@
 ---
-title: Polynomial 2D Biharmonic Coordinates for High-order Cages
+title: "Polynomial 2D Biharmonic Coordinates for High-order Cages"
 authors:
-  - Shibo Liu
-  - Tielin Dai
-  - Ligang Liu
-  - Xiao-Ming Fu
-category: Geometry & Modeling
-track: Journal
-source: arxiv
-institution: University of Science and Technology of China
+  - "Shibo Liu"
+  - "Tielin Dai"
+  - "Ligang Liu"
+  - "Xiao-Ming Fu"
+category: "Geometry & Modeling"
+track: "Journal"
+source: "arxiv"
+institution: "University of Science and Technology of China"
 tags:
-  - Biharmonic Coordinates
-  - Cage-based Deformation
-  - High-order Cage
-  - Boundary Element Method
-  - Bezier Curve
-  - Barycentric Coordinates
-  - 2D Deformation
+  - "Biharmonic Coordinates"
+  - "Cage-based Deformation"
+  - "High-order Cage"
+  - "Boundary Element Method"
+  - "Bezier Curve"
+  - "Barycentric Coordinates"
+  - "2D Deformation"
 links:
-  paper: https://doi.org/10.1145/3730887
-  project: https://arxiv.org/abs/2501.15279
+  paper: "https://doi.org/10.1145/3730887"
+  project: "https://arxiv.org/abs/2501.15279"
 ---
 
 ## 一句话总结

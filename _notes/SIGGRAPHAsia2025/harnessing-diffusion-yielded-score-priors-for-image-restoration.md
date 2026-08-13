@@ -1,26 +1,26 @@
 ---
 title: "Harnessing Diffusion-Yielded Score Priors for Image Restoration"
 authors:
-  - Xinqi Lin
-  - Fanghua Yu
-  - Jinfan Hu
-  - Zhiyuan You
-  - Wu Shi
-  - Jimmy S. Ren
-  - Jinjin Gu
-  - Chao Dong
+  - "Xinqi Lin"
+  - "Fanghua Yu"
+  - "Jinfan Hu"
+  - "Zhiyuan You"
+  - "Wu Shi"
+  - "Jimmy S. Ren"
+  - "Jinjin Gu"
+  - "Chao Dong"
 category: "Image & Video"
 track: "Journal"
-source: arxiv
+source: "arxiv"
 institution: "Shenzhen Institute of Advanced Technology, CAS; University of Chinese Academy of Sciences; The Chinese University of Hong Kong; SenseTime Research; Hong Kong Metropolitan University; INSAIT, Sofia University; Shenzhen University of Advanced Technology"
 tags:
-  - Image Restoration
-  - Diffusion Model
-  - Generative Adversarial Network
-  - Score Prior
-  - Super Resolution
-  - Low Level Vision
-  - LoRA
+  - "Image Restoration"
+  - "Diffusion Model"
+  - "Generative Adversarial Network"
+  - "Score Prior"
+  - "Super Resolution"
+  - "Low Level Vision"
+  - "LoRA"
 links:
   paper: "https://doi.org/10.1145/3763346"
   project: "https://www.hypir.org/"
